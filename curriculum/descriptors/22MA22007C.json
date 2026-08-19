@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22MA22007C",
+  "course_code": "22MA22007C",
+  "course_name": "初等数论",
+  "resource_group_id": "exact-name-017641a0cb8f9678",
+  "physical_repository_id": "physical-course-fe2c9066eed55ac5",
+  "repo_id": "COURSES-FE2C9066EED5",
+  "record_ids": [
+    "REC-9FBB65C99FF6FE24"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/150_2022版_31_31126_数学与应用数学（中外合作）.toml#courses[46]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MA22007C.json",
+  "attachment_repo_id": "COURSES-FE2C9066EED5"
+}

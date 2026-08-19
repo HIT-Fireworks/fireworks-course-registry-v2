@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:CS33501",
+  "course_code": "CS33501",
+  "course_name": "计算机网络",
+  "resource_group_id": "name-family-38746af84ac5ac31",
+  "physical_repository_id": "physical-course-b50a73416163c717",
+  "repo_id": "22CS22011",
+  "record_ids": [
+    "REC-58C1574393578BAF"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/090_2022版_13B_13BE035_数据科学与大数据技术.toml#courses[4]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/CS33501.json",
+  "attachment_repo_id": "22CS22011"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22FL32265C",
+  "course_code": "22FL32265C",
+  "course_name": "俄语基础语法1",
+  "resource_group_id": "exact-name-2a55cb4a4cbb1c9b",
+  "physical_repository_id": "physical-course-b087a60ce3b1d33b",
+  "repo_id": "22FL32251C",
+  "record_ids": [
+    "REC-4716D24A3B4B0A21"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/142_2022版_27_27274_环境生态工程（鲍曼合作办学）.toml#courses[10]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22FL32265C.json",
+  "attachment_repo_id": "22FL32251C"
+}

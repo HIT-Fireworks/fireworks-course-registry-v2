@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22ES31005F",
+  "course_code": "22ES31005F",
+  "course_name": "聚变能源物理与工程",
+  "resource_group_id": "exact-name-81ea032fc236a155",
+  "physical_repository_id": "physical-course-fabc2915b57c2ea7",
+  "repo_id": "COURSES-FABC2915B57C",
+  "record_ids": [
+    "REC-4FED89C09038A982"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/016_2022版_04_04F025_核工程与核技术.toml#courses[5]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ES31005F.json",
+  "attachment_repo_id": "COURSES-FABC2915B57C"
+}

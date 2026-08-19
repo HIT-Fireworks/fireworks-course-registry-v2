@@ -1,0 +1,40 @@
+{
+  "descriptor_id": "course-code:22MA15027",
+  "course_code": "22MA15027",
+  "course_name": "概率论与数理统计E",
+  "resource_group_id": "probability-statistics",
+  "physical_repository_id": "physical-course-33af7db2100528bd",
+  "repo_id": "22MA15024",
+  "record_ids": [
+    "REC-2D91FED15D92DB78",
+    "REC-4BF7233FE764F3E4",
+    "REC-13C055B3F976CDB5",
+    "REC-53EDC7A43226254C",
+    "REC-60B216E20C48A8C8",
+    "REC-171AD80B9F74F537",
+    "REC-949530B4A72C1AA6",
+    "REC-A6F22FDAE20EA971",
+    "REC-AB6485333836B374",
+    "REC-AF7BD05A412531DE",
+    "REC-B8D98EF065B445C9",
+    "REC-FA0A7252A8BA0C48"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[49]",
+    "curriculum://hit-data/plans/058_2022版_09_09334_城市地下空间工程.toml#courses[25]",
+    "curriculum://hit-data/plans/059_2022版_09_09335_工程管理.toml#courses[29]",
+    "curriculum://hit-data/plans/060_2022版_09_09336_智能建造.toml#courses[29]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[132]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[133]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[134]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[135]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[136]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[137]",
+    "curriculum://hit-data/plans/095_2022版_12_12322_交通工程.toml#courses[24]",
+    "curriculum://hit-data/plans/096_2022版_12_12325_交通设备与控制工程.toml#courses[23]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MA15027.json",
+  "attachment_repo_id": "22MA15024"
+}

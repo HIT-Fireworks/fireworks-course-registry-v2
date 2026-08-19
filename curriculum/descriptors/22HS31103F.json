@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22HS31103F",
+  "course_code": "22HS31103F",
+  "course_name": "中国当代经济",
+  "resource_group_id": "name-family-67f940bc16911a21",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-13CBFC0760C0F1EC"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/174_2022版_35_35F164S_社会治理.toml#courses[6]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22HS31103F.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22MH22010",
+  "course_code": "22MH22010",
+  "course_name": "医学基础导论",
+  "resource_group_id": "exact-name-13bd10516b2aef4a",
+  "physical_repository_id": "physical-course-ce4133cbe869b5fe",
+  "repo_id": "COURSES-CE4133CBE869",
+  "record_ids": [
+    "REC-8E04F241AB43D0A9",
+    "REC-512649C76E504FA0",
+    "REC-B39C115247E140A5"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/178_2022版_37_370341_生物信息学.toml#courses[36]",
+    "curriculum://hit-data/plans/182_2022版_37_37521_智能医学工程.toml#courses[35]",
+    "curriculum://hit-data/plans/183_2022版_37_37522_生物医学科学.toml#courses[36]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MH22010.json",
+  "attachment_repo_id": "COURSES-CE4133CBE869"
+}

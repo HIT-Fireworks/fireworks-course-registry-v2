@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22AS31504",
+  "course_code": "22AS31504",
+  "course_name": "航天器轨道动力学",
+  "resource_group_id": "exact-name-f1644c70968c62ea",
+  "physical_repository_id": "physical-course-8c30cd8279559085",
+  "repo_id": "COURSES-8C30CD827955",
+  "record_ids": [
+    "REC-BED3BBE2D72A872A",
+    "REC-DB0E3F30D2D2C6AE",
+    "REC-FEB553E7E0F06D1A"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/101_2022版_01_01182_飞行器设计与工程.toml#courses[49]",
+    "curriculum://hit-data/plans/102_2022版_01_01183_飞行器环境与生命保障工程.toml#courses[47]",
+    "curriculum://hit-data/plans/105_2022版_01_01185_空间科学与技术.toml#courses[47]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS31504.json",
+  "attachment_repo_id": "COURSES-8C30CD827955"
+}

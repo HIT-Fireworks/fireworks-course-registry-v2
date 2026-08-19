@@ -1,0 +1,26 @@
+{
+  "descriptor_id": "course-code:22PH22016",
+  "course_code": "22PH22016",
+  "course_name": "专业基础实验",
+  "resource_group_id": "exact-name-af12c1d9f664ba84",
+  "physical_repository_id": "physical-course-946f2dca1f165881",
+  "repo_id": "COURSES-946F2DCA1F16",
+  "record_ids": [
+    "REC-0CE9F29565547A80",
+    "REC-7E8F174318D51105",
+    "REC-074ACE25617120F8",
+    "REC-9799E6F93372A324",
+    "REC-A6C713316AB79776"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/196_2022版_32_32111_应用物理学.toml#courses[39]",
+    "curriculum://hit-data/plans/197_2022版_32_32114_光电信息科学与工程.toml#courses[40]",
+    "curriculum://hit-data/plans/201_2022版_32_32SXS111061_应用物理学（+电气工程及其自动化双学士学位）.toml#courses[48]",
+    "curriculum://hit-data/plans/202_2022版_32_32SXS111086_应用物理学（+机器人工程双学士学位）.toml#courses[46]",
+    "curriculum://hit-data/plans/203_2022版_32_32SXS111214_应用物理学（+微电子科学与工程双学士学位）.toml#courses[50]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22PH22016.json",
+  "attachment_repo_id": "COURSES-946F2DCA1F16"
+}

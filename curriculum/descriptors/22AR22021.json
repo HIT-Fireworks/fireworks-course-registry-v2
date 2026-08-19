@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AR22021",
+  "course_code": "22AR22021",
+  "course_name": "摄影与镜头语言设计",
+  "resource_group_id": "exact-name-c19b8f6ac2feeeec",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-635BAEA1CEDC7D74"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/066_2022版_11B_11B304_数字媒体艺术.toml#courses[26]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR22021.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

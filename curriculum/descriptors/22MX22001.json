@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22MX22001",
+  "course_code": "22MX22001",
+  "course_name": "政治学概论",
+  "resource_group_id": "exact-name-34118952b363e7fb",
+  "physical_repository_id": "physical-course-c939a79f0c3a2bdb",
+  "repo_id": "COURSES-C939A79F0C3A",
+  "record_ids": [
+    "REC-FAFCFC5BF3055CEC"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/188_2022版_49_49E491_思想政治教育.toml#courses[0]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MX22001.json",
+  "attachment_repo_id": "COURSES-C939A79F0C3A"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EE22046",
+  "course_code": "22EE22046",
+  "course_name": "电路E",
+  "resource_group_id": "circuits-and-electronics",
+  "physical_repository_id": "physical-course-b2c702385929c267",
+  "repo_id": "22EE21002",
+  "record_ids": [
+    "REC-C198F9BFD403B3B4"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/096_2022版_12_12325_交通设备与控制工程.toml#courses[28]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EE22046.json",
+  "attachment_repo_id": "22EE21002"
+}

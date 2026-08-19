@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EI22311",
+  "course_code": "22EI22311",
+  "course_name": "信号处理A",
+  "resource_group_id": "exact-name-f94f417bdcf0595b",
+  "physical_repository_id": "physical-course-4ee11c9b7787224a",
+  "repo_id": "COURSES-4EE11C9B7787",
+  "record_ids": [
+    "REC-1069F693597ED75F"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/186_2022版_37_37SXS281056_生物技术（+智能测控工程双学士学位）.toml#courses[50]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EI22311.json",
+  "attachment_repo_id": "COURSES-4EE11C9B7787"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EN31110C",
+  "course_code": "22EN31110C",
+  "course_name": "工程制图(俄)",
+  "resource_group_id": "engineering-drawing",
+  "physical_repository_id": "physical-course-27735bdfcdc8219c",
+  "repo_id": "22ME21004",
+  "record_ids": [
+    "REC-717FC59443C73700"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/142_2022版_27_27274_环境生态工程（鲍曼合作办学）.toml#courses[39]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EN31110C.json",
+  "attachment_repo_id": "22ME21004"
+}

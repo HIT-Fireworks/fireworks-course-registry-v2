@@ -1,0 +1,26 @@
+{
+  "descriptor_id": "course-code:22ME22036F",
+  "course_code": "22ME22036F",
+  "course_name": "机械原理A",
+  "resource_group_id": "name-family-ceca34cff2e9afc6",
+  "physical_repository_id": "physical-course-4d939438443b248f",
+  "repo_id": "22ME22006",
+  "record_ids": [
+    "REC-1A2654440A7B97EC",
+    "REC-00751FAF39A1D6E4",
+    "REC-968EB481808BEA8C",
+    "REC-54547E6E12849452",
+    "REC-EB0CA0F9C0DFEE8D"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/008_2022版_02_02F081_机械设计制造及其自动化.toml#courses[0]",
+    "curriculum://hit-data/plans/009_2022版_02_02F083_飞行器制造工程.toml#courses[2]",
+    "curriculum://hit-data/plans/011_2022版_02_02F085_机械电子工程.toml#courses[0]",
+    "curriculum://hit-data/plans/012_2022版_02_02F086_机器人工程.toml#courses[2]",
+    "curriculum://hit-data/plans/013_2022版_02_02F087_智能制造工程.toml#courses[0]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ME22036F.json",
+  "attachment_repo_id": "22ME22006"
+}

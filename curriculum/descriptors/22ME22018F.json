@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22ME22018F",
+  "course_code": "22ME22018F",
+  "course_name": "机械工程材料及成形技术基础",
+  "resource_group_id": "exact-name-54d5bb2ca026f1e1",
+  "physical_repository_id": "physical-course-2411f69ee8975552",
+  "repo_id": "22ME22018F",
+  "record_ids": [
+    "REC-5108A306E908CF91"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/009_2022版_02_02F083_飞行器制造工程.toml#courses[0]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ME22018F.json",
+  "attachment_repo_id": "22ME22018F"
+}

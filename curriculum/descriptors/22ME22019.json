@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22ME22019",
+  "course_code": "22ME22019",
+  "course_name": "机械设计基础实验",
+  "resource_group_id": "exact-name-b79692f494a192bc",
+  "physical_repository_id": "physical-course-dff643133eef1410",
+  "repo_id": "COURSES-DFF643133EEF",
+  "record_ids": [
+    "REC-11074AB4B1C2EA36",
+    "REC-DFD54344AE2C6150"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/101_2022版_01_01182_飞行器设计与工程.toml#courses[45]",
+    "curriculum://hit-data/plans/105_2022版_01_01185_空间科学与技术.toml#courses[45]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ME22019.json",
+  "attachment_repo_id": "COURSES-DFF643133EEF"
+}

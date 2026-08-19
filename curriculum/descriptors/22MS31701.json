@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22MS31701",
+  "course_code": "22MS31701",
+  "course_name": "材料热力学与相变原理",
+  "resource_group_id": "phase-transformation",
+  "physical_repository_id": "physical-course-12af5bc572e71106",
+  "repo_id": "COURSES-12AF5BC572E7",
+  "record_ids": [
+    "REC-3595C098DF2D0B4E"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/030_2022版_03_03351_材料物理.toml#courses[40]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MS31701.json",
+  "attachment_repo_id": "COURSES-12AF5BC572E7"
+}

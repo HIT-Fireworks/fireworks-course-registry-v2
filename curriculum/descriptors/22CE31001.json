@@ -1,0 +1,24 @@
+{
+  "descriptor_id": "course-code:22CE31001",
+  "course_code": "22CE31001",
+  "course_name": "结构动力学",
+  "resource_group_id": "name-family-adaea56fdbb4144f",
+  "physical_repository_id": "physical-course-a03fcf1407f7e955",
+  "repo_id": "22AS31255",
+  "record_ids": [
+    "REC-3310DFB13DE9543C",
+    "REC-257795A45F2F2B54",
+    "REC-C6A4BE037178A590",
+    "REC-D8B57A225184B5A3"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[122]",
+    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[123]",
+    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[124]",
+    "curriculum://hit-data/plans/060_2022版_09_09336_智能建造.toml#courses[44]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CE31001.json",
+  "attachment_repo_id": "22AS31255"
+}

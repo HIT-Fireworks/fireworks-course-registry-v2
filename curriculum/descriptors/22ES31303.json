@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22ES31303",
+  "course_code": "22ES31303",
+  "course_name": "储能原理II",
+  "resource_group_id": "name-family-53c0bd38811a6abe",
+  "physical_repository_id": "physical-course-fabc2915b57c2ea7",
+  "repo_id": "COURSES-FABC2915B57C",
+  "record_ids": [
+    "REC-25263CC5F01C3E33",
+    "REC-D33E8F00A10C063C"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/021_2022版_04_04026_新能源科学与工程.toml#courses[54]",
+    "curriculum://hit-data/plans/023_2022版_04_04028_储能科学与工程.toml#courses[54]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ES31303.json",
+  "attachment_repo_id": "COURSES-FABC2915B57C"
+}

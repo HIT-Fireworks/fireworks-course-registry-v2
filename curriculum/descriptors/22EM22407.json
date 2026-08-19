@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22EM22407",
+  "course_code": "22EM22407",
+  "course_name": "工商管理学术写作",
+  "resource_group_id": "exact-name-7184135188311dbb",
+  "physical_repository_id": "physical-course-1a31c4fa9f17f929",
+  "repo_id": "COURSES-1A31C4FA9F17",
+  "record_ids": [
+    "REC-37738723763802AA",
+    "REC-A289684C3BA06705"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/204_2022版_60_60201_工商管理.toml#courses[56]",
+    "curriculum://hit-data/plans/208_2022版_60_60E201_工商管理.toml#courses[17]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM22407.json",
+  "attachment_repo_id": "COURSES-1A31C4FA9F17"
+}

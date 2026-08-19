@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22AS22801",
+  "course_code": "22AS22801",
+  "course_name": "集成电路先导理论课",
+  "resource_group_id": "exact-name-8988e1b3b95a2ca9",
+  "physical_repository_id": "physical-course-f9f586f6143c2230",
+  "repo_id": "22AS22801",
+  "record_ids": [
+    "REC-AE4EA2010AAC3E47",
+    "REC-FB6860FC46B36F05"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/110_2022版_01_01214_微电子科学与工程.toml#courses[33]",
+    "curriculum://hit-data/plans/203_2022版_32_32SXS111214_应用物理学（+微电子科学与工程双学士学位）.toml#courses[33]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS22801.json",
+  "attachment_repo_id": "22AS22801"
+}

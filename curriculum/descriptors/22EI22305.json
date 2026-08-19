@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EI22305",
+  "course_code": "22EI22305",
+  "course_name": "信号与系统B",
+  "resource_group_id": "signals-and-systems",
+  "physical_repository_id": "physical-course-163a6a5fce6b8e89",
+  "repo_id": "22EE22004F",
+  "record_ids": [
+    "REC-F6A6297AA1425A2A"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/108_2022版_01_01211_电子科学与技术.toml#courses[45]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EI22305.json",
+  "attachment_repo_id": "22EE22004F"
+}

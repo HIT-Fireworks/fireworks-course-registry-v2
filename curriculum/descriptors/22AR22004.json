@@ -1,0 +1,30 @@
+{
+  "descriptor_id": "course-code:22AR22004",
+  "course_code": "22AR22004",
+  "course_name": "建筑环境学概论",
+  "resource_group_id": "exact-name-c25c08123a7c805b",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-1A93430309645018",
+    "REC-6A667301EC77B4C1",
+    "REC-294DB314A082592C",
+    "REC-AE030193C2F9AF01",
+    "REC-BC217CF65324FD51",
+    "REC-D3DB140DB5D6E433",
+    "REC-FCC5CEF6A848186A"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/064_2022版_11B_11B082_工业设计.toml#courses[12]",
+    "curriculum://hit-data/plans/065_2022版_11B_11B262_建筑环境与能源应用工程.toml#courses[12]",
+    "curriculum://hit-data/plans/067_2022版_11B_11B341_建筑学.toml#courses[12]",
+    "curriculum://hit-data/plans/068_2022版_11B_11B345_城乡规划.toml#courses[12]",
+    "curriculum://hit-data/plans/069_2022版_11B_11B346_环境设计.toml#courses[12]",
+    "curriculum://hit-data/plans/070_2022版_11B_11B347_风景园林.toml#courses[12]",
+    "curriculum://hit-data/plans/071_2022版_11B_11B348_智慧建筑与建造.toml#courses[12]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR22004.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

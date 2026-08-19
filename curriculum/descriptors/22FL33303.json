@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22FL33303",
+  "course_code": "22FL33303",
+  "course_name": "毕业论文(设计)",
+  "resource_group_id": "exact-name-8db41f88b0b6c77e",
+  "physical_repository_id": "physical-course-2bcf14039c972840",
+  "repo_id": "22AR33001F",
+  "record_ids": [
+    "REC-8C454CCBC21B61E8"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/159_2022版_35_35153_日语.toml#courses[45]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22FL33303.json",
+  "attachment_repo_id": "22AR33001F"
+}

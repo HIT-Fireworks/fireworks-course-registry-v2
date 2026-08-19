@@ -1,0 +1,24 @@
+{
+  "descriptor_id": "course-code:22CC22019",
+  "course_code": "22CC22019",
+  "course_name": "化学基础实验B",
+  "resource_group_id": "name-family-3e7f9c5016981e94",
+  "physical_repository_id": "physical-course-5af3514cbd507387",
+  "repo_id": "COURSES-5AF3514CBD50",
+  "record_ids": [
+    "REC-1AE8842E2529CF9B",
+    "REC-C7C1E4F3940FA315",
+    "REC-C83FB662AD776D2B",
+    "REC-EB032B438147279C"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/117_2022版_25_25078_应用化学.toml#courses[36]",
+    "curriculum://hit-data/plans/119_2022版_25_25141_高分子材料与工程.toml#courses[39]",
+    "curriculum://hit-data/plans/120_2022版_25_25142_化学工程与工艺.toml#courses[36]",
+    "curriculum://hit-data/plans/121_2022版_25_25147_新能源材料与器件.toml#courses[36]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC22019.json",
+  "attachment_repo_id": "COURSES-5AF3514CBD50"
+}

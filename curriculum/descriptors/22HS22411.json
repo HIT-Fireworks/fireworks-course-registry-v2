@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22HS22411",
+  "course_code": "22HS22411",
+  "course_name": "高级口语",
+  "resource_group_id": "exact-name-392050adce81a10e",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-F35E68EF50431408"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/163_2022版_35_35163_汉语言文学.toml#courses[28]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22HS22411.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

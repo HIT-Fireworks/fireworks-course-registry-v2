@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EN31033",
+  "course_code": "22EN31033",
+  "course_name": "生态环境应急管理",
+  "resource_group_id": "exact-name-c56bf52fc073d841",
+  "physical_repository_id": "physical-course-5c54c9a8516594fa",
+  "repo_id": "COURSES-5C54C9A85165",
+  "record_ids": [
+    "REC-9760991A112FB5CB"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/141_2022版_27_27273_环境生态工程.toml#courses[56]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EN31033.json",
+  "attachment_repo_id": "COURSES-5C54C9A85165"
+}

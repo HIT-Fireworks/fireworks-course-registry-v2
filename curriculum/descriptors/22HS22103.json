@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22HS22103",
+  "course_code": "22HS22103",
+  "course_name": "社会学概论",
+  "resource_group_id": "name-family-5423d06a0b6c72e0",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-4AD766D4560DB05A",
+    "REC-51DF0671C44626CA",
+    "REC-975C0B625D0C70F0"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/162_2022版_35_35161_社会学.toml#courses[5]",
+    "curriculum://hit-data/plans/176_2022版_35_35SXS161101_社会学（+信息管理与信息系统双学士学位）.toml#courses[6]",
+    "curriculum://hit-data/plans/177_2022版_35_35SXS161103_社会学（+大数据管理与应用双学士学位）.toml#courses[6]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22HS22103.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

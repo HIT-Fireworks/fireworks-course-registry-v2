@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EE22045C",
+  "course_code": "22EE22045C",
+  "course_name": "电工与电子技术实验F",
+  "resource_group_id": "name-family-8f520fb3fbfcd4d7",
+  "physical_repository_id": "physical-course-5fe85642c65e9d97",
+  "repo_id": "22EE22029",
+  "record_ids": [
+    "REC-FAFFA89FDC2A2DB3"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/198_2022版_32_32115_应用物理学（中外合作）.toml#courses[51]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EE22045C.json",
+  "attachment_repo_id": "22EE22029"
+}

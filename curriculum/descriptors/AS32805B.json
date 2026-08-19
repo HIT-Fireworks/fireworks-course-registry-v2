@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:AS32805B",
+  "course_code": "AS32805B",
+  "course_name": "模拟集成电路设计基础(双语)",
+  "resource_group_id": "course-family-4dc8170c51c939cb",
+  "physical_repository_id": "physical-course-e950c0f4dd3f760b",
+  "repo_id": "22AS31805B",
+  "record_ids": [
+    "REC-D211912FFE21880F"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/112_2022版_01_01E214_微电子科学与工程.toml#courses[5]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/AS32805B.json",
+  "attachment_repo_id": "22AS31805B"
+}

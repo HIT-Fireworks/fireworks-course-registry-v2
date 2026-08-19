@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AR22003F",
+  "course_code": "22AR22003F",
+  "course_name": "数据挖掘与能源智慧管理",
+  "resource_group_id": "exact-name-80890bf0777b829a",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-32CDD6460E5B4D9E"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/074_2022版_11B_11BF263S_城市智慧能源网.toml#courses[2]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR22003F.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

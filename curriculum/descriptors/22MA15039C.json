@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22MA15039C",
+  "course_code": "22MA15039C",
+  "course_name": "数学分析(1)",
+  "resource_group_id": "mathematical-analysis",
+  "physical_repository_id": "physical-course-bf2b3dea250dd028",
+  "repo_id": "22MA15015",
+  "record_ids": [
+    "REC-BFAF3A8404F09CAB"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/198_2022版_32_32115_应用物理学（中外合作）.toml#courses[6]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MA15039C.json",
+  "attachment_repo_id": "22MA15015"
+}

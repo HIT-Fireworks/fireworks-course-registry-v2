@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22IS22001",
+  "course_code": "22IS22001",
+  "course_name": "电路与信号处理(1)",
+  "resource_group_id": "name-family-fe69d5f02d878b65",
+  "physical_repository_id": "physical-course-2c608f332ac553b6",
+  "repo_id": "COURSES-2C608F332AC5",
+  "record_ids": [
+    "REC-00DAD812839E3640",
+    "REC-50185E8181F54F9F",
+    "REC-BD7FE8AB935129A9"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/190_2022版_28_28011_测控技术与仪器.toml#courses[23]",
+    "curriculum://hit-data/plans/191_2022版_28_28014_精密仪器.toml#courses[23]",
+    "curriculum://hit-data/plans/192_2022版_28_28015_智能感知工程.toml#courses[23]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22IS22001.json",
+  "attachment_repo_id": "COURSES-2C608F332AC5"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22PH32004C",
+  "course_code": "22PH32004C",
+  "course_name": "圣彼得堡国立大学及俄罗斯文化",
+  "resource_group_id": "exact-name-b2de93de0d9e637d",
+  "physical_repository_id": "physical-course-946f2dca1f165881",
+  "repo_id": "COURSES-946F2DCA1F16",
+  "record_ids": [
+    "REC-09244922E9B92D23"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/198_2022版_32_32115_应用物理学（中外合作）.toml#courses[49]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22PH32004C.json",
+  "attachment_repo_id": "COURSES-946F2DCA1F16"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CC31004",
+  "course_code": "22CC31004",
+  "course_name": "高分子材料分析表征技术",
+  "resource_group_id": "exact-name-238634a2b0998242",
+  "physical_repository_id": "physical-course-5af3514cbd507387",
+  "repo_id": "COURSES-5AF3514CBD50",
+  "record_ids": [
+    "REC-5D95D51BFFDA5602"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/119_2022版_25_25141_高分子材料与工程.toml#courses[54]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC31004.json",
+  "attachment_repo_id": "COURSES-5AF3514CBD50"
+}

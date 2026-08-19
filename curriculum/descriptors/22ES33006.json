@@ -1,0 +1,28 @@
+{
+  "descriptor_id": "course-code:22ES33006",
+  "course_code": "22ES33006",
+  "course_name": "毕业论文(设计)",
+  "resource_group_id": "exact-name-8db41f88b0b6c77e",
+  "physical_repository_id": "physical-course-2bcf14039c972840",
+  "repo_id": "22AR33001F",
+  "record_ids": [
+    "REC-46C8CFEEF5CBE584",
+    "REC-88FB2325B5B264E8",
+    "REC-6633DD511532A1D9",
+    "REC-7501E39FB83EE244",
+    "REC-B603D14DCFDD7D0C",
+    "REC-FC498EB47729686A"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/018_2022版_04_04022_飞行器动力工程.toml#courses[61]",
+    "curriculum://hit-data/plans/019_2022版_04_04024_能源与动力工程.toml#courses[56]",
+    "curriculum://hit-data/plans/020_2022版_04_04025_核工程与核技术.toml#courses[60]",
+    "curriculum://hit-data/plans/021_2022版_04_04026_新能源科学与工程.toml#courses[63]",
+    "curriculum://hit-data/plans/022_2022版_04_04027_飞行器动力工程（莫航联培班）.toml#courses[72]",
+    "curriculum://hit-data/plans/023_2022版_04_04028_储能科学与工程.toml#courses[63]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ES33006.json",
+  "attachment_repo_id": "22AR33001F"
+}

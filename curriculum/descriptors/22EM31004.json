@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22EM31004",
+  "course_code": "22EM31004",
+  "course_name": "系统分析与设计",
+  "resource_group_id": "exact-name-d5e76bbceb679a22",
+  "physical_repository_id": "physical-course-40ec33a34edb4d1e",
+  "repo_id": "22EM31004",
+  "record_ids": [
+    "REC-363D2059DC7BA3B0",
+    "REC-D0B0B0FC647820C7"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/046_2022版_07_07101_信息管理与信息系统.toml#courses[49]",
+    "curriculum://hit-data/plans/176_2022版_35_35SXS161101_社会学（+信息管理与信息系统双学士学位）.toml#courses[41]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM31004.json",
+  "attachment_repo_id": "22EM31004"
+}

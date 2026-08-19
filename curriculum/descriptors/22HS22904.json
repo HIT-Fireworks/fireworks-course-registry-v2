@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22HS22904",
+  "course_code": "22HS22904",
+  "course_name": "社区治理:理论与数字化前沿",
+  "resource_group_id": "exact-name-6001a2ac9795589a",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-2AE6A42420722504",
+    "REC-301E24CBFC18FB4D"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/176_2022版_35_35SXS161101_社会学（+信息管理与信息系统双学士学位）.toml#courses[43]",
+    "curriculum://hit-data/plans/177_2022版_35_35SXS161103_社会学（+大数据管理与应用双学士学位）.toml#courses[44]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22HS22904.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

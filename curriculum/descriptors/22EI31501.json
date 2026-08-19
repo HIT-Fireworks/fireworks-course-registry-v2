@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EI31501",
+  "course_code": "22EI31501",
+  "course_name": "电子测量原理",
+  "resource_group_id": "exact-name-21455e7e38c572b2",
+  "physical_repository_id": "physical-course-2656a175b646c69d",
+  "repo_id": "COURSES-2656A175B646",
+  "record_ids": [
+    "REC-B03CE8201FA095A2"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/133_2022版_20_20056_智能测控工程.toml#courses[44]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EI31501.json",
+  "attachment_repo_id": "COURSES-2656A175B646"
+}

@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22AS22901",
+  "course_code": "22AS22901",
+  "course_name": "应用光学",
+  "resource_group_id": "exact-name-0afba1e579eaa7da",
+  "physical_repository_id": "physical-course-8c30cd8279559085",
+  "repo_id": "COURSES-8C30CD827955",
+  "record_ids": [
+    "REC-236B468560B5E594",
+    "REC-5947B9331723B93F"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/108_2022版_01_01211_电子科学与技术.toml#courses[23]",
+    "curriculum://hit-data/plans/109_2022版_01_01213_光电信息科学与工程(光学工程方向).toml#courses[23]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS22901.json",
+  "attachment_repo_id": "COURSES-8C30CD827955"
+}

@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22CE31002",
+  "course_code": "22CE31002",
+  "course_name": "混凝土结构基本原理A",
+  "resource_group_id": "course-family-559a305dd7b229e8",
+  "physical_repository_id": "physical-course-b8079c4567d697cd",
+  "repo_id": "COURSES-B8079C4567D6",
+  "record_ids": [
+    "REC-6B6D8855C5781D48",
+    "REC-61C4A4C5EE4CD143"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[125]",
+    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[126]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CE31002.json",
+  "attachment_repo_id": "COURSES-B8079C4567D6"
+}

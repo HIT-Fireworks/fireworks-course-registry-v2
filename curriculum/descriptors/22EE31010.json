@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EE31010",
+  "course_code": "22EE31010",
+  "course_name": "嵌入式系统原理及应用B",
+  "resource_group_id": "name-family-1238181a4c78b395",
+  "physical_repository_id": "physical-course-5fa2c04d659d67c8",
+  "repo_id": "22EE31001",
+  "record_ids": [
+    "REC-A4FFC7A4808EAAD8"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/201_2022版_32_32SXS111061_应用物理学（+电气工程及其自动化双学士学位）.toml#courses[52]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EE31010.json",
+  "attachment_repo_id": "22EE31001"
+}

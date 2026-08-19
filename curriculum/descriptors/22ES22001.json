@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22ES22001",
+  "course_code": "22ES22001",
+  "course_name": "核科学与技术导论",
+  "resource_group_id": "exact-name-07efd17dce8d439d",
+  "physical_repository_id": "physical-course-fabc2915b57c2ea7",
+  "repo_id": "COURSES-FABC2915B57C",
+  "record_ids": [
+    "REC-C52EC22FB8684C09"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/020_2022版_04_04025_核工程与核技术.toml#courses[3]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ES22001.json",
+  "attachment_repo_id": "COURSES-FABC2915B57C"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22HS22284",
+  "course_code": "22HS22284",
+  "course_name": "计量经济学A",
+  "resource_group_id": "name-family-8929c9798e94aef8",
+  "physical_repository_id": "physical-course-2424c82672e35d09",
+  "repo_id": "22EM22901F",
+  "record_ids": [
+    "REC-4B0C12908E8863EF"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/168_2022版_35_35E232_经济学.toml#courses[3]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22HS22284.json",
+  "attachment_repo_id": "22EM22901F"
+}

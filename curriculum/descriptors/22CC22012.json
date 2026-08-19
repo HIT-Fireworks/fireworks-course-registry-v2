@@ -1,0 +1,26 @@
+{
+  "descriptor_id": "course-code:22CC22012",
+  "course_code": "22CC22012",
+  "course_name": "材料科学基础",
+  "resource_group_id": "exact-name-1389ba550afd8c2e",
+  "physical_repository_id": "physical-course-c0274e1241490e2f",
+  "repo_id": "22AS31361",
+  "record_ids": [
+    "REC-5FBC2899AC60E739",
+    "REC-6EB368488270831A",
+    "REC-B24EB0AAB3DE99B5",
+    "REC-C683779072567049",
+    "REC-DB1C1833051D0718"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/116_2022版_25_25073_材料化学.toml#courses[27]",
+    "curriculum://hit-data/plans/117_2022版_25_25078_应用化学.toml#courses[27]",
+    "curriculum://hit-data/plans/119_2022版_25_25141_高分子材料与工程.toml#courses[28]",
+    "curriculum://hit-data/plans/120_2022版_25_25142_化学工程与工艺.toml#courses[27]",
+    "curriculum://hit-data/plans/121_2022版_25_25147_新能源材料与器件.toml#courses[27]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC22012.json",
+  "attachment_repo_id": "22AS31361"
+}

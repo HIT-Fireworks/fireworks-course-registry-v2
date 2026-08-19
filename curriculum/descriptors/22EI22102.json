@@ -1,0 +1,34 @@
+{
+  "descriptor_id": "course-code:22EI22102",
+  "course_code": "22EI22102",
+  "course_name": "电路基础A",
+  "resource_group_id": "circuits-and-electronics",
+  "physical_repository_id": "physical-course-b2c702385929c267",
+  "repo_id": "22EE21002",
+  "record_ids": [
+    "REC-0E4E2B717D32E687",
+    "REC-03DABB060EFF4DCB",
+    "REC-6BD5F6E62BB73B17",
+    "REC-9AD2DE4DA08AC046",
+    "REC-36BF66F94FA67F32",
+    "REC-58D58D0C130F9C85",
+    "REC-B58B36CC1B0680E1",
+    "REC-C9BED4F6CA1CE8D8",
+    "REC-D35B1C52739600BB"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/128_2022版_20_20051_通信工程.toml#courses[22]",
+    "curriculum://hit-data/plans/129_2022版_20_20052_电子信息工程.toml#courses[22]",
+    "curriculum://hit-data/plans/130_2022版_20_20053_信息对抗技术.toml#courses[22]",
+    "curriculum://hit-data/plans/131_2022版_20_20054_遥感科学与技术.toml#courses[22]",
+    "curriculum://hit-data/plans/132_2022版_20_20055_电磁场与无线技术.toml#courses[22]",
+    "curriculum://hit-data/plans/133_2022版_20_20056_智能测控工程.toml#courses[22]",
+    "curriculum://hit-data/plans/134_2022版_20_20E051_通信工程.toml#courses[3]",
+    "curriculum://hit-data/plans/135_2022版_20_20E052_电子信息工程.toml#courses[0]",
+    "curriculum://hit-data/plans/186_2022版_37_37SXS281056_生物技术（+智能测控工程双学士学位）.toml#courses[35]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EI22102.json",
+  "attachment_repo_id": "22EE21002"
+}

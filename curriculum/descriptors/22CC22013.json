@@ -1,0 +1,26 @@
+{
+  "descriptor_id": "course-code:22CC22013",
+  "course_code": "22CC22013",
+  "course_name": "人工智能",
+  "resource_group_id": "exact-name-161332dd5ba244f1",
+  "physical_repository_id": "physical-course-5af3514cbd507387",
+  "repo_id": "COURSES-5AF3514CBD50",
+  "record_ids": [
+    "REC-45A8F591C9AAF253",
+    "REC-B056D29253D451DA",
+    "REC-D45C3080F95E5BAA",
+    "REC-F778DCD9CD81BE71",
+    "REC-F895A145A63124A6"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/116_2022版_25_25073_材料化学.toml#courses[28]",
+    "curriculum://hit-data/plans/117_2022版_25_25078_应用化学.toml#courses[28]",
+    "curriculum://hit-data/plans/119_2022版_25_25141_高分子材料与工程.toml#courses[29]",
+    "curriculum://hit-data/plans/120_2022版_25_25142_化学工程与工艺.toml#courses[28]",
+    "curriculum://hit-data/plans/121_2022版_25_25147_新能源材料与器件.toml#courses[28]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC22013.json",
+  "attachment_repo_id": "COURSES-5AF3514CBD50"
+}

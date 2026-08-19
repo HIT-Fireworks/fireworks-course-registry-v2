@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22EM22901",
+  "course_code": "22EM22901",
+  "course_name": "政治经济学",
+  "resource_group_id": "exact-name-bb9636f93fcbe51a",
+  "physical_repository_id": "physical-course-3f0a60262d9e7391",
+  "repo_id": "22EM22901",
+  "record_ids": [
+    "REC-7EEAA0B7379FBA0D",
+    "REC-A791460272573140",
+    "REC-D99310704184BAFB"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/050_2022版_07_07221_金融学.toml#courses[45]",
+    "curriculum://hit-data/plans/051_2022版_07_07222_国际经济与贸易.toml#courses[45]",
+    "curriculum://hit-data/plans/052_2022版_07_07223_数字经济.toml#courses[45]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM22901.json",
+  "attachment_repo_id": "22EM22901"
+}

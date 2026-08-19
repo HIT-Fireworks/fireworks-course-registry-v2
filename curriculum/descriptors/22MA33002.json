@@ -1,0 +1,28 @@
+{
+  "descriptor_id": "course-code:22MA33002",
+  "course_code": "22MA33002",
+  "course_name": "毕业论文(设计)",
+  "resource_group_id": "exact-name-8db41f88b0b6c77e",
+  "physical_repository_id": "physical-course-2bcf14039c972840",
+  "repo_id": "22AR33001F",
+  "record_ids": [
+    "REC-0CE2C4CA7CD31731",
+    "REC-8CF5884B68B3D1B3",
+    "REC-13A6E6CB77430308",
+    "REC-45B254EC896EE028",
+    "REC-BAE53CD3328469DB",
+    "REC-CF78D9F84DC632BE"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/147_2022版_31_31121_数学与应用数学.toml#courses[43]",
+    "curriculum://hit-data/plans/148_2022版_31_31122_信息与计算科学.toml#courses[43]",
+    "curriculum://hit-data/plans/149_2022版_31_31123_统计学.toml#courses[43]",
+    "curriculum://hit-data/plans/154_2022版_31_31SXS121031_数学与应用数学（+计算机科学与技术双学士学位）.toml#courses[49]",
+    "curriculum://hit-data/plans/155_2022版_31_31SXS121039_数学与应用数学（+网络空间安全双学士学位）.toml#courses[51]",
+    "curriculum://hit-data/plans/156_2022版_31_31SXS123104_统计学（+计算金融双学士学位）.toml#courses[54]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MA33002.json",
+  "attachment_repo_id": "22AR33001F"
+}

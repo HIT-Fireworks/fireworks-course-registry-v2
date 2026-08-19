@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22HS22101F",
+  "course_code": "22HS22101F",
+  "course_name": "社会管理学",
+  "resource_group_id": "exact-name-4a549c5dca4a6ef0",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-5264B199B43BAA8C"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/174_2022版_35_35F164S_社会治理.toml#courses[0]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22HS22101F.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

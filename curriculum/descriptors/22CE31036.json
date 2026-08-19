@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CE31036",
+  "course_code": "22CE31036",
+  "course_name": "机器学习",
+  "resource_group_id": "exact-name-e0ab0981aba5c06d",
+  "physical_repository_id": "physical-course-e0056db94b2201e3",
+  "repo_id": "22AS31203",
+  "record_ids": [
+    "REC-3EDD4BE0469EDEDA"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/060_2022版_09_09336_智能建造.toml#courses[47]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CE31036.json",
+  "attachment_repo_id": "22AS31203"
+}

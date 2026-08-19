@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22ES31401",
+  "course_code": "22ES31401",
+  "course_name": "应用核物理基础",
+  "resource_group_id": "exact-name-783eb40001f4604c",
+  "physical_repository_id": "physical-course-fabc2915b57c2ea7",
+  "repo_id": "COURSES-FABC2915B57C",
+  "record_ids": [
+    "REC-26E500B48FAE5006"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/020_2022版_04_04025_核工程与核技术.toml#courses[36]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ES31401.json",
+  "attachment_repo_id": "COURSES-FABC2915B57C"
+}

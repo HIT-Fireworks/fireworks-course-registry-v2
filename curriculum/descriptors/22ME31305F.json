@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22ME31305F",
+  "course_code": "22ME31305F",
+  "course_name": "飞行器先进加工技术",
+  "resource_group_id": "exact-name-f5e2bf98a0efebbe",
+  "physical_repository_id": "physical-course-669d2ec19f097658",
+  "repo_id": "COURSES-669D2EC19F09",
+  "record_ids": [
+    "REC-6400E4F5FAE54159"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/009_2022版_02_02F083_飞行器制造工程.toml#courses[9]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ME31305F.json",
+  "attachment_repo_id": "COURSES-669D2EC19F09"
+}

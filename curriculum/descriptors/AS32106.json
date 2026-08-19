@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:AS32106",
+  "course_code": "AS32106",
+  "course_name": "自动控制理论(2)",
+  "resource_group_id": "name-family-9b4558b47c01c11d",
+  "physical_repository_id": "physical-course-894d2136254ca6d5",
+  "repo_id": "22AS31102",
+  "record_ids": [
+    "REC-75CDBFCC1D010C19"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/111_2022版_01_01E041_自动化.toml#courses[4]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/AS32106.json",
+  "attachment_repo_id": "22AS31102"
+}

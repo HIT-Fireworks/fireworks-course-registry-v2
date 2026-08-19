@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22IS33003",
+  "course_code": "22IS33003",
+  "course_name": "生产实习",
+  "resource_group_id": "exact-name-18527c31b7340394",
+  "physical_repository_id": "physical-course-4c7a9dcc47c4efc8",
+  "repo_id": "22AR33205",
+  "record_ids": [
+    "REC-55C40C633D7AD108",
+    "REC-48136C1863C044C3",
+    "REC-48671EB764D0992C"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/190_2022版_28_28011_测控技术与仪器.toml#courses[54]",
+    "curriculum://hit-data/plans/191_2022版_28_28014_精密仪器.toml#courses[54]",
+    "curriculum://hit-data/plans/192_2022版_28_28015_智能感知工程.toml#courses[54]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22IS33003.json",
+  "attachment_repo_id": "22AR33205"
+}

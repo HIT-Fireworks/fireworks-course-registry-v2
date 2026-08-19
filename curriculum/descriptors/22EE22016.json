@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22EE22016",
+  "course_code": "22EE22016",
+  "course_name": "数字电子技术基础A",
+  "resource_group_id": "circuits-and-electronics",
+  "physical_repository_id": "physical-course-b2c702385929c267",
+  "repo_id": "22EE21002",
+  "record_ids": [
+    "REC-20CBA1C86544DD6D",
+    "REC-34E48DFEAA1BBEB2",
+    "REC-92CE9310EF5EA38B"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/098_2022版_01_01041_自动化.toml#courses[35]",
+    "curriculum://hit-data/plans/099_2022版_01_01042_探测制导与控制技术.toml#courses[35]",
+    "curriculum://hit-data/plans/100_2022版_01_01043_智能装备与系统.toml#courses[35]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EE22016.json",
+  "attachment_repo_id": "22EE21002"
+}

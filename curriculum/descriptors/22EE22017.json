@@ -1,0 +1,32 @@
+{
+  "descriptor_id": "course-code:22EE22017",
+  "course_code": "22EE22017",
+  "course_name": "数字电子技术基础B",
+  "resource_group_id": "circuits-and-electronics",
+  "physical_repository_id": "physical-course-b2c702385929c267",
+  "repo_id": "22EE21002",
+  "record_ids": [
+    "REC-2C5C07113EE32290",
+    "REC-4F10D6A5C1DEE005",
+    "REC-5CB9BB989C76A1A0",
+    "REC-6D351DC4A2B42691",
+    "REC-9A5237AB706FEA37",
+    "REC-88E7C2E932AAB639",
+    "REC-6145B0FB4674FF67",
+    "REC-E861C14267AA1AB8"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/053_2022版_05_05061_电气工程及其自动化.toml#courses[39]",
+    "curriculum://hit-data/plans/054_2022版_05_05062_建筑电气与智能化.toml#courses[39]",
+    "curriculum://hit-data/plans/096_2022版_12_12325_交通设备与控制工程.toml#courses[43]",
+    "curriculum://hit-data/plans/108_2022版_01_01211_电子科学与技术.toml#courses[35]",
+    "curriculum://hit-data/plans/109_2022版_01_01213_光电信息科学与工程(光学工程方向).toml#courses[35]",
+    "curriculum://hit-data/plans/110_2022版_01_01214_微电子科学与工程.toml#courses[47]",
+    "curriculum://hit-data/plans/201_2022版_32_32SXS111061_应用物理学（+电气工程及其自动化双学士学位）.toml#courses[32]",
+    "curriculum://hit-data/plans/203_2022版_32_32SXS111214_应用物理学（+微电子科学与工程双学士学位）.toml#courses[47]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EE22017.json",
+  "attachment_repo_id": "22EE21002"
+}

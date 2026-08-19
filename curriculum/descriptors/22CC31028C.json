@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CC31028C",
+  "course_code": "22CC31028C",
+  "course_name": "热分析",
+  "resource_group_id": "exact-name-71cf9ee7a62db5de",
+  "physical_repository_id": "physical-course-5af3514cbd507387",
+  "repo_id": "COURSES-5AF3514CBD50",
+  "record_ids": [
+    "REC-213263180BFA949D"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/118_2022版_25_25079_化学（中外合作）.toml#courses[50]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC31028C.json",
+  "attachment_repo_id": "COURSES-5AF3514CBD50"
+}

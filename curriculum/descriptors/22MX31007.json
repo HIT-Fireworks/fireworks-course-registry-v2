@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22MX31007",
+  "course_code": "22MX31007",
+  "course_name": "网络思想政治教育",
+  "resource_group_id": "exact-name-3e562e43b9c5d9ce",
+  "physical_repository_id": "physical-course-c939a79f0c3a2bdb",
+  "repo_id": "COURSES-C939A79F0C3A",
+  "record_ids": [
+    "REC-4407F7973173319E",
+    "REC-23524DFDF9AACCF8"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/187_2022版_49_49491_思想政治教育.toml#courses[40]",
+    "curriculum://hit-data/plans/188_2022版_49_49E491_思想政治教育.toml#courses[16]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MX31007.json",
+  "attachment_repo_id": "COURSES-C939A79F0C3A"
+}

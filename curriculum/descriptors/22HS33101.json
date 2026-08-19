@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22HS33101",
+  "course_code": "22HS33101",
+  "course_name": "社会调查方法实习",
+  "resource_group_id": "exact-name-c74247b52f526f42",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-A0BEBC75BE50F3D8"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/162_2022版_35_35161_社会学.toml#courses[36]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22HS33101.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CC31017F",
+  "course_code": "22CC31017F",
+  "course_name": "材料化学基础",
+  "resource_group_id": "exact-name-5dfe5cf2b512febe",
+  "physical_repository_id": "physical-course-1818fd97bf76de87",
+  "repo_id": "22CC31017",
+  "record_ids": [
+    "REC-6CFA6B797D8D8A0B"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/122_2022版_25_25F073_材料化学.toml#courses[8]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC31017F.json",
+  "attachment_repo_id": "22CC31017"
+}

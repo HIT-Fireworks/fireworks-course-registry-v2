@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CE33010",
+  "course_code": "22CE33010",
+  "course_name": "混凝土结构课程设计A",
+  "resource_group_id": "name-family-963b0a51a404b958",
+  "physical_repository_id": "physical-course-b8079c4567d697cd",
+  "repo_id": "COURSES-B8079C4567D6",
+  "record_ids": [
+    "REC-FBE9B1D118813AB1"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[143]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CE33010.json",
+  "attachment_repo_id": "COURSES-B8079C4567D6"
+}

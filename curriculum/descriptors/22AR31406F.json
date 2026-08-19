@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AR31406F",
+  "course_code": "22AR31406F",
+  "course_name": "景观规划设计-3",
+  "resource_group_id": "exact-name-95fdcc5409982ba2",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-F75C59D85FE856AE"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/080_2022版_11B_11BF347_风景园林.toml#courses[9]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR31406F.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

@@ -1,0 +1,24 @@
+{
+  "descriptor_id": "course-code:22PH15014",
+  "course_code": "22PH15014",
+  "course_name": "大学物理实验x(1)",
+  "resource_group_id": "university-physics-labs",
+  "physical_repository_id": "physical-course-44bc3fc581ce1c81",
+  "repo_id": "22PH15014",
+  "record_ids": [
+    "REC-6B7F1AD35287E6D9",
+    "REC-50B05D1831360354",
+    "REC-8136A16155B79CC9",
+    "REC-E180ED4ADB79C951"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/003_2022版_02_020831_飞行器制造工程（强基计划）.toml#courses[21]",
+    "curriculum://hit-data/plans/022_2022版_04_04027_飞行器动力工程（莫航联培班）.toml#courses[35]",
+    "curriculum://hit-data/plans/027_2022版_03_031911_材料科学与工程（强基计划）.toml#courses[19]",
+    "curriculum://hit-data/plans/104_2022版_01_011841_复合材料与工程（强基计划）.toml#courses[20]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22PH15014.json",
+  "attachment_repo_id": "22PH15014"
+}

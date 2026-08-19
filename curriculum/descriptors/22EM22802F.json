@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EM22802F",
+  "course_code": "22EM22802F",
+  "course_name": "期货与期权",
+  "resource_group_id": "exact-name-9ac7d534e16e3c95",
+  "physical_repository_id": "physical-course-8cab420ae310747b",
+  "repo_id": "COURSES-8CAB420AE310",
+  "record_ids": [
+    "REC-E784A8DF33C8D944"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/041_2022版_07_07F221_金融学.toml#courses[3]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM22802F.json",
+  "attachment_repo_id": "COURSES-8CAB420AE310"
+}

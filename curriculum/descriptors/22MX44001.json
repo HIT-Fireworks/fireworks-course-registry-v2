@@ -1,0 +1,32 @@
+{
+  "descriptor_id": "course-code:22MX44001",
+  "course_code": "22MX44001",
+  "course_name": "劳动教育概论",
+  "resource_group_id": "exact-name-82295dfca608af13",
+  "physical_repository_id": "physical-course-dfb31349c09945a7",
+  "repo_id": "22MX44001",
+  "record_ids": [
+    "REC-0D5BB9D9D4ADFFB2",
+    "REC-9FF3D994DBAF05D1",
+    "REC-36DC1218917FD60C",
+    "REC-72CE63805526B610",
+    "REC-91BAC315D11A5E63",
+    "REC-7780D80A745DD6B9",
+    "REC-E0F267B6C901B656",
+    "REC-FD91A295872BE141"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/155_2022版_31_31SXS121039_数学与应用数学（+网络空间安全双学士学位）.toml#courses[19]",
+    "curriculum://hit-data/plans/156_2022版_31_31SXS123104_统计学（+计算金融双学士学位）.toml#courses[20]",
+    "curriculum://hit-data/plans/176_2022版_35_35SXS161101_社会学（+信息管理与信息系统双学士学位）.toml#courses[32]",
+    "curriculum://hit-data/plans/177_2022版_35_35SXS161103_社会学（+大数据管理与应用双学士学位）.toml#courses[32]",
+    "curriculum://hit-data/plans/178_2022版_37_370341_生物信息学.toml#courses[55]",
+    "curriculum://hit-data/plans/182_2022版_37_37521_智能医学工程.toml#courses[56]",
+    "curriculum://hit-data/plans/183_2022版_37_37522_生物医学科学.toml#courses[53]",
+    "curriculum://hit-data/plans/202_2022版_32_32SXS111086_应用物理学（+机器人工程双学士学位）.toml#courses[21]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MX44001.json",
+  "attachment_repo_id": "22MX44001"
+}

@@ -1,0 +1,24 @@
+{
+  "descriptor_id": "course-code:22ME44001",
+  "course_code": "22ME44001",
+  "course_name": "劳动教育创新实践",
+  "resource_group_id": "exact-name-fd627cfd721894b6",
+  "physical_repository_id": "physical-course-0d22203f2d99be12",
+  "repo_id": "22ME44001",
+  "record_ids": [
+    "REC-3CB8EBE42BD4C290",
+    "REC-BC99C1027BBF741C",
+    "REC-D3B8554FC217F1FF",
+    "REC-DD1259774EE08A08"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/155_2022版_31_31SXS121039_数学与应用数学（+网络空间安全双学士学位）.toml#courses[36]",
+    "curriculum://hit-data/plans/178_2022版_37_370341_生物信息学.toml#courses[54]",
+    "curriculum://hit-data/plans/182_2022版_37_37521_智能医学工程.toml#courses[55]",
+    "curriculum://hit-data/plans/183_2022版_37_37522_生物医学科学.toml#courses[52]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ME44001.json",
+  "attachment_repo_id": "22ME44001"
+}

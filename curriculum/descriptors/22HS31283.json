@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22HS31283",
+  "course_code": "22HS31283",
+  "course_name": "产业经济学A",
+  "resource_group_id": "name-family-ef02f43e01d336fd",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-84A44620B2A9AC71"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/168_2022版_35_35E232_经济学.toml#courses[6]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22HS31283.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

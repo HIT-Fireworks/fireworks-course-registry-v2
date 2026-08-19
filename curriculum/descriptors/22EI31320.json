@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EI31320",
+  "course_code": "22EI31320",
+  "course_name": "测量学",
+  "resource_group_id": "name-family-0097ebc26a1f26de",
+  "physical_repository_id": "physical-course-6eb40c489ce1bdc8",
+  "repo_id": "22EI31320",
+  "record_ids": [
+    "REC-31E91BDB2D7F0B52"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/131_2022版_20_20054_遥感科学与技术.toml#courses[54]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EI31320.json",
+  "attachment_repo_id": "22EI31320"
+}

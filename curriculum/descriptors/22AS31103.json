@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22AS31103",
+  "course_code": "22AS31103",
+  "course_name": "自动控制理论(2)",
+  "resource_group_id": "name-family-9b4558b47c01c11d",
+  "physical_repository_id": "physical-course-894d2136254ca6d5",
+  "repo_id": "22AS31102",
+  "record_ids": [
+    "REC-8E7012E3CF1CAC08",
+    "REC-40E57D5DE2A3D63F"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/098_2022版_01_01041_自动化.toml#courses[48]",
+    "curriculum://hit-data/plans/099_2022版_01_01042_探测制导与控制技术.toml#courses[48]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS31103.json",
+  "attachment_repo_id": "22AS31102"
+}

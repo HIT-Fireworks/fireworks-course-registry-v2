@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22MX22003",
+  "course_code": "22MX22003",
+  "course_name": "逻辑学",
+  "resource_group_id": "exact-name-4f3cf3ef1b5895ad",
+  "physical_repository_id": "physical-course-c939a79f0c3a2bdb",
+  "repo_id": "COURSES-C939A79F0C3A",
+  "record_ids": [
+    "REC-F227D965CF24C96E"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/187_2022版_49_49491_思想政治教育.toml#courses[7]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MX22003.json",
+  "attachment_repo_id": "COURSES-C939A79F0C3A"
+}

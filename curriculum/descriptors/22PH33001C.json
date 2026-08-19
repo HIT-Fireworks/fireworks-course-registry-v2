@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22PH33001C",
+  "course_code": "22PH33001C",
+  "course_name": "毕业论文(1)",
+  "resource_group_id": "name-family-588777136edadbd8",
+  "physical_repository_id": "physical-course-946f2dca1f165881",
+  "repo_id": "COURSES-946F2DCA1F16",
+  "record_ids": [
+    "REC-9CFD6340E045048F"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/198_2022版_32_32115_应用物理学（中外合作）.toml#courses[73]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22PH33001C.json",
+  "attachment_repo_id": "COURSES-946F2DCA1F16"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22TS33504",
+  "course_code": "22TS33504",
+  "course_name": "毕业论文(设计)",
+  "resource_group_id": "exact-name-8db41f88b0b6c77e",
+  "physical_repository_id": "physical-course-2bcf14039c972840",
+  "repo_id": "22AR33001F",
+  "record_ids": [
+    "REC-4C715389C93C8235"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/096_2022版_12_12325_交通设备与控制工程.toml#courses[61]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22TS33504.json",
+  "attachment_repo_id": "22AR33001F"
+}

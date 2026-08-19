@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22HS31391",
+  "course_code": "22HS31391",
+  "course_name": "中国法律史",
+  "resource_group_id": "exact-name-6594ed428acd3fea",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-169A0BB98EEFBEB8"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/170_2022版_35_35E242_法学.toml#courses[3]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22HS31391.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

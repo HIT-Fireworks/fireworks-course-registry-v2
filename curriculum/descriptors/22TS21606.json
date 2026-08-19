@@ -1,0 +1,32 @@
+{
+  "descriptor_id": "course-code:22TS21606",
+  "course_code": "22TS21606",
+  "course_name": "测量实习C",
+  "resource_group_id": "name-family-7b37cbd9fcd9feac",
+  "physical_repository_id": "physical-course-6d5924b1598bd529",
+  "repo_id": "22TS21606",
+  "record_ids": [
+    "REC-8D6BFCEF6AA9F85E",
+    "REC-12C71E656DC98ADC",
+    "REC-27C4A4B528AF3242",
+    "REC-7735B15444B4BEDC",
+    "REC-A82B5B7402AF862B",
+    "REC-BB24CE032B9CEEFF",
+    "REC-C32CA10FD17659C4",
+    "REC-EE4230C73318C8FB"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[113]",
+    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[114]",
+    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[115]",
+    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[116]",
+    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[117]",
+    "curriculum://hit-data/plans/058_2022版_09_09334_城市地下空间工程.toml#courses[43]",
+    "curriculum://hit-data/plans/059_2022版_09_09335_工程管理.toml#courses[43]",
+    "curriculum://hit-data/plans/060_2022版_09_09336_智能建造.toml#courses[43]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22TS21606.json",
+  "attachment_repo_id": "22TS21606"
+}

@@ -1,0 +1,26 @@
+{
+  "descriptor_id": "course-code:22CC22011",
+  "course_code": "22CC22011",
+  "course_name": "安全教育与实践",
+  "resource_group_id": "exact-name-d713b70d05a8cf7e",
+  "physical_repository_id": "physical-course-5af3514cbd507387",
+  "repo_id": "COURSES-5AF3514CBD50",
+  "record_ids": [
+    "REC-6F269E22BCA176C0",
+    "REC-83C66E6CA5C93203",
+    "REC-C58786E24C74F577",
+    "REC-D216A42B1FE38AF1",
+    "REC-E405F54C0745FD41"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/116_2022版_25_25073_材料化学.toml#courses[26]",
+    "curriculum://hit-data/plans/117_2022版_25_25078_应用化学.toml#courses[26]",
+    "curriculum://hit-data/plans/119_2022版_25_25141_高分子材料与工程.toml#courses[27]",
+    "curriculum://hit-data/plans/120_2022版_25_25142_化学工程与工艺.toml#courses[26]",
+    "curriculum://hit-data/plans/121_2022版_25_25147_新能源材料与器件.toml#courses[26]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC22011.json",
+  "attachment_repo_id": "COURSES-5AF3514CBD50"
+}

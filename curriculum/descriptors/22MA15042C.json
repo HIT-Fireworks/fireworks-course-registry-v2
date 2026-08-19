@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22MA15042C",
+  "course_code": "22MA15042C",
+  "course_name": "代数与几何F",
+  "resource_group_id": "linear-algebra-geometry",
+  "physical_repository_id": "physical-course-ea2973d0bf9112ea",
+  "repo_id": "22MA15017",
+  "record_ids": [
+    "REC-53990861230B1E45"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/118_2022版_25_25079_化学（中外合作）.toml#courses[8]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MA15042C.json",
+  "attachment_repo_id": "22MA15017"
+}

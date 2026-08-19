@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22FL22502F",
+  "course_code": "22FL22502F",
+  "course_name": "英语读写进阶",
+  "resource_group_id": "exact-name-c6b4af727c56b73f",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-067BF12B39ABEB10"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/171_2022版_35_35F151_英语.toml#courses[3]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22FL22502F.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

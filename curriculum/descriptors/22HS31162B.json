@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22HS31162B",
+  "course_code": "22HS31162B",
+  "course_name": "社会统计软件与数据分析技术基础A",
+  "resource_group_id": "name-family-ee20f71da02c4147",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-7521FA52432DC5EC"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/167_2022版_35_35E161_社会学.toml#courses[8]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22HS31162B.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

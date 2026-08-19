@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22HS31413",
+  "course_code": "22HS31413",
+  "course_name": "准高级写作(上)",
+  "resource_group_id": "course-family-6269584dfb49cc0f",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-B48C5CB1C4CAE464"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/163_2022版_35_35163_汉语言文学.toml#courses[21]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22HS31413.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

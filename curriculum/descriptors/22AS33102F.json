@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AS33102F",
+  "course_code": "22AS33102F",
+  "course_name": "毕业论文(设计)",
+  "resource_group_id": "exact-name-8db41f88b0b6c77e",
+  "physical_repository_id": "physical-course-2bcf14039c972840",
+  "repo_id": "22AR33001F",
+  "record_ids": [
+    "REC-DB7D7C96C5E8BDCC"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/113_2022版_01_01F043_智能装备与系统.toml#courses[8]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS33102F.json",
+  "attachment_repo_id": "22AR33001F"
+}

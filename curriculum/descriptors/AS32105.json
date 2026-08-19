@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:AS32105",
+  "course_code": "AS32105",
+  "course_name": "自动控制实践(1)",
+  "resource_group_id": "automatic-control-practice",
+  "physical_repository_id": "physical-course-8c30cd8279559085",
+  "repo_id": "COURSES-8C30CD827955",
+  "record_ids": [
+    "REC-1953FCF549C7E1A4"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/111_2022版_01_01E041_自动化.toml#courses[10]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/AS32105.json",
+  "attachment_repo_id": "COURSES-8C30CD827955"
+}

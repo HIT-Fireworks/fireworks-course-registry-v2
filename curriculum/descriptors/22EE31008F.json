@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EE31008F",
+  "course_code": "22EE31008F",
+  "course_name": "车辆电子技术与实践",
+  "resource_group_id": "exact-name-82ec62e7cf66fe8a",
+  "physical_repository_id": "physical-course-7742d3d9e18da027",
+  "repo_id": "COURSES-7742D3D9E18D",
+  "record_ids": [
+    "REC-EC6127C2A53AB2C4"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/056_2022版_05_05F065S_智能网联车辆工程.toml#courses[9]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EE31008F.json",
+  "attachment_repo_id": "COURSES-7742D3D9E18D"
+}

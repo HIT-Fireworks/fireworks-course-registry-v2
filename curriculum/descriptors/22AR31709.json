@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AR31709",
+  "course_code": "22AR31709",
+  "course_name": "传播学",
+  "resource_group_id": "exact-name-ae590087c5a91aba",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-2E4851CFA1F56B98"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/066_2022版_11B_11B304_数字媒体艺术.toml#courses[50]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR31709.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

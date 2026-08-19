@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22AS22251F",
+  "course_code": "22AS22251F",
+  "course_name": "理论力学E",
+  "resource_group_id": "theoretical-mechanics",
+  "physical_repository_id": "physical-course-4aceac315ddedb6c",
+  "repo_id": "22AS22001",
+  "record_ids": [
+    "REC-238AF3C78FB1EBE0",
+    "REC-2640062F9631A0E2"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/114_2022版_01_01F181_工程力学.toml#courses[0]",
+    "curriculum://hit-data/plans/114_2022版_01_01F181_工程力学.toml#courses[1]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS22251F.json",
+  "attachment_repo_id": "22AS22001"
+}

@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22EM21601F",
+  "course_code": "22EM21601F",
+  "course_name": "会计学基础",
+  "resource_group_id": "exact-name-6f811afc0642fcc4",
+  "physical_repository_id": "physical-course-d27067883d3cae2a",
+  "repo_id": "22EM21601",
+  "record_ids": [
+    "REC-B9285F0A8C2F5162",
+    "REC-BCCF462D27A91097"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/210_2022版_60_60F203_会计学.toml#courses[0]",
+    "curriculum://hit-data/plans/211_2022版_60_60F204_财务管理.toml#courses[0]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM21601F.json",
+  "attachment_repo_id": "22EM21601"
+}

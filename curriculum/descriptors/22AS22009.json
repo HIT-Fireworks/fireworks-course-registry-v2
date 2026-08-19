@@ -1,0 +1,26 @@
+{
+  "descriptor_id": "course-code:22AS22009",
+  "course_code": "22AS22009",
+  "course_name": "工程力学B",
+  "resource_group_id": "name-family-229d7063afa4d96f",
+  "physical_repository_id": "physical-course-76cbdc2fe609384d",
+  "repo_id": "22AS22008",
+  "record_ids": [
+    "REC-6C849E8787509DA7",
+    "REC-37D9EA2D7FB47781",
+    "REC-0484FA5395101EE6",
+    "REC-1172AF305EFFB97F",
+    "REC-EC99A46DA10ABA03"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/137_2022版_27_27251_给排水科学与工程.toml#courses[21]",
+    "curriculum://hit-data/plans/138_2022版_27_27252_城市水系统工程.toml#courses[21]",
+    "curriculum://hit-data/plans/139_2022版_27_27271_环境工程.toml#courses[21]",
+    "curriculum://hit-data/plans/140_2022版_27_27272_环境科学.toml#courses[21]",
+    "curriculum://hit-data/plans/141_2022版_27_27273_环境生态工程.toml#courses[21]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS22009.json",
+  "attachment_repo_id": "22AS22008"
+}

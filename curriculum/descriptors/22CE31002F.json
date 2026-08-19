@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CE31002F",
+  "course_code": "22CE31002F",
+  "course_name": "钢结构基本原理",
+  "resource_group_id": "exact-name-751ce74505ea25ee",
+  "physical_repository_id": "physical-course-b8079c4567d697cd",
+  "repo_id": "COURSES-B8079C4567D6",
+  "record_ids": [
+    "REC-6E0D6D734295102A"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/061_2022版_09_09F331_土木工程.toml#courses[4]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CE31002F.json",
+  "attachment_repo_id": "COURSES-B8079C4567D6"
+}

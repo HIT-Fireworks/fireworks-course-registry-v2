@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CC22010C",
+  "course_code": "22CC22010C",
+  "course_name": "无机化学",
+  "resource_group_id": "name-family-c080453525dd88fe",
+  "physical_repository_id": "physical-course-ede7deec0c9b3240",
+  "repo_id": "22CC22008",
+  "record_ids": [
+    "REC-9F5B0DE7C0505A2F"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/118_2022版_25_25079_化学（中外合作）.toml#courses[2]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC22010C.json",
+  "attachment_repo_id": "22CC22008"
+}

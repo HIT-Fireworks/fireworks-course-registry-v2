@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EI31311",
+  "course_code": "22EI31311",
+  "course_name": "光电对抗技术",
+  "resource_group_id": "exact-name-3630ff9bdaab8afb",
+  "physical_repository_id": "physical-course-2656a175b646c69d",
+  "repo_id": "COURSES-2656A175B646",
+  "record_ids": [
+    "REC-051B8B48E6517DEE"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/130_2022版_20_20053_信息对抗技术.toml#courses[54]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EI31311.json",
+  "attachment_repo_id": "COURSES-2656A175B646"
+}

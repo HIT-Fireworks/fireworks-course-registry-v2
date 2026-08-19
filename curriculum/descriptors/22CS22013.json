@@ -1,0 +1,34 @@
+{
+  "descriptor_id": "course-code:22CS22013",
+  "course_code": "22CS22013",
+  "course_name": "数据库系统",
+  "resource_group_id": "database-systems",
+  "physical_repository_id": "physical-course-d8962ac1ac51f857",
+  "repo_id": "22CS22013",
+  "record_ids": [
+    "REC-5E476DB20CF9FB3D",
+    "REC-117FAD6CF10E8C54",
+    "REC-998B77BB95B6F59D",
+    "REC-1075EC18E40C1BC5",
+    "REC-013010B010B75D1E",
+    "REC-B21E6577F028FA30",
+    "REC-BAB1206AB43F37FD",
+    "REC-D68652FF6F299000",
+    "REC-DEC60A45F677A176"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/082_2022版_13B_13B031_计算机科学与技术.toml#courses[43]",
+    "curriculum://hit-data/plans/084_2022版_13B_13B035_数据科学与大数据技术.toml#courses[36]",
+    "curriculum://hit-data/plans/085_2022版_13B_13B036_人工智能.toml#courses[43]",
+    "curriculum://hit-data/plans/087_2022版_13B_13B371_软件工程.toml#courses[46]",
+    "curriculum://hit-data/plans/088_2022版_13B_13B373_物联网工程.toml#courses[43]",
+    "curriculum://hit-data/plans/089_2022版_13B_13BE031_计算机科学与技术.toml#courses[9]",
+    "curriculum://hit-data/plans/090_2022版_13B_13BE035_数据科学与大数据技术.toml#courses[7]",
+    "curriculum://hit-data/plans/092_2022版_13B_13BE371_软件工程.toml#courses[15]",
+    "curriculum://hit-data/plans/178_2022版_37_370341_生物信息学.toml#courses[45]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CS22013.json",
+  "attachment_repo_id": "22CS22013"
+}

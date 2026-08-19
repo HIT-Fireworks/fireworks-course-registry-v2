@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EM33941",
+  "course_code": "22EM33941",
+  "course_name": "毕业论文(设计)",
+  "resource_group_id": "exact-name-8db41f88b0b6c77e",
+  "physical_repository_id": "physical-course-2bcf14039c972840",
+  "repo_id": "22AR33001F",
+  "record_ids": [
+    "REC-7A9DDF7B90E9487B"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/052_2022版_07_07223_数字经济.toml#courses[56]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM33941.json",
+  "attachment_repo_id": "22AR33001F"
+}

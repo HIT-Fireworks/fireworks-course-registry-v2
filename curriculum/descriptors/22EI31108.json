@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EI31108",
+  "course_code": "22EI31108",
+  "course_name": "通信对抗原理及应用",
+  "resource_group_id": "exact-name-fa96d644104a6f02",
+  "physical_repository_id": "physical-course-2656a175b646c69d",
+  "repo_id": "COURSES-2656A175B646",
+  "record_ids": [
+    "REC-2C62280050919EBD"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/130_2022版_20_20053_信息对抗技术.toml#courses[47]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EI31108.json",
+  "attachment_repo_id": "COURSES-2656A175B646"
+}

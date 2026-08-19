@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EN33011",
+  "course_code": "22EN33011",
+  "course_name": "毕业论文(设计)",
+  "resource_group_id": "exact-name-8db41f88b0b6c77e",
+  "physical_repository_id": "physical-course-2bcf14039c972840",
+  "repo_id": "22AR33001F",
+  "record_ids": [
+    "REC-75554444EA4FAEFF"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/137_2022版_27_27251_给排水科学与工程.toml#courses[59]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EN33011.json",
+  "attachment_repo_id": "22AR33001F"
+}

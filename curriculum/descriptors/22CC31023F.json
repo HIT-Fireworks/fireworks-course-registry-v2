@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CC31023F",
+  "course_code": "22CC31023F",
+  "course_name": "生物化学",
+  "resource_group_id": "name-family-fa9c2595d31ab74e",
+  "physical_repository_id": "physical-course-343cf44529b580ba",
+  "repo_id": "22CC31023F",
+  "record_ids": [
+    "REC-0AFC50D177EA7B1F"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/123_2022版_25_25F076_化学.toml#courses[6]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC31023F.json",
+  "attachment_repo_id": "22CC31023F"
+}

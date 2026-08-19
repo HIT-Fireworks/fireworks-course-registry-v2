@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22MH22003",
+  "course_code": "22MH22003",
+  "course_name": "生物化学与分子生物学",
+  "resource_group_id": "exact-name-d1e06cbe683a8bb7",
+  "physical_repository_id": "physical-course-ce4133cbe869b5fe",
+  "repo_id": "COURSES-CE4133CBE869",
+  "record_ids": [
+    "REC-02D4E90CDD41594F",
+    "REC-8E46EF2F12664864",
+    "REC-F2B95436049DF7FC"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/178_2022版_37_370341_生物信息学.toml#courses[24]",
+    "curriculum://hit-data/plans/182_2022版_37_37521_智能医学工程.toml#courses[24]",
+    "curriculum://hit-data/plans/183_2022版_37_37522_生物医学科学.toml#courses[24]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MH22003.json",
+  "attachment_repo_id": "COURSES-CE4133CBE869"
+}

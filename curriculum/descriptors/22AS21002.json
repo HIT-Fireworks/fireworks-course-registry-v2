@@ -1,0 +1,42 @@
+{
+  "descriptor_id": "course-code:22AS21002",
+  "course_code": "22AS21002",
+  "course_name": "航天与自动化集群专业导论",
+  "resource_group_id": "exact-name-385d6a3ae254b429",
+  "physical_repository_id": "physical-course-16c18fc14e13cec8",
+  "repo_id": "22AS21002",
+  "record_ids": [
+    "REC-004F728475F8E010",
+    "REC-28D15D94AACB7F81",
+    "REC-43DC25885253FB64",
+    "REC-56ED9286F61D68C3",
+    "REC-2322A12A75A10082",
+    "REC-55004B91FA6A372B",
+    "REC-386641BEF7023DCF",
+    "REC-93023289FE7421CB",
+    "REC-A2CB17E3E75BDEF7",
+    "REC-C0EF4EEE988186DF",
+    "REC-D18008BC7CA57E0C",
+    "REC-D5102042089368BD",
+    "REC-E122E01412B3E700"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/053_2022版_05_05061_电气工程及其自动化.toml#courses[11]",
+    "curriculum://hit-data/plans/054_2022版_05_05062_建筑电气与智能化.toml#courses[11]",
+    "curriculum://hit-data/plans/098_2022版_01_01041_自动化.toml#courses[11]",
+    "curriculum://hit-data/plans/099_2022版_01_01042_探测制导与控制技术.toml#courses[11]",
+    "curriculum://hit-data/plans/100_2022版_01_01043_智能装备与系统.toml#courses[11]",
+    "curriculum://hit-data/plans/101_2022版_01_01182_飞行器设计与工程.toml#courses[11]",
+    "curriculum://hit-data/plans/102_2022版_01_01183_飞行器环境与生命保障工程.toml#courses[11]",
+    "curriculum://hit-data/plans/103_2022版_01_01184_复合材料与工程.toml#courses[11]",
+    "curriculum://hit-data/plans/105_2022版_01_01185_空间科学与技术.toml#courses[11]",
+    "curriculum://hit-data/plans/106_2022版_01_011861_智能材料与结构.toml#courses[11]",
+    "curriculum://hit-data/plans/108_2022版_01_01211_电子科学与技术.toml#courses[11]",
+    "curriculum://hit-data/plans/109_2022版_01_01213_光电信息科学与工程(光学工程方向).toml#courses[11]",
+    "curriculum://hit-data/plans/110_2022版_01_01214_微电子科学与工程.toml#courses[11]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS21002.json",
+  "attachment_repo_id": "22AS21002"
+}

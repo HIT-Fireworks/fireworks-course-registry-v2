@@ -1,0 +1,30 @@
+{
+  "descriptor_id": "course-code:22CS22015",
+  "course_code": "22CS22015",
+  "course_name": "软件工程",
+  "resource_group_id": "exact-name-4a47a7f883286d92",
+  "physical_repository_id": "physical-course-8f742edecf9ef868",
+  "repo_id": "22CS22015",
+  "record_ids": [
+    "REC-2FE9A73E38529988",
+    "REC-4B5700496BB375E9",
+    "REC-5FC789340ABACE6C",
+    "REC-77B7678CF7378425",
+    "REC-95A766776781707B",
+    "REC-397DDE504EA5D35E",
+    "REC-DF8C778F69653BD2"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/082_2022版_13B_13B031_计算机科学与技术.toml#courses[48]",
+    "curriculum://hit-data/plans/083_2022版_13B_13B032_信息安全.toml#courses[48]",
+    "curriculum://hit-data/plans/084_2022版_13B_13B035_数据科学与大数据技术.toml#courses[48]",
+    "curriculum://hit-data/plans/085_2022版_13B_13B036_人工智能.toml#courses[48]",
+    "curriculum://hit-data/plans/086_2022版_13B_13B039_网络空间安全.toml#courses[48]",
+    "curriculum://hit-data/plans/088_2022版_13B_13B373_物联网工程.toml#courses[48]",
+    "curriculum://hit-data/plans/178_2022版_37_370341_生物信息学.toml#courses[51]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CS22015.json",
+  "attachment_repo_id": "22CS22015"
+}

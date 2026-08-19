@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22IS33402",
+  "course_code": "22IS33402",
+  "course_name": "精密仪器综合设计实践",
+  "resource_group_id": "exact-name-494e3fdbf7870dd5",
+  "physical_repository_id": "physical-course-2c608f332ac553b6",
+  "repo_id": "COURSES-2C608F332AC5",
+  "record_ids": [
+    "REC-76B30B7B202B71EA"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/191_2022版_28_28014_精密仪器.toml#courses[55]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22IS33402.json",
+  "attachment_repo_id": "COURSES-2C608F332AC5"
+}

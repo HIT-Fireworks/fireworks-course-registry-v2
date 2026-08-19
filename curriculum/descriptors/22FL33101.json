@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22FL33101",
+  "course_code": "22FL33101",
+  "course_name": "实习",
+  "resource_group_id": "exact-name-d64ff9df5332ca3a",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-FEFD2EC67BEA1DD8"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/157_2022版_35_35151_英语.toml#courses[35]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22FL33101.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

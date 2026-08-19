@@ -1,0 +1,28 @@
+{
+  "descriptor_id": "course-code:22MA22001",
+  "course_code": "22MA22001",
+  "course_name": "数学分析(1)",
+  "resource_group_id": "mathematical-analysis",
+  "physical_repository_id": "physical-course-bf2b3dea250dd028",
+  "repo_id": "22MA15015",
+  "record_ids": [
+    "REC-1A713BE9BEF5F0F3",
+    "REC-2FDD75A791D1B41B",
+    "REC-53E57DC75085ABC0",
+    "REC-E16F5032CD114D9D",
+    "REC-ECFD4986BB5E492D",
+    "REC-F2CD3956F86BF002"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/147_2022版_31_31121_数学与应用数学.toml#courses[4]",
+    "curriculum://hit-data/plans/148_2022版_31_31122_信息与计算科学.toml#courses[4]",
+    "curriculum://hit-data/plans/149_2022版_31_31123_统计学.toml#courses[4]",
+    "curriculum://hit-data/plans/154_2022版_31_31SXS121031_数学与应用数学（+计算机科学与技术双学士学位）.toml#courses[4]",
+    "curriculum://hit-data/plans/155_2022版_31_31SXS121039_数学与应用数学（+网络空间安全双学士学位）.toml#courses[5]",
+    "curriculum://hit-data/plans/156_2022版_31_31SXS123104_统计学（+计算金融双学士学位）.toml#courses[4]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MA22001.json",
+  "attachment_repo_id": "22MA15015"
+}

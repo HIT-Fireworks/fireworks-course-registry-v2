@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22MX22014",
+  "course_code": "22MX22014",
+  "course_name": "毛泽东思想和中国特色社会主义理论体系概论",
+  "resource_group_id": "exact-name-172817f111a089e6",
+  "physical_repository_id": "physical-course-fe7f016fef2590ea",
+  "repo_id": "22MX11004",
+  "record_ids": [
+    "REC-742419B1D82EE6FA"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/187_2022版_49_49491_思想政治教育.toml#courses[32]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MX22014.json",
+  "attachment_repo_id": "22MX11004"
+}

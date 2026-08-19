@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AS31701",
+  "course_code": "22AS31701",
+  "course_name": "激光原理A",
+  "resource_group_id": "laser-principles",
+  "physical_repository_id": "physical-course-37169efb69d50567",
+  "repo_id": "22AS31701",
+  "record_ids": [
+    "REC-B8D895026E32D698"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/108_2022版_01_01211_电子科学与技术.toml#courses[43]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS31701.json",
+  "attachment_repo_id": "22AS31701"
+}

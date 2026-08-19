@@ -1,0 +1,32 @@
+{
+  "descriptor_id": "course-code:22CS22014",
+  "course_code": "22CS22014",
+  "course_name": "编译原理",
+  "resource_group_id": "exact-name-cbebc1da21bcef19",
+  "physical_repository_id": "physical-course-bc87c0351d93e4c1",
+  "repo_id": "COURSES-BC87C0351D93",
+  "record_ids": [
+    "REC-0B6B28785C9DB7B9",
+    "REC-9CD4FE9EBC62FEED",
+    "REC-770DD7C2B1171FBF",
+    "REC-90193F0A4C3FD447",
+    "REC-C1A556C57379FA36",
+    "REC-CFDE5079336F644F",
+    "REC-E89AA2B05E1ACF22",
+    "REC-EA62D687B5942C03"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/082_2022版_13B_13B031_计算机科学与技术.toml#courses[47]",
+    "curriculum://hit-data/plans/083_2022版_13B_13B032_信息安全.toml#courses[47]",
+    "curriculum://hit-data/plans/084_2022版_13B_13B035_数据科学与大数据技术.toml#courses[47]",
+    "curriculum://hit-data/plans/085_2022版_13B_13B036_人工智能.toml#courses[47]",
+    "curriculum://hit-data/plans/086_2022版_13B_13B039_网络空间安全.toml#courses[47]",
+    "curriculum://hit-data/plans/087_2022版_13B_13B371_软件工程.toml#courses[47]",
+    "curriculum://hit-data/plans/088_2022版_13B_13B373_物联网工程.toml#courses[47]",
+    "curriculum://hit-data/plans/089_2022版_13B_13BE031_计算机科学与技术.toml#courses[10]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CS22014.json",
+  "attachment_repo_id": "COURSES-BC87C0351D93"
+}

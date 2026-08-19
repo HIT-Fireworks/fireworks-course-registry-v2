@@ -1,0 +1,30 @@
+{
+  "descriptor_id": "course-code:22AR22008",
+  "course_code": "22AR22008",
+  "course_name": "造型艺术基础-2",
+  "resource_group_id": "exact-name-1b754ec50074af70",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-1EFE960BCF9D2768",
+    "REC-3E261A4460C86341",
+    "REC-7F86D87EB4041E9A",
+    "REC-31DE37975351C2BE",
+    "REC-A8C80FBA60D16EA7",
+    "REC-D2CB29403DEA97B2",
+    "REC-D947494BCD3970FF"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/064_2022版_11B_11B082_工业设计.toml#courses[24]",
+    "curriculum://hit-data/plans/066_2022版_11B_11B304_数字媒体艺术.toml#courses[34]",
+    "curriculum://hit-data/plans/067_2022版_11B_11B341_建筑学.toml#courses[29]",
+    "curriculum://hit-data/plans/068_2022版_11B_11B345_城乡规划.toml#courses[29]",
+    "curriculum://hit-data/plans/069_2022版_11B_11B346_环境设计.toml#courses[24]",
+    "curriculum://hit-data/plans/070_2022版_11B_11B347_风景园林.toml#courses[29]",
+    "curriculum://hit-data/plans/071_2022版_11B_11B348_智慧建筑与建造.toml#courses[29]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR22008.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

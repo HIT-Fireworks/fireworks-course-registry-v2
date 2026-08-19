@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22MS31108",
+  "course_code": "22MS31108",
+  "course_name": "传输原理A",
+  "resource_group_id": "transport-principles",
+  "physical_repository_id": "physical-course-12af5bc572e71106",
+  "repo_id": "COURSES-12AF5BC572E7",
+  "record_ids": [
+    "REC-162C81F8F7BAE8A3",
+    "REC-E6CB90A39ACF2075"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/026_2022版_03_03190_材料科学与工程.toml#courses[40]",
+    "curriculum://hit-data/plans/027_2022版_03_031911_材料科学与工程（强基计划）.toml#courses[40]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MS31108.json",
+  "attachment_repo_id": "COURSES-12AF5BC572E7"
+}

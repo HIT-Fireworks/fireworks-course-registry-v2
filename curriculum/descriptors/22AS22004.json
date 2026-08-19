@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22AS22004",
+  "course_code": "22AS22004",
+  "course_name": "理论力学C",
+  "resource_group_id": "theoretical-mechanics",
+  "physical_repository_id": "physical-course-4aceac315ddedb6c",
+  "repo_id": "22AS22001",
+  "record_ids": [
+    "REC-2C250A0530085A51",
+    "REC-4CEC88F03A04D932",
+    "REC-C7FD4CEC93C9EF42"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/064_2022版_11B_11B082_工业设计.toml#courses[26]",
+    "curriculum://hit-data/plans/065_2022版_11B_11B262_建筑环境与能源应用工程.toml#courses[32]",
+    "curriculum://hit-data/plans/142_2022版_27_27274_环境生态工程（鲍曼合作办学）.toml#courses[30]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS22004.json",
+  "attachment_repo_id": "22AS22001"
+}

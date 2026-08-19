@@ -1,0 +1,24 @@
+{
+  "descriptor_id": "course-code:22EM22003",
+  "course_code": "22EM22003",
+  "course_name": "Python程序设计",
+  "resource_group_id": "name-family-94e9241f6a514ca9",
+  "physical_repository_id": "physical-course-037d07c79336e56d",
+  "repo_id": "22CS22018",
+  "record_ids": [
+    "REC-0EDD8C81ACF23F3E",
+    "REC-BC368CFC4ED3B51E",
+    "REC-C28D6E6293E47CD7",
+    "REC-F68BE421BA2EF70E"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/046_2022版_07_07101_信息管理与信息系统.toml#courses[45]",
+    "curriculum://hit-data/plans/047_2022版_07_07102_电子商务.toml#courses[45]",
+    "curriculum://hit-data/plans/048_2022版_07_07103_大数据管理与应用.toml#courses[42]",
+    "curriculum://hit-data/plans/049_2022版_07_07104_计算金融.toml#courses[47]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM22003.json",
+  "attachment_repo_id": "22CS22018"
+}

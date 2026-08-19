@@ -1,0 +1,24 @@
+{
+  "descriptor_id": "course-code:22PH22003",
+  "course_code": "22PH22003",
+  "course_name": "基础物理实验(2)",
+  "resource_group_id": "basic-physics-labs",
+  "physical_repository_id": "physical-course-946f2dca1f165881",
+  "repo_id": "COURSES-946F2DCA1F16",
+  "record_ids": [
+    "REC-2F06234E86D3DFBD",
+    "REC-7AE4494FE11E6482",
+    "REC-66CCD9DB7899CD20",
+    "REC-81224F0B5AD0AE1F"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/196_2022版_32_32111_应用物理学.toml#courses[18]",
+    "curriculum://hit-data/plans/197_2022版_32_32114_光电信息科学与工程.toml#courses[18]",
+    "curriculum://hit-data/plans/201_2022版_32_32SXS111061_应用物理学（+电气工程及其自动化双学士学位）.toml#courses[19]",
+    "curriculum://hit-data/plans/203_2022版_32_32SXS111214_应用物理学（+微电子科学与工程双学士学位）.toml#courses[20]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22PH22003.json",
+  "attachment_repo_id": "COURSES-946F2DCA1F16"
+}

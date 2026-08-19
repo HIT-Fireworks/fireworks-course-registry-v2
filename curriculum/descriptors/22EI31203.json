@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22EI31203",
+  "course_code": "22EI31203",
+  "course_name": "随机信号分析A",
+  "resource_group_id": "name-family-264f6f5d5a1cfa36",
+  "physical_repository_id": "physical-course-2656a175b646c69d",
+  "repo_id": "COURSES-2656A175B646",
+  "record_ids": [
+    "REC-0A9450D58C6AAE42",
+    "REC-712DBB37DC735CB5"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/129_2022版_20_20052_电子信息工程.toml#courses[44]",
+    "curriculum://hit-data/plans/135_2022版_20_20E052_电子信息工程.toml#courses[13]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EI31203.json",
+  "attachment_repo_id": "COURSES-2656A175B646"
+}

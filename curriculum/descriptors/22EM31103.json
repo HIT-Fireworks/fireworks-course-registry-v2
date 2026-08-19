@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EM31103",
+  "course_code": "22EM31103",
+  "course_name": "搜索引擎原理与技术",
+  "resource_group_id": "exact-name-70f9b10aed300fd3",
+  "physical_repository_id": "physical-course-8cab420ae310747b",
+  "repo_id": "COURSES-8CAB420AE310",
+  "record_ids": [
+    "REC-2B94A7A9AE3CD45E"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/047_2022版_07_07102_电子商务.toml#courses[49]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM31103.json",
+  "attachment_repo_id": "COURSES-8CAB420AE310"
+}

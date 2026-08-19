@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22EN22025",
+  "course_code": "22EN22025",
+  "course_name": "污染控制微生物学",
+  "resource_group_id": "exact-name-561c4f21b9f2740d",
+  "physical_repository_id": "physical-course-5c54c9a8516594fa",
+  "repo_id": "COURSES-5C54C9A85165",
+  "record_ids": [
+    "REC-4B644AE35424CC05",
+    "REC-7E02BA18E63BB359",
+    "REC-B7632A8807685B5E"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/139_2022版_27_27271_环境工程.toml#courses[38]",
+    "curriculum://hit-data/plans/140_2022版_27_27272_环境科学.toml#courses[36]",
+    "curriculum://hit-data/plans/141_2022版_27_27273_环境生态工程.toml#courses[38]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EN22025.json",
+  "attachment_repo_id": "COURSES-5C54C9A85165"
+}

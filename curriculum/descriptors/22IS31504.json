@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22IS31504",
+  "course_code": "22IS31504",
+  "course_name": "智能视觉感知与处理技术",
+  "resource_group_id": "exact-name-0d250720e8776068",
+  "physical_repository_id": "physical-course-2c608f332ac553b6",
+  "repo_id": "COURSES-2C608F332AC5",
+  "record_ids": [
+    "REC-E4AB59AA7B4FDC02"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/192_2022版_28_28015_智能感知工程.toml#courses[53]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22IS31504.json",
+  "attachment_repo_id": "COURSES-2C608F332AC5"
+}

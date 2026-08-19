@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:AS33123",
+  "course_code": "AS33123",
+  "course_name": "快速控制原型与硬件在环仿真技术",
+  "resource_group_id": "exact-name-47d467d46fcdd0ae",
+  "physical_repository_id": "physical-course-8c30cd8279559085",
+  "repo_id": "COURSES-8C30CD827955",
+  "record_ids": [
+    "REC-C2BAE9062D8CECF5"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/111_2022版_01_01E041_自动化.toml#courses[12]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/AS33123.json",
+  "attachment_repo_id": "COURSES-8C30CD827955"
+}

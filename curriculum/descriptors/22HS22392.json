@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22HS22392",
+  "course_code": "22HS22392",
+  "course_name": "民法总论",
+  "resource_group_id": "exact-name-002b75ba11b5e49d",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-16FED2F226CE4DF4"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/170_2022版_35_35E242_法学.toml#courses[2]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22HS22392.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

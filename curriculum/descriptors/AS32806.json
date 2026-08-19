@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:AS32806",
+  "course_code": "AS32806",
+  "course_name": "微电子器件原理",
+  "resource_group_id": "exact-name-e17e9f2e0d2d77ec",
+  "physical_repository_id": "physical-course-eb672dd1d03392f4",
+  "repo_id": "22AS31801",
+  "record_ids": [
+    "REC-9876485ABF66ED4A"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/112_2022版_01_01E214_微电子科学与工程.toml#courses[1]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/AS32806.json",
+  "attachment_repo_id": "22AS31801"
+}

@@ -1,0 +1,30 @@
+{
+  "descriptor_id": "course-code:22CC22015",
+  "course_code": "22CC22015",
+  "course_name": "有机化学B(1)",
+  "resource_group_id": "name-family-14d0520a21b042e1",
+  "physical_repository_id": "physical-course-c5123c976514837a",
+  "repo_id": "22CC22005F",
+  "record_ids": [
+    "REC-4AF5B6D0B042DB1E",
+    "REC-5E08B00921DB4356",
+    "REC-77F759E308994075",
+    "REC-94FB51CB25428C6C",
+    "REC-969A3F112291645E",
+    "REC-3752BEA2DF1F219E",
+    "REC-F87C945E14495232"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/117_2022版_25_25078_应用化学.toml#courses[30]",
+    "curriculum://hit-data/plans/119_2022版_25_25141_高分子材料与工程.toml#courses[31]",
+    "curriculum://hit-data/plans/120_2022版_25_25142_化学工程与工艺.toml#courses[30]",
+    "curriculum://hit-data/plans/121_2022版_25_25147_新能源材料与器件.toml#courses[30]",
+    "curriculum://hit-data/plans/179_2022版_37_37281_生物技术.toml#courses[27]",
+    "curriculum://hit-data/plans/180_2022版_37_37282_生物工程.toml#courses[27]",
+    "curriculum://hit-data/plans/181_2022版_37_37284_整合科学.toml#courses[27]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC22015.json",
+  "attachment_repo_id": "22CC22005F"
+}

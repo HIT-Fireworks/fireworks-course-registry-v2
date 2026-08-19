@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22MH22006",
+  "course_code": "22MH22006",
+  "course_name": "新医学科学与技术综合实验(2)",
+  "resource_group_id": "name-family-9bd08f597fc4e42a",
+  "physical_repository_id": "physical-course-ce4133cbe869b5fe",
+  "repo_id": "COURSES-CE4133CBE869",
+  "record_ids": [
+    "REC-08D01488FADD3438",
+    "REC-20EB582131ECBCAC",
+    "REC-C9E341DB6759D455"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/178_2022版_37_370341_生物信息学.toml#courses[33]",
+    "curriculum://hit-data/plans/182_2022版_37_37521_智能医学工程.toml#courses[32]",
+    "curriculum://hit-data/plans/183_2022版_37_37522_生物医学科学.toml#courses[33]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MH22006.json",
+  "attachment_repo_id": "COURSES-CE4133CBE869"
+}

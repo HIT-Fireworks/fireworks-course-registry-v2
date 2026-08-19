@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EN31017",
+  "course_code": "22EN31017",
+  "course_name": "城市供水系统智能化",
+  "resource_group_id": "exact-name-01f49e15cb977c71",
+  "physical_repository_id": "physical-course-5c54c9a8516594fa",
+  "repo_id": "COURSES-5C54C9A85165",
+  "record_ids": [
+    "REC-9D0AF3943AE6A95D"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/138_2022版_27_27252_城市水系统工程.toml#courses[47]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EN31017.json",
+  "attachment_repo_id": "COURSES-5C54C9A85165"
+}

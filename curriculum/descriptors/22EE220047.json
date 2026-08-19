@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EE220047",
+  "course_code": "22EE220047",
+  "course_name": "控制理论与实践B",
+  "resource_group_id": "name-family-d6dd6293d331970d",
+  "physical_repository_id": "physical-course-b52bf5ab97b3ac6c",
+  "repo_id": "22EE220047",
+  "record_ids": [
+    "REC-FFBF04A8146237FC"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/020_2022版_04_04025_核工程与核技术.toml#courses[31]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EE220047.json",
+  "attachment_repo_id": "22EE220047"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EM31911F",
+  "course_code": "22EM31911F",
+  "course_name": "数字治理",
+  "resource_group_id": "exact-name-54a0a171ea4cb8af",
+  "physical_repository_id": "physical-course-8cab420ae310747b",
+  "repo_id": "COURSES-8CAB420AE310",
+  "record_ids": [
+    "REC-E5E485A613626280"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/043_2022版_07_07F223_数字经济.toml#courses[5]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM31911F.json",
+  "attachment_repo_id": "COURSES-8CAB420AE310"
+}

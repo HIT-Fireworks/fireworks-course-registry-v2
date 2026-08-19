@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22MS31703",
+  "course_code": "22MS31703",
+  "course_name": "材料物理性能",
+  "resource_group_id": "name-family-4a453cf363c0ba21",
+  "physical_repository_id": "physical-course-daf704eee27b4a72",
+  "repo_id": "22AS31307",
+  "record_ids": [
+    "REC-9DD5D0BC68A6546E"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/030_2022版_03_03351_材料物理.toml#courses[42]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MS31703.json",
+  "attachment_repo_id": "22AS31307"
+}

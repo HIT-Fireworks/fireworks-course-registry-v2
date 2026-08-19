@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22ES22002F",
+  "course_code": "22ES22002F",
+  "course_name": "工程热力学",
+  "resource_group_id": "name-family-6b509dcca20ef62c",
+  "physical_repository_id": "physical-course-8c382f36d5d36bbf",
+  "repo_id": "22AR22202F",
+  "record_ids": [
+    "REC-7C4B3B15806FB440",
+    "REC-7F4C60E1D2569960",
+    "REC-E28A2355F9781E23"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/015_2022版_04_04F024_能源与动力工程.toml#courses[1]",
+    "curriculum://hit-data/plans/016_2022版_04_04F025_核工程与核技术.toml#courses[1]",
+    "curriculum://hit-data/plans/017_2022版_04_04F026_新能源科学与工程.toml#courses[1]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ES22002F.json",
+  "attachment_repo_id": "22AR22202F"
+}

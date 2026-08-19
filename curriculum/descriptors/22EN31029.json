@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EN31029",
+  "course_code": "22EN31029",
+  "course_name": "环境生态系统工程",
+  "resource_group_id": "exact-name-0c28f4b550cfba6f",
+  "physical_repository_id": "physical-course-5c54c9a8516594fa",
+  "repo_id": "COURSES-5C54C9A85165",
+  "record_ids": [
+    "REC-0D66A3468BE07B2B"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/141_2022版_27_27273_环境生态工程.toml#courses[51]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EN31029.json",
+  "attachment_repo_id": "COURSES-5C54C9A85165"
+}

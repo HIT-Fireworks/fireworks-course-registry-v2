@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22MH22001",
+  "course_code": "22MH22001",
+  "course_name": "新医学科学与技术导论",
+  "resource_group_id": "exact-name-1b57873fb1ddca81",
+  "physical_repository_id": "physical-course-ce4133cbe869b5fe",
+  "repo_id": "COURSES-CE4133CBE869",
+  "record_ids": [
+    "REC-84CF1E6822CEA86C",
+    "REC-94A13DA82744B698",
+    "REC-186AEA063DEC5A58"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/178_2022版_37_370341_生物信息学.toml#courses[19]",
+    "curriculum://hit-data/plans/182_2022版_37_37521_智能医学工程.toml#courses[13]",
+    "curriculum://hit-data/plans/183_2022版_37_37522_生物医学科学.toml#courses[13]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MH22001.json",
+  "attachment_repo_id": "COURSES-CE4133CBE869"
+}

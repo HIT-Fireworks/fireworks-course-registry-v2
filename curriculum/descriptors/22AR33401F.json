@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AR33401F",
+  "course_code": "22AR33401F",
+  "course_name": "毕业论文(设计)",
+  "resource_group_id": "exact-name-8db41f88b0b6c77e",
+  "physical_repository_id": "physical-course-2bcf14039c972840",
+  "repo_id": "22AR33001F",
+  "record_ids": [
+    "REC-236347EC0299ABF9"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/080_2022版_11B_11BF347_风景园林.toml#courses[11]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR33401F.json",
+  "attachment_repo_id": "22AR33001F"
+}

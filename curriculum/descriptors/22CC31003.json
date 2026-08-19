@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CC31003",
+  "course_code": "22CC31003",
+  "course_name": "高分子专业实验",
+  "resource_group_id": "exact-name-224592ec4f29887c",
+  "physical_repository_id": "physical-course-5af3514cbd507387",
+  "repo_id": "COURSES-5AF3514CBD50",
+  "record_ids": [
+    "REC-116933845D39D24A"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/119_2022版_25_25141_高分子材料与工程.toml#courses[50]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC31003.json",
+  "attachment_repo_id": "COURSES-5AF3514CBD50"
+}

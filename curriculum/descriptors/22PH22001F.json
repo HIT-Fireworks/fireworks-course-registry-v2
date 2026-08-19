@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22PH22001F",
+  "course_code": "22PH22001F",
+  "course_name": "原子物理",
+  "resource_group_id": "name-family-7f4fce80b0cf35a5",
+  "physical_repository_id": "physical-course-77ca38ad6055c9b6",
+  "repo_id": "22AS22701",
+  "record_ids": [
+    "REC-957B5FF24356B0B1"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/199_2022版_32_32F111_应用物理学.toml#courses[0]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22PH22001F.json",
+  "attachment_repo_id": "22AS22701"
+}

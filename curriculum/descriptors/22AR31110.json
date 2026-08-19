@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AR31110",
+  "course_code": "22AR31110",
+  "course_name": "建筑物理(热)",
+  "resource_group_id": "exact-name-cbdea1fbdb70cd4f",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-2F41118979815496"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/067_2022版_11B_11B341_建筑学.toml#courses[46]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR31110.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

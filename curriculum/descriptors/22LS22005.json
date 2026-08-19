@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22LS22005",
+  "course_code": "22LS22005",
+  "course_name": "生物大分子分析及检测",
+  "resource_group_id": "exact-name-0767134a154ccfe7",
+  "physical_repository_id": "physical-course-ce4133cbe869b5fe",
+  "repo_id": "COURSES-CE4133CBE869",
+  "record_ids": [
+    "REC-2B589F8930DC482E",
+    "REC-8F349FEE8015E269",
+    "REC-86FCF538D7198BD6"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/179_2022版_37_37281_生物技术.toml#courses[5]",
+    "curriculum://hit-data/plans/180_2022版_37_37282_生物工程.toml#courses[5]",
+    "curriculum://hit-data/plans/181_2022版_37_37284_整合科学.toml#courses[5]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22LS22005.json",
+  "attachment_repo_id": "COURSES-CE4133CBE869"
+}

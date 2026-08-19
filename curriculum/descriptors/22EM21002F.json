@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22EM21002F",
+  "course_code": "22EM21002F",
+  "course_name": "运筹学",
+  "resource_group_id": "name-family-679bf724ce0766f5",
+  "physical_repository_id": "physical-course-95dd39e5650fde9f",
+  "repo_id": "22CE22008F",
+  "record_ids": [
+    "REC-8EAA908511DD6C52",
+    "REC-64C1B812D7BF70E4",
+    "REC-644E038F0912A62D"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/039_2022版_07_07F101_信息管理与信息系统.toml#courses[2]",
+    "curriculum://hit-data/plans/040_2022版_07_07F102_电子商务.toml#courses[2]",
+    "curriculum://hit-data/plans/045_2022版_07_07F104_计算金融.toml#courses[0]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM21002F.json",
+  "attachment_repo_id": "22CE22008F"
+}

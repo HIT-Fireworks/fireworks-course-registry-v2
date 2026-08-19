@@ -1,0 +1,26 @@
+{
+  "descriptor_id": "course-code:22ME22019F",
+  "course_code": "22ME22019F",
+  "course_name": "机电系统控制基础",
+  "resource_group_id": "exact-name-3d969398e4c8c584",
+  "physical_repository_id": "physical-course-b988ae837c5cb613",
+  "repo_id": "22ME22019F",
+  "record_ids": [
+    "REC-03A5CEA5990B0880",
+    "REC-5D450DBF63D6DEC9",
+    "REC-68FA1DBF3A48184A",
+    "REC-C98D34C598B0E3EB",
+    "REC-EA87A4E05F2887DE"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/008_2022版_02_02F081_机械设计制造及其自动化.toml#courses[2]",
+    "curriculum://hit-data/plans/009_2022版_02_02F083_飞行器制造工程.toml#courses[4]",
+    "curriculum://hit-data/plans/011_2022版_02_02F085_机械电子工程.toml#courses[2]",
+    "curriculum://hit-data/plans/012_2022版_02_02F086_机器人工程.toml#courses[0]",
+    "curriculum://hit-data/plans/013_2022版_02_02F087_智能制造工程.toml#courses[2]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ME22019F.json",
+  "attachment_repo_id": "22ME22019F"
+}

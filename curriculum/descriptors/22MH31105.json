@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22MH31105",
+  "course_code": "22MH31105",
+  "course_name": "基因组信息学",
+  "resource_group_id": "exact-name-6c00355d56eab61f",
+  "physical_repository_id": "physical-course-ce4133cbe869b5fe",
+  "repo_id": "COURSES-CE4133CBE869",
+  "record_ids": [
+    "REC-C8D1FD1C3465D5DE"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/178_2022版_37_370341_生物信息学.toml#courses[47]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MH31105.json",
+  "attachment_repo_id": "COURSES-CE4133CBE869"
+}

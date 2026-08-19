@@ -1,0 +1,32 @@
+{
+  "descriptor_id": "course-code:22AR21002",
+  "course_code": "22AR21002",
+  "course_name": "专业认知实践",
+  "resource_group_id": "exact-name-726fcee8ac2bdaad",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-3B431D60505C6715",
+    "REC-05CEC225D003D01D",
+    "REC-34E0F171B11C0979",
+    "REC-302BA3BC0CC52969",
+    "REC-18743C1AF983944E",
+    "REC-72376EDBF451D6CF",
+    "REC-A8E9446808CBF457",
+    "REC-ABDE66EBB53A281C"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/064_2022版_11B_11B082_工业设计.toml#courses[23]",
+    "curriculum://hit-data/plans/065_2022版_11B_11B262_建筑环境与能源应用工程.toml#courses[23]",
+    "curriculum://hit-data/plans/066_2022版_11B_11B304_数字媒体艺术.toml#courses[23]",
+    "curriculum://hit-data/plans/067_2022版_11B_11B341_建筑学.toml#courses[23]",
+    "curriculum://hit-data/plans/068_2022版_11B_11B345_城乡规划.toml#courses[23]",
+    "curriculum://hit-data/plans/069_2022版_11B_11B346_环境设计.toml#courses[23]",
+    "curriculum://hit-data/plans/070_2022版_11B_11B347_风景园林.toml#courses[23]",
+    "curriculum://hit-data/plans/071_2022版_11B_11B348_智慧建筑与建造.toml#courses[23]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR21002.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

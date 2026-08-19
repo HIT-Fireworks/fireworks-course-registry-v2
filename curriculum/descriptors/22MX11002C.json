@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22MX11002C",
+  "course_code": "22MX11002C",
+  "course_name": "思想道德与法治",
+  "resource_group_id": "exact-name-0b69d84945c7dffa",
+  "physical_repository_id": "physical-course-f8fcee96f6ce77bd",
+  "repo_id": "22MX11002",
+  "record_ids": [
+    "REC-7C23E65C3AEB00F7",
+    "REC-F02EDE19591DEFE4",
+    "REC-F56F57C6E8584216"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/118_2022版_25_25079_化学（中外合作）.toml#courses[9]",
+    "curriculum://hit-data/plans/150_2022版_31_31126_数学与应用数学（中外合作）.toml#courses[19]",
+    "curriculum://hit-data/plans/198_2022版_32_32115_应用物理学（中外合作）.toml#courses[17]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MX11002C.json",
+  "attachment_repo_id": "22MX11002"
+}

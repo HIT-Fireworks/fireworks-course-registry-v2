@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22CS31200",
+  "course_code": "22CS31200",
+  "course_name": "网络攻防技术A",
+  "resource_group_id": "exact-name-0c5e9ac4706e5d40",
+  "physical_repository_id": "physical-course-13600abf0a9aaa2c",
+  "repo_id": "22CS31200",
+  "record_ids": [
+    "REC-69086AEF77316A7F",
+    "REC-D7E79369479A2F6A"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/086_2022版_13B_13B039_网络空间安全.toml#courses[35]",
+    "curriculum://hit-data/plans/155_2022版_31_31SXS121039_数学与应用数学（+网络空间安全双学士学位）.toml#courses[46]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CS31200.json",
+  "attachment_repo_id": "22CS31200"
+}

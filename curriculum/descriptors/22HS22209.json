@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22HS22209",
+  "course_code": "22HS22209",
+  "course_name": "财政学",
+  "resource_group_id": "name-family-fd3000f2e131081c",
+  "physical_repository_id": "physical-course-258913442e97f731",
+  "repo_id": "22EM22904",
+  "record_ids": [
+    "REC-388F5AAE90C75CFD"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/164_2022版_35_35232_经济学.toml#courses[41]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22HS22209.json",
+  "attachment_repo_id": "22EM22904"
+}

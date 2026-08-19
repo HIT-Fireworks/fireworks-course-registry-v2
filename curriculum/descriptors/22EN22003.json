@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EN22003",
+  "course_code": "22EN22003",
+  "course_name": "环境物理化学",
+  "resource_group_id": "exact-name-70efd4c948d649de",
+  "physical_repository_id": "physical-course-5c54c9a8516594fa",
+  "repo_id": "COURSES-5C54C9A85165",
+  "record_ids": [
+    "REC-2D4785D0BD85655F"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/142_2022版_27_27274_环境生态工程（鲍曼合作办学）.toml#courses[26]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EN22003.json",
+  "attachment_repo_id": "COURSES-5C54C9A85165"
+}

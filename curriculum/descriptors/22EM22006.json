@@ -1,0 +1,26 @@
+{
+  "descriptor_id": "course-code:22EM22006",
+  "course_code": "22EM22006",
+  "course_name": "多元统计与R建模",
+  "resource_group_id": "course-family-625f3baaf317c6e8",
+  "physical_repository_id": "physical-course-3e3fc0da40096819",
+  "repo_id": "22EM22006",
+  "record_ids": [
+    "REC-8A95BB2542D82E69",
+    "REC-A9C462CDF0BDF3BC",
+    "REC-AB123AAC0FCD4B6E",
+    "REC-C5EC6FC0806BF921",
+    "REC-D82ECC5FA2E2761C"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/046_2022版_07_07101_信息管理与信息系统.toml#courses[47]",
+    "curriculum://hit-data/plans/047_2022版_07_07102_电子商务.toml#courses[47]",
+    "curriculum://hit-data/plans/048_2022版_07_07103_大数据管理与应用.toml#courses[44]",
+    "curriculum://hit-data/plans/049_2022版_07_07104_计算金融.toml#courses[42]",
+    "curriculum://hit-data/plans/156_2022版_31_31SXS123104_统计学（+计算金融双学士学位）.toml#courses[41]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM22006.json",
+  "attachment_repo_id": "22EM22006"
+}

@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22AS31301",
+  "course_code": "22AS31301",
+  "course_name": "材料科学与工程基础II",
+  "resource_group_id": "name-family-52ca0fb7b635934f",
+  "physical_repository_id": "physical-course-c1be0e262f329124",
+  "repo_id": "22AS22302",
+  "record_ids": [
+    "REC-410A0054492AF946",
+    "REC-2639DF4816096F02"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/103_2022版_01_01184_复合材料与工程.toml#courses[40]",
+    "curriculum://hit-data/plans/106_2022版_01_011861_智能材料与结构.toml#courses[40]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS31301.json",
+  "attachment_repo_id": "22AS22302"
+}

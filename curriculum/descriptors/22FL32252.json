@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22FL32252",
+  "course_code": "22FL32252",
+  "course_name": "俄语实用口语1",
+  "resource_group_id": "course-family-29943241d1b36a1d",
+  "physical_repository_id": "physical-course-b2f4130da53ea2fb",
+  "repo_id": "COURSES-B2F4130DA53E",
+  "record_ids": [
+    "REC-37D2D77CA4353936"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/022_2022版_04_04027_飞行器动力工程（莫航联培班）.toml#courses[14]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22FL32252.json",
+  "attachment_repo_id": "COURSES-B2F4130DA53E"
+}

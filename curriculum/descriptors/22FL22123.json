@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22FL22123",
+  "course_code": "22FL22123",
+  "course_name": "思辨英语听力(社会与时事)",
+  "resource_group_id": "exact-name-77ce0b87cd511d50",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-0E37395FCC4649C8"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/157_2022版_35_35151_英语.toml#courses[14]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22FL22123.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

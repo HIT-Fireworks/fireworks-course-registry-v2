@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22IS22003F",
+  "course_code": "22IS22003F",
+  "course_name": "电磁场与电磁波",
+  "resource_group_id": "exact-name-da03fe276418d056",
+  "physical_repository_id": "physical-course-a84ef5d3c712c714",
+  "repo_id": "22EI22401",
+  "record_ids": [
+    "REC-BA725077014555FC"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/193_2022版_28_28F011_测控技术与仪器.toml#courses[2]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22IS22003F.json",
+  "attachment_repo_id": "22EI22401"
+}

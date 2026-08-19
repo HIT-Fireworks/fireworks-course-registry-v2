@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22TS31203",
+  "course_code": "22TS31203",
+  "course_name": "桥梁工程A",
+  "resource_group_id": "name-family-233bd797f1d65ac8",
+  "physical_repository_id": "physical-course-9c6503da11740603",
+  "repo_id": "COURSES-9C6503DA1174",
+  "record_ids": [
+    "REC-20280A7F24E0503B",
+    "REC-B1D1CCECC10AD5E5"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[330]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[331]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22TS31203.json",
+  "attachment_repo_id": "COURSES-9C6503DA1174"
+}

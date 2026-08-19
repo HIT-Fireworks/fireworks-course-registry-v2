@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22ME22401F",
+  "course_code": "22ME22401F",
+  "course_name": "运筹学",
+  "resource_group_id": "name-family-679bf724ce0766f5",
+  "physical_repository_id": "physical-course-95dd39e5650fde9f",
+  "repo_id": "22CE22008F",
+  "record_ids": [
+    "REC-9E770B2570CD08DB"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/010_2022版_02_02F084_工业工程.toml#courses[0]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ME22401F.json",
+  "attachment_repo_id": "22CE22008F"
+}

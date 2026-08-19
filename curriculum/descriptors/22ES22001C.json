@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22ES22001C",
+  "course_code": "22ES22001C",
+  "course_name": "成本管理基础",
+  "resource_group_id": "exact-name-69b45f54c5a022cc",
+  "physical_repository_id": "physical-course-fabc2915b57c2ea7",
+  "repo_id": "COURSES-FABC2915B57C",
+  "record_ids": [
+    "REC-5170AF2E7CFEB7BF"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/022_2022版_04_04027_飞行器动力工程（莫航联培班）.toml#courses[26]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ES22001C.json",
+  "attachment_repo_id": "COURSES-FABC2915B57C"
+}

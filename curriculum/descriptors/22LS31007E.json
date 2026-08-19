@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22LS31007E",
+  "course_code": "22LS31007E",
+  "course_name": "Neurobiology",
+  "resource_group_id": "exact-name-c62197ebfba6d0b0",
+  "physical_repository_id": "physical-course-ce4133cbe869b5fe",
+  "repo_id": "COURSES-CE4133CBE869",
+  "record_ids": [
+    "REC-7C01D699A2BDAAF1",
+    "REC-007C5A0813352AFA"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/179_2022版_37_37281_生物技术.toml#courses[50]",
+    "curriculum://hit-data/plans/186_2022版_37_37SXS281056_生物技术（+智能测控工程双学士学位）.toml#courses[52]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22LS31007E.json",
+  "attachment_repo_id": "COURSES-CE4133CBE869"
+}

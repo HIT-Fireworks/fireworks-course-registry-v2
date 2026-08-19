@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22LS31003",
+  "course_code": "22LS31003",
+  "course_name": "基因工程",
+  "resource_group_id": "exact-name-5ae411b392182ecc",
+  "physical_repository_id": "physical-course-ce4133cbe869b5fe",
+  "repo_id": "COURSES-CE4133CBE869",
+  "record_ids": [
+    "REC-2DDC8F99D9B75116",
+    "REC-F66EB4F096FA1A71"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/179_2022版_37_37281_生物技术.toml#courses[53]",
+    "curriculum://hit-data/plans/180_2022版_37_37282_生物工程.toml#courses[53]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22LS31003.json",
+  "attachment_repo_id": "COURSES-CE4133CBE869"
+}

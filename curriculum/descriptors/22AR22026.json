@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AR22026",
+  "course_code": "22AR22026",
+  "course_name": "热力学",
+  "resource_group_id": "exact-name-a534ec9e0195f90d",
+  "physical_repository_id": "physical-course-154d3b81cc9b56e5",
+  "repo_id": "COURSES-154D3B81CC9B",
+  "record_ids": [
+    "REC-8DA11C4E3153E596"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/142_2022版_27_27274_环境生态工程（鲍曼合作办学）.toml#courses[35]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR22026.json",
+  "attachment_repo_id": "COURSES-154D3B81CC9B"
+}

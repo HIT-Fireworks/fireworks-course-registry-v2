@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22ME31602",
+  "course_code": "22ME31602",
+  "course_name": "机器人学基础",
+  "resource_group_id": "exact-name-4763d0e35beb3120",
+  "physical_repository_id": "physical-course-ba01dac59cf290f5",
+  "repo_id": "22ME31602",
+  "record_ids": [
+    "REC-1AE20023780DA244"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/202_2022版_32_32SXS111086_应用物理学（+机器人工程双学士学位）.toml#courses[51]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ME31602.json",
+  "attachment_repo_id": "22ME31602"
+}

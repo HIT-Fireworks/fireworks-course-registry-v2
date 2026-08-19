@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CC31006",
+  "course_code": "22CC31006",
+  "course_name": "固体物理基础",
+  "resource_group_id": "exact-name-257894728f1571e4",
+  "physical_repository_id": "physical-course-5af3514cbd507387",
+  "repo_id": "COURSES-5AF3514CBD50",
+  "record_ids": [
+    "REC-E50A0F13980B34C8"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/121_2022版_25_25147_新能源材料与器件.toml#courses[51]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC31006.json",
+  "attachment_repo_id": "COURSES-5AF3514CBD50"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22ME31302",
+  "course_code": "22ME31302",
+  "course_name": "飞行器结构设计",
+  "resource_group_id": "exact-name-c2ddfa8e1969cbfb",
+  "physical_repository_id": "physical-course-669d2ec19f097658",
+  "repo_id": "COURSES-669D2EC19F09",
+  "record_ids": [
+    "REC-5DEABEA3ABDEAA23"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/003_2022版_02_020831_飞行器制造工程（强基计划）.toml#courses[56]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ME31302.json",
+  "attachment_repo_id": "COURSES-669D2EC19F09"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EN31040",
+  "course_code": "22EN31040",
+  "course_name": "水环境科学实验",
+  "resource_group_id": "exact-name-290ec88e26bb754e",
+  "physical_repository_id": "physical-course-5c54c9a8516594fa",
+  "repo_id": "COURSES-5C54C9A85165",
+  "record_ids": [
+    "REC-1122B719637C71D8"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/140_2022版_27_27272_环境科学.toml#courses[45]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EN31040.json",
+  "attachment_repo_id": "COURSES-5C54C9A85165"
+}

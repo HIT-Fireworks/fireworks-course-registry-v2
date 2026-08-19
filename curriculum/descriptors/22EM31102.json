@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22EM31102",
+  "course_code": "22EM31102",
+  "course_name": "面向对象程序设计",
+  "resource_group_id": "object-oriented-programming",
+  "physical_repository_id": "physical-course-8cab420ae310747b",
+  "repo_id": "COURSES-8CAB420AE310",
+  "record_ids": [
+    "REC-0866DA94DEC9460C",
+    "REC-D8B936EC4A7D4E5E"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/046_2022版_07_07101_信息管理与信息系统.toml#courses[43]",
+    "curriculum://hit-data/plans/047_2022版_07_07102_电子商务.toml#courses[43]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM31102.json",
+  "attachment_repo_id": "COURSES-8CAB420AE310"
+}

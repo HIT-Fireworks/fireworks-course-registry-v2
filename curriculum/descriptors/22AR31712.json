@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AR31712",
+  "course_code": "22AR31712",
+  "course_name": "智能媒体传播",
+  "resource_group_id": "exact-name-2069a89b6821bfcb",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-16FAB416D52297E6"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/066_2022版_11B_11B304_数字媒体艺术.toml#courses[54]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR31712.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

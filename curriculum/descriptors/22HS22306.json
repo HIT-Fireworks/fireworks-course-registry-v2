@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22HS22306",
+  "course_code": "22HS22306",
+  "course_name": "民法",
+  "resource_group_id": "exact-name-907c5e76d7ec23fe",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-9A46C0A8FA38E917"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/165_2022版_35_35242_法学.toml#courses[14]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22HS22306.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

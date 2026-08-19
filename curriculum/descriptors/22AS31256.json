@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AS31256",
+  "course_code": "22AS31256",
+  "course_name": "断裂与疲劳",
+  "resource_group_id": "exact-name-6eb66995abecef51",
+  "physical_repository_id": "physical-course-8c30cd8279559085",
+  "repo_id": "COURSES-8C30CD827955",
+  "record_ids": [
+    "REC-CB4FD48EA09CB814"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/107_2022版_01_01187_工程力学（强基计划）.toml#courses[48]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS31256.json",
+  "attachment_repo_id": "COURSES-8C30CD827955"
+}

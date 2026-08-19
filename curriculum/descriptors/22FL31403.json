@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22FL31403",
+  "course_code": "22FL31403",
+  "course_name": "国际新闻传播",
+  "resource_group_id": "exact-name-2c77de6feedd26de",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-CEED75A310364263"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/160_2022版_35_35154_国际组织与全球治理.toml#courses[50]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22FL31403.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

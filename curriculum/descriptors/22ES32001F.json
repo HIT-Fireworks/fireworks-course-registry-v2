@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22ES32001F",
+  "course_code": "22ES32001F",
+  "course_name": "冷热电联供技术",
+  "resource_group_id": "exact-name-887eca48c5f32a7a",
+  "physical_repository_id": "physical-course-5898931324a519b6",
+  "repo_id": "COURSES-5898931324A5",
+  "record_ids": [
+    "REC-6ABC83F352800EE8"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/055_2022版_05_05F064_能源互联网工程.toml#courses[10]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ES32001F.json",
+  "attachment_repo_id": "COURSES-5898931324A5"
+}

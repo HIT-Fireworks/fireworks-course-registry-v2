@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22CE33016",
+  "course_code": "22CE33016",
+  "course_name": "毕业论文(设计)",
+  "resource_group_id": "exact-name-8db41f88b0b6c77e",
+  "physical_repository_id": "physical-course-2bcf14039c972840",
+  "repo_id": "22AR33001F",
+  "record_ids": [
+    "REC-3DE68BC736BBB070",
+    "REC-C1AC524B36060067"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[192]",
+    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[193]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CE33016.json",
+  "attachment_repo_id": "22AR33001F"
+}

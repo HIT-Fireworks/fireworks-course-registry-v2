@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22EI31403",
+  "course_code": "22EI31403",
+  "course_name": "微波技术",
+  "resource_group_id": "exact-name-ce5b86f90762dd35",
+  "physical_repository_id": "physical-course-2656a175b646c69d",
+  "repo_id": "COURSES-2656A175B646",
+  "record_ids": [
+    "REC-1B51CEA9DCB4A5C7",
+    "REC-A707FF70E2EBB001"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/132_2022版_20_20055_电磁场与无线技术.toml#courses[45]",
+    "curriculum://hit-data/plans/135_2022版_20_20E052_电子信息工程.toml#courses[16]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EI31403.json",
+  "attachment_repo_id": "COURSES-2656A175B646"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AS22260",
+  "course_code": "22AS22260",
+  "course_name": "固体力学基础",
+  "resource_group_id": "exact-name-f7ef25f0a27a53af",
+  "physical_repository_id": "physical-course-8c30cd8279559085",
+  "repo_id": "COURSES-8C30CD827955",
+  "record_ids": [
+    "REC-AAEB726F370B1758"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/107_2022版_01_01187_工程力学（强基计划）.toml#courses[28]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS22260.json",
+  "attachment_repo_id": "COURSES-8C30CD827955"
+}

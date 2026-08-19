@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22PH22006F",
+  "course_code": "22PH22006F",
+  "course_name": "光学",
+  "resource_group_id": "exact-name-41e313bc2b36e5aa",
+  "physical_repository_id": "physical-course-946f2dca1f165881",
+  "repo_id": "COURSES-946F2DCA1F16",
+  "record_ids": [
+    "REC-694297836DAC23CD"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/200_2022版_32_32F114_光电信息科学与工程.toml#courses[0]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22PH22006F.json",
+  "attachment_repo_id": "COURSES-946F2DCA1F16"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EE31007F",
+  "course_code": "22EE31007F",
+  "course_name": "智能车辆环境感知技术",
+  "resource_group_id": "exact-name-82d89d605a665365",
+  "physical_repository_id": "physical-course-7742d3d9e18da027",
+  "repo_id": "COURSES-7742D3D9E18D",
+  "record_ids": [
+    "REC-28A39B8A2F4255DD"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/056_2022版_05_05F065S_智能网联车辆工程.toml#courses[7]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EE31007F.json",
+  "attachment_repo_id": "COURSES-7742D3D9E18D"
+}

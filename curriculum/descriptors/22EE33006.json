@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EE33006",
+  "course_code": "22EE33006",
+  "course_name": "电子设计创新实践",
+  "resource_group_id": "exact-name-2cf8b89dac4dc351",
+  "physical_repository_id": "physical-course-4692226dd28f0d33",
+  "repo_id": "COURSES-4692226DD28F",
+  "record_ids": [
+    "REC-AB68580620ECBBEA"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/201_2022版_32_32SXS111061_应用物理学（+电气工程及其自动化双学士学位）.toml#courses[53]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EE33006.json",
+  "attachment_repo_id": "COURSES-4692226DD28F"
+}

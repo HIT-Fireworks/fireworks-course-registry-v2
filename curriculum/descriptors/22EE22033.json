@@ -1,0 +1,26 @@
+{
+  "descriptor_id": "course-code:22EE22033",
+  "course_code": "22EE22033",
+  "course_name": "电工与电子技术实验E",
+  "resource_group_id": "name-family-8f520fb3fbfcd4d7",
+  "physical_repository_id": "physical-course-5fe85642c65e9d97",
+  "repo_id": "22EE22029",
+  "record_ids": [
+    "REC-9089EC2D10F686F3",
+    "REC-B0A86075A1B8A9DE",
+    "REC-B1CC376755841829",
+    "REC-E4C9B4C58C424B36",
+    "REC-FDE66A41834C4E36"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/116_2022版_25_25073_材料化学.toml#courses[40]",
+    "curriculum://hit-data/plans/117_2022版_25_25078_应用化学.toml#courses[41]",
+    "curriculum://hit-data/plans/119_2022版_25_25141_高分子材料与工程.toml#courses[34]",
+    "curriculum://hit-data/plans/120_2022版_25_25142_化学工程与工艺.toml#courses[41]",
+    "curriculum://hit-data/plans/121_2022版_25_25147_新能源材料与器件.toml#courses[41]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EE22033.json",
+  "attachment_repo_id": "22EE22029"
+}

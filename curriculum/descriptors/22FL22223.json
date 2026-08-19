@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22FL22223",
+  "course_code": "22FL22223",
+  "course_name": "高级俄语(2)",
+  "resource_group_id": "name-family-4f3b58cda69fbbe3",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-499D1961BCA3377E"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/158_2022版_35_35152_俄语.toml#courses[44]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22FL22223.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

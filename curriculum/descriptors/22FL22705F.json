@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22FL22705F",
+  "course_code": "22FL22705F",
+  "course_name": "日语视听说(2)",
+  "resource_group_id": "name-family-5866c3f8f1fffd7b",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-A620A0653C01721F"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/172_2022版_35_35F153_日语.toml#courses[4]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22FL22705F.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

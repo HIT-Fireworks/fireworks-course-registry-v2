@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22AS33302",
+  "course_code": "22AS33302",
+  "course_name": "毕业论文(设计)",
+  "resource_group_id": "exact-name-8db41f88b0b6c77e",
+  "physical_repository_id": "physical-course-2bcf14039c972840",
+  "repo_id": "22AR33001F",
+  "record_ids": [
+    "REC-DEE66218DEA1E8B3",
+    "REC-F091FFAC0CBEA643"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/103_2022版_01_01184_复合材料与工程.toml#courses[55]",
+    "curriculum://hit-data/plans/104_2022版_01_011841_复合材料与工程（强基计划）.toml#courses[54]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS33302.json",
+  "attachment_repo_id": "22AR33001F"
+}

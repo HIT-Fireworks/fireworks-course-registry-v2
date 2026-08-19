@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22ES22001F",
+  "course_code": "22ES22001F",
+  "course_name": "工程流体力学",
+  "resource_group_id": "exact-name-589885f41a9888e6",
+  "physical_repository_id": "physical-course-fabc2915b57c2ea7",
+  "repo_id": "COURSES-FABC2915B57C",
+  "record_ids": [
+    "REC-6C6BC4D0EB85AE71",
+    "REC-667C39177AC4DA92",
+    "REC-D6F9FC0FC0E63473"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/015_2022版_04_04F024_能源与动力工程.toml#courses[0]",
+    "curriculum://hit-data/plans/016_2022版_04_04F025_核工程与核技术.toml#courses[0]",
+    "curriculum://hit-data/plans/017_2022版_04_04F026_新能源科学与工程.toml#courses[0]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ES22001F.json",
+  "attachment_repo_id": "COURSES-FABC2915B57C"
+}

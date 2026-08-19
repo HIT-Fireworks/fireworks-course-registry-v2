@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22MA21002",
+  "course_code": "22MA21002",
+  "course_name": "数理方程",
+  "resource_group_id": "exact-name-9ede969f693041a6",
+  "physical_repository_id": "physical-course-4f546db2ccfec50b",
+  "repo_id": "COURSES-4F546DB2CCFE",
+  "record_ids": [
+    "REC-7A70456CD397786E",
+    "REC-0013F04E5452465C"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/108_2022版_01_01211_电子科学与技术.toml#courses[38]",
+    "curriculum://hit-data/plans/109_2022版_01_01213_光电信息科学与工程(光学工程方向).toml#courses[38]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MA21002.json",
+  "attachment_repo_id": "COURSES-4F546DB2CCFE"
+}

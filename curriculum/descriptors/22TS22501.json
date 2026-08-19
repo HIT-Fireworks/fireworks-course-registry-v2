@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22TS22501",
+  "course_code": "22TS22501",
+  "course_name": "信号与系统",
+  "resource_group_id": "signals-and-systems",
+  "physical_repository_id": "physical-course-163a6a5fce6b8e89",
+  "repo_id": "22EE22004F",
+  "record_ids": [
+    "REC-7860954D05F02DF7"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/096_2022版_12_12325_交通设备与控制工程.toml#courses[40]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22TS22501.json",
+  "attachment_repo_id": "22EE22004F"
+}

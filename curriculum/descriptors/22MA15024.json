@@ -1,0 +1,42 @@
+{
+  "descriptor_id": "course-code:22MA15024",
+  "course_code": "22MA15024",
+  "course_name": "概率论与数理统计B",
+  "resource_group_id": "probability-statistics",
+  "physical_repository_id": "physical-course-33af7db2100528bd",
+  "repo_id": "22MA15024",
+  "record_ids": [
+    "REC-9D69FBCC02AB8DD9",
+    "REC-227BBFAC793C5515",
+    "REC-900B3C699336589C",
+    "REC-979B675D0CC116F8",
+    "REC-1083FC434A80234B",
+    "REC-0329405901A1C6FB",
+    "REC-A53A2207FC0D2BCD",
+    "REC-BA1AD1769221D74D",
+    "REC-BD0F6DBE38B9C91F",
+    "REC-E81A00FAE02AD4BB",
+    "REC-EEF2802FF073C13E",
+    "REC-F3D296BEFFC9510F",
+    "REC-F51970C493654A45"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/053_2022版_05_05061_电气工程及其自动化.toml#courses[22]",
+    "curriculum://hit-data/plans/054_2022版_05_05062_建筑电气与智能化.toml#courses[22]",
+    "curriculum://hit-data/plans/098_2022版_01_01041_自动化.toml#courses[25]",
+    "curriculum://hit-data/plans/099_2022版_01_01042_探测制导与控制技术.toml#courses[25]",
+    "curriculum://hit-data/plans/100_2022版_01_01043_智能装备与系统.toml#courses[25]",
+    "curriculum://hit-data/plans/101_2022版_01_01182_飞行器设计与工程.toml#courses[25]",
+    "curriculum://hit-data/plans/102_2022版_01_01183_飞行器环境与生命保障工程.toml#courses[25]",
+    "curriculum://hit-data/plans/103_2022版_01_01184_复合材料与工程.toml#courses[42]",
+    "curriculum://hit-data/plans/105_2022版_01_01185_空间科学与技术.toml#courses[25]",
+    "curriculum://hit-data/plans/106_2022版_01_011861_智能材料与结构.toml#courses[42]",
+    "curriculum://hit-data/plans/108_2022版_01_01211_电子科学与技术.toml#courses[26]",
+    "curriculum://hit-data/plans/109_2022版_01_01213_光电信息科学与工程(光学工程方向).toml#courses[26]",
+    "curriculum://hit-data/plans/110_2022版_01_01214_微电子科学与工程.toml#courses[25]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MA15024.json",
+  "attachment_repo_id": "22MA15024"
+}

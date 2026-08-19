@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22PH31014",
+  "course_code": "22PH31014",
+  "course_name": "核物理专业实验",
+  "resource_group_id": "exact-name-d4bf63cbb4c57ebc",
+  "physical_repository_id": "physical-course-946f2dca1f165881",
+  "repo_id": "COURSES-946F2DCA1F16",
+  "record_ids": [
+    "REC-62D25ED3A3217308"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/196_2022版_32_32111_应用物理学.toml#courses[68]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22PH31014.json",
+  "attachment_repo_id": "COURSES-946F2DCA1F16"
+}

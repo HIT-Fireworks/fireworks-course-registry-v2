@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22EE22002",
+  "course_code": "22EE22002",
+  "course_name": "电路B",
+  "resource_group_id": "circuits-and-electronics",
+  "physical_repository_id": "physical-course-b2c702385929c267",
+  "repo_id": "22EE21002",
+  "record_ids": [
+    "REC-4F23657B7E81DF99",
+    "REC-A0ACA96F94F64AD4"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/110_2022版_01_01214_微电子科学与工程.toml#courses[22]",
+    "curriculum://hit-data/plans/203_2022版_32_32SXS111214_应用物理学（+微电子科学与工程双学士学位）.toml#courses[24]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EE22002.json",
+  "attachment_repo_id": "22EE21002"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EN31005F",
+  "course_code": "22EN31005F",
+  "course_name": "水工艺设备与控制(1)",
+  "resource_group_id": "name-family-716c7eb6f4e4a8bd",
+  "physical_repository_id": "physical-course-5c54c9a8516594fa",
+  "repo_id": "COURSES-5C54C9A85165",
+  "record_ids": [
+    "REC-6F99861349D59A72"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/143_2022版_27_27F251_给排水科学与工程.toml#courses[6]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EN31005F.json",
+  "attachment_repo_id": "COURSES-5C54C9A85165"
+}

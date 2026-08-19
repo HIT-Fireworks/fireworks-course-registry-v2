@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CC33001C",
+  "course_code": "22CC33001C",
+  "course_name": "毕业论文(设计)",
+  "resource_group_id": "exact-name-8db41f88b0b6c77e",
+  "physical_repository_id": "physical-course-2bcf14039c972840",
+  "repo_id": "22AR33001F",
+  "record_ids": [
+    "REC-FB9ECD4702D07E0F"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/118_2022版_25_25079_化学（中外合作）.toml#courses[70]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC33001C.json",
+  "attachment_repo_id": "22AR33001F"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22ES22007",
+  "course_code": "22ES22007",
+  "course_name": "核工程热流基础I",
+  "resource_group_id": "name-family-72eb1e62b7301e26",
+  "physical_repository_id": "physical-course-fabc2915b57c2ea7",
+  "repo_id": "COURSES-FABC2915B57C",
+  "record_ids": [
+    "REC-5327F907359B6DBA"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/020_2022版_04_04025_核工程与核技术.toml#courses[34]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ES22007.json",
+  "attachment_repo_id": "COURSES-FABC2915B57C"
+}

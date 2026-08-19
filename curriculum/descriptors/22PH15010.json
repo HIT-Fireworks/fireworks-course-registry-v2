@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22PH15010",
+  "course_code": "22PH15010",
+  "course_name": "大学物理A(1)",
+  "resource_group_id": "university-physics",
+  "physical_repository_id": "physical-course-74511df0269a32ee",
+  "repo_id": "22PH15001",
+  "record_ids": [
+    "REC-9BB2EB8DA1992F9A",
+    "REC-DCABE3898F6C73DC"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/020_2022版_04_04025_核工程与核技术.toml#courses[19]",
+    "curriculum://hit-data/plans/107_2022版_01_01187_工程力学（强基计划）.toml#courses[19]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22PH15010.json",
+  "attachment_repo_id": "22PH15001"
+}

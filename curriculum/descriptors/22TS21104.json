@@ -1,0 +1,28 @@
+{
+  "descriptor_id": "course-code:22TS21104",
+  "course_code": "22TS21104",
+  "course_name": "结构力学B",
+  "resource_group_id": "name-family-21c48353367aa2ac",
+  "physical_repository_id": "physical-course-035496ebab955954",
+  "repo_id": "22CE22001",
+  "record_ids": [
+    "REC-3BE6C3621CED05DA",
+    "REC-235D419F01E09CA4",
+    "REC-AD09A0D005DF1B28",
+    "REC-C26AC22BAB1D1E17",
+    "REC-C64622AF5BDF3B45",
+    "REC-DBE182EECEA63D10"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[222]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[223]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[224]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[225]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[226]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[227]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22TS21104.json",
+  "attachment_repo_id": "22CE22001"
+}

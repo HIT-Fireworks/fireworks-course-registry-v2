@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22MS33802",
+  "course_code": "22MS33802",
+  "course_name": "生产实习",
+  "resource_group_id": "exact-name-18527c31b7340394",
+  "physical_repository_id": "physical-course-4c7a9dcc47c4efc8",
+  "repo_id": "22AR33205",
+  "record_ids": [
+    "REC-1D69A2C61284E730"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/031_2022版_03_03443_光电信息材料与器件.toml#courses[53]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MS33802.json",
+  "attachment_repo_id": "22AR33205"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AS31203",
+  "course_code": "22AS31203",
+  "course_name": "机器学习",
+  "resource_group_id": "exact-name-e0ab0981aba5c06d",
+  "physical_repository_id": "physical-course-e0056db94b2201e3",
+  "repo_id": "22AS31203",
+  "record_ids": [
+    "REC-7774C6609272F0EA"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/100_2022版_01_01043_智能装备与系统.toml#courses[44]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS31203.json",
+  "attachment_repo_id": "22AS31203"
+}

@@ -1,0 +1,32 @@
+{
+  "descriptor_id": "course-code:22MA15014",
+  "course_code": "22MA15014",
+  "course_name": "文科数学",
+  "resource_group_id": "exact-name-734e23de490c1f87",
+  "physical_repository_id": "physical-course-49ab744f5c9740b9",
+  "repo_id": "22MA15014",
+  "record_ids": [
+    "REC-1BAB2DFF51665C1C",
+    "REC-4AABFE7F05245888",
+    "REC-8EB73C8E669A59FF",
+    "REC-4544457B481B6F4C",
+    "REC-C1A2FF29F06A50D5",
+    "REC-D88221B5E6BDBB25",
+    "REC-DFEE869C91496955",
+    "REC-F6F3F9FB73EDC015"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/066_2022版_11B_11B304_数字媒体艺术.toml#courses[5]",
+    "curriculum://hit-data/plans/069_2022版_11B_11B346_环境设计.toml#courses[4]",
+    "curriculum://hit-data/plans/157_2022版_35_35151_英语.toml#courses[7]",
+    "curriculum://hit-data/plans/158_2022版_35_35152_俄语.toml#courses[5]",
+    "curriculum://hit-data/plans/159_2022版_35_35153_日语.toml#courses[5]",
+    "curriculum://hit-data/plans/160_2022版_35_35154_国际组织与全球治理.toml#courses[7]",
+    "curriculum://hit-data/plans/165_2022版_35_35242_法学.toml#courses[23]",
+    "curriculum://hit-data/plans/187_2022版_49_49491_思想政治教育.toml#courses[4]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MA15014.json",
+  "attachment_repo_id": "22MA15014"
+}

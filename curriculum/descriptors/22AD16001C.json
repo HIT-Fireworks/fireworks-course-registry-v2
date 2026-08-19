@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22AD16001C",
+  "course_code": "22AD16001C",
+  "course_name": "军事理论",
+  "resource_group_id": "exact-name-8accb24f5a630b3a",
+  "physical_repository_id": "physical-course-5574174f091470e3",
+  "repo_id": "22AD16001",
+  "record_ids": [
+    "REC-0C0A653F0B01E94D",
+    "REC-9EDEA93D1649178B",
+    "REC-EE1DEE8D6BA966F4"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/118_2022版_25_25079_化学（中外合作）.toml#courses[1]",
+    "curriculum://hit-data/plans/150_2022版_31_31126_数学与应用数学（中外合作）.toml#courses[1]",
+    "curriculum://hit-data/plans/198_2022版_32_32115_应用物理学（中外合作）.toml#courses[1]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AD16001C.json",
+  "attachment_repo_id": "22AD16001"
+}

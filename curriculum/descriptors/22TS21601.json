@@ -1,0 +1,30 @@
+{
+  "descriptor_id": "course-code:22TS21601",
+  "course_code": "22TS21601",
+  "course_name": "测量学A",
+  "resource_group_id": "name-family-0097ebc26a1f26de",
+  "physical_repository_id": "physical-course-6eb40c489ce1bdc8",
+  "repo_id": "22EI31320",
+  "record_ids": [
+    "REC-20C15020F63A76F2",
+    "REC-97A3EC2B23D80E07",
+    "REC-258E9D5A8EB6211C",
+    "REC-286F808FA172D514",
+    "REC-A86F0E8C63A15EC4",
+    "REC-A550695C8DF43B9B",
+    "REC-F0AC0EDB8DAB595F"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[234]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[235]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[236]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[237]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[238]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[239]",
+    "curriculum://hit-data/plans/095_2022版_12_12322_交通工程.toml#courses[39]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22TS21601.json",
+  "attachment_repo_id": "22EI31320"
+}

@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22CS31201",
+  "course_code": "22CS31201",
+  "course_name": "软件安全与逆向分析A",
+  "resource_group_id": "exact-name-0d01fa6a58dbc46e",
+  "physical_repository_id": "physical-course-c1ac023b18075668",
+  "repo_id": "22CS31201",
+  "record_ids": [
+    "REC-804D0508AE306A31",
+    "REC-EF59DA772D265CD1"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/086_2022版_13B_13B039_网络空间安全.toml#courses[49]",
+    "curriculum://hit-data/plans/155_2022版_31_31SXS121039_数学与应用数学（+网络空间安全双学士学位）.toml#courses[47]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CS31201.json",
+  "attachment_repo_id": "22CS31201"
+}

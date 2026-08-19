@@ -1,0 +1,24 @@
+{
+  "descriptor_id": "course-code:22TS31111",
+  "course_code": "22TS31111",
+  "course_name": "土工试验",
+  "resource_group_id": "exact-name-3ad683521f8c0b64",
+  "physical_repository_id": "physical-course-9c6503da11740603",
+  "repo_id": "COURSES-9C6503DA1174",
+  "record_ids": [
+    "REC-069CF9964A96052F",
+    "REC-462B95A8F3D6CE17",
+    "REC-4505DC61D6FE55BE",
+    "REC-FD4177FC8124B5BA"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[292]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[293]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[294]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[295]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22TS31111.json",
+  "attachment_repo_id": "COURSES-9C6503DA1174"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CE22003F",
+  "course_code": "22CE22003F",
+  "course_name": "土力学",
+  "resource_group_id": "exact-name-895bf92e51965393",
+  "physical_repository_id": "physical-course-b8079c4567d697cd",
+  "repo_id": "COURSES-B8079C4567D6",
+  "record_ids": [
+    "REC-EB4013BCF29775C3"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/061_2022版_09_09F331_土木工程.toml#courses[2]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CE22003F.json",
+  "attachment_repo_id": "COURSES-B8079C4567D6"
+}

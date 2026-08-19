@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22PH22012C",
+  "course_code": "22PH22012C",
+  "course_name": "基础物理实验(4)",
+  "resource_group_id": "basic-physics-labs",
+  "physical_repository_id": "physical-course-946f2dca1f165881",
+  "repo_id": "COURSES-946F2DCA1F16",
+  "record_ids": [
+    "REC-C37C9754B3743658"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/198_2022版_32_32115_应用物理学（中外合作）.toml#courses[44]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22PH22012C.json",
+  "attachment_repo_id": "COURSES-946F2DCA1F16"
+}

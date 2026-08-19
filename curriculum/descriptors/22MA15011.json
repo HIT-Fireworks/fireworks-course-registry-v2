@@ -1,0 +1,38 @@
+{
+  "descriptor_id": "course-code:22MA15011",
+  "course_code": "22MA15011",
+  "course_name": "微积分F(1)",
+  "resource_group_id": "engineering-calculus",
+  "physical_repository_id": "physical-course-55b2b6e9b58d226b",
+  "repo_id": "22MA15001",
+  "record_ids": [
+    "REC-1EE2BC3E5D7FA2FE",
+    "REC-2F5CA0A596E4ABDB",
+    "REC-3C32E2877368A0EC",
+    "REC-4BEE7DA750F8B43D",
+    "REC-9DC5B0496E7DAF0A",
+    "REC-842F4F47761CFFD8",
+    "REC-7235DB23CB2AF0E1",
+    "REC-BBFDC6D21B2EF3FB",
+    "REC-C4A03B6632881723",
+    "REC-CE97D9791F4B19E2",
+    "REC-E6EE2C6187B65265"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/046_2022版_07_07101_信息管理与信息系统.toml#courses[5]",
+    "curriculum://hit-data/plans/047_2022版_07_07102_电子商务.toml#courses[5]",
+    "curriculum://hit-data/plans/048_2022版_07_07103_大数据管理与应用.toml#courses[5]",
+    "curriculum://hit-data/plans/049_2022版_07_07104_计算金融.toml#courses[5]",
+    "curriculum://hit-data/plans/050_2022版_07_07221_金融学.toml#courses[5]",
+    "curriculum://hit-data/plans/051_2022版_07_07222_国际经济与贸易.toml#courses[5]",
+    "curriculum://hit-data/plans/052_2022版_07_07223_数字经济.toml#courses[5]",
+    "curriculum://hit-data/plans/204_2022版_60_60201_工商管理.toml#courses[5]",
+    "curriculum://hit-data/plans/205_2022版_60_60202_市场营销.toml#courses[5]",
+    "curriculum://hit-data/plans/206_2022版_60_60203_会计学.toml#courses[5]",
+    "curriculum://hit-data/plans/207_2022版_60_60204_财务管理.toml#courses[5]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MA15011.json",
+  "attachment_repo_id": "22MA15001"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AR31004F",
+  "course_code": "22AR31004F",
+  "course_name": "能源系统监测与控制技术",
+  "resource_group_id": "exact-name-be464c29443a4c40",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-46A3A7AD5F41B383"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/074_2022版_11B_11BF263S_城市智慧能源网.toml#courses[6]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR31004F.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

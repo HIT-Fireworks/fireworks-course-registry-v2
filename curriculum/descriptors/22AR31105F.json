@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AR31105F",
+  "course_code": "22AR31105F",
+  "course_name": "建筑设计专题-5",
+  "resource_group_id": "course-family-d7e3665a0e879827",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-257ED7ACC6C556CC"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/077_2022版_11B_11BF341_建筑学.toml#courses[9]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR31105F.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

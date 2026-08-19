@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22FL22117",
+  "course_code": "22FL22117",
+  "course_name": "英语专业导论",
+  "resource_group_id": "exact-name-92e66d769c30a341",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-BBDBC1333E7E5897"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/157_2022版_35_35151_英语.toml#courses[5]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22FL22117.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

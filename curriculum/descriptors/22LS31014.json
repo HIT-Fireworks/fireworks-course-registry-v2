@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22LS31014",
+  "course_code": "22LS31014",
+  "course_name": "电磁生物学",
+  "resource_group_id": "exact-name-4253514b19ca3c5b",
+  "physical_repository_id": "physical-course-ce4133cbe869b5fe",
+  "repo_id": "COURSES-CE4133CBE869",
+  "record_ids": [
+    "REC-763CFBFAFC5CA283"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/181_2022版_37_37284_整合科学.toml#courses[56]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22LS31014.json",
+  "attachment_repo_id": "COURSES-CE4133CBE869"
+}

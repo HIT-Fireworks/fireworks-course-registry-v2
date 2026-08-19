@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22EN22014",
+  "course_code": "22EN22014",
+  "course_name": "环境化学",
+  "resource_group_id": "exact-name-f6e26f14891324b1",
+  "physical_repository_id": "physical-course-5c54c9a8516594fa",
+  "repo_id": "COURSES-5C54C9A85165",
+  "record_ids": [
+    "REC-6FE107D27FCD5D0C",
+    "REC-EE0A2AB2DA2C05EB",
+    "REC-F5F661396418E396"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/139_2022版_27_27271_环境工程.toml#courses[35]",
+    "curriculum://hit-data/plans/140_2022版_27_27272_环境科学.toml#courses[34]",
+    "curriculum://hit-data/plans/141_2022版_27_27273_环境生态工程.toml#courses[35]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EN22014.json",
+  "attachment_repo_id": "COURSES-5C54C9A85165"
+}

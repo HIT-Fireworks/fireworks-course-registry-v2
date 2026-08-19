@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EI31582F",
+  "course_code": "22EI31582F",
+  "course_name": "机器学习",
+  "resource_group_id": "exact-name-e0ab0981aba5c06d",
+  "physical_repository_id": "physical-course-e0056db94b2201e3",
+  "repo_id": "22AS31203",
+  "record_ids": [
+    "REC-19D90B1CF9E08F55"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/136_2022版_20_20F0501S_智能信息工程.toml#courses[2]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EI31582F.json",
+  "attachment_repo_id": "22AS31203"
+}

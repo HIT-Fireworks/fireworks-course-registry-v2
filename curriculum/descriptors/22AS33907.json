@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AS33907",
+  "course_code": "22AS33907",
+  "course_name": "毕业论文(设计)",
+  "resource_group_id": "exact-name-8db41f88b0b6c77e",
+  "physical_repository_id": "physical-course-2bcf14039c972840",
+  "repo_id": "22AR33001F",
+  "record_ids": [
+    "REC-E04E0D60083A7B04"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/109_2022版_01_01213_光电信息科学与工程(光学工程方向).toml#courses[61]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS33907.json",
+  "attachment_repo_id": "22AR33001F"
+}

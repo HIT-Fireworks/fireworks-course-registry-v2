@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22ES31005",
+  "course_code": "22ES31005",
+  "course_name": "航天电推进原理",
+  "resource_group_id": "exact-name-27169606fcb9454f",
+  "physical_repository_id": "physical-course-fabc2915b57c2ea7",
+  "repo_id": "COURSES-FABC2915B57C",
+  "record_ids": [
+    "REC-D10A5814FC165565"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/018_2022版_04_04022_飞行器动力工程.toml#courses[52]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ES31005.json",
+  "attachment_repo_id": "COURSES-FABC2915B57C"
+}

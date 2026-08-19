@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CC31024F",
+  "course_code": "22CC31024F",
+  "course_name": "基因的奥秘",
+  "resource_group_id": "exact-name-d3f65d8458d0db1d",
+  "physical_repository_id": "physical-course-5af3514cbd507387",
+  "repo_id": "COURSES-5AF3514CBD50",
+  "record_ids": [
+    "REC-4B941CD249146A5F"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/123_2022版_25_25F076_化学.toml#courses[7]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC31024F.json",
+  "attachment_repo_id": "COURSES-5AF3514CBD50"
+}

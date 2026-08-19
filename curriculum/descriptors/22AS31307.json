@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22AS31307",
+  "course_code": "22AS31307",
+  "course_name": "材料物理性能",
+  "resource_group_id": "name-family-4a453cf363c0ba21",
+  "physical_repository_id": "physical-course-daf704eee27b4a72",
+  "repo_id": "22AS31307",
+  "record_ids": [
+    "REC-B14F8A6B6308614E",
+    "REC-B699A0131F5A5926",
+    "REC-DE4A3CCC088DE608"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/103_2022版_01_01184_复合材料与工程.toml#courses[49]",
+    "curriculum://hit-data/plans/104_2022版_01_011841_复合材料与工程（强基计划）.toml#courses[47]",
+    "curriculum://hit-data/plans/106_2022版_01_011861_智能材料与结构.toml#courses[45]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS31307.json",
+  "attachment_repo_id": "22AS31307"
+}

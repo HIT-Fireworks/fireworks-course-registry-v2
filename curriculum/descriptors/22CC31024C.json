@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CC31024C",
+  "course_code": "22CC31024C",
+  "course_name": "化学科技俄语",
+  "resource_group_id": "exact-name-1c586f5a9faaf708",
+  "physical_repository_id": "physical-course-5af3514cbd507387",
+  "repo_id": "COURSES-5AF3514CBD50",
+  "record_ids": [
+    "REC-5DED2D1D76325D07"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/118_2022版_25_25079_化学（中外合作）.toml#courses[69]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC31024C.json",
+  "attachment_repo_id": "COURSES-5AF3514CBD50"
+}

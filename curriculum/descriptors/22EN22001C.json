@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EN22001C",
+  "course_code": "22EN22001C",
+  "course_name": "实践俄语1(俄)",
+  "resource_group_id": "course-family-d4a59bce950ee69e",
+  "physical_repository_id": "physical-course-5c54c9a8516594fa",
+  "repo_id": "COURSES-5C54C9A85165",
+  "record_ids": [
+    "REC-6B74AFF9E7E30D11"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/142_2022版_27_27274_环境生态工程（鲍曼合作办学）.toml#courses[8]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EN22001C.json",
+  "attachment_repo_id": "COURSES-5C54C9A85165"
+}

@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22ME22020",
+  "course_code": "22ME22020",
+  "course_name": "机械基础实验(机械原理B)",
+  "resource_group_id": "exact-name-3a77eb63cabff4dc",
+  "physical_repository_id": "physical-course-dff643133eef1410",
+  "repo_id": "COURSES-DFF643133EEF",
+  "record_ids": [
+    "REC-6F0AF661E93EC12B",
+    "REC-ACC5BC32714375B0",
+    "REC-BB90C115163F3FDA"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/098_2022版_01_01041_自动化.toml#courses[46]",
+    "curriculum://hit-data/plans/099_2022版_01_01042_探测制导与控制技术.toml#courses[46]",
+    "curriculum://hit-data/plans/100_2022版_01_01043_智能装备与系统.toml#courses[47]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ME22020.json",
+  "attachment_repo_id": "COURSES-DFF643133EEF"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22HS31409",
+  "course_code": "22HS31409",
+  "course_name": "中级阅读(下)",
+  "resource_group_id": "course-family-24e4ce9f3858666e",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-02631EA6438C3B7E"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/163_2022版_35_35163_汉语言文学.toml#courses[16]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22HS31409.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

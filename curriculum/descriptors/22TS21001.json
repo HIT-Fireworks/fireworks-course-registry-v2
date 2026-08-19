@@ -1,0 +1,32 @@
+{
+  "descriptor_id": "course-code:22TS21001",
+  "course_code": "22TS21001",
+  "course_name": "专业认知实习",
+  "resource_group_id": "exact-name-0b3820a0eaf8fef9",
+  "physical_repository_id": "physical-course-9c6503da11740603",
+  "repo_id": "COURSES-9C6503DA1174",
+  "record_ids": [
+    "REC-522C971E650C59FD",
+    "REC-695D1CEAC2ADAA35",
+    "REC-898E50A9F9B991A5",
+    "REC-9509C2253F1F7B59",
+    "REC-B459EAE12B36618A",
+    "REC-BC0D37D34D00CBB3",
+    "REC-F6E4FDEE051061F8",
+    "REC-FC577D72719A0FF6"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[126]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[127]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[128]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[129]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[130]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[131]",
+    "curriculum://hit-data/plans/095_2022版_12_12322_交通工程.toml#courses[22]",
+    "curriculum://hit-data/plans/096_2022版_12_12325_交通设备与控制工程.toml#courses[22]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22TS21001.json",
+  "attachment_repo_id": "COURSES-9C6503DA1174"
+}

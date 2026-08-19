@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22FL22702F",
+  "course_code": "22FL22702F",
+  "course_name": "基础日语实践(2)",
+  "resource_group_id": "name-family-37766401a1d2bfba",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-16F92A668AC56C7A"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/172_2022版_35_35F153_日语.toml#courses[1]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22FL22702F.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

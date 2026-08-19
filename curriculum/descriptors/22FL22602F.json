@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22FL22602F",
+  "course_code": "22FL22602F",
+  "course_name": "中西文化对比",
+  "resource_group_id": "exact-name-c661f1a9b85476e3",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-69A0AD239142CE69"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/173_2022版_35_35F154_国际组织与全球治理.toml#courses[1]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22FL22602F.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

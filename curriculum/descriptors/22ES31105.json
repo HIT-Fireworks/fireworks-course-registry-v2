@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22ES31105",
+  "course_code": "22ES31105",
+  "course_name": "飞行器光热特性建模与仿真",
+  "resource_group_id": "exact-name-f3df692e46a4394c",
+  "physical_repository_id": "physical-course-fabc2915b57c2ea7",
+  "repo_id": "COURSES-FABC2915B57C",
+  "record_ids": [
+    "REC-E255E67AE08BED11"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/014_2022版_04_04E024_能源与动力工程.toml#courses[10]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ES31105.json",
+  "attachment_repo_id": "COURSES-FABC2915B57C"
+}

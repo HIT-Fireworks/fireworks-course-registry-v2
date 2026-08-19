@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:CS34901",
+  "course_code": "CS34901",
+  "course_name": "企业短期实训",
+  "resource_group_id": "exact-name-8fdab4c8407e727b",
+  "physical_repository_id": "physical-course-bec2292f2bcd81f9",
+  "repo_id": "22CS31005",
+  "record_ids": [
+    "REC-8822CF076F64AFFD"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/090_2022版_13B_13BE035_数据科学与大数据技术.toml#courses[9]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/CS34901.json",
+  "attachment_repo_id": "22CS31005"
+}

@@ -1,0 +1,24 @@
+{
+  "descriptor_id": "course-code:22TS31311",
+  "course_code": "22TS31311",
+  "course_name": "水泥混凝土配合比设计试验",
+  "resource_group_id": "exact-name-02cd8428ebb251bb",
+  "physical_repository_id": "physical-course-9c6503da11740603",
+  "repo_id": "COURSES-9C6503DA1174",
+  "record_ids": [
+    "REC-2C8EEB28A04BA628",
+    "REC-2CC011A5200984D9",
+    "REC-257E84E3AC65464C",
+    "REC-C1CFB85BCEED1A28"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[256]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[257]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[258]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[259]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22TS31311.json",
+  "attachment_repo_id": "COURSES-9C6503DA1174"
+}

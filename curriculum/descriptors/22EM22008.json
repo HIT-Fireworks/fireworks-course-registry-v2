@@ -1,0 +1,26 @@
+{
+  "descriptor_id": "course-code:22EM22008",
+  "course_code": "22EM22008",
+  "course_name": "大数据互联网金融",
+  "resource_group_id": "exact-name-3979cbd198b3c028",
+  "physical_repository_id": "physical-course-e99be5334e44bf50",
+  "repo_id": "22EM22008",
+  "record_ids": [
+    "REC-1EE33822DA864BBE",
+    "REC-7FDBC9E16E82C213",
+    "REC-52DC5606138E7142",
+    "REC-C1426807BBCE82CE",
+    "REC-E832724C7D6A9D34"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/046_2022版_07_07101_信息管理与信息系统.toml#courses[40]",
+    "curriculum://hit-data/plans/047_2022版_07_07102_电子商务.toml#courses[41]",
+    "curriculum://hit-data/plans/048_2022版_07_07103_大数据管理与应用.toml#courses[37]",
+    "curriculum://hit-data/plans/049_2022版_07_07104_计算金融.toml#courses[40]",
+    "curriculum://hit-data/plans/156_2022版_31_31SXS123104_统计学（+计算金融双学士学位）.toml#courses[35]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM22008.json",
+  "attachment_repo_id": "22EM22008"
+}

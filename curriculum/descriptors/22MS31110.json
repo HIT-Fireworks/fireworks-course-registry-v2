@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22MS31110",
+  "course_code": "22MS31110",
+  "course_name": "材料热力学",
+  "resource_group_id": "exact-name-d542e12f407d2877",
+  "physical_repository_id": "physical-course-12af5bc572e71106",
+  "repo_id": "COURSES-12AF5BC572E7",
+  "record_ids": [
+    "REC-82720961C1F32E80",
+    "REC-E862E315967B8E35"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/026_2022版_03_03190_材料科学与工程.toml#courses[42]",
+    "curriculum://hit-data/plans/027_2022版_03_031911_材料科学与工程（强基计划）.toml#courses[42]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MS31110.json",
+  "attachment_repo_id": "COURSES-12AF5BC572E7"
+}

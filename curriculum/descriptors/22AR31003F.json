@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AR31003F",
+  "course_code": "22AR31003F",
+  "course_name": "现代供配电技术",
+  "resource_group_id": "exact-name-038ecd27e4810337",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-EBB768E4423B2CED"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/074_2022版_11B_11BF263S_城市智慧能源网.toml#courses[5]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR31003F.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

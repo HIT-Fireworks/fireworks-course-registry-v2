@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AR31111",
+  "course_code": "22AR31111",
+  "course_name": "建筑物理(声)",
+  "resource_group_id": "exact-name-17e1e0c21459aa3f",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-58DDB432A2623278"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/067_2022版_11B_11B341_建筑学.toml#courses[55]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR31111.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

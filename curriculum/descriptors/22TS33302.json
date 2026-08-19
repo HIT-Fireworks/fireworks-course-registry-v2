@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22TS33302",
+  "course_code": "22TS33302",
+  "course_name": "道路复合材料课程设计",
+  "resource_group_id": "exact-name-b542165c20316ef7",
+  "physical_repository_id": "physical-course-9c6503da11740603",
+  "repo_id": "COURSES-9C6503DA1174",
+  "record_ids": [
+    "REC-CBD91940DE5B81BA",
+    "REC-FFBC69603EE2D247"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[374]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[375]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22TS33302.json",
+  "attachment_repo_id": "COURSES-9C6503DA1174"
+}

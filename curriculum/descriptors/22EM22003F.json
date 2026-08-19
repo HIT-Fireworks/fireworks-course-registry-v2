@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EM22003F",
+  "course_code": "22EM22003F",
+  "course_name": "公共工程经济学",
+  "resource_group_id": "exact-name-9e7942d65e55c7eb",
+  "physical_repository_id": "physical-course-8cab420ae310747b",
+  "repo_id": "COURSES-8CAB420AE310",
+  "record_ids": [
+    "REC-A143F7BF8790F88F"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/044_2022版_07_07F206S_公共行政领导力.toml#courses[3]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM22003F.json",
+  "attachment_repo_id": "COURSES-8CAB420AE310"
+}

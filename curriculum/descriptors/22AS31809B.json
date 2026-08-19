@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AS31809B",
+  "course_code": "22AS31809B",
+  "course_name": "模拟集成电路设计基础B",
+  "resource_group_id": "course-family-4dc8170c51c939cb",
+  "physical_repository_id": "physical-course-e950c0f4dd3f760b",
+  "repo_id": "22AS31805B",
+  "record_ids": [
+    "REC-6E23C5C816E3695C"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/203_2022版_32_32SXS111214_应用物理学（+微电子科学与工程双学士学位）.toml#courses[54]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS31809B.json",
+  "attachment_repo_id": "22AS31805B"
+}

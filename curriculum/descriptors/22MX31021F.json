@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22MX31021F",
+  "course_code": "22MX31021F",
+  "course_name": "哲学与社会",
+  "resource_group_id": "exact-name-c0f5a2d1bd8a59da",
+  "physical_repository_id": "physical-course-c939a79f0c3a2bdb",
+  "repo_id": "COURSES-C939A79F0C3A",
+  "record_ids": [
+    "REC-758ED57757081FF4"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/189_2022版_49_49F493S_哲学.toml#courses[5]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MX31021F.json",
+  "attachment_repo_id": "COURSES-C939A79F0C3A"
+}

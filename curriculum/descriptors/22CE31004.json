@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22CE31004",
+  "course_code": "22CE31004",
+  "course_name": "基础工程B",
+  "resource_group_id": "name-family-a0552154da1cae11",
+  "physical_repository_id": "physical-course-b8079c4567d697cd",
+  "repo_id": "COURSES-B8079C4567D6",
+  "record_ids": [
+    "REC-2A5F7778A089673B",
+    "REC-11D03711F998ACDF",
+    "REC-96B416A8BCBCCED0"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[129]",
+    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[130]",
+    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[131]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CE31004.json",
+  "attachment_repo_id": "COURSES-B8079C4567D6"
+}

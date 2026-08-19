@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AR22015",
+  "course_code": "22AR22015",
+  "course_name": "现代景观思想",
+  "resource_group_id": "exact-name-17d39fea29915d43",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-7A1FC68569FBE30D"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/070_2022版_11B_11B347_风景园林.toml#courses[31]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR22015.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

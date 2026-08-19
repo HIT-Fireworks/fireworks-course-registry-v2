@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CS31250",
+  "course_code": "22CS31250",
+  "course_name": "信号与系统A",
+  "resource_group_id": "signals-and-systems",
+  "physical_repository_id": "physical-course-163a6a5fce6b8e89",
+  "repo_id": "22EE22004F",
+  "record_ids": [
+    "REC-21A35CE9B3D3987B"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/088_2022版_13B_13B373_物联网工程.toml#courses[36]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CS31250.json",
+  "attachment_repo_id": "22EE22004F"
+}

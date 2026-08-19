@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EM31105F",
+  "course_code": "22EM31105F",
+  "course_name": "文本分析与文本挖掘",
+  "resource_group_id": "exact-name-eab6a53c268aabab",
+  "physical_repository_id": "physical-course-dfd749228adf6536",
+  "repo_id": "22EM31105",
+  "record_ids": [
+    "REC-81FDC07481E00BAC"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/040_2022版_07_07F102_电子商务.toml#courses[8]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM31105F.json",
+  "attachment_repo_id": "22EM31105"
+}

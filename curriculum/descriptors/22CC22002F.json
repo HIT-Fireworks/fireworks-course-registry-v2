@@ -1,0 +1,28 @@
+{
+  "descriptor_id": "course-code:22CC22002F",
+  "course_code": "22CC22002F",
+  "course_name": "无机与分析化学",
+  "resource_group_id": "name-family-fdb785e7d02efef4",
+  "physical_repository_id": "physical-course-862afdde11f66d03",
+  "repo_id": "22CC21001",
+  "record_ids": [
+    "REC-6AE4D52B44552820",
+    "REC-7E637341575A264C",
+    "REC-66EE7129C486FFE8",
+    "REC-69EBCFA42BEC8B3B",
+    "REC-77256A64D2D8688C",
+    "REC-A9604AEB68D4D668"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/122_2022版_25_25F073_材料化学.toml#courses[1]",
+    "curriculum://hit-data/plans/123_2022版_25_25F076_化学.toml#courses[1]",
+    "curriculum://hit-data/plans/124_2022版_25_25F078_应用化学.toml#courses[1]",
+    "curriculum://hit-data/plans/125_2022版_25_25F141_高分子材料与工程.toml#courses[1]",
+    "curriculum://hit-data/plans/126_2022版_25_25F142_化学工程与工艺（电化学工程）.toml#courses[1]",
+    "curriculum://hit-data/plans/127_2022版_25_25F147_新能源材料与器件.toml#courses[0]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC22002F.json",
+  "attachment_repo_id": "22CC21001"
+}

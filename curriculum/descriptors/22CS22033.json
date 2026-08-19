@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22CS22033",
+  "course_code": "22CS22033",
+  "course_name": "算法设计与分析B",
+  "resource_group_id": "name-family-1864f4cf9969a2ff",
+  "physical_repository_id": "physical-course-7705047a4b0a65a1",
+  "repo_id": "22CS22005",
+  "record_ids": [
+    "REC-A9AF32E52BA8904D",
+    "REC-EB2F6BDD0CEABE21"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/089_2022版_13B_13BE031_计算机科学与技术.toml#courses[2]",
+    "curriculum://hit-data/plans/091_2022版_13B_13BE036_人工智能.toml#courses[2]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CS22033.json",
+  "attachment_repo_id": "22CS22005"
+}

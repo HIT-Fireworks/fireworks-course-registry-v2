@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EN33007",
+  "course_code": "22EN33007",
+  "course_name": "水质工程原理与系统模拟综合设计",
+  "resource_group_id": "exact-name-72a061cc64c84ad1",
+  "physical_repository_id": "physical-course-5c54c9a8516594fa",
+  "repo_id": "COURSES-5C54C9A85165",
+  "record_ids": [
+    "REC-A9F2F9C35882CEF6"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/138_2022版_27_27252_城市水系统工程.toml#courses[56]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EN33007.json",
+  "attachment_repo_id": "COURSES-5C54C9A85165"
+}

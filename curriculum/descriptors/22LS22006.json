@@ -1,0 +1,24 @@
+{
+  "descriptor_id": "course-code:22LS22006",
+  "course_code": "22LS22006",
+  "course_name": "实验室安全及基础实验训练",
+  "resource_group_id": "exact-name-040ed51378955898",
+  "physical_repository_id": "physical-course-ce4133cbe869b5fe",
+  "repo_id": "COURSES-CE4133CBE869",
+  "record_ids": [
+    "REC-4D82AAD978DE0F00",
+    "REC-5F3DFEED199C7239",
+    "REC-14C4A498269F2FEC",
+    "REC-295F202AE68C8276"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/179_2022版_37_37281_生物技术.toml#courses[6]",
+    "curriculum://hit-data/plans/180_2022版_37_37282_生物工程.toml#courses[6]",
+    "curriculum://hit-data/plans/181_2022版_37_37284_整合科学.toml#courses[6]",
+    "curriculum://hit-data/plans/186_2022版_37_37SXS281056_生物技术（+智能测控工程双学士学位）.toml#courses[5]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22LS22006.json",
+  "attachment_repo_id": "COURSES-CE4133CBE869"
+}

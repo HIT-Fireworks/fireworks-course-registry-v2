@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22ME31505F",
+  "course_code": "22ME31505F",
+  "course_name": "智能机电液系统设计与实践",
+  "resource_group_id": "exact-name-62d496f85163aa7d",
+  "physical_repository_id": "physical-course-669d2ec19f097658",
+  "repo_id": "COURSES-669D2EC19F09",
+  "record_ids": [
+    "REC-65AB4E7379709BE3"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/011_2022版_02_02F085_机械电子工程.toml#courses[8]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ME31505F.json",
+  "attachment_repo_id": "COURSES-669D2EC19F09"
+}

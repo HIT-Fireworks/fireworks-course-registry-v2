@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CE31023",
+  "course_code": "22CE31023",
+  "course_name": "混凝土结构基本原理B",
+  "resource_group_id": "course-family-559a305dd7b229e8",
+  "physical_repository_id": "physical-course-b8079c4567d697cd",
+  "repo_id": "COURSES-B8079C4567D6",
+  "record_ids": [
+    "REC-D7E326FBD6256B78"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/058_2022版_09_09334_城市地下空间工程.toml#courses[46]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CE31023.json",
+  "attachment_repo_id": "COURSES-B8079C4567D6"
+}

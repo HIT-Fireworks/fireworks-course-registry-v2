@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CS22004F",
+  "course_code": "22CS22004F",
+  "course_name": "数据结构与算法",
+  "resource_group_id": "name-family-46a793ce01d7a83f",
+  "physical_repository_id": "physical-course-6695c4b23e517967",
+  "repo_id": "22CS22004",
+  "record_ids": [
+    "REC-F49DDBCF25831337"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/093_2022版_13B_13BF036_人工智能.toml#courses[0]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CS22004F.json",
+  "attachment_repo_id": "22CS22004"
+}

@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22AS22703",
+  "course_code": "22AS22703",
+  "course_name": "物理光学",
+  "resource_group_id": "exact-name-3caf41b8ee8eb102",
+  "physical_repository_id": "physical-course-8c30cd8279559085",
+  "repo_id": "COURSES-8C30CD827955",
+  "record_ids": [
+    "REC-3B34F3919D09DDEE",
+    "REC-04E104FF4003CADD"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/108_2022版_01_01211_电子科学与技术.toml#courses[34]",
+    "curriculum://hit-data/plans/109_2022版_01_01213_光电信息科学与工程(光学工程方向).toml#courses[34]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS22703.json",
+  "attachment_repo_id": "COURSES-8C30CD827955"
+}

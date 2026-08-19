@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22EM21003F",
+  "course_code": "22EM21003F",
+  "course_name": "数据科学基础",
+  "resource_group_id": "exact-name-4368dfd396034917",
+  "physical_repository_id": "physical-course-8cab420ae310747b",
+  "repo_id": "COURSES-8CAB420AE310",
+  "record_ids": [
+    "REC-8D27E8A5450C0763",
+    "REC-9171CACFE255615F",
+    "REC-DA16363E010AAB17"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/039_2022版_07_07F101_信息管理与信息系统.toml#courses[3]",
+    "curriculum://hit-data/plans/040_2022版_07_07F102_电子商务.toml#courses[3]",
+    "curriculum://hit-data/plans/045_2022版_07_07F104_计算金融.toml#courses[2]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM21003F.json",
+  "attachment_repo_id": "COURSES-8CAB420AE310"
+}

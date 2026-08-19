@@ -1,0 +1,32 @@
+{
+  "descriptor_id": "course-code:22EI22401",
+  "course_code": "22EI22401",
+  "course_name": "电磁场与电磁波",
+  "resource_group_id": "exact-name-da03fe276418d056",
+  "physical_repository_id": "physical-course-a84ef5d3c712c714",
+  "repo_id": "22EI22401",
+  "record_ids": [
+    "REC-3C3384268E4ADDA4",
+    "REC-9C511C1B066FED5E",
+    "REC-376CB5F4C729733C",
+    "REC-7020B7429C9CB37C",
+    "REC-738772F212C10934",
+    "REC-BE18E3539D5B6045",
+    "REC-E685D4B18A3988DD",
+    "REC-F157C3F9D3AE5BEC"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/128_2022版_20_20051_通信工程.toml#courses[35]",
+    "curriculum://hit-data/plans/129_2022版_20_20052_电子信息工程.toml#courses[35]",
+    "curriculum://hit-data/plans/130_2022版_20_20053_信息对抗技术.toml#courses[35]",
+    "curriculum://hit-data/plans/131_2022版_20_20054_遥感科学与技术.toml#courses[35]",
+    "curriculum://hit-data/plans/132_2022版_20_20055_电磁场与无线技术.toml#courses[35]",
+    "curriculum://hit-data/plans/133_2022版_20_20056_智能测控工程.toml#courses[35]",
+    "curriculum://hit-data/plans/134_2022版_20_20E051_通信工程.toml#courses[1]",
+    "curriculum://hit-data/plans/135_2022版_20_20E052_电子信息工程.toml#courses[3]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EI22401.json",
+  "attachment_repo_id": "22EI22401"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AS22008",
+  "course_code": "22AS22008",
+  "course_name": "工程力学A",
+  "resource_group_id": "name-family-229d7063afa4d96f",
+  "physical_repository_id": "physical-course-76cbdc2fe609384d",
+  "repo_id": "22AS22008",
+  "record_ids": [
+    "REC-26C936C777A25FD9"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/022_2022版_04_04027_飞行器动力工程（莫航联培班）.toml#courses[25]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS22008.json",
+  "attachment_repo_id": "22AS22008"
+}

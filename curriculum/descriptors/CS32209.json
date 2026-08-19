@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:CS32209",
+  "course_code": "CS32209",
+  "course_name": "形式语言与自动机",
+  "resource_group_id": "exact-name-9f3362df23112f5d",
+  "physical_repository_id": "physical-course-bea2107ecc0d27b4",
+  "repo_id": "22CS22009",
+  "record_ids": [
+    "REC-E47893882ECE5E18"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/092_2022版_13B_13BE371_软件工程.toml#courses[9]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/CS32209.json",
+  "attachment_repo_id": "22CS22009"
+}

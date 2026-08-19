@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CC32001C",
+  "course_code": "22CC32001C",
+  "course_name": "综合俄语(3)",
+  "resource_group_id": "name-family-1c7f5f767634885f",
+  "physical_repository_id": "physical-course-5af3514cbd507387",
+  "repo_id": "COURSES-5AF3514CBD50",
+  "record_ids": [
+    "REC-4AF07A2DF4255E24"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/118_2022版_25_25079_化学（中外合作）.toml#courses[26]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC32001C.json",
+  "attachment_repo_id": "COURSES-5AF3514CBD50"
+}

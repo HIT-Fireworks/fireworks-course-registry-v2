@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AR31318",
+  "course_code": "22AR31318",
+  "course_name": "城乡规划前沿",
+  "resource_group_id": "exact-name-f7e9e95f93086fde",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-2A87EAA68B3EE7ED"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/068_2022版_11B_11B345_城乡规划.toml#courses[59]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR31318.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

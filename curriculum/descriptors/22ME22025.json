@@ -1,0 +1,30 @@
+{
+  "descriptor_id": "course-code:22ME22025",
+  "course_code": "22ME22025",
+  "course_name": "机电系统控制基础",
+  "resource_group_id": "exact-name-3d969398e4c8c584",
+  "physical_repository_id": "physical-course-b988ae837c5cb613",
+  "repo_id": "22ME22019F",
+  "record_ids": [
+    "REC-07BE30D16B779FD8",
+    "REC-8A72787278738F83",
+    "REC-2194A794EA87149E",
+    "REC-467171DC627AB6D0",
+    "REC-BD9F26C22216808F",
+    "REC-D26ADAF42E1E6E29",
+    "REC-F2BC95D7693FFEC0"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/001_2022版_02_02081_机械设计制造及其自动化.toml#courses[49]",
+    "curriculum://hit-data/plans/002_2022版_02_02083_飞行器制造工程.toml#courses[49]",
+    "curriculum://hit-data/plans/003_2022版_02_020831_飞行器制造工程（强基计划）.toml#courses[45]",
+    "curriculum://hit-data/plans/005_2022版_02_02085_机械电子工程.toml#courses[49]",
+    "curriculum://hit-data/plans/006_2022版_02_02086_机器人工程.toml#courses[49]",
+    "curriculum://hit-data/plans/007_2022版_02_02087_智能制造工程.toml#courses[49]",
+    "curriculum://hit-data/plans/202_2022版_32_32SXS111086_应用物理学（+机器人工程双学士学位）.toml#courses[44]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ME22025.json",
+  "attachment_repo_id": "22ME22019F"
+}

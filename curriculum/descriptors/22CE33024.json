@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CE33024",
+  "course_code": "22CE33024",
+  "course_name": "毕业论文(设计)",
+  "resource_group_id": "exact-name-8db41f88b0b6c77e",
+  "physical_repository_id": "physical-course-2bcf14039c972840",
+  "repo_id": "22AR33001F",
+  "record_ids": [
+    "REC-787500326BA6279A"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/058_2022版_09_09334_城市地下空间工程.toml#courses[60]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CE33024.json",
+  "attachment_repo_id": "22AR33001F"
+}

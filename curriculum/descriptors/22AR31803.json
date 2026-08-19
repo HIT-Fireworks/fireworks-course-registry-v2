@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AR31803",
+  "course_code": "22AR31803",
+  "course_name": "智慧建筑设计与建造-3",
+  "resource_group_id": "exact-name-ead0695e8064163c",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-91B96A2E75B2077C"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/071_2022版_11B_11B348_智慧建筑与建造.toml#courses[44]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR31803.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

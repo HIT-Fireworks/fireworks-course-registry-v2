@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EE22005F",
+  "course_code": "22EE22005F",
+  "course_name": "电力电子技术",
+  "resource_group_id": "exact-name-70536d133ac66417",
+  "physical_repository_id": "physical-course-8ce4659ea545736b",
+  "repo_id": "22EE22005F",
+  "record_ids": [
+    "REC-B39F16737BCEE0EE"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/055_2022版_05_05F064_能源互联网工程.toml#courses[7]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EE22005F.json",
+  "attachment_repo_id": "22EE22005F"
+}

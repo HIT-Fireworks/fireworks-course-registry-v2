@@ -1,0 +1,32 @@
+{
+  "descriptor_id": "course-code:22TS21605",
+  "course_code": "22TS21605",
+  "course_name": "测量学C",
+  "resource_group_id": "name-family-0097ebc26a1f26de",
+  "physical_repository_id": "physical-course-6eb40c489ce1bdc8",
+  "repo_id": "22EI31320",
+  "record_ids": [
+    "REC-0C633CC60C25E495",
+    "REC-0F9DD9C1543C1734",
+    "REC-8E351C7327895461",
+    "REC-29B957FFA7107574",
+    "REC-68CD278C34068464",
+    "REC-A01E53BD5881009E",
+    "REC-D7D7CF9AC384D1A9",
+    "REC-D7E446D1C80604EB"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[108]",
+    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[109]",
+    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[110]",
+    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[111]",
+    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[112]",
+    "curriculum://hit-data/plans/058_2022版_09_09334_城市地下空间工程.toml#courses[42]",
+    "curriculum://hit-data/plans/059_2022版_09_09335_工程管理.toml#courses[42]",
+    "curriculum://hit-data/plans/060_2022版_09_09336_智能建造.toml#courses[42]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22TS21605.json",
+  "attachment_repo_id": "22EI31320"
+}

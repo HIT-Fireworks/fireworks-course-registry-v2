@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22MA33004C",
+  "course_code": "22MA33004C",
+  "course_name": "生产实践(毕业资格准备)",
+  "resource_group_id": "exact-name-5a5b79ddd803610a",
+  "physical_repository_id": "physical-course-fe2c9066eed55ac5",
+  "repo_id": "COURSES-FE2C9066EED5",
+  "record_ids": [
+    "REC-4D8AA8D2B9EF602C"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/150_2022版_31_31126_数学与应用数学（中外合作）.toml#courses[59]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MA33004C.json",
+  "attachment_repo_id": "COURSES-FE2C9066EED5"
+}

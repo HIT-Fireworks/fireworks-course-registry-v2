@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EE33002",
+  "course_code": "22EE33002",
+  "course_name": "专业综合实践II",
+  "resource_group_id": "name-family-394d44c65ee3a99a",
+  "physical_repository_id": "physical-course-7742d3d9e18da027",
+  "repo_id": "COURSES-7742D3D9E18D",
+  "record_ids": [
+    "REC-11D167E15DB08959"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/053_2022版_05_05061_电气工程及其自动化.toml#courses[54]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EE33002.json",
+  "attachment_repo_id": "COURSES-7742D3D9E18D"
+}

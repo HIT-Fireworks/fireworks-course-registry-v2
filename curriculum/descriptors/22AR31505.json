@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AR31505",
+  "course_code": "22AR31505",
+  "course_name": "家具与陈设设计",
+  "resource_group_id": "exact-name-123bb9081013a7fd",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-99A4B3202F3C4092"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/069_2022版_11B_11B346_环境设计.toml#courses[41]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR31505.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

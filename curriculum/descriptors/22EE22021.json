@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22EE22021",
+  "course_code": "22EE22021",
+  "course_name": "电路实验A(1)",
+  "resource_group_id": "name-family-f94dbd93e2aa76cd",
+  "physical_repository_id": "physical-course-3de1c94db652fddb",
+  "repo_id": "22EE22021",
+  "record_ids": [
+    "REC-5EBD4ECFF0967129",
+    "REC-D213457A0106C4C2"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/053_2022版_05_05061_电气工程及其自动化.toml#courses[30]",
+    "curriculum://hit-data/plans/054_2022版_05_05062_建筑电气与智能化.toml#courses[30]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EE22021.json",
+  "attachment_repo_id": "22EE22021"
+}

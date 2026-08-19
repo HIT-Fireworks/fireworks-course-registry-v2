@@ -1,0 +1,24 @@
+{
+  "descriptor_id": "course-code:22AR31118",
+  "course_code": "22AR31118",
+  "course_name": "开放式研究型设计",
+  "resource_group_id": "exact-name-fad7a48444e39cc3",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-56B9B371C253E5EF",
+    "REC-425D640A23AAD3F0",
+    "REC-9195C42CC509F08E",
+    "REC-139012702FA17DDE"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/067_2022版_11B_11B341_建筑学.toml#courses[59]",
+    "curriculum://hit-data/plans/068_2022版_11B_11B345_城乡规划.toml#courses[61]",
+    "curriculum://hit-data/plans/069_2022版_11B_11B346_环境设计.toml#courses[47]",
+    "curriculum://hit-data/plans/070_2022版_11B_11B347_风景园林.toml#courses[59]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR31118.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

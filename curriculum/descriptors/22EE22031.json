@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22EE22031",
+  "course_code": "22EE22031",
+  "course_name": "电路与电子技术实验C",
+  "resource_group_id": "name-family-5961a8455c0580a6",
+  "physical_repository_id": "physical-course-46a9ab5f50284b47",
+  "repo_id": "22EE22031",
+  "record_ids": [
+    "REC-7A885BD3EC21F281",
+    "REC-C645C8EF4C5A0312",
+    "REC-CCFF9E9216D87EC6"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/103_2022版_01_01184_复合材料与工程.toml#courses[24]",
+    "curriculum://hit-data/plans/104_2022版_01_011841_复合材料与工程（强基计划）.toml#courses[24]",
+    "curriculum://hit-data/plans/106_2022版_01_011861_智能材料与结构.toml#courses[24]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EE22031.json",
+  "attachment_repo_id": "22EE22031"
+}

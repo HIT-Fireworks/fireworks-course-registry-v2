@@ -1,0 +1,34 @@
+{
+  "descriptor_id": "course-code:22CS33900",
+  "course_code": "22CS33900",
+  "course_name": "毕业论文(设计)",
+  "resource_group_id": "exact-name-8db41f88b0b6c77e",
+  "physical_repository_id": "physical-course-2bcf14039c972840",
+  "repo_id": "22AR33001F",
+  "record_ids": [
+    "REC-4EC07D1086AEEF86",
+    "REC-08B1FAA101D20A02",
+    "REC-12F71F6EF1D7A9CD",
+    "REC-51EB2CFC3916080C",
+    "REC-570C36AA0E4FA212",
+    "REC-4476DFE618D9BD6A",
+    "REC-AFF32B01402E9380",
+    "REC-B1F61463D40447D0",
+    "REC-C27244B5C3545B46"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/082_2022版_13B_13B031_计算机科学与技术.toml#courses[53]",
+    "curriculum://hit-data/plans/083_2022版_13B_13B032_信息安全.toml#courses[53]",
+    "curriculum://hit-data/plans/084_2022版_13B_13B035_数据科学与大数据技术.toml#courses[53]",
+    "curriculum://hit-data/plans/085_2022版_13B_13B036_人工智能.toml#courses[53]",
+    "curriculum://hit-data/plans/086_2022版_13B_13B039_网络空间安全.toml#courses[53]",
+    "curriculum://hit-data/plans/087_2022版_13B_13B371_软件工程.toml#courses[53]",
+    "curriculum://hit-data/plans/088_2022版_13B_13B373_物联网工程.toml#courses[53]",
+    "curriculum://hit-data/plans/089_2022版_13B_13BE031_计算机科学与技术.toml#courses[14]",
+    "curriculum://hit-data/plans/091_2022版_13B_13BE036_人工智能.toml#courses[14]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CS33900.json",
+  "attachment_repo_id": "22AR33001F"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CS31152",
+  "course_code": "22CS31152",
+  "course_name": "网络与系统安全A",
+  "resource_group_id": "exact-name-a94ee631111146e7",
+  "physical_repository_id": "physical-course-bc87c0351d93e4c1",
+  "repo_id": "COURSES-BC87C0351D93",
+  "record_ids": [
+    "REC-DBDD836081775C2D"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/083_2022版_13B_13B032_信息安全.toml#courses[49]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CS31152.json",
+  "attachment_repo_id": "COURSES-BC87C0351D93"
+}

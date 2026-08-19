@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22EM21901F",
+  "course_code": "22EM21901F",
+  "course_name": "宏观经济学",
+  "resource_group_id": "name-family-eaf4a24ed9e1e7bd",
+  "physical_repository_id": "physical-course-1b9ed676c43a2ae5",
+  "repo_id": "22EM21901F",
+  "record_ids": [
+    "REC-14B2F26BA7EC3A5D",
+    "REC-665C137DEDF1B83B"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/042_2022版_07_07F222_国际经济与贸易.toml#courses[0]",
+    "curriculum://hit-data/plans/043_2022版_07_07F223_数字经济.toml#courses[0]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM21901F.json",
+  "attachment_repo_id": "22EM21901F"
+}

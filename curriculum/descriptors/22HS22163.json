@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22HS22163",
+  "course_code": "22HS22163",
+  "course_name": "古典社会学理论A",
+  "resource_group_id": "name-family-c71ae85951823c4d",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-3159F224F05B7648"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/167_2022版_35_35E161_社会学.toml#courses[2]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22HS22163.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

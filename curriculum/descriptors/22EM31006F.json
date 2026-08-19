@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22EM31006F",
+  "course_code": "22EM31006F",
+  "course_name": "数据管理",
+  "resource_group_id": "exact-name-9bb882c6229ac143",
+  "physical_repository_id": "physical-course-5534693d7b1fe5a5",
+  "repo_id": "22EM22005",
+  "record_ids": [
+    "REC-9F3FCC5232A1FA0B",
+    "REC-EAD5774B3FBB2074"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/039_2022版_07_07F101_信息管理与信息系统.toml#courses[1]",
+    "curriculum://hit-data/plans/040_2022版_07_07F102_电子商务.toml#courses[1]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM31006F.json",
+  "attachment_repo_id": "22EM22005"
+}

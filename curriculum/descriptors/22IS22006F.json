@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22IS22006F",
+  "course_code": "22IS22006F",
+  "course_name": "嵌入式系统及应用",
+  "resource_group_id": "exact-name-3c8d2a2b6950e543",
+  "physical_repository_id": "physical-course-b648a8668e93f8a3",
+  "repo_id": "22AS31806",
+  "record_ids": [
+    "REC-7B0123E7D8F517C1",
+    "REC-6346610D6478EB4C"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/193_2022版_28_28F011_测控技术与仪器.toml#courses[3]",
+    "curriculum://hit-data/plans/195_2022版_28_28F015_智能感知工程.toml#courses[0]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22IS22006F.json",
+  "attachment_repo_id": "22AS31806"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EN31080C",
+  "course_code": "22EN31080C",
+  "course_name": "污染控制微生物学",
+  "resource_group_id": "exact-name-561c4f21b9f2740d",
+  "physical_repository_id": "physical-course-5c54c9a8516594fa",
+  "repo_id": "COURSES-5C54C9A85165",
+  "record_ids": [
+    "REC-290C610292A31800"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/142_2022版_27_27274_环境生态工程（鲍曼合作办学）.toml#courses[49]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EN31080C.json",
+  "attachment_repo_id": "COURSES-5C54C9A85165"
+}

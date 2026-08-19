@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22FL31105",
+  "course_code": "22FL31105",
+  "course_name": "跨文化交际A",
+  "resource_group_id": "name-family-a011cd1fcf15be9b",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-9BC7147AC203012C"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/157_2022版_35_35151_英语.toml#courses[37]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22FL31105.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

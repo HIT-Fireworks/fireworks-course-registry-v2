@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22ME31104F",
+  "course_code": "22ME31104F",
+  "course_name": "先进加工技术",
+  "resource_group_id": "exact-name-2f63f2dd919c3844",
+  "physical_repository_id": "physical-course-669d2ec19f097658",
+  "repo_id": "COURSES-669D2EC19F09",
+  "record_ids": [
+    "REC-CD9EAE98BC18F404"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/008_2022版_02_02F081_机械设计制造及其自动化.toml#courses[7]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ME31104F.json",
+  "attachment_repo_id": "COURSES-669D2EC19F09"
+}

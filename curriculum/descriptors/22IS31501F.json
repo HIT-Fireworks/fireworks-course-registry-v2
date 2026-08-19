@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22IS31501F",
+  "course_code": "22IS31501F",
+  "course_name": "感知材料与器件",
+  "resource_group_id": "exact-name-73ed6b59a69c0fc5",
+  "physical_repository_id": "physical-course-2c608f332ac553b6",
+  "repo_id": "COURSES-2C608F332AC5",
+  "record_ids": [
+    "REC-7811984A4781FC5F"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/195_2022版_28_28F015_智能感知工程.toml#courses[7]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22IS31501F.json",
+  "attachment_repo_id": "COURSES-2C608F332AC5"
+}

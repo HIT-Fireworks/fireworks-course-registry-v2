@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EM31948",
+  "course_code": "22EM31948",
+  "course_name": "数理经济学I",
+  "resource_group_id": "exact-name-7fb3e916de349b06",
+  "physical_repository_id": "physical-course-8cab420ae310747b",
+  "repo_id": "COURSES-8CAB420AE310",
+  "record_ids": [
+    "REC-22CDF0F5282C0D2A"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/052_2022版_07_07223_数字经济.toml#courses[48]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM31948.json",
+  "attachment_repo_id": "COURSES-8CAB420AE310"
+}

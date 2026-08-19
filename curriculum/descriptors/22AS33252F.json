@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22AS33252F",
+  "course_code": "22AS33252F",
+  "course_name": "毕业论文(设计)",
+  "resource_group_id": "exact-name-8db41f88b0b6c77e",
+  "physical_repository_id": "physical-course-2bcf14039c972840",
+  "repo_id": "22AR33001F",
+  "record_ids": [
+    "REC-4290B9C47EDCB382",
+    "REC-D0477B18CAA10F49"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/114_2022版_01_01F181_工程力学.toml#courses[22]",
+    "curriculum://hit-data/plans/114_2022版_01_01F181_工程力学.toml#courses[23]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS33252F.json",
+  "attachment_repo_id": "22AR33001F"
+}

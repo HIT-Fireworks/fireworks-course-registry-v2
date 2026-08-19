@@ -1,0 +1,26 @@
+{
+  "descriptor_id": "course-code:22PH32011",
+  "course_code": "22PH32011",
+  "course_name": "物理前沿与科学思想",
+  "resource_group_id": "exact-name-9b1da87445fe03ba",
+  "physical_repository_id": "physical-course-946f2dca1f165881",
+  "repo_id": "COURSES-946F2DCA1F16",
+  "record_ids": [
+    "REC-450710D00C4FDB1F",
+    "REC-37179404D955133F",
+    "REC-A6AF2F108C0E773D",
+    "REC-D687F95D43DBC8C7",
+    "REC-FD0DCEEFECE944A0"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/196_2022版_32_32111_应用物理学.toml#courses[47]",
+    "curriculum://hit-data/plans/197_2022版_32_32114_光电信息科学与工程.toml#courses[48]",
+    "curriculum://hit-data/plans/201_2022版_32_32SXS111061_应用物理学（+电气工程及其自动化双学士学位）.toml#courses[57]",
+    "curriculum://hit-data/plans/202_2022版_32_32SXS111086_应用物理学（+机器人工程双学士学位）.toml#courses[57]",
+    "curriculum://hit-data/plans/203_2022版_32_32SXS111214_应用物理学（+微电子科学与工程双学士学位）.toml#courses[59]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22PH32011.json",
+  "attachment_repo_id": "COURSES-946F2DCA1F16"
+}

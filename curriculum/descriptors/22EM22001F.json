@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EM22001F",
+  "course_code": "22EM22001F",
+  "course_name": "公共事务治理与领导力",
+  "resource_group_id": "exact-name-00b76b491d5505df",
+  "physical_repository_id": "physical-course-8cab420ae310747b",
+  "repo_id": "COURSES-8CAB420AE310",
+  "record_ids": [
+    "REC-883748E16568BCDA"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/044_2022版_07_07F206S_公共行政领导力.toml#courses[0]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM22001F.json",
+  "attachment_repo_id": "COURSES-8CAB420AE310"
+}

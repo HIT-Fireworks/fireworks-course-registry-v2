@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22ES31202",
+  "course_code": "22ES31202",
+  "course_name": "流体传动及控制系统",
+  "resource_group_id": "exact-name-3810bc84b662a71b",
+  "physical_repository_id": "physical-course-fabc2915b57c2ea7",
+  "repo_id": "COURSES-FABC2915B57C",
+  "record_ids": [
+    "REC-DD0D1C443FC82D7A"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/014_2022版_04_04E024_能源与动力工程.toml#courses[12]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ES31202.json",
+  "attachment_repo_id": "COURSES-FABC2915B57C"
+}

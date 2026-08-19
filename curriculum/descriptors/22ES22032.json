@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22ES22032",
+  "course_code": "22ES22032",
+  "course_name": "工程热力学D",
+  "resource_group_id": "name-family-6b509dcca20ef62c",
+  "physical_repository_id": "physical-course-8c382f36d5d36bbf",
+  "repo_id": "22AR22202F",
+  "record_ids": [
+    "REC-8E4974935E9A459C"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/104_2022版_01_011841_复合材料与工程（强基计划）.toml#courses[33]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ES22032.json",
+  "attachment_repo_id": "22AR22202F"
+}

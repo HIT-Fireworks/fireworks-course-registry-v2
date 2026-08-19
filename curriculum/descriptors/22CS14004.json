@@ -1,0 +1,24 @@
+{
+  "descriptor_id": "course-code:22CS14004",
+  "course_code": "22CS14004",
+  "course_name": "计算思维与人工智能",
+  "resource_group_id": "exact-name-ac73f345ac9ba1d3",
+  "physical_repository_id": "physical-course-cac05364617a18dc",
+  "repo_id": "22CS14004",
+  "record_ids": [
+    "REC-9E2EB23787C7838B",
+    "REC-466BA16777214477",
+    "REC-A1787FA6B1DC8886",
+    "REC-B832E3AAE2A278F6"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/156_2022版_31_31SXS123104_统计学（+计算金融双学士学位）.toml#courses[8]",
+    "curriculum://hit-data/plans/176_2022版_35_35SXS161101_社会学（+信息管理与信息系统双学士学位）.toml#courses[3]",
+    "curriculum://hit-data/plans/177_2022版_35_35SXS161103_社会学（+大数据管理与应用双学士学位）.toml#courses[3]",
+    "curriculum://hit-data/plans/202_2022版_32_32SXS111086_应用物理学（+机器人工程双学士学位）.toml#courses[3]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CS14004.json",
+  "attachment_repo_id": "22CS14004"
+}

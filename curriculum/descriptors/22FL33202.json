@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22FL33202",
+  "course_code": "22FL33202",
+  "course_name": "毕业实习",
+  "resource_group_id": "exact-name-144c5c83446ec6f9",
+  "physical_repository_id": "physical-course-df0239d8456d3d0d",
+  "repo_id": "22AS33251",
+  "record_ids": [
+    "REC-64BC45B88EDA28FC"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/158_2022版_35_35152_俄语.toml#courses[47]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22FL33202.json",
+  "attachment_repo_id": "22AS33251"
+}

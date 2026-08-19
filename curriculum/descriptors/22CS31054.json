@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22CS31054",
+  "course_code": "22CS31054",
+  "course_name": "智能系统设计与实践",
+  "resource_group_id": "exact-name-4dd7bd1105718e06",
+  "physical_repository_id": "physical-course-bc87c0351d93e4c1",
+  "repo_id": "COURSES-BC87C0351D93",
+  "record_ids": [
+    "REC-3CF12FC1332DDF06",
+    "REC-13ACD724B80DCBF8"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/085_2022版_13B_13B036_人工智能.toml#courses[52]",
+    "curriculum://hit-data/plans/091_2022版_13B_13BE036_人工智能.toml#courses[13]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CS31054.json",
+  "attachment_repo_id": "COURSES-BC87C0351D93"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22FL22604F",
+  "course_code": "22FL22604F",
+  "course_name": "世界通史",
+  "resource_group_id": "exact-name-897e0295a5d24178",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-135692E1DB961C10"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/173_2022版_35_35F154_国际组织与全球治理.toml#courses[3]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22FL22604F.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

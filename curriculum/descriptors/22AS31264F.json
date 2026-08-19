@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22AS31264F",
+  "course_code": "22AS31264F",
+  "course_name": "实验力学",
+  "resource_group_id": "exact-name-48b7311394b090af",
+  "physical_repository_id": "physical-course-350ae2898f314cd7",
+  "repo_id": "22AS31254",
+  "record_ids": [
+    "REC-6F0CABCB440FB332",
+    "REC-785C4D8027703F3B"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/114_2022版_01_01F181_工程力学.toml#courses[18]",
+    "curriculum://hit-data/plans/114_2022版_01_01F181_工程力学.toml#courses[19]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS31264F.json",
+  "attachment_repo_id": "22AS31254"
+}

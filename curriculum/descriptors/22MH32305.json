@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22MH32305",
+  "course_code": "22MH32305",
+  "course_name": "生物医学科学综合实验",
+  "resource_group_id": "exact-name-ad17db721779b7fb",
+  "physical_repository_id": "physical-course-ce4133cbe869b5fe",
+  "repo_id": "COURSES-CE4133CBE869",
+  "record_ids": [
+    "REC-CE70D7FA5D0749D0"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/183_2022版_37_37522_生物医学科学.toml#courses[50]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MH32305.json",
+  "attachment_repo_id": "COURSES-CE4133CBE869"
+}

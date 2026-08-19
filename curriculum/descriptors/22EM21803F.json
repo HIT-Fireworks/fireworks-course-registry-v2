@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22EM21803F",
+  "course_code": "22EM21803F",
+  "course_name": "金融时间序列分析",
+  "resource_group_id": "exact-name-181d1edd61e98e59",
+  "physical_repository_id": "physical-course-19f91852219f04f6",
+  "repo_id": "22EM21803F",
+  "record_ids": [
+    "REC-AA54163D2D24AAC7",
+    "REC-F7C5352107FC812C"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/041_2022版_07_07F221_金融学.toml#courses[1]",
+    "curriculum://hit-data/plans/045_2022版_07_07F104_计算金融.toml#courses[4]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM21803F.json",
+  "attachment_repo_id": "22EM21803F"
+}

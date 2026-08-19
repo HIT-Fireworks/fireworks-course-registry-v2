@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22AR22009",
+  "course_code": "22AR22009",
+  "course_name": "建筑材料",
+  "resource_group_id": "exact-name-d5f0629926f34104",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-6456880BC3471334",
+    "REC-D63E27C3E4F92FBC"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/067_2022版_11B_11B341_建筑学.toml#courses[30]",
+    "curriculum://hit-data/plans/071_2022版_11B_11B348_智慧建筑与建造.toml#courses[30]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR22009.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

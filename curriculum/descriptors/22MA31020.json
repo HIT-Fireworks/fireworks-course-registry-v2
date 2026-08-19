@@ -1,0 +1,24 @@
+{
+  "descriptor_id": "course-code:22MA31020",
+  "course_code": "22MA31020",
+  "course_name": "数理统计",
+  "resource_group_id": "exact-name-49ef3bbf59820076",
+  "physical_repository_id": "physical-course-fe2c9066eed55ac5",
+  "repo_id": "COURSES-FE2C9066EED5",
+  "record_ids": [
+    "REC-4A1265C34B064C60",
+    "REC-4E1FAD7CF31FD66B",
+    "REC-A633C03621361D2D",
+    "REC-FD7F08B091BB3CEF"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/147_2022版_31_31121_数学与应用数学.toml#courses[41]",
+    "curriculum://hit-data/plans/148_2022版_31_31122_信息与计算科学.toml#courses[41]",
+    "curriculum://hit-data/plans/149_2022版_31_31123_统计学.toml#courses[40]",
+    "curriculum://hit-data/plans/156_2022版_31_31SXS123104_统计学（+计算金融双学士学位）.toml#courses[51]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MA31020.json",
+  "attachment_repo_id": "COURSES-FE2C9066EED5"
+}

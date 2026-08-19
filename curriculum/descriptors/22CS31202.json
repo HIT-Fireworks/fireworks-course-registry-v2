@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CS31202",
+  "course_code": "22CS31202",
+  "course_name": "互联网基础设施安全A",
+  "resource_group_id": "exact-name-c4e6a859cc86b9bc",
+  "physical_repository_id": "physical-course-bc87c0351d93e4c1",
+  "repo_id": "COURSES-BC87C0351D93",
+  "record_ids": [
+    "REC-1E1147BD72E0C1EA"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/086_2022版_13B_13B039_网络空间安全.toml#courses[44]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CS31202.json",
+  "attachment_repo_id": "COURSES-BC87C0351D93"
+}

@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22AR22010",
+  "course_code": "22AR22010",
+  "course_name": "BIM设计基础",
+  "resource_group_id": "exact-name-347ac5e3284111c0",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-3D4AB466FE95FFAE",
+    "REC-8AE937E90611A129",
+    "REC-23EBFA3E1AE8BCC2"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/067_2022版_11B_11B341_建筑学.toml#courses[31]",
+    "curriculum://hit-data/plans/068_2022版_11B_11B345_城乡规划.toml#courses[30]",
+    "curriculum://hit-data/plans/069_2022版_11B_11B346_环境设计.toml#courses[31]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR22010.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

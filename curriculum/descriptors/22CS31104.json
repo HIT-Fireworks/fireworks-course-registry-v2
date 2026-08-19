@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22CS31104",
+  "course_code": "22CS31104",
+  "course_name": "大数据综合实践",
+  "resource_group_id": "exact-name-1bdb324a839bbdec",
+  "physical_repository_id": "physical-course-bc87c0351d93e4c1",
+  "repo_id": "COURSES-BC87C0351D93",
+  "record_ids": [
+    "REC-1D4EBF0EA976583E",
+    "REC-01102E8457D8721B"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/084_2022版_13B_13B035_数据科学与大数据技术.toml#courses[52]",
+    "curriculum://hit-data/plans/090_2022版_13B_13BE035_数据科学与大数据技术.toml#courses[14]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CS31104.json",
+  "attachment_repo_id": "COURSES-BC87C0351D93"
+}

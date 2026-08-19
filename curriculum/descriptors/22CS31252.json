@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CS31252",
+  "course_code": "22CS31252",
+  "course_name": "物联网系统A",
+  "resource_group_id": "exact-name-849aa125838cc8b4",
+  "physical_repository_id": "physical-course-bc87c0351d93e4c1",
+  "repo_id": "COURSES-BC87C0351D93",
+  "record_ids": [
+    "REC-B014A88702E49B94"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/088_2022版_13B_13B373_物联网工程.toml#courses[49]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CS31252.json",
+  "attachment_repo_id": "COURSES-BC87C0351D93"
+}

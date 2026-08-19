@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22MX32015",
+  "course_code": "22MX32015",
+  "course_name": "教育学概论",
+  "resource_group_id": "exact-name-13eb17a876b4339c",
+  "physical_repository_id": "physical-course-c939a79f0c3a2bdb",
+  "repo_id": "COURSES-C939A79F0C3A",
+  "record_ids": [
+    "REC-9CDCEB2B8B4C127E"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/188_2022版_49_49E491_思想政治教育.toml#courses[5]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MX32015.json",
+  "attachment_repo_id": "COURSES-C939A79F0C3A"
+}

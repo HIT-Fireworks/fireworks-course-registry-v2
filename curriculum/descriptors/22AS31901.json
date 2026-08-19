@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AS31901",
+  "course_code": "22AS31901",
+  "course_name": "光电测试技术",
+  "resource_group_id": "exact-name-fcbc6e12fe69d725",
+  "physical_repository_id": "physical-course-8c30cd8279559085",
+  "repo_id": "COURSES-8C30CD827955",
+  "record_ids": [
+    "REC-0E7A56A71BE3878A"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/109_2022版_01_01213_光电信息科学与工程(光学工程方向).toml#courses[44]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS31901.json",
+  "attachment_repo_id": "COURSES-8C30CD827955"
+}

@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22AS22701",
+  "course_code": "22AS22701",
+  "course_name": "原子物理",
+  "resource_group_id": "name-family-7f4fce80b0cf35a5",
+  "physical_repository_id": "physical-course-77ca38ad6055c9b6",
+  "repo_id": "22AS22701",
+  "record_ids": [
+    "REC-3EF641DF478045DD",
+    "REC-B1C022DCC4E43D46"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/108_2022版_01_01211_电子科学与技术.toml#courses[33]",
+    "curriculum://hit-data/plans/109_2022版_01_01213_光电信息科学与工程(光学工程方向).toml#courses[33]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS22701.json",
+  "attachment_repo_id": "22AS22701"
+}

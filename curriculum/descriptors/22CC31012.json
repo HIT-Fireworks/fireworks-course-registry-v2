@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CC31012",
+  "course_code": "22CC31012",
+  "course_name": "能源系统智能管理",
+  "resource_group_id": "exact-name-8c473823ece26f66",
+  "physical_repository_id": "physical-course-5af3514cbd507387",
+  "repo_id": "COURSES-5AF3514CBD50",
+  "record_ids": [
+    "REC-CC01A3B7CE7E6465"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/121_2022版_25_25147_新能源材料与器件.toml#courses[55]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC31012.json",
+  "attachment_repo_id": "COURSES-5AF3514CBD50"
+}

@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22AR22014",
+  "course_code": "22AR22014",
+  "course_name": "城市发展与规划史-1",
+  "resource_group_id": "exact-name-d39002f119231bba",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-083BD9A5D04D9349",
+    "REC-220E4728A4CAF7A9",
+    "REC-B95B1254DFED86A2"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/068_2022版_11B_11B345_城乡规划.toml#courses[31]",
+    "curriculum://hit-data/plans/069_2022版_11B_11B346_环境设计.toml#courses[32]",
+    "curriculum://hit-data/plans/070_2022版_11B_11B347_风景园林.toml#courses[30]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR22014.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

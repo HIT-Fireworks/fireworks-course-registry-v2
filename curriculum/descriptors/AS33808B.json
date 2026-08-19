@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:AS33808B",
+  "course_code": "AS33808B",
+  "course_name": "微处理器结构(双语)",
+  "resource_group_id": "exact-name-6807be2f319548f0",
+  "physical_repository_id": "physical-course-8c30cd8279559085",
+  "repo_id": "COURSES-8C30CD827955",
+  "record_ids": [
+    "REC-BDD2728DFBCA2848"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/112_2022版_01_01E214_微电子科学与工程.toml#courses[10]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/AS33808B.json",
+  "attachment_repo_id": "COURSES-8C30CD827955"
+}

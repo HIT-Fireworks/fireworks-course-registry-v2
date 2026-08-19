@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22EE22010",
+  "course_code": "22EE22010",
+  "course_name": "电工与电子技术A",
+  "resource_group_id": "circuits-and-electronics",
+  "physical_repository_id": "physical-course-b2c702385929c267",
+  "repo_id": "22EE21002",
+  "record_ids": [
+    "REC-1BFF3DA0B2DAC6E1",
+    "REC-F68F3A265063729F"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/020_2022版_04_04025_核工程与核技术.toml#courses[32]",
+    "curriculum://hit-data/plans/142_2022版_27_27274_环境生态工程（鲍曼合作办学）.toml#courses[25]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EE22010.json",
+  "attachment_repo_id": "22EE21002"
+}

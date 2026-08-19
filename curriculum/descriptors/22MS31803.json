@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22MS31803",
+  "course_code": "22MS31803",
+  "course_name": "高等量子力学",
+  "resource_group_id": "exact-name-878e9992873aabac",
+  "physical_repository_id": "physical-course-12af5bc572e71106",
+  "repo_id": "COURSES-12AF5BC572E7",
+  "record_ids": [
+    "REC-975A984689ED7EFB"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/031_2022版_03_03443_光电信息材料与器件.toml#courses[45]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MS31803.json",
+  "attachment_repo_id": "COURSES-12AF5BC572E7"
+}

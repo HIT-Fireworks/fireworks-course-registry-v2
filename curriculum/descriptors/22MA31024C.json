@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22MA31024C",
+  "course_code": "22MA31024C",
+  "course_name": "近世代数",
+  "resource_group_id": "exact-name-cb6514b83c55bf73",
+  "physical_repository_id": "physical-course-fe2c9066eed55ac5",
+  "repo_id": "COURSES-FE2C9066EED5",
+  "record_ids": [
+    "REC-4A0741941F793E88"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/150_2022版_31_31126_数学与应用数学（中外合作）.toml#courses[42]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MA31024C.json",
+  "attachment_repo_id": "COURSES-FE2C9066EED5"
+}

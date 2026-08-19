@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22MA15022",
+  "course_code": "22MA15022",
+  "course_name": "代数与几何H",
+  "resource_group_id": "linear-algebra-geometry",
+  "physical_repository_id": "physical-course-ea2973d0bf9112ea",
+  "repo_id": "22MA15017",
+  "record_ids": [
+    "REC-38EA23B37106F5C1",
+    "REC-80A4886AF7D12016",
+    "REC-99B8DCF379E11FE7"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/162_2022版_35_35161_社会学.toml#courses[7]",
+    "curriculum://hit-data/plans/164_2022版_35_35232_经济学.toml#courses[7]",
+    "curriculum://hit-data/plans/165_2022版_35_35242_法学.toml#courses[32]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MA15022.json",
+  "attachment_repo_id": "22MA15017"
+}

@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22ES22016",
+  "course_code": "22ES22016",
+  "course_name": "气体动力学",
+  "resource_group_id": "exact-name-e8c6610585825b2f",
+  "physical_repository_id": "physical-course-fabc2915b57c2ea7",
+  "repo_id": "COURSES-FABC2915B57C",
+  "record_ids": [
+    "REC-22B34223B185EFBA",
+    "REC-63064CEEFB584AE8",
+    "REC-B52903957C31FB9F"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/014_2022版_04_04E024_能源与动力工程.toml#courses[2]",
+    "curriculum://hit-data/plans/018_2022版_04_04022_飞行器动力工程.toml#courses[42]",
+    "curriculum://hit-data/plans/019_2022版_04_04024_能源与动力工程.toml#courses[42]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ES22016.json",
+  "attachment_repo_id": "COURSES-FABC2915B57C"
+}

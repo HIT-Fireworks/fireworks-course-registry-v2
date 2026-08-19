@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22IS32001",
+  "course_code": "22IS32001",
+  "course_name": "产业专家谈仪器",
+  "resource_group_id": "exact-name-76754a3f66a5b5f4",
+  "physical_repository_id": "physical-course-2c608f332ac553b6",
+  "repo_id": "COURSES-2C608F332AC5",
+  "record_ids": [
+    "REC-8BE4DAD3A0A73705",
+    "REC-8FF8E153F6632A16",
+    "REC-67389CBFBDEA8BFE"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/190_2022版_28_28011_测控技术与仪器.toml#courses[59]",
+    "curriculum://hit-data/plans/191_2022版_28_28014_精密仪器.toml#courses[59]",
+    "curriculum://hit-data/plans/192_2022版_28_28015_智能感知工程.toml#courses[59]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22IS32001.json",
+  "attachment_repo_id": "COURSES-2C608F332AC5"
+}

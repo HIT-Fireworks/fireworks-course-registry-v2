@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22ES33009",
+  "course_code": "22ES33009",
+  "course_name": "专业课程设计",
+  "resource_group_id": "exact-name-b637be3d510d1115",
+  "physical_repository_id": "physical-course-59c8d6121897fcb1",
+  "repo_id": "22CC33013",
+  "record_ids": [
+    "REC-DF64698BCF10F7F6"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/014_2022版_04_04E024_能源与动力工程.toml#courses[15]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ES33009.json",
+  "attachment_repo_id": "22CC33013"
+}

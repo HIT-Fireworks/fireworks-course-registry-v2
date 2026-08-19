@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AR31306",
+  "course_code": "22AR31306",
+  "course_name": "城市道路与交通",
+  "resource_group_id": "exact-name-a6442ddfc43fd2af",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-5657A8D79642A1C8"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/068_2022版_11B_11B345_城乡规划.toml#courses[44]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR31306.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

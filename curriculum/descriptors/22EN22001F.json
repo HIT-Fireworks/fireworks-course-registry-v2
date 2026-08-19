@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EN22001F",
+  "course_code": "22EN22001F",
+  "course_name": "水化学(1)",
+  "resource_group_id": "name-family-8e4cbbe26a70a628",
+  "physical_repository_id": "physical-course-5c54c9a8516594fa",
+  "repo_id": "COURSES-5C54C9A85165",
+  "record_ids": [
+    "REC-E689DF5230FA4559"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/143_2022版_27_27F251_给排水科学与工程.toml#courses[0]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EN22001F.json",
+  "attachment_repo_id": "COURSES-5C54C9A85165"
+}

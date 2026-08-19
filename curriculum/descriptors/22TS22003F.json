@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22TS22003F",
+  "course_code": "22TS22003F",
+  "course_name": "数字信号处理",
+  "resource_group_id": "exact-name-e31bd96521b614b3",
+  "physical_repository_id": "physical-course-b4a3676d3cd3551d",
+  "repo_id": "22EI22202",
+  "record_ids": [
+    "REC-E388DECDB2B09D9D"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/097_2022版_12_12F326S_智能交通.toml#courses[2]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22TS22003F.json",
+  "attachment_repo_id": "22EI22202"
+}

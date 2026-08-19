@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22MA32004F",
+  "course_code": "22MA32004F",
+  "course_name": "毕业论文(设计)",
+  "resource_group_id": "exact-name-8db41f88b0b6c77e",
+  "physical_repository_id": "physical-course-2bcf14039c972840",
+  "repo_id": "22AR33001F",
+  "record_ids": [
+    "REC-5C1826079E6DA762",
+    "REC-59FA640338334550",
+    "REC-E215169647462D71"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/151_2022版_31_31F121_数学与应用数学.toml#courses[8]",
+    "curriculum://hit-data/plans/152_2022版_31_31F122_信息与计算科学.toml#courses[7]",
+    "curriculum://hit-data/plans/153_2022版_31_31F123_统计学.toml#courses[8]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MA32004F.json",
+  "attachment_repo_id": "22AR33001F"
+}

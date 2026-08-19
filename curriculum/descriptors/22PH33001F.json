@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22PH33001F",
+  "course_code": "22PH33001F",
+  "course_name": "毕业论文(设计)",
+  "resource_group_id": "exact-name-8db41f88b0b6c77e",
+  "physical_repository_id": "physical-course-2bcf14039c972840",
+  "repo_id": "22AR33001F",
+  "record_ids": [
+    "REC-021E805C1781DDC3"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/199_2022版_32_32F111_应用物理学.toml#courses[7]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22PH33001F.json",
+  "attachment_repo_id": "22AR33001F"
+}

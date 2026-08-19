@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22HS22205",
+  "course_code": "22HS22205",
+  "course_name": "初级计量经济学",
+  "resource_group_id": "exact-name-f82a359270d390fc",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-0A2E96D1C8EE8697"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/164_2022版_35_35232_经济学.toml#courses[33]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22HS22205.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

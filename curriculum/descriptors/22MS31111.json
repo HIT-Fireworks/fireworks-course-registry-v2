@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22MS31111",
+  "course_code": "22MS31111",
+  "course_name": "材料力学性能A",
+  "resource_group_id": "name-family-8623b6265ba3f483",
+  "physical_repository_id": "physical-course-12af5bc572e71106",
+  "repo_id": "COURSES-12AF5BC572E7",
+  "record_ids": [
+    "REC-4294F3C6F9AF8D3D",
+    "REC-EC017CA9B015A6B6"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/026_2022版_03_03190_材料科学与工程.toml#courses[43]",
+    "curriculum://hit-data/plans/027_2022版_03_031911_材料科学与工程（强基计划）.toml#courses[43]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MS31111.json",
+  "attachment_repo_id": "COURSES-12AF5BC572E7"
+}

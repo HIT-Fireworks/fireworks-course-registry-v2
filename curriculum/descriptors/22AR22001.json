@@ -1,0 +1,32 @@
+{
+  "descriptor_id": "course-code:22AR22001",
+  "course_code": "22AR22001",
+  "course_name": "人居环境导论",
+  "resource_group_id": "exact-name-d5019be53fb6413f",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-6A6F1B210759F95F",
+    "REC-39B6BE392B8A036D",
+    "REC-405427DC2DE5FA6B",
+    "REC-D2F2A4EAFEA6BEE8",
+    "REC-D9EB2209C5D25D40",
+    "REC-D8559431D931FCC7",
+    "REC-F85801A725C2CA82",
+    "REC-FF4C03EB68AF0BC7"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/064_2022版_11B_11B082_工业设计.toml#courses[2]",
+    "curriculum://hit-data/plans/065_2022版_11B_11B262_建筑环境与能源应用工程.toml#courses[2]",
+    "curriculum://hit-data/plans/066_2022版_11B_11B304_数字媒体艺术.toml#courses[2]",
+    "curriculum://hit-data/plans/067_2022版_11B_11B341_建筑学.toml#courses[2]",
+    "curriculum://hit-data/plans/068_2022版_11B_11B345_城乡规划.toml#courses[2]",
+    "curriculum://hit-data/plans/069_2022版_11B_11B346_环境设计.toml#courses[1]",
+    "curriculum://hit-data/plans/070_2022版_11B_11B347_风景园林.toml#courses[2]",
+    "curriculum://hit-data/plans/071_2022版_11B_11B348_智慧建筑与建造.toml#courses[2]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR22001.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

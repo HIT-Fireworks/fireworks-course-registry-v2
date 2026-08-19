@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22EE22042",
+  "course_code": "22EE22042",
+  "course_name": "信号与系统",
+  "resource_group_id": "signals-and-systems",
+  "physical_repository_id": "physical-course-163a6a5fce6b8e89",
+  "repo_id": "22EE22004F",
+  "record_ids": [
+    "REC-E9DC2F91AF0BA10F",
+    "REC-F9893AF67D5CECDC"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/053_2022版_05_05061_电气工程及其自动化.toml#courses[33]",
+    "curriculum://hit-data/plans/054_2022版_05_05062_建筑电气与智能化.toml#courses[33]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EE22042.json",
+  "attachment_repo_id": "22EE22004F"
+}

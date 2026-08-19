@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22FL22421",
+  "course_code": "22FL22421",
+  "course_name": "社会调查研究方法",
+  "resource_group_id": "exact-name-f757b05f8752a0df",
+  "physical_repository_id": "physical-course-01ef52148ebafa93",
+  "repo_id": "22EM22004F",
+  "record_ids": [
+    "REC-73A04478DA3DB70F"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/160_2022版_35_35154_国际组织与全球治理.toml#courses[45]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22FL22421.json",
+  "attachment_repo_id": "22EM22004F"
+}

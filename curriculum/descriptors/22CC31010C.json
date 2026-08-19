@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CC31010C",
+  "course_code": "22CC31010C",
+  "course_name": "专业实验",
+  "resource_group_id": "exact-name-e4bca83c8a3aee6b",
+  "physical_repository_id": "physical-course-ebb2afbbc7796f8d",
+  "repo_id": "22CC31010C",
+  "record_ids": [
+    "REC-6DBB86D2E493C6B4"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/118_2022版_25_25079_化学（中外合作）.toml#courses[63]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC31010C.json",
+  "attachment_repo_id": "22CC31010C"
+}

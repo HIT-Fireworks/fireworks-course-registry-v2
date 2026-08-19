@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EM31906",
+  "course_code": "22EM31906",
+  "course_name": "商务谈判",
+  "resource_group_id": "exact-name-e987a5986a7abed0",
+  "physical_repository_id": "physical-course-8cab420ae310747b",
+  "repo_id": "COURSES-8CAB420AE310",
+  "record_ids": [
+    "REC-E5D010446E6B1BB0"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/051_2022版_07_07222_国际经济与贸易.toml#courses[51]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM31906.json",
+  "attachment_repo_id": "COURSES-8CAB420AE310"
+}

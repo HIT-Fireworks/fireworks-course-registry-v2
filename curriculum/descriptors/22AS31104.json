@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22AS31104",
+  "course_code": "22AS31104",
+  "course_name": "自动控制实践(1)",
+  "resource_group_id": "automatic-control-practice",
+  "physical_repository_id": "physical-course-8c30cd8279559085",
+  "repo_id": "COURSES-8C30CD827955",
+  "record_ids": [
+    "REC-8EFD42B445E20589",
+    "REC-46EE6B3535D16916",
+    "REC-EFB58FC0B99633D5"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/098_2022版_01_01041_自动化.toml#courses[43]",
+    "curriculum://hit-data/plans/099_2022版_01_01042_探测制导与控制技术.toml#courses[43]",
+    "curriculum://hit-data/plans/100_2022版_01_01043_智能装备与系统.toml#courses[43]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS31104.json",
+  "attachment_repo_id": "COURSES-8C30CD827955"
+}

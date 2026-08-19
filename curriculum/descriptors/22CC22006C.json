@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CC22006C",
+  "course_code": "22CC22006C",
+  "course_name": "有机化学实验",
+  "resource_group_id": "name-family-93bce178642a21ec",
+  "physical_repository_id": "physical-course-6c11ec1b7f12ace9",
+  "repo_id": "22CC15006",
+  "record_ids": [
+    "REC-2137B5663BC26CF5"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/118_2022版_25_25079_化学（中外合作）.toml#courses[41]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC22006C.json",
+  "attachment_repo_id": "22CC15006"
+}

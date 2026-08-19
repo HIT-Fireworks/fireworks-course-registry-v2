@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22EM21001F",
+  "course_code": "22EM21001F",
+  "course_name": "管理信息系统",
+  "resource_group_id": "exact-name-01e00b223aadca04",
+  "physical_repository_id": "physical-course-8b37a7f653b787d5",
+  "repo_id": "22EM21001",
+  "record_ids": [
+    "REC-8167FB76F78C0BB8",
+    "REC-970447731876994E"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/039_2022版_07_07F101_信息管理与信息系统.toml#courses[0]",
+    "curriculum://hit-data/plans/040_2022版_07_07F102_电子商务.toml#courses[0]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM21001F.json",
+  "attachment_repo_id": "22EM21001"
+}

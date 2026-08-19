@@ -1,0 +1,38 @@
+{
+  "descriptor_id": "course-code:22CS22005",
+  "course_code": "22CS22005",
+  "course_name": "算法设计与分析",
+  "resource_group_id": "name-family-1864f4cf9969a2ff",
+  "physical_repository_id": "physical-course-7705047a4b0a65a1",
+  "repo_id": "22CS22005",
+  "record_ids": [
+    "REC-0C9E517B001BDAAF",
+    "REC-0F7FAA72C1BB3E67",
+    "REC-4A71111ECDDA14CA",
+    "REC-30AE9B0646185A45",
+    "REC-64E7EA9429F8D7D0",
+    "REC-806B3DC95AED8949",
+    "REC-4577CBDC23151C8F",
+    "REC-8554F28385342218",
+    "REC-D2B30CEE890EE9FA",
+    "REC-D4843A325A1FD12C",
+    "REC-E8301C5887CACA5A"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/082_2022版_13B_13B031_计算机科学与技术.toml#courses[32]",
+    "curriculum://hit-data/plans/083_2022版_13B_13B032_信息安全.toml#courses[40]",
+    "curriculum://hit-data/plans/084_2022版_13B_13B035_数据科学与大数据技术.toml#courses[25]",
+    "curriculum://hit-data/plans/085_2022版_13B_13B036_人工智能.toml#courses[25]",
+    "curriculum://hit-data/plans/086_2022版_13B_13B039_网络空间安全.toml#courses[40]",
+    "curriculum://hit-data/plans/087_2022版_13B_13B371_软件工程.toml#courses[31]",
+    "curriculum://hit-data/plans/088_2022版_13B_13B373_物联网工程.toml#courses[25]",
+    "curriculum://hit-data/plans/090_2022版_13B_13BE035_数据科学与大数据技术.toml#courses[6]",
+    "curriculum://hit-data/plans/092_2022版_13B_13BE371_软件工程.toml#courses[6]",
+    "curriculum://hit-data/plans/154_2022版_31_31SXS121031_数学与应用数学（+计算机科学与技术双学士学位）.toml#courses[31]",
+    "curriculum://hit-data/plans/155_2022版_31_31SXS121039_数学与应用数学（+网络空间安全双学士学位）.toml#courses[31]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CS22005.json",
+  "attachment_repo_id": "22CS22005"
+}

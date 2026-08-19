@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22FL22323",
+  "course_code": "22FL22323",
+  "course_name": "日语口语(1)",
+  "resource_group_id": "name-family-df0f6a4cc104fdae",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-731F7CCDA656A2E6"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/159_2022版_35_35153_日语.toml#courses[23]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22FL22323.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

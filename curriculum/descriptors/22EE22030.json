@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22EE22030",
+  "course_code": "22EE22030",
+  "course_name": "电工与电子技术实验B",
+  "resource_group_id": "name-family-8f520fb3fbfcd4d7",
+  "physical_repository_id": "physical-course-5fe85642c65e9d97",
+  "repo_id": "22EE22029",
+  "record_ids": [
+    "REC-091F8F11AF02F475",
+    "REC-D91BE65EB9ED6DEA",
+    "REC-F19ADAD769CB0DFB"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/101_2022版_01_01182_飞行器设计与工程.toml#courses[24]",
+    "curriculum://hit-data/plans/102_2022版_01_01183_飞行器环境与生命保障工程.toml#courses[24]",
+    "curriculum://hit-data/plans/105_2022版_01_01185_空间科学与技术.toml#courses[24]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EE22030.json",
+  "attachment_repo_id": "22EE22029"
+}

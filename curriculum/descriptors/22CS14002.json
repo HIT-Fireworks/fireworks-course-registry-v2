@@ -1,0 +1,30 @@
+{
+  "descriptor_id": "course-code:22CS14002",
+  "course_code": "22CS14002",
+  "course_name": "计算概论",
+  "resource_group_id": "exact-name-924a876f1db6bade",
+  "physical_repository_id": "physical-course-bc87c0351d93e4c1",
+  "repo_id": "COURSES-BC87C0351D93",
+  "record_ids": [
+    "REC-4D3EEB9CDDC8CB48",
+    "REC-329D05EEAF298B05",
+    "REC-72749B343C8E57C5",
+    "REC-78796CAFF3353862",
+    "REC-C5D16F4DDCA42ABC",
+    "REC-CDCE5D79F89B1EA2",
+    "REC-FAA15F46B0E387C6"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/082_2022版_13B_13B031_计算机科学与技术.toml#courses[9]",
+    "curriculum://hit-data/plans/083_2022版_13B_13B032_信息安全.toml#courses[1]",
+    "curriculum://hit-data/plans/084_2022版_13B_13B035_数据科学与大数据技术.toml#courses[1]",
+    "curriculum://hit-data/plans/085_2022版_13B_13B036_人工智能.toml#courses[1]",
+    "curriculum://hit-data/plans/086_2022版_13B_13B039_网络空间安全.toml#courses[9]",
+    "curriculum://hit-data/plans/087_2022版_13B_13B371_软件工程.toml#courses[1]",
+    "curriculum://hit-data/plans/088_2022版_13B_13B373_物联网工程.toml#courses[1]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CS14002.json",
+  "attachment_repo_id": "COURSES-BC87C0351D93"
+}

@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22EM31203",
+  "course_code": "22EM31203",
+  "course_name": "大数据计量经济分析",
+  "resource_group_id": "exact-name-427935ca0e43a862",
+  "physical_repository_id": "physical-course-fe7333861578fbfa",
+  "repo_id": "22EM31203",
+  "record_ids": [
+    "REC-A6DD8D87499A11F2",
+    "REC-E37DDDE86285716A"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/048_2022版_07_07103_大数据管理与应用.toml#courses[50]",
+    "curriculum://hit-data/plans/177_2022版_35_35SXS161103_社会学（+大数据管理与应用双学士学位）.toml#courses[41]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM31203.json",
+  "attachment_repo_id": "22EM31203"
+}

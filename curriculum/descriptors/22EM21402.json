@@ -1,0 +1,40 @@
+{
+  "descriptor_id": "course-code:22EM21402",
+  "course_code": "22EM21402",
+  "course_name": "组织行为学",
+  "resource_group_id": "exact-name-20e71e8f11af63f6",
+  "physical_repository_id": "physical-course-61d4361c557ec2b0",
+  "repo_id": "22EM21402",
+  "record_ids": [
+    "REC-04AB3744A5193B5A",
+    "REC-5D1BE9AB172C3196",
+    "REC-6A918A749F674AB5",
+    "REC-07CDAE47AB40D977",
+    "REC-23F0672DFBCA4BF6",
+    "REC-36D288CF1F69A7F4",
+    "REC-153F32E2606CF312",
+    "REC-8311EC079CDAF0E8",
+    "REC-37786451279D0632",
+    "REC-A872512D2ED3B2DE",
+    "REC-D00BB43B158E63F9",
+    "REC-DC0BACC5F2EA32C5"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/046_2022版_07_07101_信息管理与信息系统.toml#courses[11]",
+    "curriculum://hit-data/plans/047_2022版_07_07102_电子商务.toml#courses[19]",
+    "curriculum://hit-data/plans/048_2022版_07_07103_大数据管理与应用.toml#courses[11]",
+    "curriculum://hit-data/plans/049_2022版_07_07104_计算金融.toml#courses[11]",
+    "curriculum://hit-data/plans/050_2022版_07_07221_金融学.toml#courses[19]",
+    "curriculum://hit-data/plans/051_2022版_07_07222_国际经济与贸易.toml#courses[11]",
+    "curriculum://hit-data/plans/052_2022版_07_07223_数字经济.toml#courses[11]",
+    "curriculum://hit-data/plans/204_2022版_60_60201_工商管理.toml#courses[11]",
+    "curriculum://hit-data/plans/205_2022版_60_60202_市场营销.toml#courses[19]",
+    "curriculum://hit-data/plans/206_2022版_60_60203_会计学.toml#courses[11]",
+    "curriculum://hit-data/plans/207_2022版_60_60204_财务管理.toml#courses[11]",
+    "curriculum://hit-data/plans/208_2022版_60_60E201_工商管理.toml#courses[7]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM21402.json",
+  "attachment_repo_id": "22EM21402"
+}

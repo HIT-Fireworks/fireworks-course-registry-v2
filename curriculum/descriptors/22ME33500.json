@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22ME33500",
+  "course_code": "22ME33500",
+  "course_name": "综合实践与生产实习(机械电子综合实践)",
+  "resource_group_id": "exact-name-90f9bd04b0093f3a",
+  "physical_repository_id": "physical-course-669d2ec19f097658",
+  "repo_id": "COURSES-669D2EC19F09",
+  "record_ids": [
+    "REC-0543E2FC482F2482"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/005_2022版_02_02085_机械电子工程.toml#courses[57]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ME33500.json",
+  "attachment_repo_id": "COURSES-669D2EC19F09"
+}

@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22HS22111",
+  "course_code": "22HS22111",
+  "course_name": "经济社会学",
+  "resource_group_id": "name-family-fcea7aaa0f00bedf",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-4FCAC393F509C626",
+    "REC-96C718864C7AA1A9",
+    "REC-951740CFC46C2B38"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/162_2022版_35_35161_社会学.toml#courses[34]",
+    "curriculum://hit-data/plans/176_2022版_35_35SXS161101_社会学（+信息管理与信息系统双学士学位）.toml#courses[34]",
+    "curriculum://hit-data/plans/177_2022版_35_35SXS161103_社会学（+大数据管理与应用双学士学位）.toml#courses[36]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22HS22111.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

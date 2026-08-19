@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22MX31005",
+  "course_code": "22MX31005",
+  "course_name": "中国共产党思想政治教育史",
+  "resource_group_id": "exact-name-55d5f69cd49905d6",
+  "physical_repository_id": "physical-course-c939a79f0c3a2bdb",
+  "repo_id": "COURSES-C939A79F0C3A",
+  "record_ids": [
+    "REC-1DFFABE419D21DEA",
+    "REC-AF32750F616F8E6F"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/187_2022版_49_49491_思想政治教育.toml#courses[47]",
+    "curriculum://hit-data/plans/188_2022版_49_49E491_思想政治教育.toml#courses[15]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MX31005.json",
+  "attachment_repo_id": "COURSES-C939A79F0C3A"
+}

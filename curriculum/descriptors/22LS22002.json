@@ -1,0 +1,24 @@
+{
+  "descriptor_id": "course-code:22LS22002",
+  "course_code": "22LS22002",
+  "course_name": "生物学特色实验(2)",
+  "resource_group_id": "name-family-462e8639c39a6a55",
+  "physical_repository_id": "physical-course-ce4133cbe869b5fe",
+  "repo_id": "COURSES-CE4133CBE869",
+  "record_ids": [
+    "REC-4A99A64C77A490C7",
+    "REC-0285DBCE1643748B",
+    "REC-B0B31849DB628819",
+    "REC-CEF4E98C72CF8696"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/179_2022版_37_37281_生物技术.toml#courses[16]",
+    "curriculum://hit-data/plans/180_2022版_37_37282_生物工程.toml#courses[16]",
+    "curriculum://hit-data/plans/181_2022版_37_37284_整合科学.toml#courses[16]",
+    "curriculum://hit-data/plans/186_2022版_37_37SXS281056_生物技术（+智能测控工程双学士学位）.toml#courses[14]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22LS22002.json",
+  "attachment_repo_id": "COURSES-CE4133CBE869"
+}

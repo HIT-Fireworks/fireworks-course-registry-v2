@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AS22001",
+  "course_code": "22AS22001",
+  "course_name": "理论力学",
+  "resource_group_id": "theoretical-mechanics",
+  "physical_repository_id": "physical-course-4aceac315ddedb6c",
+  "repo_id": "22AS22001",
+  "record_ids": [
+    "REC-945F46D501E77A74"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/003_2022版_02_020831_飞行器制造工程（强基计划）.toml#courses[24]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS22001.json",
+  "attachment_repo_id": "22AS22001"
+}

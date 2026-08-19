@@ -1,0 +1,30 @@
+{
+  "descriptor_id": "course-code:22TS22404",
+  "course_code": "22TS22404",
+  "course_name": "数据结构与算法A",
+  "resource_group_id": "name-family-46a793ce01d7a83f",
+  "physical_repository_id": "physical-course-6695c4b23e517967",
+  "repo_id": "22CS22004",
+  "record_ids": [
+    "REC-1C0E8C5F79C51869",
+    "REC-1DF6E319688FBCC5",
+    "REC-8F243E6EE673622E",
+    "REC-17B3D654ECC16E57",
+    "REC-19F38F813BEA7BC9",
+    "REC-3291F638FCB1CAC9",
+    "REC-C25CD994F5B8D074"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[186]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[187]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[188]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[189]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[190]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[191]",
+    "curriculum://hit-data/plans/095_2022版_12_12322_交通工程.toml#courses[46]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22TS22404.json",
+  "attachment_repo_id": "22CS22004"
+}

@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22EM21403",
+  "course_code": "22EM21403",
+  "course_name": "领导力与沟通",
+  "resource_group_id": "exact-name-7eb1e60220caa11c",
+  "physical_repository_id": "physical-course-1a31c4fa9f17f929",
+  "repo_id": "COURSES-1A31C4FA9F17",
+  "record_ids": [
+    "REC-0E517D4AAA340318",
+    "REC-0851043FBC517C5A",
+    "REC-E552F4C41ED1CD9B"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/204_2022版_60_60201_工商管理.toml#courses[35]",
+    "curriculum://hit-data/plans/205_2022版_60_60202_市场营销.toml#courses[35]",
+    "curriculum://hit-data/plans/208_2022版_60_60E201_工商管理.toml#courses[8]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM21403.json",
+  "attachment_repo_id": "COURSES-1A31C4FA9F17"
+}

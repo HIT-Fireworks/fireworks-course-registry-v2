@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CC31021F",
+  "course_code": "22CC31021F",
+  "course_name": "应用化学综合实验",
+  "resource_group_id": "exact-name-3a82b3598d27278e",
+  "physical_repository_id": "physical-course-5af3514cbd507387",
+  "repo_id": "COURSES-5AF3514CBD50",
+  "record_ids": [
+    "REC-8A4F20FA0142928E"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/124_2022版_25_25F078_应用化学.toml#courses[5]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC31021F.json",
+  "attachment_repo_id": "COURSES-5AF3514CBD50"
+}

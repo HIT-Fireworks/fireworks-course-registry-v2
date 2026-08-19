@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EE22025",
+  "course_code": "22EE22025",
+  "course_name": "电路实验D",
+  "resource_group_id": "name-family-f94dbd93e2aa76cd",
+  "physical_repository_id": "physical-course-3de1c94db652fddb",
+  "repo_id": "22EE22021",
+  "record_ids": [
+    "REC-C4E6189D252201A4"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/096_2022版_12_12325_交通设备与控制工程.toml#courses[36]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EE22025.json",
+  "attachment_repo_id": "22EE22021"
+}

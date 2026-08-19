@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AR31416",
+  "course_code": "22AR31416",
+  "course_name": "景观物理环境",
+  "resource_group_id": "exact-name-17f970feea438488",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-F939822EC18283C3"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/070_2022版_11B_11B347_风景园林.toml#courses[56]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR31416.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

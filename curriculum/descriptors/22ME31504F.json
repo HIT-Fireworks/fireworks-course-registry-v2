@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22ME31504F",
+  "course_code": "22ME31504F",
+  "course_name": "传感与测试技术",
+  "resource_group_id": "exact-name-7c6c32180991bda6",
+  "physical_repository_id": "physical-course-f395e4fc7bd514e5",
+  "repo_id": "22ME31504",
+  "record_ids": [
+    "REC-01056842BF070914"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/011_2022版_02_02F085_机械电子工程.toml#courses[7]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ME31504F.json",
+  "attachment_repo_id": "22ME31504"
+}

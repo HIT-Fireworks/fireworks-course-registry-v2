@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22FL31102",
+  "course_code": "22FL31102",
+  "course_name": "美国概况",
+  "resource_group_id": "exact-name-62ebde7e1364210f",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-AF8795AF86B9DE9E"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/157_2022版_35_35151_英语.toml#courses[31]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22FL31102.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

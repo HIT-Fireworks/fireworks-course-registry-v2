@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AR31308",
+  "course_code": "22AR31308",
+  "course_name": "规划设计-1",
+  "resource_group_id": "exact-name-6cf01229c20f868d",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-FC5D69AF2E53A0D6"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/068_2022版_11B_11B345_城乡规划.toml#courses[46]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR31308.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

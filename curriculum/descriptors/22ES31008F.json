@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22ES31008F",
+  "course_code": "22ES31008F",
+  "course_name": "先进核能技术",
+  "resource_group_id": "exact-name-589aba28008fc17c",
+  "physical_repository_id": "physical-course-fabc2915b57c2ea7",
+  "repo_id": "COURSES-FABC2915B57C",
+  "record_ids": [
+    "REC-CC83E60973EB3708"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/016_2022版_04_04F025_核工程与核技术.toml#courses[8]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ES31008F.json",
+  "attachment_repo_id": "COURSES-FABC2915B57C"
+}

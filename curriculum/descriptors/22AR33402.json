@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AR33402",
+  "course_code": "22AR33402",
+  "course_name": "风景园林认知",
+  "resource_group_id": "exact-name-023d4c01837f5843",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-24718ED94E1918EC"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/070_2022版_11B_11B347_风景园林.toml#courses[41]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR33402.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

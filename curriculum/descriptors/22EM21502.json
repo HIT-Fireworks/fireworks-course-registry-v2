@@ -1,0 +1,40 @@
+{
+  "descriptor_id": "course-code:22EM21502",
+  "course_code": "22EM21502",
+  "course_name": "跨专业综合实训",
+  "resource_group_id": "exact-name-2d0c7a5dae4d3a4b",
+  "physical_repository_id": "physical-course-a3e8f8e9537b586a",
+  "repo_id": "22EM21502",
+  "record_ids": [
+    "REC-1A26709E2B131695",
+    "REC-7B7936251BD885A4",
+    "REC-30D66403BC911EB6",
+    "REC-39E4AFA2F6F9A9B7",
+    "REC-59B2B9FE874CBECF",
+    "REC-97CE7308FE4FA037",
+    "REC-459C239D6C906932",
+    "REC-546C528D15D4BC83",
+    "REC-AD4E858ABE32FA20",
+    "REC-B84AE4F364CD74A9",
+    "REC-D1511E0D4CA7AA96",
+    "REC-DE885C8C9A89F144"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/046_2022版_07_07101_信息管理与信息系统.toml#courses[32]",
+    "curriculum://hit-data/plans/047_2022版_07_07102_电子商务.toml#courses[28]",
+    "curriculum://hit-data/plans/048_2022版_07_07103_大数据管理与应用.toml#courses[28]",
+    "curriculum://hit-data/plans/049_2022版_07_07104_计算金融.toml#courses[32]",
+    "curriculum://hit-data/plans/050_2022版_07_07221_金融学.toml#courses[28]",
+    "curriculum://hit-data/plans/051_2022版_07_07222_国际经济与贸易.toml#courses[28]",
+    "curriculum://hit-data/plans/052_2022版_07_07223_数字经济.toml#courses[28]",
+    "curriculum://hit-data/plans/204_2022版_60_60201_工商管理.toml#courses[28]",
+    "curriculum://hit-data/plans/205_2022版_60_60202_市场营销.toml#courses[28]",
+    "curriculum://hit-data/plans/206_2022版_60_60203_会计学.toml#courses[28]",
+    "curriculum://hit-data/plans/207_2022版_60_60204_财务管理.toml#courses[28]",
+    "curriculum://hit-data/plans/208_2022版_60_60E201_工商管理.toml#courses[4]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM21502.json",
+  "attachment_repo_id": "22EM21502"
+}

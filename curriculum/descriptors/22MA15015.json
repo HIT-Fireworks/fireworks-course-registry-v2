@@ -1,0 +1,36 @@
+{
+  "descriptor_id": "course-code:22MA15015",
+  "course_code": "22MA15015",
+  "course_name": "数学分析(1)",
+  "resource_group_id": "mathematical-analysis",
+  "physical_repository_id": "physical-course-bf2b3dea250dd028",
+  "repo_id": "22MA15015",
+  "record_ids": [
+    "REC-0BC963E614D35D2B",
+    "REC-2C4C26433A17344A",
+    "REC-3D7EDC33FC8DE3CA",
+    "REC-9A055E7E817DB322",
+    "REC-108A07AFF1C0A6ED",
+    "REC-A91E29E05F6DDF8F",
+    "REC-C8F8A687D3FB5B41",
+    "REC-C71B4C85DE0DAC96",
+    "REC-EB49BE079222A990",
+    "REC-FE0FB2AAD829B37B"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/003_2022版_02_020831_飞行器制造工程（强基计划）.toml#courses[5]",
+    "curriculum://hit-data/plans/020_2022版_04_04025_核工程与核技术.toml#courses[5]",
+    "curriculum://hit-data/plans/027_2022版_03_031911_材料科学与工程（强基计划）.toml#courses[4]",
+    "curriculum://hit-data/plans/104_2022版_01_011841_复合材料与工程（强基计划）.toml#courses[5]",
+    "curriculum://hit-data/plans/107_2022版_01_01187_工程力学（强基计划）.toml#courses[4]",
+    "curriculum://hit-data/plans/196_2022版_32_32111_应用物理学.toml#courses[4]",
+    "curriculum://hit-data/plans/197_2022版_32_32114_光电信息科学与工程.toml#courses[4]",
+    "curriculum://hit-data/plans/201_2022版_32_32SXS111061_应用物理学（+电气工程及其自动化双学士学位）.toml#courses[4]",
+    "curriculum://hit-data/plans/202_2022版_32_32SXS111086_应用物理学（+机器人工程双学士学位）.toml#courses[5]",
+    "curriculum://hit-data/plans/203_2022版_32_32SXS111214_应用物理学（+微电子科学与工程双学士学位）.toml#courses[4]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MA15015.json",
+  "attachment_repo_id": "22MA15015"
+}

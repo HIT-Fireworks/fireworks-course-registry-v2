@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22HS22283",
+  "course_code": "22HS22283",
+  "course_name": "宏观经济学A",
+  "resource_group_id": "name-family-eaf4a24ed9e1e7bd",
+  "physical_repository_id": "physical-course-1b9ed676c43a2ae5",
+  "repo_id": "22EM21901F",
+  "record_ids": [
+    "REC-A64CFE0E8F0837AC"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/168_2022版_35_35E232_经济学.toml#courses[2]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22HS22283.json",
+  "attachment_repo_id": "22EM21901F"
+}

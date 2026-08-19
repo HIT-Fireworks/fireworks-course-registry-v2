@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EN31103C",
+  "course_code": "22EN31103C",
+  "course_name": "机器理论与机构学(2)",
+  "resource_group_id": "name-family-ae90d75e11fec7ea",
+  "physical_repository_id": "physical-course-5c54c9a8516594fa",
+  "repo_id": "COURSES-5C54C9A85165",
+  "record_ids": [
+    "REC-5166EFFFE8E53EC2"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/142_2022版_27_27274_环境生态工程（鲍曼合作办学）.toml#courses[59]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EN31103C.json",
+  "attachment_repo_id": "COURSES-5C54C9A85165"
+}

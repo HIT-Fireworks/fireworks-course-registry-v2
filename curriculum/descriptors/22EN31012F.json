@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EN31012F",
+  "course_code": "22EN31012F",
+  "course_name": "水污染控制工程",
+  "resource_group_id": "name-family-14f62cf6d49928c4",
+  "physical_repository_id": "physical-course-5c54c9a8516594fa",
+  "repo_id": "COURSES-5C54C9A85165",
+  "record_ids": [
+    "REC-1858EB772AEDE09A"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/144_2022版_27_27F271_环境工程.toml#courses[4]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EN31012F.json",
+  "attachment_repo_id": "COURSES-5C54C9A85165"
+}

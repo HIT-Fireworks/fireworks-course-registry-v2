@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AR33501F",
+  "course_code": "22AR33501F",
+  "course_name": "毕业论文(设计)",
+  "resource_group_id": "exact-name-8db41f88b0b6c77e",
+  "physical_repository_id": "physical-course-2bcf14039c972840",
+  "repo_id": "22AR33001F",
+  "record_ids": [
+    "REC-D33E78ABCF1D59C7"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/079_2022版_11B_11BF346_环境设计.toml#courses[9]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR33501F.json",
+  "attachment_repo_id": "22AR33001F"
+}

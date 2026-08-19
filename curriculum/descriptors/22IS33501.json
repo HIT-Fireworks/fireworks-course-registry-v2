@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22IS33501",
+  "course_code": "22IS33501",
+  "course_name": "智能感知仪器综合设计实践",
+  "resource_group_id": "exact-name-c09874c54a04977e",
+  "physical_repository_id": "physical-course-2c608f332ac553b6",
+  "repo_id": "COURSES-2C608F332AC5",
+  "record_ids": [
+    "REC-906C42A6F437740E"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/192_2022版_28_28015_智能感知工程.toml#courses[55]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22IS33501.json",
+  "attachment_repo_id": "COURSES-2C608F332AC5"
+}

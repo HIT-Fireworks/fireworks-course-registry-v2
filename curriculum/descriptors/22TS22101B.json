@@ -1,0 +1,28 @@
+{
+  "descriptor_id": "course-code:22TS22101B",
+  "course_code": "22TS22101B",
+  "course_name": "道路工程材料(双语)",
+  "resource_group_id": "exact-name-b6001fcdcad4ff2b",
+  "physical_repository_id": "physical-course-9c6503da11740603",
+  "repo_id": "COURSES-9C6503DA1174",
+  "record_ids": [
+    "REC-0EC55F8AA08EBC75",
+    "REC-1ED8D3892A2435AD",
+    "REC-8883B79ABD3F32DD",
+    "REC-29908722A9FD8BDE",
+    "REC-DE5F8CC803E97A2B",
+    "REC-ED7FF80CBA60124D"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[240]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[241]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[242]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[243]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[244]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[245]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22TS22101B.json",
+  "attachment_repo_id": "COURSES-9C6503DA1174"
+}

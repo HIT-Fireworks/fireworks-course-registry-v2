@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22MS32128",
+  "course_code": "22MS32128",
+  "course_name": "高分子化学",
+  "resource_group_id": "name-family-a0481a1473505ca9",
+  "physical_repository_id": "physical-course-e25656080a2a1cf3",
+  "repo_id": "22CC31002",
+  "record_ids": [
+    "REC-3BA36C56444CE45C",
+    "REC-9C74F2D3633BE17F"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[272]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[273]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MS32128.json",
+  "attachment_repo_id": "22CC31002"
+}

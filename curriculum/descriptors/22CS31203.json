@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22CS31203",
+  "course_code": "22CS31203",
+  "course_name": "网络空间安全设计与实践I",
+  "resource_group_id": "name-family-9ec11c7cb75eeb5c",
+  "physical_repository_id": "physical-course-c5f6f73ba33f4644",
+  "repo_id": "22CS31203",
+  "record_ids": [
+    "REC-DB58A7D743946408",
+    "REC-DE13E9E4EE9E0942"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/086_2022版_13B_13B039_网络空间安全.toml#courses[45]",
+    "curriculum://hit-data/plans/155_2022版_31_31SXS121039_数学与应用数学（+网络空间安全双学士学位）.toml#courses[50]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CS31203.json",
+  "attachment_repo_id": "22CS31203"
+}

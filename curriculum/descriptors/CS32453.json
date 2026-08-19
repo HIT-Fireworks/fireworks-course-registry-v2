@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:CS32453",
+  "course_code": "CS32453",
+  "course_name": "需求分析与系统设计",
+  "resource_group_id": "exact-name-2f034cdf652c289c",
+  "physical_repository_id": "physical-course-bc87c0351d93e4c1",
+  "repo_id": "COURSES-BC87C0351D93",
+  "record_ids": [
+    "REC-0DD1D56BCE68F262"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/092_2022版_13B_13BE371_软件工程.toml#courses[3]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/CS32453.json",
+  "attachment_repo_id": "COURSES-BC87C0351D93"
+}

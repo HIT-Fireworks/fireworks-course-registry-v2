@@ -1,0 +1,28 @@
+{
+  "descriptor_id": "course-code:22ME22023",
+  "course_code": "22ME22023",
+  "course_name": "机械工程材料及成形技术基础",
+  "resource_group_id": "exact-name-54d5bb2ca026f1e1",
+  "physical_repository_id": "physical-course-2411f69ee8975552",
+  "repo_id": "22ME22018F",
+  "record_ids": [
+    "REC-208B52E65F386905",
+    "REC-215C49FF79594F22",
+    "REC-419E911DE61EAD22",
+    "REC-540745ABA899E7F2",
+    "REC-B77F7AD98587557C",
+    "REC-FA71B0E8DAE15771"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/001_2022版_02_02081_机械设计制造及其自动化.toml#courses[47]",
+    "curriculum://hit-data/plans/002_2022版_02_02083_飞行器制造工程.toml#courses[47]",
+    "curriculum://hit-data/plans/005_2022版_02_02085_机械电子工程.toml#courses[47]",
+    "curriculum://hit-data/plans/006_2022版_02_02086_机器人工程.toml#courses[47]",
+    "curriculum://hit-data/plans/007_2022版_02_02087_智能制造工程.toml#courses[47]",
+    "curriculum://hit-data/plans/202_2022版_32_32SXS111086_应用物理学（+机器人工程双学士学位）.toml#courses[43]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ME22023.json",
+  "attachment_repo_id": "22ME22018F"
+}

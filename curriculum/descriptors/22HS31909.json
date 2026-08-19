@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22HS31909",
+  "course_code": "22HS31909",
+  "course_name": "数字社会学",
+  "resource_group_id": "exact-name-2e37ae8f1c1793c0",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-C11831FD47D271B1"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/176_2022版_35_35SXS161101_社会学（+信息管理与信息系统双学士学位）.toml#courses[37]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22HS31909.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

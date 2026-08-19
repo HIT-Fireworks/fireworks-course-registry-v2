@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22IS31102",
+  "course_code": "22IS31102",
+  "course_name": "自动控制元件",
+  "resource_group_id": "exact-name-3df4ce2a321c8036",
+  "physical_repository_id": "physical-course-2c608f332ac553b6",
+  "repo_id": "COURSES-2C608F332AC5",
+  "record_ids": [
+    "REC-55B9AC55788C8FF2"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/190_2022版_28_28011_测控技术与仪器.toml#courses[49]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22IS31102.json",
+  "attachment_repo_id": "COURSES-2C608F332AC5"
+}

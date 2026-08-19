@@ -1,0 +1,34 @@
+{
+  "descriptor_id": "course-code:22MA15028",
+  "course_code": "22MA15028",
+  "course_name": "概率论与数理统计F",
+  "resource_group_id": "probability-statistics",
+  "physical_repository_id": "physical-course-33af7db2100528bd",
+  "repo_id": "22MA15024",
+  "record_ids": [
+    "REC-1DE28622B4C1905C",
+    "REC-3EA179C69F4FD937",
+    "REC-29C0ED53CD5DF77A",
+    "REC-0056A3ED45997B18",
+    "REC-087A2840FEAEF72D",
+    "REC-500D0194F427187D",
+    "REC-98027AF8687A5A67",
+    "REC-B3FE1465C4E82641",
+    "REC-E31BCC68AEBB04D2"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/116_2022版_25_25073_材料化学.toml#courses[22]",
+    "curriculum://hit-data/plans/117_2022版_25_25078_应用化学.toml#courses[22]",
+    "curriculum://hit-data/plans/119_2022版_25_25141_高分子材料与工程.toml#courses[23]",
+    "curriculum://hit-data/plans/120_2022版_25_25142_化学工程与工艺.toml#courses[22]",
+    "curriculum://hit-data/plans/121_2022版_25_25147_新能源材料与器件.toml#courses[22]",
+    "curriculum://hit-data/plans/139_2022版_27_27271_环境工程.toml#courses[28]",
+    "curriculum://hit-data/plans/140_2022版_27_27272_环境科学.toml#courses[27]",
+    "curriculum://hit-data/plans/141_2022版_27_27273_环境生态工程.toml#courses[28]",
+    "curriculum://hit-data/plans/142_2022版_27_27274_环境生态工程（鲍曼合作办学）.toml#courses[54]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MA15028.json",
+  "attachment_repo_id": "22MA15024"
+}

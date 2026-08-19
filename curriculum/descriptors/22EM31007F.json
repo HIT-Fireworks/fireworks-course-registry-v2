@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EM31007F",
+  "course_code": "22EM31007F",
+  "course_name": "多元统计分析与R建模",
+  "resource_group_id": "course-family-625f3baaf317c6e8",
+  "physical_repository_id": "physical-course-3e3fc0da40096819",
+  "repo_id": "22EM22006",
+  "record_ids": [
+    "REC-61E5456817468E6E"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/040_2022版_07_07F102_电子商务.toml#courses[4]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM31007F.json",
+  "attachment_repo_id": "22EM22006"
+}

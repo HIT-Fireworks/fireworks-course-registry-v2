@@ -1,0 +1,34 @@
+{
+  "descriptor_id": "course-code:22CS22009",
+  "course_code": "22CS22009",
+  "course_name": "形式语言与自动机",
+  "resource_group_id": "exact-name-9f3362df23112f5d",
+  "physical_repository_id": "physical-course-bea2107ecc0d27b4",
+  "repo_id": "22CS22009",
+  "record_ids": [
+    "REC-5F6D4E39C0291A24",
+    "REC-6F8430DB98F25E05",
+    "REC-017DA868D78F6A2B",
+    "REC-7440FFBBD026B994",
+    "REC-952533D5697D2673",
+    "REC-C4DAE289379CC546",
+    "REC-CC320B66DA30F115",
+    "REC-D6F2E5892D943C81",
+    "REC-E4CD6F4248A87661"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/082_2022版_13B_13B031_计算机科学与技术.toml#courses[34]",
+    "curriculum://hit-data/plans/083_2022版_13B_13B032_信息安全.toml#courses[41]",
+    "curriculum://hit-data/plans/084_2022版_13B_13B035_数据科学与大数据技术.toml#courses[34]",
+    "curriculum://hit-data/plans/085_2022版_13B_13B036_人工智能.toml#courses[34]",
+    "curriculum://hit-data/plans/086_2022版_13B_13B039_网络空间安全.toml#courses[41]",
+    "curriculum://hit-data/plans/087_2022版_13B_13B371_软件工程.toml#courses[33]",
+    "curriculum://hit-data/plans/088_2022版_13B_13B373_物联网工程.toml#courses[34]",
+    "curriculum://hit-data/plans/154_2022版_31_31SXS121031_数学与应用数学（+计算机科学与技术双学士学位）.toml#courses[33]",
+    "curriculum://hit-data/plans/155_2022版_31_31SXS121039_数学与应用数学（+网络空间安全双学士学位）.toml#courses[32]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CS22009.json",
+  "attachment_repo_id": "22CS22009"
+}

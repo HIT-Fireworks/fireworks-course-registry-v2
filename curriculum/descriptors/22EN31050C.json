@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EN31050C",
+  "course_code": "22EN31050C",
+  "course_name": "教育技术研讨会(俄)",
+  "resource_group_id": "exact-name-0ec434302d206dd2",
+  "physical_repository_id": "physical-course-5c54c9a8516594fa",
+  "repo_id": "COURSES-5C54C9A85165",
+  "record_ids": [
+    "REC-56BD8456C85F680F"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/142_2022版_27_27274_环境生态工程（鲍曼合作办学）.toml#courses[68]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EN31050C.json",
+  "attachment_repo_id": "COURSES-5C54C9A85165"
+}

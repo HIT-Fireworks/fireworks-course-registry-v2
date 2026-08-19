@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EN31013F",
+  "course_code": "22EN31013F",
+  "course_name": "大气污染控制工程",
+  "resource_group_id": "exact-name-f21f4ed10097ce55",
+  "physical_repository_id": "physical-course-5c54c9a8516594fa",
+  "repo_id": "COURSES-5C54C9A85165",
+  "record_ids": [
+    "REC-F62B3AB8C966B76F"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/144_2022版_27_27F271_环境工程.toml#courses[2]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EN31013F.json",
+  "attachment_repo_id": "COURSES-5C54C9A85165"
+}

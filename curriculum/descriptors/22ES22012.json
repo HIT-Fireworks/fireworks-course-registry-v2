@@ -1,0 +1,28 @@
+{
+  "descriptor_id": "course-code:22ES22012",
+  "course_code": "22ES22012",
+  "course_name": "工程流体力学",
+  "resource_group_id": "exact-name-589885f41a9888e6",
+  "physical_repository_id": "physical-course-fabc2915b57c2ea7",
+  "repo_id": "COURSES-FABC2915B57C",
+  "record_ids": [
+    "REC-3BC05F56063642BF",
+    "REC-043E84BE9FDE701B",
+    "REC-51B6FA4FAABFD0E2",
+    "REC-2693671C35A6DF9C",
+    "REC-C739DA486B43EBF6",
+    "REC-F4AC528CFF5E4311"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/014_2022版_04_04E024_能源与动力工程.toml#courses[0]",
+    "curriculum://hit-data/plans/018_2022版_04_04022_飞行器动力工程.toml#courses[34]",
+    "curriculum://hit-data/plans/019_2022版_04_04024_能源与动力工程.toml#courses[34]",
+    "curriculum://hit-data/plans/021_2022版_04_04026_新能源科学与工程.toml#courses[34]",
+    "curriculum://hit-data/plans/022_2022版_04_04027_飞行器动力工程（莫航联培班）.toml#courses[36]",
+    "curriculum://hit-data/plans/023_2022版_04_04028_储能科学与工程.toml#courses[34]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ES22012.json",
+  "attachment_repo_id": "COURSES-FABC2915B57C"
+}

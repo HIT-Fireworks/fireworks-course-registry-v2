@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CS32703",
+  "course_code": "22CS32703",
+  "course_name": "模式识别与机器学习B",
+  "resource_group_id": "name-family-bc93b23c062d5257",
+  "physical_repository_id": "physical-course-0d9fd606e1266c61",
+  "repo_id": "22CS31051",
+  "record_ids": [
+    "REC-155B6D9858C2190B"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/181_2022版_37_37284_整合科学.toml#courses[54]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CS32703.json",
+  "attachment_repo_id": "22CS31051"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22FL31303",
+  "course_code": "22FL31303",
+  "course_name": "日语基础写作",
+  "resource_group_id": "exact-name-5a2a5b4cb7d2168a",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-7BB88125D1B76E51"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/159_2022版_35_35153_日语.toml#courses[38]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22FL31303.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

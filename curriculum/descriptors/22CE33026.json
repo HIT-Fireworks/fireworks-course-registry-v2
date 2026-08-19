@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CE33026",
+  "course_code": "22CE33026",
+  "course_name": "建设项目管理课程设计",
+  "resource_group_id": "exact-name-257088ac2589a89b",
+  "physical_repository_id": "physical-course-b8079c4567d697cd",
+  "repo_id": "COURSES-B8079C4567D6",
+  "record_ids": [
+    "REC-30EA32186C700C96"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/059_2022版_09_09335_工程管理.toml#courses[53]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CE33026.json",
+  "attachment_repo_id": "COURSES-B8079C4567D6"
+}

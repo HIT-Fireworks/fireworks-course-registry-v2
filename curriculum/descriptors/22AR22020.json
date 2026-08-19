@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AR22020",
+  "course_code": "22AR22020",
+  "course_name": "设计与调研分析",
+  "resource_group_id": "exact-name-d693a5bf0f408a2d",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-46C0DD6BDA77F3AD"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/066_2022版_11B_11B304_数字媒体艺术.toml#courses[25]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR22020.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

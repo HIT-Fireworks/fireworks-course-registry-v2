@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22ME31103F",
+  "course_code": "22ME31103F",
+  "course_name": "数字化设计与制造",
+  "resource_group_id": "exact-name-fef7596161c4d5f9",
+  "physical_repository_id": "physical-course-669d2ec19f097658",
+  "repo_id": "COURSES-669D2EC19F09",
+  "record_ids": [
+    "REC-7CA27B7229D80E97"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/008_2022版_02_02F081_机械设计制造及其自动化.toml#courses[6]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ME31103F.json",
+  "attachment_repo_id": "COURSES-669D2EC19F09"
+}

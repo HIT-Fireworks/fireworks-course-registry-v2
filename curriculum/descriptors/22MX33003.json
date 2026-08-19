@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22MX33003",
+  "course_code": "22MX33003",
+  "course_name": "专业实习",
+  "resource_group_id": "exact-name-428bafd70a6301a6",
+  "physical_repository_id": "physical-course-a33dabb79b1e813a",
+  "repo_id": "22MX33003",
+  "record_ids": [
+    "REC-CC5781E0C3985A80"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/188_2022版_49_49E491_思想政治教育.toml#courses[12]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MX33003.json",
+  "attachment_repo_id": "22MX33003"
+}

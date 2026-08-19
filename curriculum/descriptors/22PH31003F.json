@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22PH31003F",
+  "course_code": "22PH31003F",
+  "course_name": "光电信号检测与处理",
+  "resource_group_id": "exact-name-7b502e0d83b652b2",
+  "physical_repository_id": "physical-course-946f2dca1f165881",
+  "repo_id": "COURSES-946F2DCA1F16",
+  "record_ids": [
+    "REC-3A8C7068F1488DA1"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/200_2022版_32_32F114_光电信息科学与工程.toml#courses[2]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22PH31003F.json",
+  "attachment_repo_id": "COURSES-946F2DCA1F16"
+}

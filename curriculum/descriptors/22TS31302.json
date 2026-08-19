@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22TS31302",
+  "course_code": "22TS31302",
+  "course_name": "材料科学基础",
+  "resource_group_id": "exact-name-1389ba550afd8c2e",
+  "physical_repository_id": "physical-course-c0274e1241490e2f",
+  "repo_id": "22AS31361",
+  "record_ids": [
+    "REC-8DA94CC9D3EECDCF",
+    "REC-C232DC9C65A9C908"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[254]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[255]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22TS31302.json",
+  "attachment_repo_id": "22AS31361"
+}

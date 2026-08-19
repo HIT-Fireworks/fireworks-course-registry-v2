@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22EM22941",
+  "course_code": "22EM22941",
+  "course_name": "数字经济导论",
+  "resource_group_id": "course-family-2f0d2c3326b4a7dd",
+  "physical_repository_id": "physical-course-8cab420ae310747b",
+  "repo_id": "COURSES-8CAB420AE310",
+  "record_ids": [
+    "REC-3C99DBB4FA2F8B32",
+    "REC-09A86EEBBF3BE09C",
+    "REC-EEAED12A719F8EF3"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/050_2022版_07_07221_金融学.toml#courses[44]",
+    "curriculum://hit-data/plans/051_2022版_07_07222_国际经济与贸易.toml#courses[44]",
+    "curriculum://hit-data/plans/052_2022版_07_07223_数字经济.toml#courses[44]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM22941.json",
+  "attachment_repo_id": "COURSES-8CAB420AE310"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22ES31406",
+  "course_code": "22ES31406",
+  "course_name": "核动力系统与设备I",
+  "resource_group_id": "exact-name-8aa9750f00dbf272",
+  "physical_repository_id": "physical-course-fabc2915b57c2ea7",
+  "repo_id": "COURSES-FABC2915B57C",
+  "record_ids": [
+    "REC-F7C903F99E5AEB4C"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/020_2022版_04_04025_核工程与核技术.toml#courses[49]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ES31406.json",
+  "attachment_repo_id": "COURSES-FABC2915B57C"
+}

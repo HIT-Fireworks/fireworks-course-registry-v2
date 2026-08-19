@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22LS31002F",
+  "course_code": "22LS31002F",
+  "course_name": "生物工程综合实验",
+  "resource_group_id": "exact-name-5f777c9b8da30288",
+  "physical_repository_id": "physical-course-ce4133cbe869b5fe",
+  "repo_id": "COURSES-CE4133CBE869",
+  "record_ids": [
+    "REC-BC946FB26956D6E8"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/185_2022版_37_37F282_生物工程.toml#courses[12]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22LS31002F.json",
+  "attachment_repo_id": "COURSES-CE4133CBE869"
+}

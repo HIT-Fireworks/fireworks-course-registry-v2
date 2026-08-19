@@ -1,0 +1,42 @@
+{
+  "descriptor_id": "course-code:22CS21001",
+  "course_code": "22CS21001",
+  "course_name": "高级语言程序设计",
+  "resource_group_id": "exact-name-dfbe0ecc57b5a2c5",
+  "physical_repository_id": "physical-course-8415f0ab409ee577",
+  "repo_id": "22CS21001",
+  "record_ids": [
+    "REC-6C8366F539FB0B61",
+    "REC-7D2354D8B282FC2E",
+    "REC-8DED0967C0860EC5",
+    "REC-8FD08303687EDF2D",
+    "REC-9E7C4407F408A493",
+    "REC-024FAA62CF41CC2B",
+    "REC-60A662B496BD972F",
+    "REC-262AC385737B8E2E",
+    "REC-0282550066D795E7",
+    "REC-A094B56592D73680",
+    "REC-BECFA4E9AB4214E9",
+    "REC-D24250BFD3EA6E5B",
+    "REC-F4D92A19EA748797"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/082_2022版_13B_13B031_计算机科学与技术.toml#courses[1]",
+    "curriculum://hit-data/plans/083_2022版_13B_13B032_信息安全.toml#courses[2]",
+    "curriculum://hit-data/plans/084_2022版_13B_13B035_数据科学与大数据技术.toml#courses[2]",
+    "curriculum://hit-data/plans/085_2022版_13B_13B036_人工智能.toml#courses[2]",
+    "curriculum://hit-data/plans/086_2022版_13B_13B039_网络空间安全.toml#courses[1]",
+    "curriculum://hit-data/plans/087_2022版_13B_13B371_软件工程.toml#courses[2]",
+    "curriculum://hit-data/plans/088_2022版_13B_13B373_物联网工程.toml#courses[2]",
+    "curriculum://hit-data/plans/128_2022版_20_20051_通信工程.toml#courses[2]",
+    "curriculum://hit-data/plans/129_2022版_20_20052_电子信息工程.toml#courses[2]",
+    "curriculum://hit-data/plans/130_2022版_20_20053_信息对抗技术.toml#courses[2]",
+    "curriculum://hit-data/plans/131_2022版_20_20054_遥感科学与技术.toml#courses[2]",
+    "curriculum://hit-data/plans/132_2022版_20_20055_电磁场与无线技术.toml#courses[2]",
+    "curriculum://hit-data/plans/133_2022版_20_20056_智能测控工程.toml#courses[2]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CS21001.json",
+  "attachment_repo_id": "22CS21001"
+}

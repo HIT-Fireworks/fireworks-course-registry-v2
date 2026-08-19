@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CC33013",
+  "course_code": "22CC33013",
+  "course_name": "专业课程设计",
+  "resource_group_id": "exact-name-b637be3d510d1115",
+  "physical_repository_id": "physical-course-59c8d6121897fcb1",
+  "repo_id": "22CC33013",
+  "record_ids": [
+    "REC-620DC01810134D7C"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/117_2022版_25_25078_应用化学.toml#courses[57]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC33013.json",
+  "attachment_repo_id": "22CC33013"
+}

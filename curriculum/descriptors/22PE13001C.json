@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22PE13001C",
+  "course_code": "22PE13001C",
+  "course_name": "体育(1)",
+  "resource_group_id": "name-family-ef7be5be3c137fb6",
+  "physical_repository_id": "physical-course-1ba2c31ceb0418f9",
+  "repo_id": "22PE13001",
+  "record_ids": [
+    "REC-4BA01273E845D947",
+    "REC-64D0FE3FFFD119F2",
+    "REC-D2CCD8F1E924AEFC"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/118_2022版_25_25079_化学（中外合作）.toml#courses[10]",
+    "curriculum://hit-data/plans/150_2022版_31_31126_数学与应用数学（中外合作）.toml#courses[10]",
+    "curriculum://hit-data/plans/198_2022版_32_32115_应用物理学（中外合作）.toml#courses[8]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22PE13001C.json",
+  "attachment_repo_id": "22PE13001"
+}

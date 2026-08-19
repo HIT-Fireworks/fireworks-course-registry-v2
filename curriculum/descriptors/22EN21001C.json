@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EN21001C",
+  "course_code": "22EN21001C",
+  "course_name": "环境分析化学",
+  "resource_group_id": "exact-name-5220ba4e1567eb7c",
+  "physical_repository_id": "physical-course-5c54c9a8516594fa",
+  "repo_id": "COURSES-5C54C9A85165",
+  "record_ids": [
+    "REC-020B8136A03178D5"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/142_2022版_27_27274_环境生态工程（鲍曼合作办学）.toml#courses[19]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EN21001C.json",
+  "attachment_repo_id": "COURSES-5C54C9A85165"
+}

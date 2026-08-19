@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AR31906",
+  "course_code": "22AR31906",
+  "course_name": "计算机辅助工业设计",
+  "resource_group_id": "exact-name-5c7d4b1a4967e3ca",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-9005B9E39D318590"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/064_2022版_11B_11B082_工业设计.toml#courses[34]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR31906.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

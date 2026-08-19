@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AR31705F",
+  "course_code": "22AR31705F",
+  "course_name": "虚拟拍摄技术",
+  "resource_group_id": "exact-name-e559b76e70b0bd66",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-414432224E05C353"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/076_2022版_11B_11BF305S_数字媒体创意设计.toml#courses[7]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR31705F.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

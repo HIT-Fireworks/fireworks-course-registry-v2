@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AS31606",
+  "course_code": "22AS31606",
+  "course_name": "弹性力学及有限元",
+  "resource_group_id": "exact-name-b98347728738e0c3",
+  "physical_repository_id": "physical-course-8c30cd8279559085",
+  "repo_id": "COURSES-8C30CD827955",
+  "record_ids": [
+    "REC-15ACC04A319FE08B"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/102_2022版_01_01183_飞行器环境与生命保障工程.toml#courses[50]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS31606.json",
+  "attachment_repo_id": "COURSES-8C30CD827955"
+}

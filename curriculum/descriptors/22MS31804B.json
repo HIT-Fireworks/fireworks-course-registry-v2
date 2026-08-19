@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22MS31804B",
+  "course_code": "22MS31804B",
+  "course_name": "半导体器件物理B",
+  "resource_group_id": "name-family-1067119e15b0e346",
+  "physical_repository_id": "physical-course-12af5bc572e71106",
+  "repo_id": "COURSES-12AF5BC572E7",
+  "record_ids": [
+    "REC-F6C9C342FCD3A9E4"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/031_2022版_03_03443_光电信息材料与器件.toml#courses[46]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MS31804B.json",
+  "attachment_repo_id": "COURSES-12AF5BC572E7"
+}

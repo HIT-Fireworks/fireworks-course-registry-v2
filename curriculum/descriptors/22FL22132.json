@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22FL22132",
+  "course_code": "22FL22132",
+  "course_name": "英语听力(1)",
+  "resource_group_id": "name-family-ccc1494cb5d5cbb5",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-8FF2587B0D60D7E4"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/166_2022版_35_35E151_英语.toml#courses[1]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22FL22132.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

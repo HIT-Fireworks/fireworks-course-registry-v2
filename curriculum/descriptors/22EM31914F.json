@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EM31914F",
+  "course_code": "22EM31914F",
+  "course_name": "数字经济学导论",
+  "resource_group_id": "course-family-2f0d2c3326b4a7dd",
+  "physical_repository_id": "physical-course-8cab420ae310747b",
+  "repo_id": "COURSES-8CAB420AE310",
+  "record_ids": [
+    "REC-BD191B1D52934881"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/043_2022版_07_07F223_数字经济.toml#courses[6]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM31914F.json",
+  "attachment_repo_id": "COURSES-8CAB420AE310"
+}

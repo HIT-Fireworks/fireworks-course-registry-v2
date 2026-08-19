@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AS31806",
+  "course_code": "22AS31806",
+  "course_name": "嵌入式系统及应用",
+  "resource_group_id": "exact-name-3c8d2a2b6950e543",
+  "physical_repository_id": "physical-course-b648a8668e93f8a3",
+  "repo_id": "22AS31806",
+  "record_ids": [
+    "REC-E26BAFDDFDE63B41"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/110_2022版_01_01214_微电子科学与工程.toml#courses[53]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS31806.json",
+  "attachment_repo_id": "22AS31806"
+}

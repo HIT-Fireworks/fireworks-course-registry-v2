@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22IS31404F",
+  "course_code": "22IS31404F",
+  "course_name": "互换性与测量技术基础A",
+  "resource_group_id": "exact-name-86eb325d8cf848d0",
+  "physical_repository_id": "physical-course-2c608f332ac553b6",
+  "repo_id": "COURSES-2C608F332AC5",
+  "record_ids": [
+    "REC-A8E6C3633AF0E046"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/194_2022版_28_28F014_精密仪器.toml#courses[5]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22IS31404F.json",
+  "attachment_repo_id": "COURSES-2C608F332AC5"
+}

@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22ES22023",
+  "course_code": "22ES22023",
+  "course_name": "半导体物理",
+  "resource_group_id": "exact-name-89ab83106e012e65",
+  "physical_repository_id": "physical-course-711d1ae0c8ae3048",
+  "repo_id": "22ES22023",
+  "record_ids": [
+    "REC-9FCD40DE0C915B9B",
+    "REC-7241D121CBDAB3B9"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/021_2022版_04_04026_新能源科学与工程.toml#courses[45]",
+    "curriculum://hit-data/plans/023_2022版_04_04028_储能科学与工程.toml#courses[45]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ES22023.json",
+  "attachment_repo_id": "22ES22023"
+}

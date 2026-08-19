@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AS31702",
+  "course_code": "22AS31702",
+  "course_name": "光电子器件",
+  "resource_group_id": "exact-name-dc38aab0fa033b14",
+  "physical_repository_id": "physical-course-8c30cd8279559085",
+  "repo_id": "COURSES-8C30CD827955",
+  "record_ids": [
+    "REC-F58B5F014822007F"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/108_2022版_01_01211_电子科学与技术.toml#courses[44]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS31702.json",
+  "attachment_repo_id": "COURSES-8C30CD827955"
+}

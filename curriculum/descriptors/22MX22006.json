@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22MX22006",
+  "course_code": "22MX22006",
+  "course_name": "法学概论",
+  "resource_group_id": "exact-name-7bbe0c839f911e94",
+  "physical_repository_id": "physical-course-c939a79f0c3a2bdb",
+  "repo_id": "COURSES-C939A79F0C3A",
+  "record_ids": [
+    "REC-AD466EB69F3758AF"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/187_2022版_49_49491_思想政治教育.toml#courses[18]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MX22006.json",
+  "attachment_repo_id": "COURSES-C939A79F0C3A"
+}

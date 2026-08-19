@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22ES31006F",
+  "course_code": "22ES31006F",
+  "course_name": "核反应堆安全分析",
+  "resource_group_id": "name-family-d9296d4c78018bd1",
+  "physical_repository_id": "physical-course-fabc2915b57c2ea7",
+  "repo_id": "COURSES-FABC2915B57C",
+  "record_ids": [
+    "REC-1D5879DBFB292AE3"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/016_2022版_04_04F025_核工程与核技术.toml#courses[6]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ES31006F.json",
+  "attachment_repo_id": "COURSES-FABC2915B57C"
+}

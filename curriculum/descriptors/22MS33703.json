@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22MS33703",
+  "course_code": "22MS33703",
+  "course_name": "材料物理课程设计",
+  "resource_group_id": "exact-name-d12f6c56c918469c",
+  "physical_repository_id": "physical-course-12af5bc572e71106",
+  "repo_id": "COURSES-12AF5BC572E7",
+  "record_ids": [
+    "REC-35C4A02E1C9B834E"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/030_2022版_03_03351_材料物理.toml#courses[51]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MS33703.json",
+  "attachment_repo_id": "COURSES-12AF5BC572E7"
+}

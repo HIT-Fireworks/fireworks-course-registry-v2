@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22EM22401",
+  "course_code": "22EM22401",
+  "course_name": "战略管理",
+  "resource_group_id": "exact-name-24cddecbe470eadf",
+  "physical_repository_id": "physical-course-1a31c4fa9f17f929",
+  "repo_id": "COURSES-1A31C4FA9F17",
+  "record_ids": [
+    "REC-050F87F98A55799F",
+    "REC-A544A657F1A24623",
+    "REC-E4D6ACAE4C2251C7"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/204_2022版_60_60201_工商管理.toml#courses[36]",
+    "curriculum://hit-data/plans/205_2022版_60_60202_市场营销.toml#courses[36]",
+    "curriculum://hit-data/plans/208_2022版_60_60E201_工商管理.toml#courses[11]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM22401.json",
+  "attachment_repo_id": "COURSES-1A31C4FA9F17"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22PH31006C",
+  "course_code": "22PH31006C",
+  "course_name": "计算物理",
+  "resource_group_id": "exact-name-4635994d70190544",
+  "physical_repository_id": "physical-course-946f2dca1f165881",
+  "repo_id": "COURSES-946F2DCA1F16",
+  "record_ids": [
+    "REC-442E0ABA9B9F7B21"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/198_2022版_32_32115_应用物理学（中外合作）.toml#courses[62]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22PH31006C.json",
+  "attachment_repo_id": "COURSES-946F2DCA1F16"
+}

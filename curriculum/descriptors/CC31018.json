@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:CC31018",
+  "course_code": "CC31018",
+  "course_name": "有机化学实验D",
+  "resource_group_id": "name-family-93bce178642a21ec",
+  "physical_repository_id": "physical-course-6c11ec1b7f12ace9",
+  "repo_id": "22CC15006",
+  "record_ids": [
+    "REC-1E248BFA564DAC0F"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/030_2022版_03_03351_材料物理.toml#courses[50]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/CC31018.json",
+  "attachment_repo_id": "22CC15006"
+}

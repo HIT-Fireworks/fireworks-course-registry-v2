@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22EE22009",
+  "course_code": "22EE22009",
+  "course_name": "电子技术C",
+  "resource_group_id": "circuits-and-electronics",
+  "physical_repository_id": "physical-course-b2c702385929c267",
+  "repo_id": "22EE21002",
+  "record_ids": [
+    "REC-1AA80CEBD2883A3B",
+    "REC-7FC28714239AD67E",
+    "REC-8E26FC3DB3A720D5"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/103_2022版_01_01184_复合材料与工程.toml#courses[23]",
+    "curriculum://hit-data/plans/104_2022版_01_011841_复合材料与工程（强基计划）.toml#courses[23]",
+    "curriculum://hit-data/plans/106_2022版_01_011861_智能材料与结构.toml#courses[23]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EE22009.json",
+  "attachment_repo_id": "22EE21002"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22MS31801",
+  "course_code": "22MS31801",
+  "course_name": "半导体物理学",
+  "resource_group_id": "exact-name-2bd71a34ff1b2e2e",
+  "physical_repository_id": "physical-course-12af5bc572e71106",
+  "repo_id": "COURSES-12AF5BC572E7",
+  "record_ids": [
+    "REC-E04AEDE221EED06C"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/031_2022版_03_03443_光电信息材料与器件.toml#courses[41]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MS31801.json",
+  "attachment_repo_id": "COURSES-12AF5BC572E7"
+}

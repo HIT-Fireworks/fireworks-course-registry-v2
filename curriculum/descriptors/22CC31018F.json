@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CC31018F",
+  "course_code": "22CC31018F",
+  "course_name": "精细有机合成原理",
+  "resource_group_id": "exact-name-b56aad830234f41b",
+  "physical_repository_id": "physical-course-5af3514cbd507387",
+  "repo_id": "COURSES-5AF3514CBD50",
+  "record_ids": [
+    "REC-A45E1863DCA602D1"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/124_2022版_25_25F078_应用化学.toml#courses[6]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC31018F.json",
+  "attachment_repo_id": "COURSES-5AF3514CBD50"
+}

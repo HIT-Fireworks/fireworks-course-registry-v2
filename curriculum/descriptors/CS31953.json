@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:CS31953",
+  "course_code": "CS31953",
+  "course_name": "微机原理与接口C",
+  "resource_group_id": "exact-name-d8ba89f4632e601a",
+  "physical_repository_id": "physical-course-f7330dcdb146e01c",
+  "repo_id": "COURSES-F7330DCDB146",
+  "record_ids": [
+    "REC-0BC211293652ACFB"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/111_2022版_01_01E041_自动化.toml#courses[1]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/CS31953.json",
+  "attachment_repo_id": "COURSES-F7330DCDB146"
+}

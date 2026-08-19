@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EI22381F",
+  "course_code": "22EI22381F",
+  "course_name": "统计模式识别基础",
+  "resource_group_id": "exact-name-38d7ea35b417723d",
+  "physical_repository_id": "physical-course-2656a175b646c69d",
+  "repo_id": "COURSES-2656A175B646",
+  "record_ids": [
+    "REC-90CC53659141BCDC"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/136_2022版_20_20F0501S_智能信息工程.toml#courses[0]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EI22381F.json",
+  "attachment_repo_id": "COURSES-2656A175B646"
+}

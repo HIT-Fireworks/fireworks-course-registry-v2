@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EM31503",
+  "course_code": "22EM31503",
+  "course_name": "定价管理",
+  "resource_group_id": "exact-name-a1153f0d81dfae4a",
+  "physical_repository_id": "physical-course-1a31c4fa9f17f929",
+  "repo_id": "COURSES-1A31C4FA9F17",
+  "record_ids": [
+    "REC-F5A5D16040BD192A"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/205_2022版_60_60202_市场营销.toml#courses[48]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM31503.json",
+  "attachment_repo_id": "COURSES-1A31C4FA9F17"
+}

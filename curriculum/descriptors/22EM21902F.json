@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22EM21902F",
+  "course_code": "22EM21902F",
+  "course_name": "微观经济学",
+  "resource_group_id": "name-family-237a18743d6dad23",
+  "physical_repository_id": "physical-course-f6b1d9818721a732",
+  "repo_id": "22EM21902F",
+  "record_ids": [
+    "REC-497ED620CAAF44A1",
+    "REC-96280BF220516425"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/042_2022版_07_07F222_国际经济与贸易.toml#courses[2]",
+    "curriculum://hit-data/plans/043_2022版_07_07F223_数字经济.toml#courses[2]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM21902F.json",
+  "attachment_repo_id": "22EM21902F"
+}

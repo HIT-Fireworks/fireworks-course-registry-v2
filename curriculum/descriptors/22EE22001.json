@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22EE22001",
+  "course_code": "22EE22001",
+  "course_name": "电路A(2)",
+  "resource_group_id": "circuits-and-electronics",
+  "physical_repository_id": "physical-course-b2c702385929c267",
+  "repo_id": "22EE21002",
+  "record_ids": [
+    "REC-A644A0E03A8160BF",
+    "REC-B079B3BAED6693E2"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/053_2022版_05_05061_电气工程及其自动化.toml#courses[28]",
+    "curriculum://hit-data/plans/054_2022版_05_05062_建筑电气与智能化.toml#courses[28]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EE22001.json",
+  "attachment_repo_id": "22EE21002"
+}

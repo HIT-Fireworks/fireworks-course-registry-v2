@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22FL33201",
+  "course_code": "22FL33201",
+  "course_name": "认识实习",
+  "resource_group_id": "name-family-46f79419661685f3",
+  "physical_repository_id": "physical-course-b3f08f6d87853d16",
+  "repo_id": "22AS33303",
+  "record_ids": [
+    "REC-6EC8DC5F7AC75328",
+    "REC-D31059A7765F0B79"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/158_2022版_35_35152_俄语.toml#courses[38]",
+    "curriculum://hit-data/plans/161_2022版_35_35158_俄语.toml#courses[42]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22FL33201.json",
+  "attachment_repo_id": "22AS33303"
+}

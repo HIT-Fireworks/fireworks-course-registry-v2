@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22AS22101",
+  "course_code": "22AS22101",
+  "course_name": "单片机控制",
+  "resource_group_id": "exact-name-57ff31974d7c15bd",
+  "physical_repository_id": "physical-course-8c30cd8279559085",
+  "repo_id": "COURSES-8C30CD827955",
+  "record_ids": [
+    "REC-63D6479F4DBE2AC7",
+    "REC-7825ABB7A6303659",
+    "REC-BFEA39CB7E5049E3"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/098_2022版_01_01041_自动化.toml#courses[33]",
+    "curriculum://hit-data/plans/099_2022版_01_01042_探测制导与控制技术.toml#courses[33]",
+    "curriculum://hit-data/plans/100_2022版_01_01043_智能装备与系统.toml#courses[33]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS22101.json",
+  "attachment_repo_id": "COURSES-8C30CD827955"
+}

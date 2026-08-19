@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22PH15008C",
+  "course_code": "22PH15008C",
+  "course_name": "大学物理F",
+  "resource_group_id": "university-physics",
+  "physical_repository_id": "physical-course-74511df0269a32ee",
+  "repo_id": "22PH15001",
+  "record_ids": [
+    "REC-07DFA0E417A11089"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/118_2022版_25_25079_化学（中外合作）.toml#courses[31]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22PH15008C.json",
+  "attachment_repo_id": "22PH15001"
+}

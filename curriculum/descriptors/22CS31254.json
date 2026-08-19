@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CS31254",
+  "course_code": "22CS31254",
+  "course_name": "智能物联网系统设计与实践",
+  "resource_group_id": "exact-name-377c4b9af93e6199",
+  "physical_repository_id": "physical-course-bc87c0351d93e4c1",
+  "repo_id": "COURSES-BC87C0351D93",
+  "record_ids": [
+    "REC-9BA86C19F1B98C8B"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/088_2022版_13B_13B373_物联网工程.toml#courses[52]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CS31254.json",
+  "attachment_repo_id": "COURSES-BC87C0351D93"
+}

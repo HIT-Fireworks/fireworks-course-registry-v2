@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22MA15043C",
+  "course_code": "22MA15043C",
+  "course_name": "概率论与数理统计D",
+  "resource_group_id": "probability-statistics",
+  "physical_repository_id": "physical-course-33af7db2100528bd",
+  "repo_id": "22MA15024",
+  "record_ids": [
+    "REC-4DD63FA7F88A7428"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/198_2022版_32_32115_应用物理学（中外合作）.toml#courses[32]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MA15043C.json",
+  "attachment_repo_id": "22MA15024"
+}

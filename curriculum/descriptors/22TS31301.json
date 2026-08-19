@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22TS31301",
+  "course_code": "22TS31301",
+  "course_name": "物理化学",
+  "resource_group_id": "name-family-7e16f36a1c359519",
+  "physical_repository_id": "physical-course-83d557ede692518a",
+  "repo_id": "22CC22004C",
+  "record_ids": [
+    "REC-348ED3D90D4F70A3",
+    "REC-DE826A9C35F65B66"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[252]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[253]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22TS31301.json",
+  "attachment_repo_id": "22CC22004C"
+}

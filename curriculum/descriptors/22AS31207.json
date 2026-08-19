@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AS31207",
+  "course_code": "22AS31207",
+  "course_name": "导航原理",
+  "resource_group_id": "exact-name-575ddcf190bd10b5",
+  "physical_repository_id": "physical-course-8c30cd8279559085",
+  "repo_id": "COURSES-8C30CD827955",
+  "record_ids": [
+    "REC-26F0DB92BD9BB427"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/099_2022版_01_01042_探测制导与控制技术.toml#courses[50]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS31207.json",
+  "attachment_repo_id": "COURSES-8C30CD827955"
+}

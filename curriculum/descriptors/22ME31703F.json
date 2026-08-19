@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22ME31703F",
+  "course_code": "22ME31703F",
+  "course_name": "智能制造系统建模与仿真",
+  "resource_group_id": "exact-name-d69c0179ee57a8de",
+  "physical_repository_id": "physical-course-669d2ec19f097658",
+  "repo_id": "COURSES-669D2EC19F09",
+  "record_ids": [
+    "REC-3B80367E3707C85F",
+    "REC-D47EA8D4AAEA3BB8"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/010_2022版_02_02F084_工业工程.toml#courses[9]",
+    "curriculum://hit-data/plans/013_2022版_02_02F087_智能制造工程.toml#courses[6]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ME31703F.json",
+  "attachment_repo_id": "COURSES-669D2EC19F09"
+}

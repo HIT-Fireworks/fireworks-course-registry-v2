@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22AS22011",
+  "course_code": "22AS22011",
+  "course_name": "自动控制原理B",
+  "resource_group_id": "name-family-13d4c5857d1893cb",
+  "physical_repository_id": "physical-course-c0ce0da39fbf3ec5",
+  "repo_id": "22AS22011",
+  "record_ids": [
+    "REC-455FAA3EC9DB2A3C",
+    "REC-DDBCB7DE051A9DF0"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/101_2022版_01_01182_飞行器设计与工程.toml#courses[41]",
+    "curriculum://hit-data/plans/105_2022版_01_01185_空间科学与技术.toml#courses[41]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS22011.json",
+  "attachment_repo_id": "22AS22011"
+}

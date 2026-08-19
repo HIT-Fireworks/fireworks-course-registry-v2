@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22CE33008",
+  "course_code": "22CE33008",
+  "course_name": "毕业实习",
+  "resource_group_id": "exact-name-144c5c83446ec6f9",
+  "physical_repository_id": "physical-course-df0239d8456d3d0d",
+  "repo_id": "22AS33251",
+  "record_ids": [
+    "REC-0C495FC095F63D12",
+    "REC-5D6EA8B45756AF22",
+    "REC-B008629C48D6DCD2"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[184]",
+    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[185]",
+    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[186]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CE33008.json",
+  "attachment_repo_id": "22AS33251"
+}

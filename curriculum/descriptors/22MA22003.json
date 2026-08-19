@@ -1,0 +1,24 @@
+{
+  "descriptor_id": "course-code:22MA22003",
+  "course_code": "22MA22003",
+  "course_name": "解析几何",
+  "resource_group_id": "exact-name-4ef5479ca8791b9d",
+  "physical_repository_id": "physical-course-fe2c9066eed55ac5",
+  "repo_id": "COURSES-FE2C9066EED5",
+  "record_ids": [
+    "REC-ABA3F21DB9093098",
+    "REC-D8A9CCC2C359B16C",
+    "REC-F2AAB589DDD053A7",
+    "REC-FF4549EED2DA91CD"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/147_2022版_31_31121_数学与应用数学.toml#courses[6]",
+    "curriculum://hit-data/plans/148_2022版_31_31122_信息与计算科学.toml#courses[6]",
+    "curriculum://hit-data/plans/149_2022版_31_31123_统计学.toml#courses[6]",
+    "curriculum://hit-data/plans/154_2022版_31_31SXS121031_数学与应用数学（+计算机科学与技术双学士学位）.toml#courses[6]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MA22003.json",
+  "attachment_repo_id": "COURSES-FE2C9066EED5"
+}

@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22IS44002",
+  "course_code": "22IS44002",
+  "course_name": "传感器与光电类竞赛指导与实训",
+  "resource_group_id": "exact-name-5fdb428e5750f0cd",
+  "physical_repository_id": "physical-course-2c608f332ac553b6",
+  "repo_id": "COURSES-2C608F332AC5",
+  "record_ids": [
+    "REC-26A417778F22A48D",
+    "REC-97DB0C508651240D",
+    "REC-E3D58E07009ABCBC"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/190_2022版_28_28011_测控技术与仪器.toml#courses[42]",
+    "curriculum://hit-data/plans/191_2022版_28_28014_精密仪器.toml#courses[42]",
+    "curriculum://hit-data/plans/192_2022版_28_28015_智能感知工程.toml#courses[42]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22IS44002.json",
+  "attachment_repo_id": "COURSES-2C608F332AC5"
+}

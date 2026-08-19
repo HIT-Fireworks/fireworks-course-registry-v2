@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:EE31023",
+  "course_code": "EE31023",
+  "course_name": "电子技术A",
+  "resource_group_id": "circuits-and-electronics",
+  "physical_repository_id": "physical-course-b2c702385929c267",
+  "repo_id": "22EE21002",
+  "record_ids": [
+    "REC-E71B664A740318A1"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/111_2022版_01_01E041_自动化.toml#courses[5]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/EE31023.json",
+  "attachment_repo_id": "22EE21002"
+}

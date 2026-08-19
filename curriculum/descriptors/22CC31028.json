@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CC31028",
+  "course_code": "22CC31028",
+  "course_name": "电化学原理A",
+  "resource_group_id": "exact-name-633b804169bb2d13",
+  "physical_repository_id": "physical-course-5af3514cbd507387",
+  "repo_id": "COURSES-5AF3514CBD50",
+  "record_ids": [
+    "REC-356BD77DE4438660"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/120_2022版_25_25142_化学工程与工艺.toml#courses[48]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC31028.json",
+  "attachment_repo_id": "COURSES-5AF3514CBD50"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22ME31607F",
+  "course_code": "22ME31607F",
+  "course_name": "人工智能技术及应用",
+  "resource_group_id": "exact-name-e62ae6859199dd6f",
+  "physical_repository_id": "physical-course-669d2ec19f097658",
+  "repo_id": "COURSES-669D2EC19F09",
+  "record_ids": [
+    "REC-AF6058996DB3C022"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/012_2022版_02_02F086_机器人工程.toml#courses[8]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ME31607F.json",
+  "attachment_repo_id": "COURSES-669D2EC19F09"
+}

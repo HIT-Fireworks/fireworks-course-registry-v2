@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CS31204",
+  "course_code": "22CS31204",
+  "course_name": "网络空间安全设计与实践II",
+  "resource_group_id": "name-family-9ec11c7cb75eeb5c",
+  "physical_repository_id": "physical-course-c5f6f73ba33f4644",
+  "repo_id": "22CS31203",
+  "record_ids": [
+    "REC-623AE3D6C6AAF441"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/086_2022版_13B_13B039_网络空间安全.toml#courses[52]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CS31204.json",
+  "attachment_repo_id": "22CS31203"
+}

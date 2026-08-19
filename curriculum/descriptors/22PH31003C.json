@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22PH31003C",
+  "course_code": "22PH31003C",
+  "course_name": "傅里叶光学",
+  "resource_group_id": "exact-name-e062e5bae20504f5",
+  "physical_repository_id": "physical-course-e0db53a0939b347a",
+  "repo_id": "22AS31903",
+  "record_ids": [
+    "REC-CBF4042F579B9567"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/198_2022版_32_32115_应用物理学（中外合作）.toml#courses[59]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22PH31003C.json",
+  "attachment_repo_id": "22AS31903"
+}

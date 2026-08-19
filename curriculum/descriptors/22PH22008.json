@@ -1,0 +1,26 @@
+{
+  "descriptor_id": "course-code:22PH22008",
+  "course_code": "22PH22008",
+  "course_name": "力学",
+  "resource_group_id": "exact-name-c1fd41c659e80417",
+  "physical_repository_id": "physical-course-946f2dca1f165881",
+  "repo_id": "COURSES-946F2DCA1F16",
+  "record_ids": [
+    "REC-6D12904AF494A066",
+    "REC-196C7243ED09A0F0",
+    "REC-D2BD1FC11DAC8B58",
+    "REC-D7B2925C21688C1A",
+    "REC-ECEFEF6F7A70BC8C"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/196_2022版_32_32111_应用物理学.toml#courses[9]",
+    "curriculum://hit-data/plans/197_2022版_32_32114_光电信息科学与工程.toml#courses[9]",
+    "curriculum://hit-data/plans/201_2022版_32_32SXS111061_应用物理学（+电气工程及其自动化双学士学位）.toml#courses[9]",
+    "curriculum://hit-data/plans/202_2022版_32_32SXS111086_应用物理学（+机器人工程双学士学位）.toml#courses[19]",
+    "curriculum://hit-data/plans/203_2022版_32_32SXS111214_应用物理学（+微电子科学与工程双学士学位）.toml#courses[9]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22PH22008.json",
+  "attachment_repo_id": "COURSES-946F2DCA1F16"
+}

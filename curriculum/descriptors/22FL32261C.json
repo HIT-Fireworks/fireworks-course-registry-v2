@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22FL32261C",
+  "course_code": "22FL32261C",
+  "course_name": "俄语基础语法2",
+  "resource_group_id": "exact-name-5114829c06f15fdc",
+  "physical_repository_id": "physical-course-cf57911f934e37a9",
+  "repo_id": "22FL32261C",
+  "record_ids": [
+    "REC-9E21B34F73100B9E",
+    "REC-311F4B33B0CB2348",
+    "REC-F294ED7CED00EC72"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/118_2022版_25_25079_化学（中外合作）.toml#courses[15]",
+    "curriculum://hit-data/plans/150_2022版_31_31126_数学与应用数学（中外合作）.toml#courses[14]",
+    "curriculum://hit-data/plans/198_2022版_32_32115_应用物理学（中外合作）.toml#courses[14]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22FL32261C.json",
+  "attachment_repo_id": "22FL32261C"
+}

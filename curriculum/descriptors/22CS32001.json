@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CS32001",
+  "course_code": "22CS32001",
+  "course_name": "高级算法",
+  "resource_group_id": "exact-name-cb670d2453d4fefc",
+  "physical_repository_id": "physical-course-703c4705349166a8",
+  "repo_id": "COURSES-703C47053491",
+  "record_ids": [
+    "REC-939F4403D1B0CB1B"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/154_2022版_31_31SXS121031_数学与应用数学（+计算机科学与技术双学士学位）.toml#courses[45]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CS32001.json",
+  "attachment_repo_id": "COURSES-703C47053491"
+}

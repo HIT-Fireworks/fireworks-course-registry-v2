@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22AS22012",
+  "course_code": "22AS22012",
+  "course_name": "自动控制原理C",
+  "resource_group_id": "name-family-13d4c5857d1893cb",
+  "physical_repository_id": "physical-course-c0ce0da39fbf3ec5",
+  "repo_id": "22AS22011",
+  "record_ids": [
+    "REC-8C3C074663074E18",
+    "REC-D5F40ECA2D7880D0"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/096_2022版_12_12325_交通设备与控制工程.toml#courses[42]",
+    "curriculum://hit-data/plans/102_2022版_01_01183_飞行器环境与生命保障工程.toml#courses[41]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS22012.json",
+  "attachment_repo_id": "22AS22011"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EI22281F",
+  "course_code": "22EI22281F",
+  "course_name": "智能信号处理技术",
+  "resource_group_id": "exact-name-07e213ba9226b76f",
+  "physical_repository_id": "physical-course-2656a175b646c69d",
+  "repo_id": "COURSES-2656A175B646",
+  "record_ids": [
+    "REC-38A200B989592F07"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/136_2022版_20_20F0501S_智能信息工程.toml#courses[1]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EI22281F.json",
+  "attachment_repo_id": "COURSES-2656A175B646"
+}

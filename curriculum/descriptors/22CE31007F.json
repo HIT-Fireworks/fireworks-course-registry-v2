@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CE31007F",
+  "course_code": "22CE31007F",
+  "course_name": "弹性与塑性力学",
+  "resource_group_id": "exact-name-6e0b07370424e5ba",
+  "physical_repository_id": "physical-course-b8079c4567d697cd",
+  "repo_id": "COURSES-B8079C4567D6",
+  "record_ids": [
+    "REC-5BB7F14A9D0E0BBF"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/062_2022版_09_09F332_理论与应用力学.toml#courses[2]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CE31007F.json",
+  "attachment_repo_id": "COURSES-B8079C4567D6"
+}

@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22ES31305",
+  "course_code": "22ES31305",
+  "course_name": "新能源系统基础",
+  "resource_group_id": "exact-name-f1766b7be37e3b52",
+  "physical_repository_id": "physical-course-fabc2915b57c2ea7",
+  "repo_id": "COURSES-FABC2915B57C",
+  "record_ids": [
+    "REC-0E434793C1DB0CB6",
+    "REC-4D741A1FE29F0AE3"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/021_2022版_04_04026_新能源科学与工程.toml#courses[56]",
+    "curriculum://hit-data/plans/023_2022版_04_04028_储能科学与工程.toml#courses[56]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ES31305.json",
+  "attachment_repo_id": "COURSES-FABC2915B57C"
+}

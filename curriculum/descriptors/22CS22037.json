@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22CS22037",
+  "course_code": "22CS22037",
+  "course_name": "计算机网络B",
+  "resource_group_id": "name-family-38746af84ac5ac31",
+  "physical_repository_id": "physical-course-b50a73416163c717",
+  "repo_id": "22CS22011",
+  "record_ids": [
+    "REC-9EE176DB2792E320",
+    "REC-DC275879C7216B47"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/089_2022版_13B_13BE031_计算机科学与技术.toml#courses[5]",
+    "curriculum://hit-data/plans/091_2022版_13B_13BE036_人工智能.toml#courses[5]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CS22037.json",
+  "attachment_repo_id": "22CS22011"
+}

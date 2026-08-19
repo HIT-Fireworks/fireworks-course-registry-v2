@@ -1,0 +1,26 @@
+{
+  "descriptor_id": "course-code:22ME22024",
+  "course_code": "22ME22024",
+  "course_name": "机械工程流体力学与传热学基础",
+  "resource_group_id": "exact-name-fa302b522d4a5b93",
+  "physical_repository_id": "physical-course-669d2ec19f097658",
+  "repo_id": "COURSES-669D2EC19F09",
+  "record_ids": [
+    "REC-00B38333804E307C",
+    "REC-2FB7A27A3162B2FC",
+    "REC-0756C40031AE1615",
+    "REC-64840E643440ED4A",
+    "REC-C71EBF8A5998CE42"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/001_2022版_02_02081_机械设计制造及其自动化.toml#courses[48]",
+    "curriculum://hit-data/plans/002_2022版_02_02083_飞行器制造工程.toml#courses[48]",
+    "curriculum://hit-data/plans/005_2022版_02_02085_机械电子工程.toml#courses[48]",
+    "curriculum://hit-data/plans/006_2022版_02_02086_机器人工程.toml#courses[48]",
+    "curriculum://hit-data/plans/007_2022版_02_02087_智能制造工程.toml#courses[48]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ME22024.json",
+  "attachment_repo_id": "COURSES-669D2EC19F09"
+}

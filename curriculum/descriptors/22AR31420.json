@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AR31420",
+  "course_code": "22AR31420",
+  "course_name": "空间分析技术",
+  "resource_group_id": "exact-name-72581fc92d86ed3e",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-1E76919B80AF6BA8"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/070_2022版_11B_11B347_风景园林.toml#courses[62]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR31420.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

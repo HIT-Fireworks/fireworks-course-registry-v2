@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22PH15013C",
+  "course_code": "22PH15013C",
+  "course_name": "大学物理x(2)",
+  "resource_group_id": "university-physics",
+  "physical_repository_id": "physical-course-74511df0269a32ee",
+  "repo_id": "22PH15001",
+  "record_ids": [
+    "REC-653D73DF6C6997D8"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/150_2022版_31_31126_数学与应用数学（中外合作）.toml#courses[45]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22PH15013C.json",
+  "attachment_repo_id": "22PH15001"
+}

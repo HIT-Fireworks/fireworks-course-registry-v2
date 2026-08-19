@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22FL32272C",
+  "course_code": "22FL32272C",
+  "course_name": "综合俄语4",
+  "resource_group_id": "exact-name-6296c9d8bcff033d",
+  "physical_repository_id": "physical-course-4c063b218db5e1a8",
+  "repo_id": "22FL32270C",
+  "record_ids": [
+    "REC-223C15ECE48D447B",
+    "REC-A686C623E9AD7899"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/150_2022版_31_31126_数学与应用数学（中外合作）.toml#courses[30]",
+    "curriculum://hit-data/plans/198_2022版_32_32115_应用物理学（中外合作）.toml#courses[39]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22FL32272C.json",
+  "attachment_repo_id": "22FL32270C"
+}

@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22LS33001F",
+  "course_code": "22LS33001F",
+  "course_name": "毕业论文(设计)",
+  "resource_group_id": "exact-name-8db41f88b0b6c77e",
+  "physical_repository_id": "physical-course-2bcf14039c972840",
+  "repo_id": "22AR33001F",
+  "record_ids": [
+    "REC-85D29CE6D07A1615",
+    "REC-BC0227F5C19B834D"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/184_2022版_37_37F281_生物技术.toml#courses[19]",
+    "curriculum://hit-data/plans/185_2022版_37_37F282_生物工程.toml#courses[15]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22LS33001F.json",
+  "attachment_repo_id": "22AR33001F"
+}

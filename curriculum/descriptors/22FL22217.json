@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22FL22217",
+  "course_code": "22FL22217",
+  "course_name": "俄语实践语法(4)",
+  "resource_group_id": "name-family-d906f083e0b5f1dd",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-B143E45CFEEA4B69",
+    "REC-E029D904FA0C2C13"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/158_2022版_35_35152_俄语.toml#courses[32]",
+    "curriculum://hit-data/plans/161_2022版_35_35158_俄语.toml#courses[40]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22FL22217.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

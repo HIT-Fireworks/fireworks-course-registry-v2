@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22FL22413",
+  "course_code": "22FL22413",
+  "course_name": "法语视听说(2)",
+  "resource_group_id": "name-family-7d7034725eb22a4c",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-4C70CEF61ADF11A1"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/160_2022版_35_35154_国际组织与全球治理.toml#courses[16]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22FL22413.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

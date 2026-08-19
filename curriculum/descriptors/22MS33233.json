@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22MS33233",
+  "course_code": "22MS33233",
+  "course_name": "毕业论文(设计)",
+  "resource_group_id": "exact-name-8db41f88b0b6c77e",
+  "physical_repository_id": "physical-course-2bcf14039c972840",
+  "repo_id": "22AR33001F",
+  "record_ids": [
+    "REC-0241572119B739D3"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/024_2022版_03_03091_材料成型及控制工程.toml#courses[46]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MS33233.json",
+  "attachment_repo_id": "22AR33001F"
+}

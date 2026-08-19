@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22ME31303F",
+  "course_code": "22ME31303F",
+  "course_name": "飞行器制造工艺与装备",
+  "resource_group_id": "exact-name-9dcc514c996bab0c",
+  "physical_repository_id": "physical-course-669d2ec19f097658",
+  "repo_id": "COURSES-669D2EC19F09",
+  "record_ids": [
+    "REC-82C99D54A7492A57"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/009_2022版_02_02F083_飞行器制造工程.toml#courses[7]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ME31303F.json",
+  "attachment_repo_id": "COURSES-669D2EC19F09"
+}

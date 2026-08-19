@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CC31011C",
+  "course_code": "22CC31011C",
+  "course_name": "胶体化学",
+  "resource_group_id": "exact-name-f14cf490b156a566",
+  "physical_repository_id": "physical-course-5af3514cbd507387",
+  "repo_id": "COURSES-5AF3514CBD50",
+  "record_ids": [
+    "REC-7B5CD7973B3AE82A"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/118_2022版_25_25079_化学（中外合作）.toml#courses[44]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC31011C.json",
+  "attachment_repo_id": "COURSES-5AF3514CBD50"
+}

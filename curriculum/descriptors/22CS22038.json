@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22CS22038",
+  "course_code": "22CS22038",
+  "course_name": "数理逻辑与近世代数C",
+  "resource_group_id": "name-family-f14fb8f7c1f98743",
+  "physical_repository_id": "physical-course-bc87c0351d93e4c1",
+  "repo_id": "COURSES-BC87C0351D93",
+  "record_ids": [
+    "REC-3DF36625C7E4CC0F",
+    "REC-8891C4FE1B7609F0"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/089_2022版_13B_13BE031_计算机科学与技术.toml#courses[6]",
+    "curriculum://hit-data/plans/091_2022版_13B_13BE036_人工智能.toml#courses[6]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CS22038.json",
+  "attachment_repo_id": "COURSES-BC87C0351D93"
+}

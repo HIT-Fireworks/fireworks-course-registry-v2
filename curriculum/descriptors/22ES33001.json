@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22ES33001",
+  "course_code": "22ES33001",
+  "course_name": "认识实习I",
+  "resource_group_id": "name-family-46f79419661685f3",
+  "physical_repository_id": "physical-course-b3f08f6d87853d16",
+  "repo_id": "22AS33303",
+  "record_ids": [
+    "REC-31B042FE47FB682A"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/022_2022版_04_04027_飞行器动力工程（莫航联培班）.toml#courses[12]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ES33001.json",
+  "attachment_repo_id": "22AS33303"
+}

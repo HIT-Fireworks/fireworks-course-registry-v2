@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AR31103",
+  "course_code": "22AR31103",
+  "course_name": "建筑设计-3",
+  "resource_group_id": "exact-name-9c5c785983805eb3",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-EFF290E5C8B27775"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/067_2022版_11B_11B341_建筑学.toml#courses[41]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR31103.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

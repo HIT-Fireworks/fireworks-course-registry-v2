@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22AS22254F",
+  "course_code": "22AS22254F",
+  "course_name": "弹性力学",
+  "resource_group_id": "name-family-12da4daaa6c71af3",
+  "physical_repository_id": "physical-course-da8314ac86e93fdd",
+  "repo_id": "22AS22254F",
+  "record_ids": [
+    "REC-12A3A13C68B39E4C",
+    "REC-731ECFB955E52C62"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/114_2022版_01_01F181_工程力学.toml#courses[8]",
+    "curriculum://hit-data/plans/114_2022版_01_01F181_工程力学.toml#courses[9]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS22254F.json",
+  "attachment_repo_id": "22AS22254F"
+}

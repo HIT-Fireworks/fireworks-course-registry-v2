@@ -1,0 +1,24 @@
+{
+  "descriptor_id": "course-code:22LS22021",
+  "course_code": "22LS22021",
+  "course_name": "生物医学基础",
+  "resource_group_id": "exact-name-b7a8f9da54cf391a",
+  "physical_repository_id": "physical-course-ce4133cbe869b5fe",
+  "repo_id": "COURSES-CE4133CBE869",
+  "record_ids": [
+    "REC-7B74EF93D29B6565",
+    "REC-92A828EFFB292DD0",
+    "REC-C792C67AF7A15347",
+    "REC-E16D0D7E2BA35587"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/179_2022版_37_37281_生物技术.toml#courses[45]",
+    "curriculum://hit-data/plans/180_2022版_37_37282_生物工程.toml#courses[45]",
+    "curriculum://hit-data/plans/181_2022版_37_37284_整合科学.toml#courses[45]",
+    "curriculum://hit-data/plans/186_2022版_37_37SXS281056_生物技术（+智能测控工程双学士学位）.toml#courses[43]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22LS22021.json",
+  "attachment_repo_id": "COURSES-CE4133CBE869"
+}

@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22TS21607",
+  "course_code": "22TS21607",
+  "course_name": "测量学D",
+  "resource_group_id": "name-family-0097ebc26a1f26de",
+  "physical_repository_id": "physical-course-6eb40c489ce1bdc8",
+  "repo_id": "22EI31320",
+  "record_ids": [
+    "REC-9082BDCF578F2C5B",
+    "REC-37423E15A5B2DF47",
+    "REC-AE842062FF3467AE"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/139_2022版_27_27271_环境工程.toml#courses[42]",
+    "curriculum://hit-data/plans/140_2022版_27_27272_环境科学.toml#courses[40]",
+    "curriculum://hit-data/plans/141_2022版_27_27273_环境生态工程.toml#courses[42]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22TS21607.json",
+  "attachment_repo_id": "22EI31320"
+}

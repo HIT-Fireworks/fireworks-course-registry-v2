@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22EE22003",
+  "course_code": "22EE22003",
+  "course_name": "电路C",
+  "resource_group_id": "circuits-and-electronics",
+  "physical_repository_id": "physical-course-b2c702385929c267",
+  "repo_id": "22EE21002",
+  "record_ids": [
+    "REC-3C2826EE2D531E68",
+    "REC-7FE45DE853083543",
+    "REC-B2EE2BAEC6C866BD"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/098_2022版_01_01041_自动化.toml#courses[22]",
+    "curriculum://hit-data/plans/099_2022版_01_01042_探测制导与控制技术.toml#courses[22]",
+    "curriculum://hit-data/plans/100_2022版_01_01043_智能装备与系统.toml#courses[22]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EE22003.json",
+  "attachment_repo_id": "22EE21002"
+}

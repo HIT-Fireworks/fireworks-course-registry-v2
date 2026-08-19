@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22AS22252F",
+  "course_code": "22AS22252F",
+  "course_name": "材料力学E",
+  "resource_group_id": "name-family-f73548468f88f9af",
+  "physical_repository_id": "physical-course-2a1e922d88ae6c56",
+  "repo_id": "22AS22005",
+  "record_ids": [
+    "REC-16E233EE3C220709",
+    "REC-F480A9998A740701"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/114_2022版_01_01F181_工程力学.toml#courses[4]",
+    "curriculum://hit-data/plans/114_2022版_01_01F181_工程力学.toml#courses[5]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS22252F.json",
+  "attachment_repo_id": "22AS22005"
+}

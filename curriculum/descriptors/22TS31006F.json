@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22TS31006F",
+  "course_code": "22TS31006F",
+  "course_name": "自动驾驶与车联网",
+  "resource_group_id": "exact-name-87f391dee3b7287e",
+  "physical_repository_id": "physical-course-9c6503da11740603",
+  "repo_id": "COURSES-9C6503DA1174",
+  "record_ids": [
+    "REC-4426BC8791051B86"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/097_2022版_12_12F326S_智能交通.toml#courses[8]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22TS31006F.json",
+  "attachment_repo_id": "COURSES-9C6503DA1174"
+}

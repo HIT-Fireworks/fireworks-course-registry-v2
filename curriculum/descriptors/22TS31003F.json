@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22TS31003F",
+  "course_code": "22TS31003F",
+  "course_name": "交通大数据应用",
+  "resource_group_id": "exact-name-ad565a376bb8e280",
+  "physical_repository_id": "physical-course-9c6503da11740603",
+  "repo_id": "COURSES-9C6503DA1174",
+  "record_ids": [
+    "REC-9C4BB98693EF5221"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/097_2022版_12_12F326S_智能交通.toml#courses[5]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22TS31003F.json",
+  "attachment_repo_id": "COURSES-9C6503DA1174"
+}

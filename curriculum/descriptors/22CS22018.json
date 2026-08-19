@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22CS22018",
+  "course_code": "22CS22018",
+  "course_name": "Python程序设计C",
+  "resource_group_id": "name-family-94e9241f6a514ca9",
+  "physical_repository_id": "physical-course-037d07c79336e56d",
+  "repo_id": "22CS22018",
+  "record_ids": [
+    "REC-7FB8B27BDA5B7EE8",
+    "REC-3344746089707685"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/089_2022版_13B_13BE031_计算机科学与技术.toml#courses[0]",
+    "curriculum://hit-data/plans/091_2022版_13B_13BE036_人工智能.toml#courses[0]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CS22018.json",
+  "attachment_repo_id": "22CS22018"
+}

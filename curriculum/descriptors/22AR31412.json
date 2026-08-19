@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AR31412",
+  "course_code": "22AR31412",
+  "course_name": "景观生态原理",
+  "resource_group_id": "exact-name-589ef88db9363500",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-A43FF8440C694D47"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/070_2022版_11B_11B347_风景园林.toml#courses[45]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR31412.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

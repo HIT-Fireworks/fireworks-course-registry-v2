@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EE22049",
+  "course_code": "22EE22049",
+  "course_name": "信号与系统B",
+  "resource_group_id": "signals-and-systems",
+  "physical_repository_id": "physical-course-163a6a5fce6b8e89",
+  "repo_id": "22EE22004F",
+  "record_ids": [
+    "REC-E858E0C690BEFE4A"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/201_2022版_32_32SXS111061_应用物理学（+电气工程及其自动化双学士学位）.toml#courses[34]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EE22049.json",
+  "attachment_repo_id": "22EE22004F"
+}

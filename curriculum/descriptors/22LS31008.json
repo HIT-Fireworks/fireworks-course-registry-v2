@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22LS31008",
+  "course_code": "22LS31008",
+  "course_name": "免疫学",
+  "resource_group_id": "exact-name-22df6525cafc7cae",
+  "physical_repository_id": "physical-course-ce4133cbe869b5fe",
+  "repo_id": "COURSES-CE4133CBE869",
+  "record_ids": [
+    "REC-B0C05134ED5E80AD",
+    "REC-D20CE7D353B71935"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/179_2022版_37_37281_生物技术.toml#courses[51]",
+    "curriculum://hit-data/plans/186_2022版_37_37SXS281056_生物技术（+智能测控工程双学士学位）.toml#courses[53]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22LS31008.json",
+  "attachment_repo_id": "COURSES-CE4133CBE869"
+}

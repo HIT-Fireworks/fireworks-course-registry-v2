@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22MA31006",
+  "course_code": "22MA31006",
+  "course_name": "随机过程基础",
+  "resource_group_id": "exact-name-36c821519e0035cf",
+  "physical_repository_id": "physical-course-fe2c9066eed55ac5",
+  "repo_id": "COURSES-FE2C9066EED5",
+  "record_ids": [
+    "REC-0F4D1EFB254B5789"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/149_2022版_31_31123_统计学.toml#courses[37]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MA31006.json",
+  "attachment_repo_id": "COURSES-FE2C9066EED5"
+}

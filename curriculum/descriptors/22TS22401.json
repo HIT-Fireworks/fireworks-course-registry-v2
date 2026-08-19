@@ -1,0 +1,32 @@
+{
+  "descriptor_id": "course-code:22TS22401",
+  "course_code": "22TS22401",
+  "course_name": "交通工程基础",
+  "resource_group_id": "exact-name-e61f7f220c1cff8a",
+  "physical_repository_id": "physical-course-9c6503da11740603",
+  "repo_id": "COURSES-9C6503DA1174",
+  "record_ids": [
+    "REC-2D8538136CA2D3D3",
+    "REC-3C2B9F17C2EA9BFC",
+    "REC-59E53B2C362A1B0A",
+    "REC-88AC10BB810BCD03",
+    "REC-4461A3B05B2EF4FC",
+    "REC-B7058C414794364F",
+    "REC-C62BF79B1EA18B88",
+    "REC-FECEC751B43CCF43"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[286]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[287]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[288]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[289]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[290]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[291]",
+    "curriculum://hit-data/plans/095_2022版_12_12322_交通工程.toml#courses[30]",
+    "curriculum://hit-data/plans/096_2022版_12_12325_交通设备与控制工程.toml#courses[39]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22TS22401.json",
+  "attachment_repo_id": "COURSES-9C6503DA1174"
+}

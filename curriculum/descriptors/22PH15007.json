@@ -1,0 +1,34 @@
+{
+  "descriptor_id": "course-code:22PH15007",
+  "course_code": "22PH15007",
+  "course_name": "大学物理E",
+  "resource_group_id": "university-physics",
+  "physical_repository_id": "physical-course-74511df0269a32ee",
+  "repo_id": "22PH15001",
+  "record_ids": [
+    "REC-0D984C366385F8C8",
+    "REC-6AB6BAAA54780089",
+    "REC-028C6D38A10D6098",
+    "REC-52F50E4F9160C60F",
+    "REC-92878D964F621D00",
+    "REC-390241C359B3B744",
+    "REC-C9DCEA7AC44026DA",
+    "REC-E72AA8297C9438E7",
+    "REC-E53441FB908CF2D5"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/022_2022版_04_04027_飞行器动力工程（莫航联培班）.toml#courses[34]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[108]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[109]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[110]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[111]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[112]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[113]",
+    "curriculum://hit-data/plans/095_2022版_12_12322_交通工程.toml#courses[18]",
+    "curriculum://hit-data/plans/096_2022版_12_12325_交通设备与控制工程.toml#courses[18]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22PH15007.json",
+  "attachment_repo_id": "22PH15001"
+}

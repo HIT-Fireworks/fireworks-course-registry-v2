@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22AS31801",
+  "course_code": "22AS31801",
+  "course_name": "微电子器件原理",
+  "resource_group_id": "exact-name-e17e9f2e0d2d77ec",
+  "physical_repository_id": "physical-course-eb672dd1d03392f4",
+  "repo_id": "22AS31801",
+  "record_ids": [
+    "REC-54FC02CF8117EA5C",
+    "REC-B87266A53779C147"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/110_2022版_01_01214_微电子科学与工程.toml#courses[42]",
+    "curriculum://hit-data/plans/203_2022版_32_32SXS111214_应用物理学（+微电子科学与工程双学士学位）.toml#courses[45]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS31801.json",
+  "attachment_repo_id": "22AS31801"
+}

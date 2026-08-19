@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AS32260",
+  "course_code": "22AS32260",
+  "course_name": "计算方法",
+  "resource_group_id": "exact-name-cf2bbfa73d373e9f",
+  "physical_repository_id": "physical-course-66eb875b7ccdb523",
+  "repo_id": "22AS32260",
+  "record_ids": [
+    "REC-5D5C93C058444133"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/107_2022版_01_01187_工程力学（强基计划）.toml#courses[39]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS32260.json",
+  "attachment_repo_id": "22AS32260"
+}

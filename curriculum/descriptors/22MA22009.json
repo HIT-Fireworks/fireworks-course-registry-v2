@@ -1,0 +1,28 @@
+{
+  "descriptor_id": "course-code:22MA22009",
+  "course_code": "22MA22009",
+  "course_name": "复变函数",
+  "resource_group_id": "exact-name-a7e08dc14fa74e36",
+  "physical_repository_id": "physical-course-fe2c9066eed55ac5",
+  "repo_id": "COURSES-FE2C9066EED5",
+  "record_ids": [
+    "REC-048AD77572D4672D",
+    "REC-097E1AC65AEBD3F9",
+    "REC-521566BF3F7DB554",
+    "REC-AB1A8683FBF3463F",
+    "REC-B9E7929DCA4140E9",
+    "REC-BDD7ABEBA720D894"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/147_2022版_31_31121_数学与应用数学.toml#courses[29]",
+    "curriculum://hit-data/plans/148_2022版_31_31122_信息与计算科学.toml#courses[29]",
+    "curriculum://hit-data/plans/149_2022版_31_31123_统计学.toml#courses[29]",
+    "curriculum://hit-data/plans/154_2022版_31_31SXS121031_数学与应用数学（+计算机科学与技术双学士学位）.toml#courses[35]",
+    "curriculum://hit-data/plans/155_2022版_31_31SXS121039_数学与应用数学（+网络空间安全双学士学位）.toml#courses[35]",
+    "curriculum://hit-data/plans/156_2022版_31_31SXS123104_统计学（+计算金融双学士学位）.toml#courses[37]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MA22009.json",
+  "attachment_repo_id": "COURSES-FE2C9066EED5"
+}

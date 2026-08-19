@@ -1,0 +1,24 @@
+{
+  "descriptor_id": "course-code:22PH33005",
+  "course_code": "22PH33005",
+  "course_name": "应用物理专业实习",
+  "resource_group_id": "exact-name-8c10686e2b74615a",
+  "physical_repository_id": "physical-course-946f2dca1f165881",
+  "repo_id": "COURSES-946F2DCA1F16",
+  "record_ids": [
+    "REC-00A4641CDA5C2FA3",
+    "REC-3E704A7C5772B49E",
+    "REC-0994765285717330",
+    "REC-CD366875ECAB3FB6"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/196_2022版_32_32111_应用物理学.toml#courses[60]",
+    "curriculum://hit-data/plans/196_2022版_32_32111_应用物理学.toml#courses[61]",
+    "curriculum://hit-data/plans/196_2022版_32_32111_应用物理学.toml#courses[62]",
+    "curriculum://hit-data/plans/202_2022版_32_32SXS111086_应用物理学（+机器人工程双学士学位）.toml#courses[58]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22PH33005.json",
+  "attachment_repo_id": "COURSES-946F2DCA1F16"
+}

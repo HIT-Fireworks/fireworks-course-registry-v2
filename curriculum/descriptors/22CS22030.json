@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22CS22030",
+  "course_code": "22CS22030",
+  "course_name": "Python程序设计",
+  "resource_group_id": "name-family-94e9241f6a514ca9",
+  "physical_repository_id": "physical-course-037d07c79336e56d",
+  "repo_id": "22CS22018",
+  "record_ids": [
+    "REC-54BCAAF4492B1C70",
+    "REC-72791409C2B2D845"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/090_2022版_13B_13BE035_数据科学与大数据技术.toml#courses[3]",
+    "curriculum://hit-data/plans/092_2022版_13B_13BE371_软件工程.toml#courses[1]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CS22030.json",
+  "attachment_repo_id": "22CS22018"
+}

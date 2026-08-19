@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EN31008",
+  "course_code": "22EN31008",
+  "course_name": "环境影响评价与规划管理B",
+  "resource_group_id": "name-family-85c6edc0e1043665",
+  "physical_repository_id": "physical-course-5c54c9a8516594fa",
+  "repo_id": "COURSES-5C54C9A85165",
+  "record_ids": [
+    "REC-1FD09F054D8B7146"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/140_2022版_27_27272_环境科学.toml#courses[49]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EN31008.json",
+  "attachment_repo_id": "COURSES-5C54C9A85165"
+}

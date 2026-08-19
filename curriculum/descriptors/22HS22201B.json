@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22HS22201B",
+  "course_code": "22HS22201B",
+  "course_name": "经济学原理",
+  "resource_group_id": "exact-name-8229e821dcd9a8c2",
+  "physical_repository_id": "physical-course-32daf090a1263060",
+  "repo_id": "22EM21901",
+  "record_ids": [
+    "REC-971DCF848E307B50"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/164_2022版_35_35232_经济学.toml#courses[5]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22HS22201B.json",
+  "attachment_repo_id": "22EM21901"
+}

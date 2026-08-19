@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CC22017",
+  "course_code": "22CC22017",
+  "course_name": "物理化学A(1)",
+  "resource_group_id": "name-family-7e16f36a1c359519",
+  "physical_repository_id": "physical-course-83d557ede692518a",
+  "repo_id": "22CC22004C",
+  "record_ids": [
+    "REC-04CA0A9354DCFCFB"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/116_2022版_25_25073_材料化学.toml#courses[30]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC22017.json",
+  "attachment_repo_id": "22CC22004C"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CS31001",
+  "course_code": "22CS31001",
+  "course_name": "计算机体系结构A",
+  "resource_group_id": "exact-name-600d1800ad07b106",
+  "physical_repository_id": "physical-course-bc87c0351d93e4c1",
+  "repo_id": "COURSES-BC87C0351D93",
+  "record_ids": [
+    "REC-4513D6C653C13FA5"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/082_2022版_13B_13B031_计算机科学与技术.toml#courses[44]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CS31001.json",
+  "attachment_repo_id": "COURSES-BC87C0351D93"
+}

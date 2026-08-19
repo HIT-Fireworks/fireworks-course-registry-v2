@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:CS32277",
+  "course_code": "CS32277",
+  "course_name": "大数据挖掘",
+  "resource_group_id": "exact-name-cf74e366e96eb4c9",
+  "physical_repository_id": "physical-course-bc87c0351d93e4c1",
+  "repo_id": "COURSES-BC87C0351D93",
+  "record_ids": [
+    "REC-D61608DEA1B8B8A3"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/090_2022版_13B_13BE035_数据科学与大数据技术.toml#courses[8]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/CS32277.json",
+  "attachment_repo_id": "COURSES-BC87C0351D93"
+}

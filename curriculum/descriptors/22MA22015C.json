@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22MA22015C",
+  "course_code": "22MA22015C",
+  "course_name": "数学物理方程",
+  "resource_group_id": "exact-name-56a54357fd24c16e",
+  "physical_repository_id": "physical-course-fe2c9066eed55ac5",
+  "repo_id": "COURSES-FE2C9066EED5",
+  "record_ids": [
+    "REC-9B4E9E47A60AC1AF"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/150_2022版_31_31126_数学与应用数学（中外合作）.toml#courses[41]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MA22015C.json",
+  "attachment_repo_id": "COURSES-FE2C9066EED5"
+}

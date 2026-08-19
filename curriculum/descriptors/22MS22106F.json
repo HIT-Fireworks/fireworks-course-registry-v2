@@ -1,0 +1,30 @@
+{
+  "descriptor_id": "course-code:22MS22106F",
+  "course_code": "22MS22106F",
+  "course_name": "材料分析测试方法",
+  "resource_group_id": "exact-name-84be6872dce87d02",
+  "physical_repository_id": "physical-course-69e1b92cc6406c72",
+  "repo_id": "22AS31308",
+  "record_ids": [
+    "REC-5F630CBB38DDE594",
+    "REC-6A5D9C403D1A2B49",
+    "REC-8B390A669739C6F9",
+    "REC-73C99BFEB45146EF",
+    "REC-C9B88BACD6BE5032",
+    "REC-D3C7F8E451374E05",
+    "REC-D832F7E3ADF76783"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/032_2022版_03_03F091_材料成型及控制工程.toml#courses[4]",
+    "curriculum://hit-data/plans/033_2022版_03_03F092_增材制造工程.toml#courses[4]",
+    "curriculum://hit-data/plans/034_2022版_03_03F190_材料科学与工程.toml#courses[4]",
+    "curriculum://hit-data/plans/035_2022版_03_03F291_焊接技术与工程.toml#courses[4]",
+    "curriculum://hit-data/plans/036_2022版_03_03F292_电子封装技术.toml#courses[4]",
+    "curriculum://hit-data/plans/037_2022版_03_03F351_材料物理.toml#courses[4]",
+    "curriculum://hit-data/plans/038_2022版_03_03F443_光电信息材料与器件.toml#courses[4]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MS22106F.json",
+  "attachment_repo_id": "22AS31308"
+}

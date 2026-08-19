@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22CE33002",
+  "course_code": "22CE33002",
+  "course_name": "钢筋混凝土肋梁楼盖设计",
+  "resource_group_id": "exact-name-f632d2967dbd1d1a",
+  "physical_repository_id": "physical-course-b8079c4567d697cd",
+  "repo_id": "COURSES-B8079C4567D6",
+  "record_ids": [
+    "REC-1BE4625F0C4AABCB",
+    "REC-EB03159EE0C04848"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[139]",
+    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[140]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CE33002.json",
+  "attachment_repo_id": "COURSES-B8079C4567D6"
+}

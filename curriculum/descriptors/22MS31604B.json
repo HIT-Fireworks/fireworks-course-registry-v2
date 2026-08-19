@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22MS31604B",
+  "course_code": "22MS31604B",
+  "course_name": "微纳连接原理与方法",
+  "resource_group_id": "exact-name-c5510d9bd484b5fc",
+  "physical_repository_id": "physical-course-12af5bc572e71106",
+  "repo_id": "COURSES-12AF5BC572E7",
+  "record_ids": [
+    "REC-4A1225CC41F13F4E"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/029_2022版_03_03292_电子封装技术.toml#courses[46]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MS31604B.json",
+  "attachment_repo_id": "COURSES-12AF5BC572E7"
+}

@@ -1,0 +1,26 @@
+{
+  "descriptor_id": "course-code:22PH22005",
+  "course_code": "22PH22005",
+  "course_name": "热学",
+  "resource_group_id": "name-family-d3ce82cd93d335f3",
+  "physical_repository_id": "physical-course-946f2dca1f165881",
+  "repo_id": "COURSES-946F2DCA1F16",
+  "record_ids": [
+    "REC-74B83BB66C7E3262",
+    "REC-D5504D4AD998500E",
+    "REC-DE09E5FCE080EBD8",
+    "REC-E6F5214CAB613D19",
+    "REC-EE7E92A2C10B0A32"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/196_2022版_32_32111_应用物理学.toml#courses[20]",
+    "curriculum://hit-data/plans/197_2022版_32_32114_光电信息科学与工程.toml#courses[20]",
+    "curriculum://hit-data/plans/201_2022版_32_32SXS111061_应用物理学（+电气工程及其自动化双学士学位）.toml#courses[21]",
+    "curriculum://hit-data/plans/202_2022版_32_32SXS111086_应用物理学（+机器人工程双学士学位）.toml#courses[26]",
+    "curriculum://hit-data/plans/203_2022版_32_32SXS111214_应用物理学（+微电子科学与工程双学士学位）.toml#courses[22]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22PH22005.json",
+  "attachment_repo_id": "COURSES-946F2DCA1F16"
+}

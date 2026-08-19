@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EE21002",
+  "course_code": "22EE21002",
+  "course_name": "电路与电子学",
+  "resource_group_id": "circuits-and-electronics",
+  "physical_repository_id": "physical-course-b2c702385929c267",
+  "repo_id": "22EE21002",
+  "record_ids": [
+    "REC-7A3D247AF257D3A6"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/003_2022版_02_020831_飞行器制造工程（强基计划）.toml#courses[10]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EE21002.json",
+  "attachment_repo_id": "22EE21002"
+}

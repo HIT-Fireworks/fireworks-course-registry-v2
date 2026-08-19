@@ -1,0 +1,34 @@
+{
+  "descriptor_id": "course-code:22PH15012",
+  "course_code": "22PH15012",
+  "course_name": "大学物理x(1)",
+  "resource_group_id": "university-physics",
+  "physical_repository_id": "physical-course-74511df0269a32ee",
+  "repo_id": "22PH15001",
+  "record_ids": [
+    "REC-4D988DB07DF20E70",
+    "REC-65BEFDBC16582F48",
+    "REC-94FD2FEA21D756D6",
+    "REC-476EDD7FEB2682E3",
+    "REC-562DA237F850EF03",
+    "REC-27805EB06E8EA913",
+    "REC-138425D0F70DA123",
+    "REC-535128DA440AD79D",
+    "REC-EA6FD28D0C1C78D0"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/003_2022版_02_020831_飞行器制造工程（强基计划）.toml#courses[20]",
+    "curriculum://hit-data/plans/027_2022版_03_031911_材料科学与工程（强基计划）.toml#courses[18]",
+    "curriculum://hit-data/plans/104_2022版_01_011841_复合材料与工程（强基计划）.toml#courses[19]",
+    "curriculum://hit-data/plans/147_2022版_31_31121_数学与应用数学.toml#courses[27]",
+    "curriculum://hit-data/plans/148_2022版_31_31122_信息与计算科学.toml#courses[27]",
+    "curriculum://hit-data/plans/149_2022版_31_31123_统计学.toml#courses[27]",
+    "curriculum://hit-data/plans/154_2022版_31_31SXS121031_数学与应用数学（+计算机科学与技术双学士学位）.toml#courses[30]",
+    "curriculum://hit-data/plans/155_2022版_31_31SXS121039_数学与应用数学（+网络空间安全双学士学位）.toml#courses[30]",
+    "curriculum://hit-data/plans/156_2022版_31_31SXS123104_统计学（+计算金融双学士学位）.toml#courses[33]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22PH15012.json",
+  "attachment_repo_id": "22PH15001"
+}

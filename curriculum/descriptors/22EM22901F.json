@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22EM22901F",
+  "course_code": "22EM22901F",
+  "course_name": "计量经济学",
+  "resource_group_id": "name-family-8929c9798e94aef8",
+  "physical_repository_id": "physical-course-2424c82672e35d09",
+  "repo_id": "22EM22901F",
+  "record_ids": [
+    "REC-75FFF989B44AB074",
+    "REC-872B5843B7E45AEE"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/042_2022版_07_07F222_国际经济与贸易.toml#courses[3]",
+    "curriculum://hit-data/plans/043_2022版_07_07F223_数字经济.toml#courses[3]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM22901F.json",
+  "attachment_repo_id": "22EM22901F"
+}

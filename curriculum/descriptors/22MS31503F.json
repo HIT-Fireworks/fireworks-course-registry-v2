@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22MS31503F",
+  "course_code": "22MS31503F",
+  "course_name": "焊接冶金学",
+  "resource_group_id": "exact-name-1f5bed219b490f0e",
+  "physical_repository_id": "physical-course-12af5bc572e71106",
+  "repo_id": "COURSES-12AF5BC572E7",
+  "record_ids": [
+    "REC-6172399D70EB41CA"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/035_2022版_03_03F291_焊接技术与工程.toml#courses[7]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MS31503F.json",
+  "attachment_repo_id": "COURSES-12AF5BC572E7"
+}

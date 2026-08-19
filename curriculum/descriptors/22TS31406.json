@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22TS31406",
+  "course_code": "22TS31406",
+  "course_name": "道路交通环境保护",
+  "resource_group_id": "exact-name-ded4247d56bd31e1",
+  "physical_repository_id": "physical-course-9c6503da11740603",
+  "repo_id": "COURSES-9C6503DA1174",
+  "record_ids": [
+    "REC-6950BE2A6EB37779"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/095_2022版_12_12322_交通工程.toml#courses[58]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22TS31406.json",
+  "attachment_repo_id": "COURSES-9C6503DA1174"
+}

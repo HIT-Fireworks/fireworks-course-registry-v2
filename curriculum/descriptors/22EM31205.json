@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EM31205",
+  "course_code": "22EM31205",
+  "course_name": "时间序列分析方法",
+  "resource_group_id": "exact-name-563bc5dada519633",
+  "physical_repository_id": "physical-course-8cab420ae310747b",
+  "repo_id": "COURSES-8CAB420AE310",
+  "record_ids": [
+    "REC-4CFE121DF4AB7B59"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/048_2022版_07_07103_大数据管理与应用.toml#courses[51]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM31205.json",
+  "attachment_repo_id": "COURSES-8CAB420AE310"
+}

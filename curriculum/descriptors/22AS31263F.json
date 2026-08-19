@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22AS31263F",
+  "course_code": "22AS31263F",
+  "course_name": "结构动力学",
+  "resource_group_id": "name-family-adaea56fdbb4144f",
+  "physical_repository_id": "physical-course-a03fcf1407f7e955",
+  "repo_id": "22AS31255",
+  "record_ids": [
+    "REC-7B5A2EFB5D33BB7B",
+    "REC-46782B7C4FCA08EE"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/114_2022版_01_01F181_工程力学.toml#courses[16]",
+    "curriculum://hit-data/plans/114_2022版_01_01F181_工程力学.toml#courses[17]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS31263F.json",
+  "attachment_repo_id": "22AS31255"
+}

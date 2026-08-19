@@ -1,0 +1,38 @@
+{
+  "descriptor_id": "course-code:22EM21003",
+  "course_code": "22EM21003",
+  "course_name": "统计学",
+  "resource_group_id": "exact-name-a0ce4957faa2f37d",
+  "physical_repository_id": "physical-course-2eebfeb4e8aea577",
+  "repo_id": "22EM21003",
+  "record_ids": [
+    "REC-3EE079121438739A",
+    "REC-06ACD0BECDA420B6",
+    "REC-15B7DFEF95362106",
+    "REC-66A62DDC5AC5E688",
+    "REC-7042A9C053CE2338",
+    "REC-56478C2396435D2B",
+    "REC-893017BA5FA2A025",
+    "REC-762777891ED167D9",
+    "REC-AC560DF34ACA9C3B",
+    "REC-F7CAA42F24CADDE5",
+    "REC-F44B5177DC651705"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/046_2022版_07_07101_信息管理与信息系统.toml#courses[34]",
+    "curriculum://hit-data/plans/047_2022版_07_07102_电子商务.toml#courses[34]",
+    "curriculum://hit-data/plans/048_2022版_07_07103_大数据管理与应用.toml#courses[34]",
+    "curriculum://hit-data/plans/049_2022版_07_07104_计算金融.toml#courses[34]",
+    "curriculum://hit-data/plans/050_2022版_07_07221_金融学.toml#courses[34]",
+    "curriculum://hit-data/plans/051_2022版_07_07222_国际经济与贸易.toml#courses[34]",
+    "curriculum://hit-data/plans/052_2022版_07_07223_数字经济.toml#courses[34]",
+    "curriculum://hit-data/plans/204_2022版_60_60201_工商管理.toml#courses[34]",
+    "curriculum://hit-data/plans/205_2022版_60_60202_市场营销.toml#courses[34]",
+    "curriculum://hit-data/plans/206_2022版_60_60203_会计学.toml#courses[34]",
+    "curriculum://hit-data/plans/207_2022版_60_60204_财务管理.toml#courses[34]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM21003.json",
+  "attachment_repo_id": "22EM21003"
+}

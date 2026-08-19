@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22MS33601",
+  "course_code": "22MS33601",
+  "course_name": "电子封装技术课程设计",
+  "resource_group_id": "exact-name-17b2b7e38406d1ed",
+  "physical_repository_id": "physical-course-12af5bc572e71106",
+  "repo_id": "COURSES-12AF5BC572E7",
+  "record_ids": [
+    "REC-B9CA3A3BF1C7B682"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/029_2022版_03_03292_电子封装技术.toml#courses[51]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MS33601.json",
+  "attachment_repo_id": "COURSES-12AF5BC572E7"
+}

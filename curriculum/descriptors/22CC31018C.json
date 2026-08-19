@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CC31018C",
+  "course_code": "22CC31018C",
+  "course_name": "非平衡热力学",
+  "resource_group_id": "exact-name-9bda98f1f17e42cf",
+  "physical_repository_id": "physical-course-5af3514cbd507387",
+  "repo_id": "COURSES-5AF3514CBD50",
+  "record_ids": [
+    "REC-90AE2749F87FDE4C"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/118_2022版_25_25079_化学（中外合作）.toml#courses[57]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC31018C.json",
+  "attachment_repo_id": "COURSES-5AF3514CBD50"
+}

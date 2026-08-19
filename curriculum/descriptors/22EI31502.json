@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EI31502",
+  "course_code": "22EI31502",
+  "course_name": "测控系统原理及应用",
+  "resource_group_id": "exact-name-7d8082a0dcfced0e",
+  "physical_repository_id": "physical-course-2656a175b646c69d",
+  "repo_id": "COURSES-2656A175B646",
+  "record_ids": [
+    "REC-5257B1EC2B8BC3AF"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/133_2022版_20_20056_智能测控工程.toml#courses[48]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EI31502.json",
+  "attachment_repo_id": "COURSES-2656A175B646"
+}

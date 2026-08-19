@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CC15005",
+  "course_code": "22CC15005",
+  "course_name": "大学化学x",
+  "resource_group_id": "university-chemistry",
+  "physical_repository_id": "physical-course-a0299ed2171ab966",
+  "repo_id": "22CC15003",
+  "record_ids": [
+    "REC-794228B1C70C586F"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/020_2022版_04_04025_核工程与核技术.toml#courses[12]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC15005.json",
+  "attachment_repo_id": "22CC15003"
+}

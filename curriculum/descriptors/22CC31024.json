@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CC31024",
+  "course_code": "22CC31024",
+  "course_name": "配位化学",
+  "resource_group_id": "exact-name-8d9ebcbc4275400a",
+  "physical_repository_id": "physical-course-5af3514cbd507387",
+  "repo_id": "COURSES-5AF3514CBD50",
+  "record_ids": [
+    "REC-1C9A6E1B667C152B"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/117_2022版_25_25078_应用化学.toml#courses[55]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC31024.json",
+  "attachment_repo_id": "COURSES-5AF3514CBD50"
+}

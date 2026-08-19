@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22IS31104",
+  "course_code": "22IS31104",
+  "course_name": "在线智能测控系统设计",
+  "resource_group_id": "name-family-bbaed0ea46675dd5",
+  "physical_repository_id": "physical-course-2c608f332ac553b6",
+  "repo_id": "COURSES-2C608F332AC5",
+  "record_ids": [
+    "REC-5099EA573B2AC613"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/190_2022版_28_28011_测控技术与仪器.toml#courses[53]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22IS31104.json",
+  "attachment_repo_id": "COURSES-2C608F332AC5"
+}

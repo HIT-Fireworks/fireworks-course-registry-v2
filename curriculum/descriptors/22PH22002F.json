@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22PH22002F",
+  "course_code": "22PH22002F",
+  "course_name": "电动力学",
+  "resource_group_id": "name-family-8afceb8dc075b209",
+  "physical_repository_id": "physical-course-fd42c416b024f677",
+  "repo_id": "22PH22002F",
+  "record_ids": [
+    "REC-BCEB93E518FBAF0D",
+    "REC-CC75E384E102D855"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/199_2022版_32_32F111_应用物理学.toml#courses[1]",
+    "curriculum://hit-data/plans/200_2022版_32_32F114_光电信息科学与工程.toml#courses[1]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22PH22002F.json",
+  "attachment_repo_id": "22PH22002F"
+}

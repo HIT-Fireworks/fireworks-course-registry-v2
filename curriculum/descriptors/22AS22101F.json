@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AS22101F",
+  "course_code": "22AS22101F",
+  "course_name": "智能信号检测与处理(1)",
+  "resource_group_id": "name-family-08c82634f0e2f2c3",
+  "physical_repository_id": "physical-course-8c30cd8279559085",
+  "repo_id": "COURSES-8C30CD827955",
+  "record_ids": [
+    "REC-0CC9027CF573581C"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/113_2022版_01_01F043_智能装备与系统.toml#courses[0]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS22101F.json",
+  "attachment_repo_id": "COURSES-8C30CD827955"
+}

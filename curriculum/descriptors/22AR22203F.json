@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AR22203F",
+  "course_code": "22AR22203F",
+  "course_name": "传热学",
+  "resource_group_id": "name-family-16ad66e26e2007ec",
+  "physical_repository_id": "physical-course-3bc955d2610cb234",
+  "repo_id": "22AR22203F",
+  "record_ids": [
+    "REC-8840A46BE78590D1"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/073_2022版_11B_11BF262_建筑环境与能源应用工程.toml#courses[2]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR22203F.json",
+  "attachment_repo_id": "22AR22203F"
+}

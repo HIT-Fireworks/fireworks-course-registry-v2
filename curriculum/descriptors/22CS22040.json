@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CS22040",
+  "course_code": "22CS22040",
+  "course_name": "操作系统B",
+  "resource_group_id": "name-family-360480034cc3e9d3",
+  "physical_repository_id": "physical-course-b769a7047612c94a",
+  "repo_id": "22CS22012",
+  "record_ids": [
+    "REC-1CBEC7C90131C1CB"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/089_2022版_13B_13BE031_计算机科学与技术.toml#courses[11]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CS22040.json",
+  "attachment_repo_id": "22CS22012"
+}

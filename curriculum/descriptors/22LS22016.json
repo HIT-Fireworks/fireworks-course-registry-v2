@@ -1,0 +1,24 @@
+{
+  "descriptor_id": "course-code:22LS22016",
+  "course_code": "22LS22016",
+  "course_name": "生物化学A(2)",
+  "resource_group_id": "name-family-fa9c2595d31ab74e",
+  "physical_repository_id": "physical-course-343cf44529b580ba",
+  "repo_id": "22CC31023F",
+  "record_ids": [
+    "REC-9BCA18101FA1B3A6",
+    "REC-676449247B3AE58A",
+    "REC-B50636F389FFF3EF",
+    "REC-F6A2534BBF361196"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/179_2022版_37_37281_生物技术.toml#courses[40]",
+    "curriculum://hit-data/plans/180_2022版_37_37282_生物工程.toml#courses[40]",
+    "curriculum://hit-data/plans/181_2022版_37_37284_整合科学.toml#courses[40]",
+    "curriculum://hit-data/plans/186_2022版_37_37SXS281056_生物技术（+智能测控工程双学士学位）.toml#courses[38]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22LS22016.json",
+  "attachment_repo_id": "22CC31023F"
+}

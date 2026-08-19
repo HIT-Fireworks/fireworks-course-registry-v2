@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22ES22024",
+  "course_code": "22ES22024",
+  "course_name": "电化学基础",
+  "resource_group_id": "exact-name-264c8053173c09c7",
+  "physical_repository_id": "physical-course-fabc2915b57c2ea7",
+  "repo_id": "COURSES-FABC2915B57C",
+  "record_ids": [
+    "REC-E53FC0893E622C13",
+    "REC-FFCC98763BFE3A56"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/021_2022版_04_04026_新能源科学与工程.toml#courses[46]",
+    "curriculum://hit-data/plans/023_2022版_04_04028_储能科学与工程.toml#courses[46]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ES22024.json",
+  "attachment_repo_id": "COURSES-FABC2915B57C"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22PH31001F",
+  "course_code": "22PH31001F",
+  "course_name": "固体物理",
+  "resource_group_id": "exact-name-e8feb9cb343c8315",
+  "physical_repository_id": "physical-course-946f2dca1f165881",
+  "repo_id": "COURSES-946F2DCA1F16",
+  "record_ids": [
+    "REC-718F42C5AA5F9E28"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/199_2022版_32_32F111_应用物理学.toml#courses[5]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22PH31001F.json",
+  "attachment_repo_id": "COURSES-946F2DCA1F16"
+}

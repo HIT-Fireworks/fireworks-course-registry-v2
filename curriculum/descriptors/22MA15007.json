@@ -1,0 +1,40 @@
+{
+  "descriptor_id": "course-code:22MA15007",
+  "course_code": "22MA15007",
+  "course_name": "微积分D(1)",
+  "resource_group_id": "engineering-calculus",
+  "physical_repository_id": "physical-course-55b2b6e9b58d226b",
+  "repo_id": "22MA15001",
+  "record_ids": [
+    "REC-46BEFB82643D7A4A",
+    "REC-88F5B92F576A2933",
+    "REC-00298D8C4BB9150C",
+    "REC-475CCFF58CB1E190",
+    "REC-6135A02488691E55",
+    "REC-147181B238BDC4CC",
+    "REC-D535D3D71761CB9C",
+    "REC-DBF002DDECBE1CC0",
+    "REC-E900268BB75D7257",
+    "REC-EA8598D3EC039977",
+    "REC-EE30A0DB98F88191",
+    "REC-FA929DFE7B98819F"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[6]",
+    "curriculum://hit-data/plans/058_2022版_09_09334_城市地下空间工程.toml#courses[4]",
+    "curriculum://hit-data/plans/059_2022版_09_09335_工程管理.toml#courses[5]",
+    "curriculum://hit-data/plans/060_2022版_09_09336_智能建造.toml#courses[5]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[18]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[19]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[20]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[21]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[22]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[23]",
+    "curriculum://hit-data/plans/095_2022版_12_12322_交通工程.toml#courses[3]",
+    "curriculum://hit-data/plans/096_2022版_12_12325_交通设备与控制工程.toml#courses[3]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MA15007.json",
+  "attachment_repo_id": "22MA15001"
+}

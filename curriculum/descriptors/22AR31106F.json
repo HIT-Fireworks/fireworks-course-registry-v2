@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22AR31106F",
+  "course_code": "22AR31106F",
+  "course_name": "建筑设计原理",
+  "resource_group_id": "exact-name-b4206a8d8d7fed3b",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-2061C920DE765482",
+    "REC-B79541AB0AA73F85"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/077_2022版_11B_11BF341_建筑学.toml#courses[6]",
+    "curriculum://hit-data/plans/081_2022版_11B_11BF348_智慧建筑与建造.toml#courses[5]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR31106F.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

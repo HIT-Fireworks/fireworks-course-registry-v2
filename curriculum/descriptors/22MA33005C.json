@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22MA33005C",
+  "course_code": "22MA33005C",
+  "course_name": "生产实践(科学研究活动)",
+  "resource_group_id": "exact-name-df4c80549568b03b",
+  "physical_repository_id": "physical-course-fe2c9066eed55ac5",
+  "repo_id": "COURSES-FE2C9066EED5",
+  "record_ids": [
+    "REC-634E6A4702A667FE"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/150_2022版_31_31126_数学与应用数学（中外合作）.toml#courses[60]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MA33005C.json",
+  "attachment_repo_id": "COURSES-FE2C9066EED5"
+}

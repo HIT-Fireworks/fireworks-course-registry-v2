@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22EM22405",
+  "course_code": "22EM22405",
+  "course_name": "人力资源管理",
+  "resource_group_id": "exact-name-6ff43c99212c516b",
+  "physical_repository_id": "physical-course-23ebda8d88ee00c1",
+  "repo_id": "22EM22405",
+  "record_ids": [
+    "REC-0C8CB48024318DAA",
+    "REC-4A909847FA09E8F4",
+    "REC-A758FFE3470F83BE"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/204_2022版_60_60201_工商管理.toml#courses[38]",
+    "curriculum://hit-data/plans/205_2022版_60_60202_市场营销.toml#courses[38]",
+    "curriculum://hit-data/plans/208_2022版_60_60E201_工商管理.toml#courses[13]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM22405.json",
+  "attachment_repo_id": "22EM22405"
+}

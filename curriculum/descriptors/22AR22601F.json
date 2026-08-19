@@ -1,0 +1,24 @@
+{
+  "descriptor_id": "course-code:22AR22601F",
+  "course_code": "22AR22601F",
+  "course_name": "设计美学",
+  "resource_group_id": "exact-name-86332662e3e97eb1",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-68E973F00990E92A",
+    "REC-D847F6C5C088AB0D",
+    "REC-DD25330F5811A2AB",
+    "REC-E8896EAFBB814B9B"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/072_2022版_11B_11BF082_工业设计.toml#courses[0]",
+    "curriculum://hit-data/plans/075_2022版_11B_11BF304_数字媒体艺术.toml#courses[0]",
+    "curriculum://hit-data/plans/076_2022版_11B_11BF305S_数字媒体创意设计.toml#courses[2]",
+    "curriculum://hit-data/plans/079_2022版_11B_11BF346_环境设计.toml#courses[0]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR22601F.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

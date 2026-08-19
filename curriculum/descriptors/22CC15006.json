@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22CC15006",
+  "course_code": "22CC15006",
+  "course_name": "有机化学实验B",
+  "resource_group_id": "name-family-93bce178642a21ec",
+  "physical_repository_id": "physical-course-6c11ec1b7f12ace9",
+  "repo_id": "22CC15006",
+  "record_ids": [
+    "REC-7EAE28E0D390AF84",
+    "REC-4865ED17F8CFDBC4",
+    "REC-E50F87482724A696"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/179_2022版_37_37281_生物技术.toml#courses[26]",
+    "curriculum://hit-data/plans/180_2022版_37_37282_生物工程.toml#courses[26]",
+    "curriculum://hit-data/plans/181_2022版_37_37284_整合科学.toml#courses[26]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC15006.json",
+  "attachment_repo_id": "22CC15006"
+}

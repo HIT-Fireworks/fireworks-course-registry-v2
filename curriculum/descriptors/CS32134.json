@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:CS32134",
+  "course_code": "CS32134",
+  "course_name": "计算机组成原理",
+  "resource_group_id": "name-family-f25024c9bba10fc1",
+  "physical_repository_id": "physical-course-f2e6dab479b1cb1e",
+  "repo_id": "22CS22006",
+  "record_ids": [
+    "REC-2E3E87AA0162C970"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/092_2022版_13B_13BE371_软件工程.toml#courses[8]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/CS32134.json",
+  "attachment_repo_id": "22CS22006"
+}

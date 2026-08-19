@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EN31008C",
+  "course_code": "22EN31008C",
+  "course_name": "技术生态学(2)",
+  "resource_group_id": "name-family-7a6e59e25aacff3e",
+  "physical_repository_id": "physical-course-5c54c9a8516594fa",
+  "repo_id": "COURSES-5C54C9A85165",
+  "record_ids": [
+    "REC-4DDF3EFBA15F913D"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/142_2022版_27_27274_环境生态工程（鲍曼合作办学）.toml#courses[76]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EN31008C.json",
+  "attachment_repo_id": "COURSES-5C54C9A85165"
+}

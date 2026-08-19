@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22HS22901",
+  "course_code": "22HS22901",
+  "course_name": "社会与管理研究方法",
+  "resource_group_id": "exact-name-f3b8a9c0971009ae",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-30BC06E5D9C20A64",
+    "REC-6552EC5525FBA75F"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/176_2022版_35_35SXS161101_社会学（+信息管理与信息系统双学士学位）.toml#courses[12]",
+    "curriculum://hit-data/plans/177_2022版_35_35SXS161103_社会学（+大数据管理与应用双学士学位）.toml#courses[12]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22HS22901.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

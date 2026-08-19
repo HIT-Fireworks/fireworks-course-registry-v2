@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CE22004F",
+  "course_code": "22CE22004F",
+  "course_name": "材料力学A",
+  "resource_group_id": "name-family-f73548468f88f9af",
+  "physical_repository_id": "physical-course-2a1e922d88ae6c56",
+  "repo_id": "22AS22005",
+  "record_ids": [
+    "REC-88AA56B47C49187C"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/062_2022版_09_09F332_理论与应用力学.toml#courses[0]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CE22004F.json",
+  "attachment_repo_id": "22AS22005"
+}

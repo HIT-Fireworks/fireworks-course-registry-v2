@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22ME45100",
+  "course_code": "22ME45100",
+  "course_name": "社会实践",
+  "resource_group_id": "exact-name-c2806a1907c8bba4",
+  "physical_repository_id": "physical-course-7124c9cb272a6c61",
+  "repo_id": "22IS45001",
+  "record_ids": [
+    "REC-69E224DF3B180CEB"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/001_2022版_02_02081_机械设计制造及其自动化.toml#courses[58]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ME45100.json",
+  "attachment_repo_id": "22IS45001"
+}

@@ -1,0 +1,26 @@
+{
+  "descriptor_id": "course-code:22MA15036",
+  "course_code": "22MA15036",
+  "course_name": "复变函数与积分变换B",
+  "resource_group_id": "name-family-d63600f130d0f644",
+  "physical_repository_id": "physical-course-04e81793320abb9f",
+  "repo_id": "22MA15035",
+  "record_ids": [
+    "REC-2C834637891FFCE4",
+    "REC-8A98C367410BA0A9",
+    "REC-11DC1FBD024BEFD1",
+    "REC-70CD2E6E0AEC6A42",
+    "REC-DE9C7D3B0BEA55C5"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/053_2022版_05_05061_电气工程及其自动化.toml#courses[23]",
+    "curriculum://hit-data/plans/054_2022版_05_05062_建筑电气与智能化.toml#courses[23]",
+    "curriculum://hit-data/plans/190_2022版_28_28011_测控技术与仪器.toml#courses[25]",
+    "curriculum://hit-data/plans/191_2022版_28_28014_精密仪器.toml#courses[25]",
+    "curriculum://hit-data/plans/192_2022版_28_28015_智能感知工程.toml#courses[25]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MA15036.json",
+  "attachment_repo_id": "22MA15035"
+}

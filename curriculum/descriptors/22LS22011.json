@@ -1,0 +1,24 @@
+{
+  "descriptor_id": "course-code:22LS22011",
+  "course_code": "22LS22011",
+  "course_name": "遗传学A",
+  "resource_group_id": "exact-name-acccf8a42b1f0bdd",
+  "physical_repository_id": "physical-course-ce4133cbe869b5fe",
+  "repo_id": "COURSES-CE4133CBE869",
+  "record_ids": [
+    "REC-31DE17E2527D32A2",
+    "REC-67DCB7C2175A6D75",
+    "REC-C5CA11A49407C777",
+    "REC-D3987DF12F405A41"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/179_2022版_37_37281_生物技术.toml#courses[30]",
+    "curriculum://hit-data/plans/180_2022版_37_37282_生物工程.toml#courses[30]",
+    "curriculum://hit-data/plans/181_2022版_37_37284_整合科学.toml#courses[30]",
+    "curriculum://hit-data/plans/186_2022版_37_37SXS281056_生物技术（+智能测控工程双学士学位）.toml#courses[26]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22LS22011.json",
+  "attachment_repo_id": "COURSES-CE4133CBE869"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EM31106F",
+  "course_code": "22EM31106F",
+  "course_name": "应急管理",
+  "resource_group_id": "exact-name-3c6935ce9ad2d99e",
+  "physical_repository_id": "physical-course-8cab420ae310747b",
+  "repo_id": "COURSES-8CAB420AE310",
+  "record_ids": [
+    "REC-DA40E91469821BB8"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/044_2022版_07_07F206S_公共行政领导力.toml#courses[9]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM31106F.json",
+  "attachment_repo_id": "COURSES-8CAB420AE310"
+}

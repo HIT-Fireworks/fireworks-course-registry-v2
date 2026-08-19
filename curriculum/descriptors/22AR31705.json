@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AR31705",
+  "course_code": "22AR31705",
+  "course_name": "数字剪辑与合成",
+  "resource_group_id": "exact-name-9e4f762dce551b96",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-4613AFBBEF46DA87"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/066_2022版_11B_11B304_数字媒体艺术.toml#courses[35]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR31705.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

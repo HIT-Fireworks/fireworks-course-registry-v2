@@ -1,0 +1,32 @@
+{
+  "descriptor_id": "course-code:22EI22302",
+  "course_code": "22EI22302",
+  "course_name": "信息论",
+  "resource_group_id": "exact-name-c596e6ab94dba370",
+  "physical_repository_id": "physical-course-2656a175b646c69d",
+  "repo_id": "COURSES-2656A175B646",
+  "record_ids": [
+    "REC-5A80BA62BC60860F",
+    "REC-7A901D83669DBB7B",
+    "REC-23B7EFC0052A3105",
+    "REC-499F7E5F7D8EF879",
+    "REC-C5C5F455C4E459B3",
+    "REC-CC45E10208AA5DD1",
+    "REC-D5AEBA3EB4FB65C4",
+    "REC-DE5FCF140EC1336C"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/128_2022版_20_20051_通信工程.toml#courses[23]",
+    "curriculum://hit-data/plans/129_2022版_20_20052_电子信息工程.toml#courses[23]",
+    "curriculum://hit-data/plans/130_2022版_20_20053_信息对抗技术.toml#courses[23]",
+    "curriculum://hit-data/plans/131_2022版_20_20054_遥感科学与技术.toml#courses[23]",
+    "curriculum://hit-data/plans/132_2022版_20_20055_电磁场与无线技术.toml#courses[23]",
+    "curriculum://hit-data/plans/133_2022版_20_20056_智能测控工程.toml#courses[23]",
+    "curriculum://hit-data/plans/134_2022版_20_20E051_通信工程.toml#courses[4]",
+    "curriculum://hit-data/plans/135_2022版_20_20E052_电子信息工程.toml#courses[2]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EI22302.json",
+  "attachment_repo_id": "COURSES-2656A175B646"
+}

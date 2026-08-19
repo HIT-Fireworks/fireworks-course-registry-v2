@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22ES22018",
+  "course_code": "22ES22018",
+  "course_name": "燃烧学",
+  "resource_group_id": "name-family-7a57461c9862e951",
+  "physical_repository_id": "physical-course-fabc2915b57c2ea7",
+  "repo_id": "COURSES-FABC2915B57C",
+  "record_ids": [
+    "REC-0D5900F35CD7286D",
+    "REC-CFEC563E3BD01300"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/018_2022版_04_04022_飞行器动力工程.toml#courses[43]",
+    "curriculum://hit-data/plans/019_2022版_04_04024_能源与动力工程.toml#courses[43]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ES22018.json",
+  "attachment_repo_id": "COURSES-FABC2915B57C"
+}

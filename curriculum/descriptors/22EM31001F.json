@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EM31001F",
+  "course_code": "22EM31001F",
+  "course_name": "信息技术基础",
+  "resource_group_id": "exact-name-c91f1d67d8d260c8",
+  "physical_repository_id": "physical-course-8cab420ae310747b",
+  "repo_id": "COURSES-8CAB420AE310",
+  "record_ids": [
+    "REC-6E403E143D2339BC"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/039_2022版_07_07F101_信息管理与信息系统.toml#courses[4]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM31001F.json",
+  "attachment_repo_id": "COURSES-8CAB420AE310"
+}

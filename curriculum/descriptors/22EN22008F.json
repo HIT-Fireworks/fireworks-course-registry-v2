@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EN22008F",
+  "course_code": "22EN22008F",
+  "course_name": "环境学(双语)",
+  "resource_group_id": "exact-name-8b8af6f8466b14cc",
+  "physical_repository_id": "physical-course-5c54c9a8516594fa",
+  "repo_id": "COURSES-5C54C9A85165",
+  "record_ids": [
+    "REC-DBE80A890208D707"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/145_2022版_27_27F272_环境科学.toml#courses[0]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EN22008F.json",
+  "attachment_repo_id": "COURSES-5C54C9A85165"
+}

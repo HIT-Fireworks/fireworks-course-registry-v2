@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22FL22210",
+  "course_code": "22FL22210",
+  "course_name": "俄语口语(3)",
+  "resource_group_id": "name-family-f90a24df0ed4b8fa",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-00D1ECDFA98AA327",
+    "REC-6E9E409D2E81FADC"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/158_2022版_35_35152_俄语.toml#courses[23]",
+    "curriculum://hit-data/plans/161_2022版_35_35158_俄语.toml#courses[23]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22FL22210.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

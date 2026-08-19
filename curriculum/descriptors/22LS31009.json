@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22LS31009",
+  "course_code": "22LS31009",
+  "course_name": "发育生物学",
+  "resource_group_id": "exact-name-ce7af60a7e0375ce",
+  "physical_repository_id": "physical-course-ce4133cbe869b5fe",
+  "repo_id": "COURSES-CE4133CBE869",
+  "record_ids": [
+    "REC-54DF0FC1F62FD690"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/179_2022版_37_37281_生物技术.toml#courses[54]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22LS31009.json",
+  "attachment_repo_id": "COURSES-CE4133CBE869"
+}

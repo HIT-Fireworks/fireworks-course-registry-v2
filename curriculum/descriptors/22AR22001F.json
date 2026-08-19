@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AR22001F",
+  "course_code": "22AR22001F",
+  "course_name": "流体输配原理",
+  "resource_group_id": "exact-name-d7d1492a7e75b419",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-07B840878F4FB4EF"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/074_2022版_11B_11BF263S_城市智慧能源网.toml#courses[0]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR22001F.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

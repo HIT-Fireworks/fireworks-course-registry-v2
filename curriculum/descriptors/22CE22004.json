@@ -1,0 +1,32 @@
+{
+  "descriptor_id": "course-code:22CE22004",
+  "course_code": "22CE22004",
+  "course_name": "土力学",
+  "resource_group_id": "exact-name-895bf92e51965393",
+  "physical_repository_id": "physical-course-b8079c4567d697cd",
+  "repo_id": "COURSES-B8079C4567D6",
+  "record_ids": [
+    "REC-1D5F0F99596D1A25",
+    "REC-8AC45B2B44FB12F6",
+    "REC-35C16A83580A8287",
+    "REC-8656339DB0E4A7A0",
+    "REC-A2B68C26004E6BE0",
+    "REC-A4075EBD6901E23A",
+    "REC-E31B63DA0DDD560B",
+    "REC-EFEF62275FDA28D1"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[103]",
+    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[104]",
+    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[105]",
+    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[106]",
+    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[107]",
+    "curriculum://hit-data/plans/058_2022版_09_09334_城市地下空间工程.toml#courses[41]",
+    "curriculum://hit-data/plans/059_2022版_09_09335_工程管理.toml#courses[38]",
+    "curriculum://hit-data/plans/060_2022版_09_09336_智能建造.toml#courses[38]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CE22004.json",
+  "attachment_repo_id": "COURSES-B8079C4567D6"
+}

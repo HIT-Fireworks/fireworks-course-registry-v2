@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AR31702F",
+  "course_code": "22AR31702F",
+  "course_name": "高级显示技术",
+  "resource_group_id": "exact-name-355744f36d8a1967",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-14A61B61C6F4070B"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/076_2022版_11B_11BF305S_数字媒体创意设计.toml#courses[3]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR31702F.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

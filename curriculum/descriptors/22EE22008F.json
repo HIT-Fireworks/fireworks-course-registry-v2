@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EE22008F",
+  "course_code": "22EE22008F",
+  "course_name": "电路与电子基础",
+  "resource_group_id": "circuits-and-electronics",
+  "physical_repository_id": "physical-course-b2c702385929c267",
+  "repo_id": "22EE21002",
+  "record_ids": [
+    "REC-A6800568A2AA5461"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/056_2022版_05_05F065S_智能网联车辆工程.toml#courses[1]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EE22008F.json",
+  "attachment_repo_id": "22EE21002"
+}

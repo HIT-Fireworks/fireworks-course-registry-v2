@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EE31003F",
+  "course_code": "22EE31003F",
+  "course_name": "能源经济与电力市场",
+  "resource_group_id": "exact-name-e2b3b1db0c53d98b",
+  "physical_repository_id": "physical-course-7742d3d9e18da027",
+  "repo_id": "COURSES-7742D3D9E18D",
+  "record_ids": [
+    "REC-C03E7D19D0D513EF"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/055_2022版_05_05F064_能源互联网工程.toml#courses[5]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EE31003F.json",
+  "attachment_repo_id": "COURSES-7742D3D9E18D"
+}

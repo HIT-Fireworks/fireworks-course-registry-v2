@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22MA31010F",
+  "course_code": "22MA31010F",
+  "course_name": "微分几何",
+  "resource_group_id": "exact-name-563f3cbd956e616e",
+  "physical_repository_id": "physical-course-fe2c9066eed55ac5",
+  "repo_id": "COURSES-FE2C9066EED5",
+  "record_ids": [
+    "REC-AFC690507A275B24"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/151_2022版_31_31F121_数学与应用数学.toml#courses[6]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MA31010F.json",
+  "attachment_repo_id": "COURSES-FE2C9066EED5"
+}

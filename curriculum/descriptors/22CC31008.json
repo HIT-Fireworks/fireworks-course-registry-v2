@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CC31008",
+  "course_code": "22CC31008",
+  "course_name": "新能源材料与器件综合实验",
+  "resource_group_id": "exact-name-e6123a0aa715e70b",
+  "physical_repository_id": "physical-course-5af3514cbd507387",
+  "repo_id": "COURSES-5AF3514CBD50",
+  "record_ids": [
+    "REC-58D1E6273DF67B22"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/121_2022版_25_25147_新能源材料与器件.toml#courses[56]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC31008.json",
+  "attachment_repo_id": "COURSES-5AF3514CBD50"
+}

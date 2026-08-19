@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22ME22013",
+  "course_code": "22ME22013",
+  "course_name": "产品工程制图",
+  "resource_group_id": "engineering-drawing",
+  "physical_repository_id": "physical-course-27735bdfcdc8219c",
+  "repo_id": "22ME21004",
+  "record_ids": [
+    "REC-A329D8810BB71855"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/064_2022版_11B_11B082_工业设计.toml#courses[28]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ME22013.json",
+  "attachment_repo_id": "22ME21004"
+}

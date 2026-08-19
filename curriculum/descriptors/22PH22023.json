@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22PH22023",
+  "course_code": "22PH22023",
+  "course_name": "基础物理实验I",
+  "resource_group_id": "basic-physics-labs",
+  "physical_repository_id": "physical-course-946f2dca1f165881",
+  "repo_id": "COURSES-946F2DCA1F16",
+  "record_ids": [
+    "REC-8C02EDC5FA353ACB"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/202_2022版_32_32SXS111086_应用物理学（+机器人工程双学士学位）.toml#courses[18]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22PH22023.json",
+  "attachment_repo_id": "COURSES-946F2DCA1F16"
+}

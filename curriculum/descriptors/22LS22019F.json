@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22LS22019F",
+  "course_code": "22LS22019F",
+  "course_name": "微生物学基础",
+  "resource_group_id": "exact-name-a3c97b99eaf8e89f",
+  "physical_repository_id": "physical-course-ce4133cbe869b5fe",
+  "repo_id": "COURSES-CE4133CBE869",
+  "record_ids": [
+    "REC-1E5F333E6E88AA95",
+    "REC-515216E13343AEEA"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/184_2022版_37_37F281_生物技术.toml#courses[15]",
+    "curriculum://hit-data/plans/185_2022版_37_37F282_生物工程.toml#courses[9]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22LS22019F.json",
+  "attachment_repo_id": "COURSES-CE4133CBE869"
+}

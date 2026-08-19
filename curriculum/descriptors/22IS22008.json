@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22IS22008",
+  "course_code": "22IS22008",
+  "course_name": "误差理论与不确定度分析",
+  "resource_group_id": "exact-name-f11cbf649028ec1c",
+  "physical_repository_id": "physical-course-2c608f332ac553b6",
+  "repo_id": "COURSES-2C608F332AC5",
+  "record_ids": [
+    "REC-2C16FF13E359F597",
+    "REC-6A964588E08AB99E",
+    "REC-1351AD8CB187C346"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/190_2022版_28_28011_测控技术与仪器.toml#courses[46]",
+    "curriculum://hit-data/plans/191_2022版_28_28014_精密仪器.toml#courses[46]",
+    "curriculum://hit-data/plans/192_2022版_28_28015_智能感知工程.toml#courses[46]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22IS22008.json",
+  "attachment_repo_id": "COURSES-2C608F332AC5"
+}

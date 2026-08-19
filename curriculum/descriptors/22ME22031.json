@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22ME22031",
+  "course_code": "22ME22031",
+  "course_name": "设计与制造(3)",
+  "resource_group_id": "name-family-154da41658accc93",
+  "physical_repository_id": "physical-course-669d2ec19f097658",
+  "repo_id": "COURSES-669D2EC19F09",
+  "record_ids": [
+    "REC-63A69595FE3928D0"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/003_2022版_02_020831_飞行器制造工程（强基计划）.toml#courses[49]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ME22031.json",
+  "attachment_repo_id": "COURSES-669D2EC19F09"
+}

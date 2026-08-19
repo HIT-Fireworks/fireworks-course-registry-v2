@@ -1,0 +1,28 @@
+{
+  "descriptor_id": "course-code:22TS33002",
+  "course_code": "22TS33002",
+  "course_name": "毕业实习",
+  "resource_group_id": "exact-name-144c5c83446ec6f9",
+  "physical_repository_id": "physical-course-df0239d8456d3d0d",
+  "repo_id": "22AS33251",
+  "record_ids": [
+    "REC-1ABBBA42EB52BF1C",
+    "REC-3FB8E950E2162815",
+    "REC-267FACC7944956D8",
+    "REC-890B5939E9ABEFDC",
+    "REC-A1C2E9B7629EE149",
+    "REC-FB5616D6DF59318B"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[376]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[377]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[378]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[379]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[380]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[381]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22TS33002.json",
+  "attachment_repo_id": "22AS33251"
+}

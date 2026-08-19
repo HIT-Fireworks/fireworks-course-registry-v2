@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CS31034",
+  "course_code": "22CS31034",
+  "course_name": "计算机系统B",
+  "resource_group_id": "computer-systems-csapp",
+  "physical_repository_id": "physical-course-c4f7719ffb9291dd",
+  "repo_id": "22CS22008",
+  "record_ids": [
+    "REC-45276599240B0ECC"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/089_2022版_13B_13BE031_计算机科学与技术.toml#courses[12]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CS31034.json",
+  "attachment_repo_id": "22CS22008"
+}

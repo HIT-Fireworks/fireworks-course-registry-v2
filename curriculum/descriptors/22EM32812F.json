@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EM32812F",
+  "course_code": "22EM32812F",
+  "course_name": "Python金融大数据分析",
+  "resource_group_id": "exact-name-4ed657403fd77a9c",
+  "physical_repository_id": "physical-course-8a6ede9d04493b60",
+  "repo_id": "22EM32812",
+  "record_ids": [
+    "REC-2DB6921B754D52DE"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/045_2022版_07_07F104_计算金融.toml#courses[8]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM32812F.json",
+  "attachment_repo_id": "22EM32812"
+}

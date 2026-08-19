@@ -1,0 +1,26 @@
+{
+  "descriptor_id": "course-code:22MA15031",
+  "course_code": "22MA15031",
+  "course_name": "概率论与数理统计x",
+  "resource_group_id": "probability-statistics",
+  "physical_repository_id": "physical-course-33af7db2100528bd",
+  "repo_id": "22MA15024",
+  "record_ids": [
+    "REC-30AC83BDA24D6BAD",
+    "REC-57D1523C5D0A5B54",
+    "REC-64C293997EE8BF22",
+    "REC-165A42696B2BE628",
+    "REC-97422C274A4BC4F9"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/003_2022版_02_020831_飞行器制造工程（强基计划）.toml#courses[26]",
+    "curriculum://hit-data/plans/020_2022版_04_04025_核工程与核技术.toml#courses[25]",
+    "curriculum://hit-data/plans/027_2022版_03_031911_材料科学与工程（强基计划）.toml#courses[31]",
+    "curriculum://hit-data/plans/104_2022版_01_011841_复合材料与工程（强基计划）.toml#courses[42]",
+    "curriculum://hit-data/plans/107_2022版_01_01187_工程力学（强基计划）.toml#courses[22]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MA15031.json",
+  "attachment_repo_id": "22MA15024"
+}

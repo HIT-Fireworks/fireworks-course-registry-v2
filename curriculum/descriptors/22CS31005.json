@@ -1,0 +1,36 @@
+{
+  "descriptor_id": "course-code:22CS31005",
+  "course_code": "22CS31005",
+  "course_name": "企业短期实训",
+  "resource_group_id": "exact-name-8fdab4c8407e727b",
+  "physical_repository_id": "physical-course-bec2292f2bcd81f9",
+  "repo_id": "22CS31005",
+  "record_ids": [
+    "REC-2A3655D6F972A0E2",
+    "REC-2D3E66A2867C983E",
+    "REC-5B68DD6651977E82",
+    "REC-07C685DDB61BE939",
+    "REC-8CDE1BC4814EB90F",
+    "REC-78244DCE144EA2B8",
+    "REC-A1748BF46574C779",
+    "REC-B3255CA204ABFE2D",
+    "REC-D1D2043829A0D30A",
+    "REC-F1AD7C2D7B683891"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/082_2022版_13B_13B031_计算机科学与技术.toml#courses[40]",
+    "curriculum://hit-data/plans/083_2022版_13B_13B032_信息安全.toml#courses[39]",
+    "curriculum://hit-data/plans/084_2022版_13B_13B035_数据科学与大数据技术.toml#courses[40]",
+    "curriculum://hit-data/plans/085_2022版_13B_13B036_人工智能.toml#courses[40]",
+    "curriculum://hit-data/plans/086_2022版_13B_13B039_网络空间安全.toml#courses[39]",
+    "curriculum://hit-data/plans/087_2022版_13B_13B371_软件工程.toml#courses[39]",
+    "curriculum://hit-data/plans/088_2022版_13B_13B373_物联网工程.toml#courses[40]",
+    "curriculum://hit-data/plans/092_2022版_13B_13BE371_软件工程.toml#courses[12]",
+    "curriculum://hit-data/plans/154_2022版_31_31SXS121031_数学与应用数学（+计算机科学与技术双学士学位）.toml#courses[48]",
+    "curriculum://hit-data/plans/155_2022版_31_31SXS121039_数学与应用数学（+网络空间安全双学士学位）.toml#courses[37]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CS31005.json",
+  "attachment_repo_id": "22CS31005"
+}

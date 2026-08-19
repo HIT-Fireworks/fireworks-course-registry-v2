@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CC33007",
+  "course_code": "22CC33007",
+  "course_name": "生产实习",
+  "resource_group_id": "exact-name-18527c31b7340394",
+  "physical_repository_id": "physical-course-4c7a9dcc47c4efc8",
+  "repo_id": "22AR33205",
+  "record_ids": [
+    "REC-F0268CBAE288FC82"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/119_2022版_25_25141_高分子材料与工程.toml#courses[56]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC33007.json",
+  "attachment_repo_id": "22AR33205"
+}

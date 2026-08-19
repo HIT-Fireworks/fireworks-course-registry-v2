@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22FL31212",
+  "course_code": "22FL31212",
+  "course_name": "俄罗斯概况(1)",
+  "resource_group_id": "name-family-4e182ae4924e1dd0",
+  "physical_repository_id": "physical-course-c624f4a5892c5737",
+  "repo_id": "22CC31003C",
+  "record_ids": [
+    "REC-8BFE299417EA3401",
+    "REC-BE36F0F9F113654D"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/158_2022版_35_35152_俄语.toml#courses[25]",
+    "curriculum://hit-data/plans/161_2022版_35_35158_俄语.toml#courses[25]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22FL31212.json",
+  "attachment_repo_id": "22CC31003C"
+}

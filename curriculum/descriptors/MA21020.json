@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:MA21020",
+  "course_code": "MA21020",
+  "course_name": "复变函数与积分变换",
+  "resource_group_id": "name-family-d63600f130d0f644",
+  "physical_repository_id": "physical-course-04e81793320abb9f",
+  "repo_id": "22MA15035",
+  "record_ids": [
+    "REC-562A1FA148298F51"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/111_2022版_01_01E041_自动化.toml#courses[3]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/MA21020.json",
+  "attachment_repo_id": "22MA15035"
+}

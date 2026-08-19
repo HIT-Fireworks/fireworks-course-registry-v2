@@ -1,0 +1,30 @@
+{
+  "descriptor_id": "course-code:22ES33004",
+  "course_code": "22ES33004",
+  "course_name": "毕业实习",
+  "resource_group_id": "exact-name-144c5c83446ec6f9",
+  "physical_repository_id": "physical-course-df0239d8456d3d0d",
+  "repo_id": "22AS33251",
+  "record_ids": [
+    "REC-433648C8527B1EB5",
+    "REC-A2DA18A4718FFBEB",
+    "REC-AB7A50493CA6DFB5",
+    "REC-ADA743AA508F57C3",
+    "REC-B97160DC4F426747",
+    "REC-BC89BB1D73C3C0D8",
+    "REC-F869B2156D28F3F1"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/014_2022版_04_04E024_能源与动力工程.toml#courses[16]",
+    "curriculum://hit-data/plans/018_2022版_04_04022_飞行器动力工程.toml#courses[60]",
+    "curriculum://hit-data/plans/019_2022版_04_04024_能源与动力工程.toml#courses[55]",
+    "curriculum://hit-data/plans/020_2022版_04_04025_核工程与核技术.toml#courses[59]",
+    "curriculum://hit-data/plans/021_2022版_04_04026_新能源科学与工程.toml#courses[62]",
+    "curriculum://hit-data/plans/022_2022版_04_04027_飞行器动力工程（莫航联培班）.toml#courses[71]",
+    "curriculum://hit-data/plans/023_2022版_04_04028_储能科学与工程.toml#courses[62]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ES33004.json",
+  "attachment_repo_id": "22AS33251"
+}

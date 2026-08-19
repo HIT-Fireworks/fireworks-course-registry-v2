@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22MX22013",
+  "course_code": "22MX22013",
+  "course_name": "习近平新时代中国特色社会主义思想概论",
+  "resource_group_id": "exact-name-95604c8885f8f7db",
+  "physical_repository_id": "physical-course-929bfb79df3cb042",
+  "repo_id": "22MX11001",
+  "record_ids": [
+    "REC-9F1A339983983F59"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/187_2022版_49_49491_思想政治教育.toml#courses[39]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MX22013.json",
+  "attachment_repo_id": "22MX11001"
+}

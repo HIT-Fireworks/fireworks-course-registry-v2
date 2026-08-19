@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EM22007F",
+  "course_code": "22EM22007F",
+  "course_name": "人工智能与机器学习",
+  "resource_group_id": "exact-name-d1603ac81526be8a",
+  "physical_repository_id": "physical-course-cd9dee285a45a304",
+  "repo_id": "22EM22007",
+  "record_ids": [
+    "REC-506FD9C5D33CC4D2"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/045_2022版_07_07F104_计算金融.toml#courses[5]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM22007F.json",
+  "attachment_repo_id": "22EM22007"
+}

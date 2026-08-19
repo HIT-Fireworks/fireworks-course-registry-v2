@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22FL31108",
+  "course_code": "22FL31108",
+  "course_name": "汉英口译",
+  "resource_group_id": "exact-name-138d7fdf5e06b5cc",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-F78478B1A0B8FE8A"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/157_2022版_35_35151_英语.toml#courses[44]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22FL31108.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

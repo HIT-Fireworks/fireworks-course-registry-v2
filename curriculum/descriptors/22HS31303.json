@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22HS31303",
+  "course_code": "22HS31303",
+  "course_name": "商法",
+  "resource_group_id": "exact-name-f2a1bc1abd97daea",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-E3A89701C20E7B0A"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/165_2022版_35_35242_法学.toml#courses[29]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22HS31303.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

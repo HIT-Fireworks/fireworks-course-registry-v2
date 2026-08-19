@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22ME33700",
+  "course_code": "22ME33700",
+  "course_name": "综合实践与生产实习(智能制造综合实践)",
+  "resource_group_id": "exact-name-b7ec6314e0754f58",
+  "physical_repository_id": "physical-course-669d2ec19f097658",
+  "repo_id": "COURSES-669D2EC19F09",
+  "record_ids": [
+    "REC-6D322D725BACB294",
+    "REC-B95028E416AF0013"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/001_2022版_02_02081_机械设计制造及其自动化.toml#courses[57]",
+    "curriculum://hit-data/plans/007_2022版_02_02087_智能制造工程.toml#courses[57]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ME33700.json",
+  "attachment_repo_id": "COURSES-669D2EC19F09"
+}

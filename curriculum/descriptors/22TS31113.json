@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22TS31113",
+  "course_code": "22TS31113",
+  "course_name": "基层配合比实验",
+  "resource_group_id": "exact-name-65e4d1549f7e429e",
+  "physical_repository_id": "physical-course-9c6503da11740603",
+  "repo_id": "COURSES-9C6503DA1174",
+  "record_ids": [
+    "REC-90D2086A14562803",
+    "REC-B25EE41EAD4246CA"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[360]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[361]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22TS31113.json",
+  "attachment_repo_id": "COURSES-9C6503DA1174"
+}

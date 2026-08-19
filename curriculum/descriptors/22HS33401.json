@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22HS33401",
+  "course_code": "22HS33401",
+  "course_name": "语言与生活实践",
+  "resource_group_id": "exact-name-849e111e14379d21",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-766A9D3A13889B48"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/163_2022版_35_35163_汉语言文学.toml#courses[22]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22HS33401.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

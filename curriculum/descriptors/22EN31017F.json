@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EN31017F",
+  "course_code": "22EN31017F",
+  "course_name": "环境监测",
+  "resource_group_id": "exact-name-cca62c80b293706b",
+  "physical_repository_id": "physical-course-5c54c9a8516594fa",
+  "repo_id": "COURSES-5C54C9A85165",
+  "record_ids": [
+    "REC-FE69905B156AB0BD"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/145_2022版_27_27F272_环境科学.toml#courses[4]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EN31017F.json",
+  "attachment_repo_id": "COURSES-5C54C9A85165"
+}

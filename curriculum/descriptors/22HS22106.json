@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22HS22106",
+  "course_code": "22HS22106",
+  "course_name": "社区概论",
+  "resource_group_id": "name-family-2978494ae9ce9b4d",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-174A9BC31ECF77A7"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/162_2022版_35_35161_社会学.toml#courses[38]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22HS22106.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

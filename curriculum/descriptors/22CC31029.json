@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CC31029",
+  "course_code": "22CC31029",
+  "course_name": "电化学测量A",
+  "resource_group_id": "exact-name-fae50aefbcef44ff",
+  "physical_repository_id": "physical-course-5af3514cbd507387",
+  "repo_id": "COURSES-5AF3514CBD50",
+  "record_ids": [
+    "REC-BCC79A2067DFA4F7"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/120_2022版_25_25142_化学工程与工艺.toml#courses[51]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC31029.json",
+  "attachment_repo_id": "COURSES-5AF3514CBD50"
+}

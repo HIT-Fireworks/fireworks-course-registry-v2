@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CC31013F",
+  "course_code": "22CC31013F",
+  "course_name": "电化学理论与方法",
+  "resource_group_id": "exact-name-38bcc0d6a1df52cf",
+  "physical_repository_id": "physical-course-5af3514cbd507387",
+  "repo_id": "COURSES-5AF3514CBD50",
+  "record_ids": [
+    "REC-0F1EA14C30A190BE"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/127_2022版_25_25F147_新能源材料与器件.toml#courses[7]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC31013F.json",
+  "attachment_repo_id": "COURSES-5AF3514CBD50"
+}

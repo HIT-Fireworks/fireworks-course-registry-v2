@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22HS22210",
+  "course_code": "22HS22210",
+  "course_name": "政治经济学",
+  "resource_group_id": "exact-name-bb9636f93fcbe51a",
+  "physical_repository_id": "physical-course-3f0a60262d9e7391",
+  "repo_id": "22EM22901",
+  "record_ids": [
+    "REC-14B397E8BC8BCA44"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/164_2022版_35_35232_经济学.toml#courses[12]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22HS22210.json",
+  "attachment_repo_id": "22EM22901"
+}

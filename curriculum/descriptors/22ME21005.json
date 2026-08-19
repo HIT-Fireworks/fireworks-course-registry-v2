@@ -1,0 +1,32 @@
+{
+  "descriptor_id": "course-code:22ME21005",
+  "course_code": "22ME21005",
+  "course_name": "工程制图基础B",
+  "resource_group_id": "engineering-drawing",
+  "physical_repository_id": "physical-course-27735bdfcdc8219c",
+  "repo_id": "22ME21004",
+  "record_ids": [
+    "REC-3DA6064469B69FE4",
+    "REC-4A74BA3CA0264CBB",
+    "REC-4BBCF9D1B0F853EA",
+    "REC-6478B1D355755293",
+    "REC-A62CEDE0C527A28E",
+    "REC-BEF92F243CD75786",
+    "REC-CEEEA529B4B6D147",
+    "REC-F5D8A38413B35550"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/020_2022版_04_04025_核工程与核技术.toml#courses[15]",
+    "curriculum://hit-data/plans/116_2022版_25_25073_材料化学.toml#courses[42]",
+    "curriculum://hit-data/plans/117_2022版_25_25078_应用化学.toml#courses[43]",
+    "curriculum://hit-data/plans/119_2022版_25_25141_高分子材料与工程.toml#courses[45]",
+    "curriculum://hit-data/plans/120_2022版_25_25142_化学工程与工艺.toml#courses[43]",
+    "curriculum://hit-data/plans/121_2022版_25_25147_新能源材料与器件.toml#courses[43]",
+    "curriculum://hit-data/plans/161_2022版_35_35158_俄语.toml#courses[32]",
+    "curriculum://hit-data/plans/201_2022版_32_32SXS111061_应用物理学（+电气工程及其自动化双学士学位）.toml#courses[36]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ME21005.json",
+  "attachment_repo_id": "22ME21004"
+}

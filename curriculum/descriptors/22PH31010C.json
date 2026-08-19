@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22PH31010C",
+  "course_code": "22PH31010C",
+  "course_name": "半导体物理",
+  "resource_group_id": "exact-name-89ab83106e012e65",
+  "physical_repository_id": "physical-course-711d1ae0c8ae3048",
+  "repo_id": "22ES22023",
+  "record_ids": [
+    "REC-D3A3BEE1ECCADE46"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/198_2022版_32_32115_应用物理学（中外合作）.toml#courses[67]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22PH31010C.json",
+  "attachment_repo_id": "22ES22023"
+}

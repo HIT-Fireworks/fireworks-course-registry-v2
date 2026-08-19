@@ -1,0 +1,32 @@
+{
+  "descriptor_id": "course-code:22PH33001",
+  "course_code": "22PH33001",
+  "course_name": "毕业论文(设计)",
+  "resource_group_id": "exact-name-8db41f88b0b6c77e",
+  "physical_repository_id": "physical-course-2bcf14039c972840",
+  "repo_id": "22AR33001F",
+  "record_ids": [
+    "REC-3F6FFCF3FF8796BD",
+    "REC-16A284A97EA60C8A",
+    "REC-61F7F7E9880A8C7B",
+    "REC-0312A6AE5E9B380E",
+    "REC-5520D6656BDB69FD",
+    "REC-AF17DE2BC40EAD40",
+    "REC-BB814D9DEF201C84",
+    "REC-FA181DB65F6DAFBE"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/196_2022版_32_32111_应用物理学.toml#courses[69]",
+    "curriculum://hit-data/plans/196_2022版_32_32111_应用物理学.toml#courses[70]",
+    "curriculum://hit-data/plans/196_2022版_32_32111_应用物理学.toml#courses[71]",
+    "curriculum://hit-data/plans/196_2022版_32_32111_应用物理学.toml#courses[72]",
+    "curriculum://hit-data/plans/196_2022版_32_32111_应用物理学.toml#courses[73]",
+    "curriculum://hit-data/plans/201_2022版_32_32SXS111061_应用物理学（+电气工程及其自动化双学士学位）.toml#courses[60]",
+    "curriculum://hit-data/plans/202_2022版_32_32SXS111086_应用物理学（+机器人工程双学士学位）.toml#courses[60]",
+    "curriculum://hit-data/plans/203_2022版_32_32SXS111214_应用物理学（+微电子科学与工程双学士学位）.toml#courses[60]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22PH33001.json",
+  "attachment_repo_id": "22AR33001F"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CE31017F",
+  "course_code": "22CE31017F",
+  "course_name": "工程法规与合同管理",
+  "resource_group_id": "exact-name-ebeaff6025b0f5e8",
+  "physical_repository_id": "physical-course-b8079c4567d697cd",
+  "repo_id": "COURSES-B8079C4567D6",
+  "record_ids": [
+    "REC-19433988641B2745"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/063_2022版_09_09F335_工程管理.toml#courses[9]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CE31017F.json",
+  "attachment_repo_id": "COURSES-B8079C4567D6"
+}

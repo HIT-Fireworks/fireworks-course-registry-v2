@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22FL22501F",
+  "course_code": "22FL22501F",
+  "course_name": "英语读写",
+  "resource_group_id": "exact-name-7c2240c03ec21c80",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-B8AB73F47B2415FE"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/171_2022版_35_35F151_英语.toml#courses[0]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22FL22501F.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

@@ -1,0 +1,28 @@
+{
+  "descriptor_id": "course-code:22MA22014",
+  "course_code": "22MA22014",
+  "course_name": "高等代数(2)",
+  "resource_group_id": "advanced-algebra",
+  "physical_repository_id": "physical-course-fe2c9066eed55ac5",
+  "repo_id": "COURSES-FE2C9066EED5",
+  "record_ids": [
+    "REC-8A6D5FBFED73C699",
+    "REC-9E01DD84506A367A",
+    "REC-AACD38AFE3BB2D6A",
+    "REC-B05BCCF0B08C0C9F",
+    "REC-D2B355002F14AE25",
+    "REC-EDD1143581C7EE6B"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/147_2022版_31_31121_数学与应用数学.toml#courses[16]",
+    "curriculum://hit-data/plans/148_2022版_31_31122_信息与计算科学.toml#courses[16]",
+    "curriculum://hit-data/plans/149_2022版_31_31123_统计学.toml#courses[16]",
+    "curriculum://hit-data/plans/154_2022版_31_31SXS121031_数学与应用数学（+计算机科学与技术双学士学位）.toml#courses[17]",
+    "curriculum://hit-data/plans/155_2022版_31_31SXS121039_数学与应用数学（+网络空间安全双学士学位）.toml#courses[17]",
+    "curriculum://hit-data/plans/156_2022版_31_31SXS123104_统计学（+计算金融双学士学位）.toml#courses[18]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MA22014.json",
+  "attachment_repo_id": "COURSES-FE2C9066EED5"
+}

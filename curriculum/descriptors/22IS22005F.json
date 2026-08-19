@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22IS22005F",
+  "course_code": "22IS22005F",
+  "course_name": "工程光学(1)",
+  "resource_group_id": "engineering-optics",
+  "physical_repository_id": "physical-course-2c608f332ac553b6",
+  "repo_id": "COURSES-2C608F332AC5",
+  "record_ids": [
+    "REC-D9FB4B7ABCFD9B5E"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/194_2022版_28_28F014_精密仪器.toml#courses[0]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22IS22005F.json",
+  "attachment_repo_id": "COURSES-2C608F332AC5"
+}

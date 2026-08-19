@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EM31803",
+  "course_code": "22EM31803",
+  "course_name": "商业银行理论与实务",
+  "resource_group_id": "exact-name-8e92b6ebeb33873d",
+  "physical_repository_id": "physical-course-8cab420ae310747b",
+  "repo_id": "COURSES-8CAB420AE310",
+  "record_ids": [
+    "REC-78B9C00AAD3C1AF7"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/050_2022版_07_07221_金融学.toml#courses[48]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM31803.json",
+  "attachment_repo_id": "COURSES-8CAB420AE310"
+}

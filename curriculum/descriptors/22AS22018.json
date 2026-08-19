@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22AS22018",
+  "course_code": "22AS22018",
+  "course_name": "理论力学D",
+  "resource_group_id": "theoretical-mechanics",
+  "physical_repository_id": "physical-course-4aceac315ddedb6c",
+  "repo_id": "22AS22001",
+  "record_ids": [
+    "REC-32F33B9545846E4B",
+    "REC-B15689A33D8C69E9",
+    "REC-F43CD04A6D8185D7"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/098_2022版_01_01041_自动化.toml#courses[32]",
+    "curriculum://hit-data/plans/099_2022版_01_01042_探测制导与控制技术.toml#courses[32]",
+    "curriculum://hit-data/plans/100_2022版_01_01043_智能装备与系统.toml#courses[32]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS22018.json",
+  "attachment_repo_id": "22AS22001"
+}

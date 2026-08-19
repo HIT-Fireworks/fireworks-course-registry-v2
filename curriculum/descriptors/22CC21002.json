@@ -1,0 +1,36 @@
+{
+  "descriptor_id": "course-code:22CC21002",
+  "course_code": "22CC21002",
+  "course_name": "无机与分析化学(2)",
+  "resource_group_id": "name-family-fdb785e7d02efef4",
+  "physical_repository_id": "physical-course-862afdde11f66d03",
+  "repo_id": "22CC21001",
+  "record_ids": [
+    "REC-3B1A8A936BE7F672",
+    "REC-3EDEDBB09BF9950D",
+    "REC-31E4255F569BA526",
+    "REC-42C1D2623D6C34B4",
+    "REC-57CD4E313AFAE1E4",
+    "REC-3722B0C8CF1F7FB7",
+    "REC-A476CD96FBDA2888",
+    "REC-B1C5F8C3CF31DC42",
+    "REC-B4A66F93606EBF56",
+    "REC-B7A0AA365F3ECD8C"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/116_2022版_25_25073_材料化学.toml#courses[11]",
+    "curriculum://hit-data/plans/117_2022版_25_25078_应用化学.toml#courses[11]",
+    "curriculum://hit-data/plans/119_2022版_25_25141_高分子材料与工程.toml#courses[11]",
+    "curriculum://hit-data/plans/120_2022版_25_25142_化学工程与工艺.toml#courses[11]",
+    "curriculum://hit-data/plans/121_2022版_25_25147_新能源材料与器件.toml#courses[11]",
+    "curriculum://hit-data/plans/137_2022版_27_27251_给排水科学与工程.toml#courses[11]",
+    "curriculum://hit-data/plans/138_2022版_27_27252_城市水系统工程.toml#courses[11]",
+    "curriculum://hit-data/plans/139_2022版_27_27271_环境工程.toml#courses[11]",
+    "curriculum://hit-data/plans/140_2022版_27_27272_环境科学.toml#courses[11]",
+    "curriculum://hit-data/plans/141_2022版_27_27273_环境生态工程.toml#courses[11]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC21002.json",
+  "attachment_repo_id": "22CC21001"
+}

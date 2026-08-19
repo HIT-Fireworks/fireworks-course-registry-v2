@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22IS22009",
+  "course_code": "22IS22009",
+  "course_name": "自动控制及智能化基础",
+  "resource_group_id": "exact-name-fa386e1cb1e349c5",
+  "physical_repository_id": "physical-course-2c608f332ac553b6",
+  "repo_id": "COURSES-2C608F332AC5",
+  "record_ids": [
+    "REC-492CACC35BA2A729",
+    "REC-1327A6DA84E34744",
+    "REC-E352DAE0065DDF0C"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/190_2022版_28_28011_测控技术与仪器.toml#courses[47]",
+    "curriculum://hit-data/plans/191_2022版_28_28014_精密仪器.toml#courses[47]",
+    "curriculum://hit-data/plans/192_2022版_28_28015_智能感知工程.toml#courses[47]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22IS22009.json",
+  "attachment_repo_id": "COURSES-2C608F332AC5"
+}

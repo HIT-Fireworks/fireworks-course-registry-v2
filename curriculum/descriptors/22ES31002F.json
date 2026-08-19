@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22ES31002F",
+  "course_code": "22ES31002F",
+  "course_name": "燃烧及热化学转化技术",
+  "resource_group_id": "exact-name-42c96fbc8f00b1ce",
+  "physical_repository_id": "physical-course-fabc2915b57c2ea7",
+  "repo_id": "COURSES-FABC2915B57C",
+  "record_ids": [
+    "REC-3844B30EA18CC289"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/015_2022版_04_04F024_能源与动力工程.toml#courses[6]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ES31002F.json",
+  "attachment_repo_id": "COURSES-FABC2915B57C"
+}

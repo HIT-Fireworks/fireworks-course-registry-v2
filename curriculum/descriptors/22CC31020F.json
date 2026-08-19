@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CC31020F",
+  "course_code": "22CC31020F",
+  "course_name": "结构化学",
+  "resource_group_id": "name-family-985e2fddcff8c65b",
+  "physical_repository_id": "physical-course-5af3514cbd507387",
+  "repo_id": "COURSES-5AF3514CBD50",
+  "record_ids": [
+    "REC-332A1B627377D460"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/124_2022版_25_25F078_应用化学.toml#courses[4]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC31020F.json",
+  "attachment_repo_id": "COURSES-5AF3514CBD50"
+}

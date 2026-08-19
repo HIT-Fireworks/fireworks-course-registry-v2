@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EN31060C",
+  "course_code": "22EN31060C",
+  "course_name": "技术圈安全简介(俄)",
+  "resource_group_id": "exact-name-85baac6b4ca5f4ab",
+  "physical_repository_id": "physical-course-5c54c9a8516594fa",
+  "repo_id": "COURSES-5C54C9A85165",
+  "record_ids": [
+    "REC-B1F4F5298871B088"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/142_2022版_27_27274_环境生态工程（鲍曼合作办学）.toml#courses[38]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EN31060C.json",
+  "attachment_repo_id": "COURSES-5C54C9A85165"
+}

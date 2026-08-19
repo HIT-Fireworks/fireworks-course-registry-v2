@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CC22002C",
+  "course_code": "22CC22002C",
+  "course_name": "无机化学实验",
+  "resource_group_id": "exact-name-338dd3574ff0cdf2",
+  "physical_repository_id": "physical-course-5af3514cbd507387",
+  "repo_id": "COURSES-5AF3514CBD50",
+  "record_ids": [
+    "REC-56A4ED3D1C4A146F"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/118_2022版_25_25079_化学（中外合作）.toml#courses[23]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC22002C.json",
+  "attachment_repo_id": "COURSES-5AF3514CBD50"
+}

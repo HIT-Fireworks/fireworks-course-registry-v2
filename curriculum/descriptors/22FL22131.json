@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22FL22131",
+  "course_code": "22FL22131",
+  "course_name": "基础英语(2)",
+  "resource_group_id": "name-family-13def847f79f8fc9",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-3E2C018A2BE2CA8E"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/166_2022版_35_35E151_英语.toml#courses[6]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22FL22131.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

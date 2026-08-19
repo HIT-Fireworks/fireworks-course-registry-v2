@@ -1,0 +1,32 @@
+{
+  "descriptor_id": "course-code:22AR22005",
+  "course_code": "22AR22005",
+  "course_name": "设计美学基础",
+  "resource_group_id": "exact-name-7fe3152752d909aa",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-4C3F7702C79A38FA",
+    "REC-62F039D8A955233F",
+    "REC-77AFD56F09D01C68",
+    "REC-92E91C49FD56CD03",
+    "REC-605A974A27B50166",
+    "REC-A7F3D49DCED4AF7A",
+    "REC-D76E65E42C197A72",
+    "REC-D9711C9058148EEC"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/064_2022版_11B_11B082_工业设计.toml#courses[13]",
+    "curriculum://hit-data/plans/065_2022版_11B_11B262_建筑环境与能源应用工程.toml#courses[13]",
+    "curriculum://hit-data/plans/066_2022版_11B_11B304_数字媒体艺术.toml#courses[11]",
+    "curriculum://hit-data/plans/067_2022版_11B_11B341_建筑学.toml#courses[13]",
+    "curriculum://hit-data/plans/068_2022版_11B_11B345_城乡规划.toml#courses[13]",
+    "curriculum://hit-data/plans/069_2022版_11B_11B346_环境设计.toml#courses[13]",
+    "curriculum://hit-data/plans/070_2022版_11B_11B347_风景园林.toml#courses[13]",
+    "curriculum://hit-data/plans/071_2022版_11B_11B348_智慧建筑与建造.toml#courses[13]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR22005.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

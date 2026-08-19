@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EM31609F",
+  "course_code": "22EM31609F",
+  "course_name": "税务会计",
+  "resource_group_id": "exact-name-7be3bf5f4088cd4b",
+  "physical_repository_id": "physical-course-1a31c4fa9f17f929",
+  "repo_id": "COURSES-1A31C4FA9F17",
+  "record_ids": [
+    "REC-8FDCD5C0F0929EE1"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/211_2022版_60_60F204_财务管理.toml#courses[7]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM31609F.json",
+  "attachment_repo_id": "COURSES-1A31C4FA9F17"
+}

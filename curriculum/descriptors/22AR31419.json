@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22AR31419",
+  "course_code": "22AR31419",
+  "course_name": "国土空间规划原理",
+  "resource_group_id": "exact-name-745fcd2e4166c6c8",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-37E4A6C6F8DF9A1B",
+    "REC-39E3B290856DAC2C"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/068_2022版_11B_11B345_城乡规划.toml#courses[60]",
+    "curriculum://hit-data/plans/070_2022版_11B_11B347_风景园林.toml#courses[61]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR31419.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

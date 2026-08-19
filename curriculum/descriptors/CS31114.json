@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:CS31114",
+  "course_code": "CS31114",
+  "course_name": "数理逻辑与近世代数",
+  "resource_group_id": "name-family-f14fb8f7c1f98743",
+  "physical_repository_id": "physical-course-bc87c0351d93e4c1",
+  "repo_id": "COURSES-BC87C0351D93",
+  "record_ids": [
+    "REC-3443132E88246DB3",
+    "REC-E58FD9A80B1A050C"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/090_2022版_13B_13BE035_数据科学与大数据技术.toml#courses[1]",
+    "curriculum://hit-data/plans/092_2022版_13B_13BE371_软件工程.toml#courses[2]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/CS31114.json",
+  "attachment_repo_id": "COURSES-BC87C0351D93"
+}

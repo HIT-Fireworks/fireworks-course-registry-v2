@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EI31316",
+  "course_code": "22EI31316",
+  "course_name": "模式识别基础",
+  "resource_group_id": "exact-name-7a4397cb2692e1fa",
+  "physical_repository_id": "physical-course-2656a175b646c69d",
+  "repo_id": "COURSES-2656A175B646",
+  "record_ids": [
+    "REC-C5A464DAD69C5CD2"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/131_2022版_20_20054_遥感科学与技术.toml#courses[47]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EI31316.json",
+  "attachment_repo_id": "COURSES-2656A175B646"
+}

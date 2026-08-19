@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CE33019",
+  "course_code": "22CE33019",
+  "course_name": "基础工程A课程设计",
+  "resource_group_id": "exact-name-db79c8ba4109c75f",
+  "physical_repository_id": "physical-course-b8079c4567d697cd",
+  "repo_id": "COURSES-B8079C4567D6",
+  "record_ids": [
+    "REC-F69739F33C91B225"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/058_2022版_09_09334_城市地下空间工程.toml#courses[50]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CE33019.json",
+  "attachment_repo_id": "COURSES-B8079C4567D6"
+}

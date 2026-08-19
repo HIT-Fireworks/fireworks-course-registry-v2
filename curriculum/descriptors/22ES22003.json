@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22ES22003",
+  "course_code": "22ES22003",
+  "course_name": "热力学基础",
+  "resource_group_id": "exact-name-869c0b3cf1b85065",
+  "physical_repository_id": "physical-course-f18d915b7cca6a65",
+  "repo_id": "22AS31260",
+  "record_ids": [
+    "REC-FE6C940272C0ADD4"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/003_2022版_02_020831_飞行器制造工程（强基计划）.toml#courses[25]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ES22003.json",
+  "attachment_repo_id": "22AS31260"
+}

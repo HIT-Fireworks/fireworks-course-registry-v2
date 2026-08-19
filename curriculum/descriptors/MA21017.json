@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:MA21017",
+  "course_code": "MA21017",
+  "course_name": "概率论与数理统计C",
+  "resource_group_id": "probability-statistics",
+  "physical_repository_id": "physical-course-33af7db2100528bd",
+  "repo_id": "22MA15024",
+  "record_ids": [
+    "REC-11DFD15313CCE022"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/030_2022版_03_03351_材料物理.toml#courses[38]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/MA21017.json",
+  "attachment_repo_id": "22MA15024"
+}

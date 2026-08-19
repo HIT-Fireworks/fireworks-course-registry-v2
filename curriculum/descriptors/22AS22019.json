@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22AS22019",
+  "course_code": "22AS22019",
+  "course_name": "材料力学D",
+  "resource_group_id": "name-family-f73548468f88f9af",
+  "physical_repository_id": "physical-course-2a1e922d88ae6c56",
+  "repo_id": "22AS22005",
+  "record_ids": [
+    "REC-A1CA60924D926062",
+    "REC-A7317EC6BA05EB10",
+    "REC-AC38CB9F79A5BF53"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/101_2022版_01_01182_飞行器设计与工程.toml#courses[33]",
+    "curriculum://hit-data/plans/102_2022版_01_01183_飞行器环境与生命保障工程.toml#courses[33]",
+    "curriculum://hit-data/plans/105_2022版_01_01185_空间科学与技术.toml#courses[33]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS22019.json",
+  "attachment_repo_id": "22AS22005"
+}

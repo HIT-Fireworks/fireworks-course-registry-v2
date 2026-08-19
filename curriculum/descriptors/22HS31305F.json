@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22HS31305F",
+  "course_code": "22HS31305F",
+  "course_name": "物权法",
+  "resource_group_id": "exact-name-facfc6c35e77f37b",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-F5384264F18CBE64"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/175_2022版_35_35F242_法学.toml#courses[5]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22HS31305F.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

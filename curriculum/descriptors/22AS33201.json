@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AS33201",
+  "course_code": "22AS33201",
+  "course_name": "创新科研实践",
+  "resource_group_id": "exact-name-c73e9f69771338c1",
+  "physical_repository_id": "physical-course-8c30cd8279559085",
+  "repo_id": "COURSES-8C30CD827955",
+  "record_ids": [
+    "REC-4943C11F700DAAE7"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/104_2022版_01_011841_复合材料与工程（强基计划）.toml#courses[32]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS33201.json",
+  "attachment_repo_id": "COURSES-8C30CD827955"
+}

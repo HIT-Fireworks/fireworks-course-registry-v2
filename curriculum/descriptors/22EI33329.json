@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EI33329",
+  "course_code": "22EI33329",
+  "course_name": "毕业论文(设计)",
+  "resource_group_id": "exact-name-8db41f88b0b6c77e",
+  "physical_repository_id": "physical-course-2bcf14039c972840",
+  "repo_id": "22AR33001F",
+  "record_ids": [
+    "REC-BFD63BEBA4C0F305"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/130_2022版_20_20053_信息对抗技术.toml#courses[56]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EI33329.json",
+  "attachment_repo_id": "22AR33001F"
+}

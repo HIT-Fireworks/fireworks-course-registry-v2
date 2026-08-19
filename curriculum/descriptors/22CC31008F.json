@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CC31008F",
+  "course_code": "22CC31008F",
+  "course_name": "电化学表面工程",
+  "resource_group_id": "exact-name-667ca5388be0d0bb",
+  "physical_repository_id": "physical-course-5af3514cbd507387",
+  "repo_id": "COURSES-5AF3514CBD50",
+  "record_ids": [
+    "REC-CF2F0ADB3BD070EB"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/126_2022版_25_25F142_化学工程与工艺（电化学工程）.toml#courses[7]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CC31008F.json",
+  "attachment_repo_id": "COURSES-5AF3514CBD50"
+}

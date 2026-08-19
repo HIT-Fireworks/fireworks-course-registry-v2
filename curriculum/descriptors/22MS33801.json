@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22MS33801",
+  "course_code": "22MS33801",
+  "course_name": "光电信息材料与器件课程设计",
+  "resource_group_id": "exact-name-bd8b8372f9d325ad",
+  "physical_repository_id": "physical-course-12af5bc572e71106",
+  "repo_id": "COURSES-12AF5BC572E7",
+  "record_ids": [
+    "REC-F5A115AFB811492D"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/031_2022版_03_03443_光电信息材料与器件.toml#courses[51]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MS33801.json",
+  "attachment_repo_id": "COURSES-12AF5BC572E7"
+}

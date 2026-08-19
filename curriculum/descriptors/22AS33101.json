@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22AS33101",
+  "course_code": "22AS33101",
+  "course_name": "生产实习",
+  "resource_group_id": "exact-name-18527c31b7340394",
+  "physical_repository_id": "physical-course-4c7a9dcc47c4efc8",
+  "repo_id": "22AR33205",
+  "record_ids": [
+    "REC-6AE6CBE74E929616",
+    "REC-3799EFF438F616CC",
+    "REC-F2E9E635B8EF9DA3"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/098_2022版_01_01041_自动化.toml#courses[54]",
+    "curriculum://hit-data/plans/099_2022版_01_01042_探测制导与控制技术.toml#courses[54]",
+    "curriculum://hit-data/plans/100_2022版_01_01043_智能装备与系统.toml#courses[55]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS33101.json",
+  "attachment_repo_id": "22AR33205"
+}

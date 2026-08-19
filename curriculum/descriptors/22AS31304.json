@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22AS31304",
+  "course_code": "22AS31304",
+  "course_name": "航天器结构",
+  "resource_group_id": "exact-name-7f2d80f93259c43e",
+  "physical_repository_id": "physical-course-8c30cd8279559085",
+  "repo_id": "COURSES-8C30CD827955",
+  "record_ids": [
+    "REC-2CD88D8E4A2592C8",
+    "REC-129704651E2B963C"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/103_2022版_01_01184_复合材料与工程.toml#courses[46]",
+    "curriculum://hit-data/plans/104_2022版_01_011841_复合材料与工程（强基计划）.toml#courses[45]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS31304.json",
+  "attachment_repo_id": "COURSES-8C30CD827955"
+}

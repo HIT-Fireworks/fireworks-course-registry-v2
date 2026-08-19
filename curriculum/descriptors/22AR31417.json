@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22AR31417",
+  "course_code": "22AR31417",
+  "course_name": "城市设计理论与实务",
+  "resource_group_id": "exact-name-a4af52d7b65261ee",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-9F8C7320B1B18830",
+    "REC-208C17505AFF0143"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/067_2022版_11B_11B341_建筑学.toml#courses[57]",
+    "curriculum://hit-data/plans/070_2022版_11B_11B347_风景园林.toml#courses[57]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR31417.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

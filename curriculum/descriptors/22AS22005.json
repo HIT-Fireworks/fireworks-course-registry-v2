@@ -1,0 +1,24 @@
+{
+  "descriptor_id": "course-code:22AS22005",
+  "course_code": "22AS22005",
+  "course_name": "材料力学A",
+  "resource_group_id": "name-family-f73548468f88f9af",
+  "physical_repository_id": "physical-course-2a1e922d88ae6c56",
+  "repo_id": "22AS22005",
+  "record_ids": [
+    "REC-8EB1D6012D63E681",
+    "REC-69EBFEBB0636008B",
+    "REC-EBDA6828CF494DA4",
+    "REC-EE2B02F47D65F88A"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/103_2022版_01_01184_复合材料与工程.toml#courses[30]",
+    "curriculum://hit-data/plans/104_2022版_01_011841_复合材料与工程（强基计划）.toml#courses[30]",
+    "curriculum://hit-data/plans/106_2022版_01_011861_智能材料与结构.toml#courses[30]",
+    "curriculum://hit-data/plans/161_2022版_35_35158_俄语.toml#courses[30]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS22005.json",
+  "attachment_repo_id": "22AS22005"
+}

@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22TS31212",
+  "course_code": "22TS31212",
+  "course_name": "桥梁智能建造",
+  "resource_group_id": "exact-name-1950fe76a7f6e6eb",
+  "physical_repository_id": "physical-course-9c6503da11740603",
+  "repo_id": "COURSES-9C6503DA1174",
+  "record_ids": [
+    "REC-00EB6FAC516ABF62",
+    "REC-2153608624531070"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[364]",
+    "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[365]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22TS31212.json",
+  "attachment_repo_id": "COURSES-9C6503DA1174"
+}

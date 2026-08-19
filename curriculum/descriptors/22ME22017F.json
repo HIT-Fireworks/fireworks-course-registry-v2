@@ -1,0 +1,26 @@
+{
+  "descriptor_id": "course-code:22ME22017F",
+  "course_code": "22ME22017F",
+  "course_name": "机械制造技术基础",
+  "resource_group_id": "exact-name-a89651a6e22abc30",
+  "physical_repository_id": "physical-course-02d8746354c0f5cc",
+  "repo_id": "22ME22017F",
+  "record_ids": [
+    "REC-9D89FE002E1D0EDA",
+    "REC-22CE023BC1526205",
+    "REC-559AB0B82E571840",
+    "REC-C2B18EF658C5280B",
+    "REC-D48C14A7A669952A"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/008_2022版_02_02F081_机械设计制造及其自动化.toml#courses[5]",
+    "curriculum://hit-data/plans/009_2022版_02_02F083_飞行器制造工程.toml#courses[5]",
+    "curriculum://hit-data/plans/011_2022版_02_02F085_机械电子工程.toml#courses[4]",
+    "curriculum://hit-data/plans/012_2022版_02_02F086_机器人工程.toml#courses[6]",
+    "curriculum://hit-data/plans/013_2022版_02_02F087_智能制造工程.toml#courses[4]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ME22017F.json",
+  "attachment_repo_id": "22ME22017F"
+}

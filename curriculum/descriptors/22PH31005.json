@@ -1,0 +1,24 @@
+{
+  "descriptor_id": "course-code:22PH31005",
+  "course_code": "22PH31005",
+  "course_name": "计算物理",
+  "resource_group_id": "exact-name-4635994d70190544",
+  "physical_repository_id": "physical-course-946f2dca1f165881",
+  "repo_id": "COURSES-946F2DCA1F16",
+  "record_ids": [
+    "REC-2B4960D2B6A02595",
+    "REC-6FC55C83B62F64A5",
+    "REC-308EF8455C3193AD",
+    "REC-C37CCEBD20740379"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/196_2022版_32_32111_应用物理学.toml#courses[65]",
+    "curriculum://hit-data/plans/196_2022版_32_32111_应用物理学.toml#courses[66]",
+    "curriculum://hit-data/plans/196_2022版_32_32111_应用物理学.toml#courses[67]",
+    "curriculum://hit-data/plans/202_2022版_32_32SXS111086_应用物理学（+机器人工程双学士学位）.toml#courses[59]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22PH31005.json",
+  "attachment_repo_id": "COURSES-946F2DCA1F16"
+}

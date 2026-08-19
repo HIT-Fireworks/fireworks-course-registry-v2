@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EM31505",
+  "course_code": "22EM31505",
+  "course_name": "营销策划",
+  "resource_group_id": "exact-name-43dc3f884743d754",
+  "physical_repository_id": "physical-course-1a31c4fa9f17f929",
+  "repo_id": "COURSES-1A31C4FA9F17",
+  "record_ids": [
+    "REC-66DEB8122549555F"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/205_2022版_60_60202_市场营销.toml#courses[51]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM31505.json",
+  "attachment_repo_id": "COURSES-1A31C4FA9F17"
+}

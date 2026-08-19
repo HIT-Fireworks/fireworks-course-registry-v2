@@ -1,0 +1,26 @@
+{
+  "descriptor_id": "course-code:22PH22020",
+  "course_code": "22PH22020",
+  "course_name": "原子物理",
+  "resource_group_id": "name-family-7f4fce80b0cf35a5",
+  "physical_repository_id": "physical-course-77ca38ad6055c9b6",
+  "repo_id": "22AS22701",
+  "record_ids": [
+    "REC-59178F47D8EB3C76",
+    "REC-AF6287D3244A68BD",
+    "REC-CD6079D86F0E0F6F",
+    "REC-DA0F223200CE2A0D",
+    "REC-E39CF1E7463B58A2"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/196_2022版_32_32111_应用物理学.toml#courses[37]",
+    "curriculum://hit-data/plans/197_2022版_32_32114_光电信息科学与工程.toml#courses[36]",
+    "curriculum://hit-data/plans/201_2022版_32_32SXS111061_应用物理学（+电气工程及其自动化双学士学位）.toml#courses[42]",
+    "curriculum://hit-data/plans/202_2022版_32_32SXS111086_应用物理学（+机器人工程双学士学位）.toml#courses[40]",
+    "curriculum://hit-data/plans/203_2022版_32_32SXS111214_应用物理学（+微电子科学与工程双学士学位）.toml#courses[43]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22PH22020.json",
+  "attachment_repo_id": "22AS22701"
+}

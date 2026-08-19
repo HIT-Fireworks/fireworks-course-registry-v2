@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EN33008",
+  "course_code": "22EN33008",
+  "course_name": "毕业论文(设计)",
+  "resource_group_id": "exact-name-8db41f88b0b6c77e",
+  "physical_repository_id": "physical-course-2bcf14039c972840",
+  "repo_id": "22AR33001F",
+  "record_ids": [
+    "REC-48E825697116E1F9"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/140_2022版_27_27272_环境科学.toml#courses[57]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EN33008.json",
+  "attachment_repo_id": "22AR33001F"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EI31406",
+  "course_code": "22EI31406",
+  "course_name": "微波无源电路",
+  "resource_group_id": "exact-name-645bd94e97878b74",
+  "physical_repository_id": "physical-course-2656a175b646c69d",
+  "repo_id": "COURSES-2656A175B646",
+  "record_ids": [
+    "REC-4CB8DF212EFB4FA7"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/132_2022版_20_20055_电磁场与无线技术.toml#courses[50]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EI31406.json",
+  "attachment_repo_id": "COURSES-2656A175B646"
+}

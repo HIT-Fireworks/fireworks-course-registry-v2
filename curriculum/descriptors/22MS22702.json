@@ -1,0 +1,32 @@
+{
+  "descriptor_id": "course-code:22MS22702",
+  "course_code": "22MS22702",
+  "course_name": "材料化学基础",
+  "resource_group_id": "exact-name-5dfe5cf2b512febe",
+  "physical_repository_id": "physical-course-1818fd97bf76de87",
+  "repo_id": "22CC31017",
+  "record_ids": [
+    "REC-1D57ABD9C7E25B01",
+    "REC-3CF71FC793D5893E",
+    "REC-9C5D7D022129D8DD",
+    "REC-458B8D0B97CE1529",
+    "REC-659632B20FCB9385",
+    "REC-C2EBAB3106D9C220",
+    "REC-FBDCE27834E94C25",
+    "REC-FCBEE3ECF5ED85BC"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/024_2022版_03_03091_材料成型及控制工程.toml#courses[23]",
+    "curriculum://hit-data/plans/025_2022版_03_03092_增材制造工程.toml#courses[26]",
+    "curriculum://hit-data/plans/026_2022版_03_03190_材料科学与工程.toml#courses[24]",
+    "curriculum://hit-data/plans/027_2022版_03_031911_材料科学与工程（强基计划）.toml#courses[29]",
+    "curriculum://hit-data/plans/028_2022版_03_03291_焊接技术与工程.toml#courses[26]",
+    "curriculum://hit-data/plans/029_2022版_03_03292_电子封装技术.toml#courses[26]",
+    "curriculum://hit-data/plans/030_2022版_03_03351_材料物理.toml#courses[26]",
+    "curriculum://hit-data/plans/031_2022版_03_03443_光电信息材料与器件.toml#courses[26]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MS22702.json",
+  "attachment_repo_id": "22CC31017"
+}

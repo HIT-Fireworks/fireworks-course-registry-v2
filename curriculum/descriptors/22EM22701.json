@@ -1,0 +1,26 @@
+{
+  "descriptor_id": "course-code:22EM22701",
+  "course_code": "22EM22701",
+  "course_name": "财务管理",
+  "resource_group_id": "exact-name-6e1f412867ef9fac",
+  "physical_repository_id": "physical-course-1a31c4fa9f17f929",
+  "repo_id": "COURSES-1A31C4FA9F17",
+  "record_ids": [
+    "REC-46F95FE9D9E0375F",
+    "REC-072B714F0E9CF903",
+    "REC-425E188442EFEEDA",
+    "REC-62486AC01BFEF0B4",
+    "REC-D92C372A8188A3A9"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/204_2022版_60_60201_工商管理.toml#courses[40]",
+    "curriculum://hit-data/plans/205_2022版_60_60202_市场营销.toml#courses[40]",
+    "curriculum://hit-data/plans/206_2022版_60_60203_会计学.toml#courses[37]",
+    "curriculum://hit-data/plans/207_2022版_60_60204_财务管理.toml#courses[37]",
+    "curriculum://hit-data/plans/208_2022版_60_60E201_工商管理.toml#courses[14]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM22701.json",
+  "attachment_repo_id": "COURSES-1A31C4FA9F17"
+}

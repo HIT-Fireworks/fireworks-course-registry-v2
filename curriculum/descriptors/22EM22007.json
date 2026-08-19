@@ -1,0 +1,26 @@
+{
+  "descriptor_id": "course-code:22EM22007",
+  "course_code": "22EM22007",
+  "course_name": "人工智能与机器学习",
+  "resource_group_id": "exact-name-d1603ac81526be8a",
+  "physical_repository_id": "physical-course-cd9dee285a45a304",
+  "repo_id": "22EM22007",
+  "record_ids": [
+    "REC-2FF1D4D7372C57DD",
+    "REC-7A707B5C1D1A22D4",
+    "REC-8EB624C41114AEB7",
+    "REC-41A0B88BC4A2E068",
+    "REC-82232152C15A989C"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/046_2022版_07_07101_信息管理与信息系统.toml#courses[48]",
+    "curriculum://hit-data/plans/047_2022版_07_07102_电子商务.toml#courses[48]",
+    "curriculum://hit-data/plans/048_2022版_07_07103_大数据管理与应用.toml#courses[45]",
+    "curriculum://hit-data/plans/049_2022版_07_07104_计算金融.toml#courses[43]",
+    "curriculum://hit-data/plans/177_2022版_35_35SXS161103_社会学（+大数据管理与应用双学士学位）.toml#courses[34]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM22007.json",
+  "attachment_repo_id": "22EM22007"
+}

@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22LS22009F",
+  "course_code": "22LS22009F",
+  "course_name": "细胞生物学基础实验",
+  "resource_group_id": "exact-name-7a0c0b7172f5a42d",
+  "physical_repository_id": "physical-course-ce4133cbe869b5fe",
+  "repo_id": "COURSES-CE4133CBE869",
+  "record_ids": [
+    "REC-07FD6526BE416A1E",
+    "REC-55633C53BBEB5A59"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/184_2022版_37_37F281_生物技术.toml#courses[7]",
+    "curriculum://hit-data/plans/185_2022版_37_37F282_生物工程.toml#courses[3]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22LS22009F.json",
+  "attachment_repo_id": "COURSES-CE4133CBE869"
+}

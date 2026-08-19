@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EN31025C",
+  "course_code": "22EN31025C",
+  "course_name": "毕业实习",
+  "resource_group_id": "exact-name-144c5c83446ec6f9",
+  "physical_repository_id": "physical-course-df0239d8456d3d0d",
+  "repo_id": "22AS33251",
+  "record_ids": [
+    "REC-F27AC505025DEEFA"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/142_2022版_27_27274_环境生态工程（鲍曼合作办学）.toml#courses[92]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EN31025C.json",
+  "attachment_repo_id": "22AS33251"
+}

@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22IS44001",
+  "course_code": "22IS44001",
+  "course_name": "精密仪器及智能化类专业创新实践",
+  "resource_group_id": "exact-name-9bb37f1b4f516bfc",
+  "physical_repository_id": "physical-course-2c608f332ac553b6",
+  "repo_id": "COURSES-2C608F332AC5",
+  "record_ids": [
+    "REC-1E6F89DE1329AC4D",
+    "REC-1200247E85C8628F",
+    "REC-A903F95EC1F4520D"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/190_2022版_28_28011_测控技术与仪器.toml#courses[21]",
+    "curriculum://hit-data/plans/191_2022版_28_28014_精密仪器.toml#courses[21]",
+    "curriculum://hit-data/plans/192_2022版_28_28015_智能感知工程.toml#courses[21]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22IS44001.json",
+  "attachment_repo_id": "COURSES-2C608F332AC5"
+}

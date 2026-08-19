@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22ES22041",
+  "course_code": "22ES22041",
+  "course_name": "能动类传热基础",
+  "resource_group_id": "exact-name-9dbf84c7bbe9c50f",
+  "physical_repository_id": "physical-course-fabc2915b57c2ea7",
+  "repo_id": "COURSES-FABC2915B57C",
+  "record_ids": [
+    "REC-6FA3D6C42F8EE483"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/014_2022版_04_04E024_能源与动力工程.toml#courses[3]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ES22041.json",
+  "attachment_repo_id": "COURSES-FABC2915B57C"
+}

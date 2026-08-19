@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EI33189F",
+  "course_code": "22EI33189F",
+  "course_name": "毕业论文(设计)",
+  "resource_group_id": "exact-name-8db41f88b0b6c77e",
+  "physical_repository_id": "physical-course-2bcf14039c972840",
+  "repo_id": "22AR33001F",
+  "record_ids": [
+    "REC-EAB82E173A822405"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/136_2022版_20_20F0501S_智能信息工程.toml#courses[4]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EI33189F.json",
+  "attachment_repo_id": "22AR33001F"
+}

@@ -1,0 +1,20 @@
+{
+  "descriptor_id": "course-code:22CE31045",
+  "course_code": "22CE31045",
+  "course_name": "材料表征分析综合实验",
+  "resource_group_id": "exact-name-a422e795ee79a4d6",
+  "physical_repository_id": "physical-course-b8079c4567d697cd",
+  "repo_id": "COURSES-B8079C4567D6",
+  "record_ids": [
+    "REC-6C4B9CB1D3441950",
+    "REC-7402B0C98CE2922A"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[167]",
+    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[168]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CE31045.json",
+  "attachment_repo_id": "COURSES-B8079C4567D6"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EN33014",
+  "course_code": "22EN33014",
+  "course_name": "毕业实习",
+  "resource_group_id": "exact-name-144c5c83446ec6f9",
+  "physical_repository_id": "physical-course-df0239d8456d3d0d",
+  "repo_id": "22AS33251",
+  "record_ids": [
+    "REC-129BAC63E7B927D7"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/140_2022版_27_27272_环境科学.toml#courses[58]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EN33014.json",
+  "attachment_repo_id": "22AS33251"
+}

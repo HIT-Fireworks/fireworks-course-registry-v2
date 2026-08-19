@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EM31104",
+  "course_code": "22EM31104",
+  "course_name": "电子商务服务与运营管理",
+  "resource_group_id": "exact-name-f5f96ebe7cd44b6c",
+  "physical_repository_id": "physical-course-8cab420ae310747b",
+  "repo_id": "COURSES-8CAB420AE310",
+  "record_ids": [
+    "REC-CA5D6D762BF47245"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/047_2022版_07_07102_电子商务.toml#courses[50]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM31104.json",
+  "attachment_repo_id": "COURSES-8CAB420AE310"
+}

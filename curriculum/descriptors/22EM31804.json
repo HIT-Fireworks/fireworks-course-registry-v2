@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EM31804",
+  "course_code": "22EM31804",
+  "course_name": "中央银行理论与实务",
+  "resource_group_id": "exact-name-bee58d20a6869888",
+  "physical_repository_id": "physical-course-8cab420ae310747b",
+  "repo_id": "COURSES-8CAB420AE310",
+  "record_ids": [
+    "REC-E5C2F6B0E917F869"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/050_2022版_07_07221_金融学.toml#courses[49]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM31804.json",
+  "attachment_repo_id": "COURSES-8CAB420AE310"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CS22019",
+  "course_code": "22CS22019",
+  "course_name": "软件构造A",
+  "resource_group_id": "name-family-7e0fd6bbbaf2c179",
+  "physical_repository_id": "physical-course-bc87c0351d93e4c1",
+  "repo_id": "COURSES-BC87C0351D93",
+  "record_ids": [
+    "REC-4D6CA01914348D17"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/087_2022版_13B_13B371_软件工程.toml#courses[34]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CS22019.json",
+  "attachment_repo_id": "COURSES-BC87C0351D93"
+}

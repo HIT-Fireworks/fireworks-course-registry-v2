@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CS33010",
+  "course_code": "22CS33010",
+  "course_name": "处理器设计与实践C",
+  "resource_group_id": "name-family-f0037981c0b9b2ba",
+  "physical_repository_id": "physical-course-1cba1ca2a07097fe",
+  "repo_id": "22CS31003",
+  "record_ids": [
+    "REC-76AA4CDA44DD39C6"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/089_2022版_13B_13BE031_计算机科学与技术.toml#courses[8]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CS33010.json",
+  "attachment_repo_id": "22CS31003"
+}

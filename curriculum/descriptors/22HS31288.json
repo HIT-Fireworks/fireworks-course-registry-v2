@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22HS31288",
+  "course_code": "22HS31288",
+  "course_name": "经济思想史B",
+  "resource_group_id": "name-family-2a4fa65fbd1a31ae",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-BC58F569ED795676"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/168_2022版_35_35E232_经济学.toml#courses[12]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22HS31288.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22EM22501",
+  "course_code": "22EM22501",
+  "course_name": "市场调查与分析",
+  "resource_group_id": "exact-name-dc982657d99dedb4",
+  "physical_repository_id": "physical-course-1a31c4fa9f17f929",
+  "repo_id": "COURSES-1A31C4FA9F17",
+  "record_ids": [
+    "REC-7468B854EEAB1D7D",
+    "REC-8114A1E6B4B61586",
+    "REC-FF9173317D393F55"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/204_2022版_60_60201_工商管理.toml#courses[39]",
+    "curriculum://hit-data/plans/205_2022版_60_60202_市场营销.toml#courses[39]",
+    "curriculum://hit-data/plans/208_2022版_60_60E201_工商管理.toml#courses[6]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM22501.json",
+  "attachment_repo_id": "COURSES-1A31C4FA9F17"
+}

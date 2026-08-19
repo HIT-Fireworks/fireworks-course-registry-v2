@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22MS31406",
+  "course_code": "22MS31406",
+  "course_name": "增材制造构件质量检测技术",
+  "resource_group_id": "exact-name-7f429496e9f396e6",
+  "physical_repository_id": "physical-course-12af5bc572e71106",
+  "repo_id": "COURSES-12AF5BC572E7",
+  "record_ids": [
+    "REC-74D1B81472CB785C"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/025_2022版_03_03092_增材制造工程.toml#courses[48]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MS31406.json",
+  "attachment_repo_id": "COURSES-12AF5BC572E7"
+}

@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EM31205F",
+  "course_code": "22EM31205F",
+  "course_name": "管理沟通与领导者素养",
+  "resource_group_id": "exact-name-bf551528fba06579",
+  "physical_repository_id": "physical-course-8cab420ae310747b",
+  "repo_id": "COURSES-8CAB420AE310",
+  "record_ids": [
+    "REC-FB2D9DA6D4D2B1BD"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/044_2022版_07_07F206S_公共行政领导力.toml#courses[8]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM31205F.json",
+  "attachment_repo_id": "COURSES-8CAB420AE310"
+}

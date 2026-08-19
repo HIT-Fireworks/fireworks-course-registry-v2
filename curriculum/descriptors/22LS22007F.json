@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22LS22007F",
+  "course_code": "22LS22007F",
+  "course_name": "生物学特色实验(1)",
+  "resource_group_id": "name-family-462e8639c39a6a55",
+  "physical_repository_id": "physical-course-ce4133cbe869b5fe",
+  "repo_id": "COURSES-CE4133CBE869",
+  "record_ids": [
+    "REC-935B4BCB010A3AA2"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/184_2022版_37_37F281_生物技术.toml#courses[3]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22LS22007F.json",
+  "attachment_repo_id": "COURSES-CE4133CBE869"
+}

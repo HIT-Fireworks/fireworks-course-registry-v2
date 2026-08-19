@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22FL31136",
+  "course_code": "22FL31136",
+  "course_name": "英汉笔译",
+  "resource_group_id": "exact-name-c44d0415e6a4936c",
+  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "repo_id": "COURSES-65DA033EA27D",
+  "record_ids": [
+    "REC-FC8CB1D512C4EE8E"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/166_2022版_35_35E151_英语.toml#courses[5]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22FL31136.json",
+  "attachment_repo_id": "COURSES-65DA033EA27D"
+}

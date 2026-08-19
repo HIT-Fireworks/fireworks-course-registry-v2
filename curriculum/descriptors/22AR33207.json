@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AR33207",
+  "course_code": "22AR33207",
+  "course_name": "毕业论文(设计)",
+  "resource_group_id": "exact-name-8db41f88b0b6c77e",
+  "physical_repository_id": "physical-course-2bcf14039c972840",
+  "repo_id": "22AR33001F",
+  "record_ids": [
+    "REC-900FE28C85BF0714"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/065_2022版_11B_11B262_建筑环境与能源应用工程.toml#courses[54]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR33207.json",
+  "attachment_repo_id": "22AR33001F"
+}

@@ -1,0 +1,24 @@
+{
+  "descriptor_id": "course-code:22LS22017",
+  "course_code": "22LS22017",
+  "course_name": "微生物学",
+  "resource_group_id": "exact-name-ea7f89fc1ebcedaa",
+  "physical_repository_id": "physical-course-ce4133cbe869b5fe",
+  "repo_id": "COURSES-CE4133CBE869",
+  "record_ids": [
+    "REC-9A89F5A024A5CEA9",
+    "REC-25F53841D409D831",
+    "REC-93055F507EE37224",
+    "REC-0895747F4A0F84A3"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/179_2022版_37_37281_生物技术.toml#courses[41]",
+    "curriculum://hit-data/plans/180_2022版_37_37282_生物工程.toml#courses[41]",
+    "curriculum://hit-data/plans/181_2022版_37_37284_整合科学.toml#courses[41]",
+    "curriculum://hit-data/plans/186_2022版_37_37SXS281056_生物技术（+智能测控工程双学士学位）.toml#courses[39]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22LS22017.json",
+  "attachment_repo_id": "COURSES-CE4133CBE869"
+}

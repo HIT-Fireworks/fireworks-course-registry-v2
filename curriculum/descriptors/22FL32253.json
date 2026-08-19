@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22FL32253",
+  "course_code": "22FL32253",
+  "course_name": "俄罗斯历史与文化",
+  "resource_group_id": "exact-name-a803b889ded0c72c",
+  "physical_repository_id": "physical-course-b2f4130da53ea2fb",
+  "repo_id": "COURSES-B2F4130DA53E",
+  "record_ids": [
+    "REC-A3961382348670F4"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/022_2022版_04_04027_飞行器动力工程（莫航联培班）.toml#courses[21]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22FL32253.json",
+  "attachment_repo_id": "COURSES-B2F4130DA53E"
+}

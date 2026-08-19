@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EN31010",
+  "course_code": "22EN31010",
+  "course_name": "水源工程原理",
+  "resource_group_id": "exact-name-b498485ab2147eb1",
+  "physical_repository_id": "physical-course-5c54c9a8516594fa",
+  "repo_id": "COURSES-5C54C9A85165",
+  "record_ids": [
+    "REC-7453B3405A5EE85B"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/137_2022版_27_27251_给排水科学与工程.toml#courses[47]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EN31010.json",
+  "attachment_repo_id": "COURSES-5C54C9A85165"
+}

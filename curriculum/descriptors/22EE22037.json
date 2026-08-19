@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EE22037",
+  "course_code": "22EE22037",
+  "course_name": "电子线路实验(1)",
+  "resource_group_id": "name-family-62cfc0da7a31e411",
+  "physical_repository_id": "physical-course-4692226dd28f0d33",
+  "repo_id": "COURSES-4692226DD28F",
+  "record_ids": [
+    "REC-1ACC57705361E715"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/197_2022版_32_32114_光电信息科学与工程.toml#courses[38]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EE22037.json",
+  "attachment_repo_id": "COURSES-4692226DD28F"
+}

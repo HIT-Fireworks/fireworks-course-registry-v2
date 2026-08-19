@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22LS22013",
+  "course_code": "22LS22013",
+  "course_name": "生物统计",
+  "resource_group_id": "exact-name-87db66c558d1b237",
+  "physical_repository_id": "physical-course-ce4133cbe869b5fe",
+  "repo_id": "COURSES-CE4133CBE869",
+  "record_ids": [
+    "REC-07591BE69D0B46BB",
+    "REC-CB2D63D6B3F05001",
+    "REC-D6914815F98CD26E"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/179_2022版_37_37281_生物技术.toml#courses[32]",
+    "curriculum://hit-data/plans/180_2022版_37_37282_生物工程.toml#courses[32]",
+    "curriculum://hit-data/plans/181_2022版_37_37284_整合科学.toml#courses[32]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22LS22013.json",
+  "attachment_repo_id": "COURSES-CE4133CBE869"
+}

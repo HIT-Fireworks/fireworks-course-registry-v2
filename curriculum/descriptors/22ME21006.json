@@ -1,0 +1,32 @@
+{
+  "descriptor_id": "course-code:22ME21006",
+  "course_code": "22ME21006",
+  "course_name": "画法几何与阴影透视",
+  "resource_group_id": "exact-name-43534e172eb5dcaf",
+  "physical_repository_id": "physical-course-3e691ad258daddb1",
+  "repo_id": "COURSES-3E691AD258DA",
+  "record_ids": [
+    "REC-9ED8A85FD2C0C702",
+    "REC-43A1ED58E0E93276",
+    "REC-099F8FB3425ACCB5",
+    "REC-513385D08D23B383",
+    "REC-753323D677A3543D",
+    "REC-7480484D52D488C9",
+    "REC-FEAF2E06D2EF3B40",
+    "REC-FF676C6DCD1A47CE"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/064_2022版_11B_11B082_工业设计.toml#courses[6]",
+    "curriculum://hit-data/plans/065_2022版_11B_11B262_建筑环境与能源应用工程.toml#courses[6]",
+    "curriculum://hit-data/plans/066_2022版_11B_11B304_数字媒体艺术.toml#courses[6]",
+    "curriculum://hit-data/plans/067_2022版_11B_11B341_建筑学.toml#courses[6]",
+    "curriculum://hit-data/plans/068_2022版_11B_11B345_城乡规划.toml#courses[6]",
+    "curriculum://hit-data/plans/069_2022版_11B_11B346_环境设计.toml#courses[5]",
+    "curriculum://hit-data/plans/070_2022版_11B_11B347_风景园林.toml#courses[6]",
+    "curriculum://hit-data/plans/071_2022版_11B_11B348_智慧建筑与建造.toml#courses[6]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ME21006.json",
+  "attachment_repo_id": "COURSES-3E691AD258DA"
+}

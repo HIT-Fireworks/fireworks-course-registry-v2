@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AS31361",
+  "course_code": "22AS31361",
+  "course_name": "材料科学基础",
+  "resource_group_id": "exact-name-1389ba550afd8c2e",
+  "physical_repository_id": "physical-course-c0274e1241490e2f",
+  "repo_id": "22AS31361",
+  "record_ids": [
+    "REC-729F2B629531C377"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/104_2022版_01_011841_复合材料与工程（强基计划）.toml#courses[40]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS31361.json",
+  "attachment_repo_id": "22AS31361"
+}

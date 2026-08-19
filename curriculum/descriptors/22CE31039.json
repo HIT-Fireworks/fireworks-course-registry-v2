@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22CE31039",
+  "course_code": "22CE31039",
+  "course_name": "建筑经济与施工",
+  "resource_group_id": "exact-name-97a8de3e0aeed4cb",
+  "physical_repository_id": "physical-course-7acedfdf1db763d4",
+  "repo_id": "COURSES-7ACEDFDF1DB7",
+  "record_ids": [
+    "REC-E881FFF354061032"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/067_2022版_11B_11B341_建筑学.toml#courses[60]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22CE31039.json",
+  "attachment_repo_id": "COURSES-7ACEDFDF1DB7"
+}

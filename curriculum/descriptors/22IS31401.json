@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22IS31401",
+  "course_code": "22IS31401",
+  "course_name": "精密机械学基础(2)",
+  "resource_group_id": "name-family-b82139106c633b7f",
+  "physical_repository_id": "physical-course-2c608f332ac553b6",
+  "repo_id": "COURSES-2C608F332AC5",
+  "record_ids": [
+    "REC-EE76953D5570A0F2"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/191_2022版_28_28014_精密仪器.toml#courses[48]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22IS31401.json",
+  "attachment_repo_id": "COURSES-2C608F332AC5"
+}

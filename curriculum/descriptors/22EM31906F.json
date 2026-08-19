@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22EM31906F",
+  "course_code": "22EM31906F",
+  "course_name": "数字技术和产业分析",
+  "resource_group_id": "exact-name-493f2df4a9028812",
+  "physical_repository_id": "physical-course-8cab420ae310747b",
+  "repo_id": "COURSES-8CAB420AE310",
+  "record_ids": [
+    "REC-580590484262AA4F"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/043_2022版_07_07F223_数字经济.toml#courses[4]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EM31906F.json",
+  "attachment_repo_id": "COURSES-8CAB420AE310"
+}

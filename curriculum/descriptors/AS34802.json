@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:AS34802",
+  "course_code": "AS34802",
+  "course_name": "微电子器件与工艺实验",
+  "resource_group_id": "exact-name-98d0e3b95ce6dc6e",
+  "physical_repository_id": "physical-course-8c30cd8279559085",
+  "repo_id": "COURSES-8C30CD827955",
+  "record_ids": [
+    "REC-564020A0D0E8124A"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/112_2022版_01_01E214_微电子科学与工程.toml#courses[3]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/AS34802.json",
+  "attachment_repo_id": "COURSES-8C30CD827955"
+}

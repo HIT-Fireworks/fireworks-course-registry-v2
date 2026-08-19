@@ -1,0 +1,42 @@
+{
+  "descriptor_id": "course-code:22MA15001",
+  "course_code": "22MA15001",
+  "course_name": "微积分A(1)",
+  "resource_group_id": "engineering-calculus",
+  "physical_repository_id": "physical-course-55b2b6e9b58d226b",
+  "repo_id": "22MA15001",
+  "record_ids": [
+    "REC-3EECC13CB0334A22",
+    "REC-7FCE8EF92AA68409",
+    "REC-95C4011262C599F1",
+    "REC-296A3090A7557892",
+    "REC-755C87B6723AF012",
+    "REC-7004722D3406EEF0",
+    "REC-B6E69679B1B168E4",
+    "REC-BC47EAC53E75D343",
+    "REC-C52B1333F0EDC4BF",
+    "REC-D1EAA689D629621D",
+    "REC-D82DFD9E14444CB0",
+    "REC-EAED8DC20893C49E",
+    "REC-F5D2F17416728201"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/053_2022版_05_05061_电气工程及其自动化.toml#courses[5]",
+    "curriculum://hit-data/plans/054_2022版_05_05062_建筑电气与智能化.toml#courses[5]",
+    "curriculum://hit-data/plans/098_2022版_01_01041_自动化.toml#courses[5]",
+    "curriculum://hit-data/plans/099_2022版_01_01042_探测制导与控制技术.toml#courses[5]",
+    "curriculum://hit-data/plans/100_2022版_01_01043_智能装备与系统.toml#courses[5]",
+    "curriculum://hit-data/plans/101_2022版_01_01182_飞行器设计与工程.toml#courses[5]",
+    "curriculum://hit-data/plans/102_2022版_01_01183_飞行器环境与生命保障工程.toml#courses[5]",
+    "curriculum://hit-data/plans/103_2022版_01_01184_复合材料与工程.toml#courses[5]",
+    "curriculum://hit-data/plans/105_2022版_01_01185_空间科学与技术.toml#courses[5]",
+    "curriculum://hit-data/plans/106_2022版_01_011861_智能材料与结构.toml#courses[5]",
+    "curriculum://hit-data/plans/108_2022版_01_01211_电子科学与技术.toml#courses[5]",
+    "curriculum://hit-data/plans/109_2022版_01_01213_光电信息科学与工程(光学工程方向).toml#courses[5]",
+    "curriculum://hit-data/plans/110_2022版_01_01214_微电子科学与工程.toml#courses[5]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22MA15001.json",
+  "attachment_repo_id": "22MA15001"
+}

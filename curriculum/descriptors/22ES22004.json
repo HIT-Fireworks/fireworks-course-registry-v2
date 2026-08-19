@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22ES22004",
+  "course_code": "22ES22004",
+  "course_name": "数字电路与嵌入式系统",
+  "resource_group_id": "exact-name-42c16574e0eed0bf",
+  "physical_repository_id": "physical-course-fabc2915b57c2ea7",
+  "repo_id": "COURSES-FABC2915B57C",
+  "record_ids": [
+    "REC-220EC8D5FDF55ECC"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/020_2022版_04_04025_核工程与核技术.toml#courses[21]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ES22004.json",
+  "attachment_repo_id": "COURSES-FABC2915B57C"
+}

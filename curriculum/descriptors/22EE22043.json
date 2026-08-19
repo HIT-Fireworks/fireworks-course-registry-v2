@@ -1,0 +1,22 @@
+{
+  "descriptor_id": "course-code:22EE22043",
+  "course_code": "22EE22043",
+  "course_name": "自动控制理论",
+  "resource_group_id": "name-family-9b4558b47c01c11d",
+  "physical_repository_id": "physical-course-894d2136254ca6d5",
+  "repo_id": "22AS31102",
+  "record_ids": [
+    "REC-0385D4D7CA7758E4",
+    "REC-2422E078734DF5F1",
+    "REC-A1836D89DCF6990D"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/053_2022版_05_05061_电气工程及其自动化.toml#courses[43]",
+    "curriculum://hit-data/plans/054_2022版_05_05062_建筑电气与智能化.toml#courses[43]",
+    "curriculum://hit-data/plans/201_2022版_32_32SXS111061_应用物理学（+电气工程及其自动化双学士学位）.toml#courses[44]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22EE22043.json",
+  "attachment_repo_id": "22AS31102"
+}

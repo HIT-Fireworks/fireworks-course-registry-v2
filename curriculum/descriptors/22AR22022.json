@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AR22022",
+  "course_code": "22AR22022",
+  "course_name": "影像声音基础",
+  "resource_group_id": "exact-name-7539068c744836fe",
+  "physical_repository_id": "physical-course-af51708c5bbaba36",
+  "repo_id": "COURSES-AF51708C5BBA",
+  "record_ids": [
+    "REC-CD96521197106159"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/066_2022版_11B_11B304_数字媒体艺术.toml#courses[27]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AR22022.json",
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
+}

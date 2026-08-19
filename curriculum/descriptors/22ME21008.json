@@ -1,0 +1,28 @@
+{
+  "descriptor_id": "course-code:22ME21008",
+  "course_code": "22ME21008",
+  "course_name": "建筑工程制图",
+  "resource_group_id": "engineering-drawing",
+  "physical_repository_id": "physical-course-27735bdfcdc8219c",
+  "repo_id": "22ME21004",
+  "record_ids": [
+    "REC-37B8A67AB785FED3",
+    "REC-64827CCE8F417F2F",
+    "REC-C9F340E5329EDE7E",
+    "REC-C71CC039D4A27723",
+    "REC-D363B43554D9488F",
+    "REC-E9F32F4CCDE2C485"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/064_2022版_11B_11B082_工业设计.toml#courses[17]",
+    "curriculum://hit-data/plans/065_2022版_11B_11B262_建筑环境与能源应用工程.toml#courses[17]",
+    "curriculum://hit-data/plans/067_2022版_11B_11B341_建筑学.toml#courses[17]",
+    "curriculum://hit-data/plans/068_2022版_11B_11B345_城乡规划.toml#courses[17]",
+    "curriculum://hit-data/plans/070_2022版_11B_11B347_风景园林.toml#courses[17]",
+    "curriculum://hit-data/plans/071_2022版_11B_11B348_智慧建筑与建造.toml#courses[17]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22ME21008.json",
+  "attachment_repo_id": "22ME21004"
+}

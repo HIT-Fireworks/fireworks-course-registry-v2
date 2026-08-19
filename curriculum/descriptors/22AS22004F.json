@@ -1,0 +1,18 @@
+{
+  "descriptor_id": "course-code:22AS22004F",
+  "course_code": "22AS22004F",
+  "course_name": "理论力学C",
+  "resource_group_id": "theoretical-mechanics",
+  "physical_repository_id": "physical-course-4aceac315ddedb6c",
+  "repo_id": "22AS22001",
+  "record_ids": [
+    "REC-0BD5A939389970DF"
+  ],
+  "source_paths": [
+    "curriculum://hit-data/plans/115_2022版_01_01F184_复合材料与工程.toml#courses[0]"
+  ],
+  "status": "mapped",
+  "metadata_repo_id": "fireworks-course-registry-v2",
+  "metadata_path": "curriculum/descriptors/22AS22004F.json",
+  "attachment_repo_id": "22AS22001"
+}
