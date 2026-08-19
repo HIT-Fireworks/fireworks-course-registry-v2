@@ -3,8 +3,8 @@
   "course_code": "22FL22414",
   "course_name": "国际公务员法语演讲与写作",
   "resource_group_id": "exact-name-c0238839f31badd6",
-  "physical_repository_id": "physical-course-65da033ea27d86ad",
-  "repo_id": "COURSES-65DA033EA27D",
+  "physical_repository_id": "physical-course-ra-542e272afadc00d5",
+  "repo_id": "COURSES-RA-542E272AFADC",
   "record_ids": [
     "REC-88A94E55C2A09DB1"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22FL22414.json",
-  "attachment_repo_id": "COURSES-65DA033EA27D"
+  "attachment_repo_id": "COURSES-RA-542E272AFADC"
 }

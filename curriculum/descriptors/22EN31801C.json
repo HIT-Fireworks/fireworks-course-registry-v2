@@ -3,8 +3,8 @@
   "course_code": "22EN31801C",
   "course_name": "专业俄语1(俄)",
   "resource_group_id": "course-family-240f042956463cc6",
-  "physical_repository_id": "physical-course-5c54c9a8516594fa",
-  "repo_id": "COURSES-5C54C9A85165",
+  "physical_repository_id": "physical-course-ra-fbde6370af6507a9",
+  "repo_id": "COURSES-RA-FBDE6370AF65",
   "record_ids": [
     "REC-74D746B240EF1D2E"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EN31801C.json",
-  "attachment_repo_id": "COURSES-5C54C9A85165"
+  "attachment_repo_id": "COURSES-RA-FBDE6370AF65"
 }

@@ -3,8 +3,8 @@
   "course_code": "22FL32270C",
   "course_name": "综合俄语4",
   "resource_group_id": "exact-name-6296c9d8bcff033d",
-  "physical_repository_id": "physical-course-4c063b218db5e1a8",
-  "repo_id": "22FL32270C",
+  "physical_repository_id": "physical-course-ra-0f4ca6b990039c75",
+  "repo_id": "COURSES-RA-0F4CA6B99003",
   "record_ids": [
     "REC-1B2D146D455BDDF1"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22FL32270C.json",
-  "attachment_repo_id": "22FL32270C"
+  "attachment_repo_id": "COURSES-RA-0F4CA6B99003"
 }

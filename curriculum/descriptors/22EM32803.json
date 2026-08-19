@@ -3,8 +3,8 @@
   "course_code": "22EM32803",
   "course_name": "金融时间序列分析",
   "resource_group_id": "exact-name-181d1edd61e98e59",
-  "physical_repository_id": "physical-course-19f91852219f04f6",
-  "repo_id": "22EM21803F",
+  "physical_repository_id": "physical-course-ra-600595b8e88c32fe",
+  "repo_id": "COURSES-RA-600595B8E88C",
   "record_ids": [
     "REC-4E712A22C94714EB",
     "REC-24BD8ABCFE2B4D27"
@@ -16,5 +16,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EM32803.json",
-  "attachment_repo_id": "22EM21803F"
+  "attachment_repo_id": "COURSES-RA-600595B8E88C"
 }

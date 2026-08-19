@@ -3,8 +3,8 @@
   "course_code": "22AS31202",
   "course_name": "最优控制基础",
   "resource_group_id": "optimal-control",
-  "physical_repository_id": "physical-course-8c30cd8279559085",
-  "repo_id": "COURSES-8C30CD827955",
+  "physical_repository_id": "physical-course-ra-4a200afa4ecda155",
+  "repo_id": "COURSES-RA-4A200AFA4ECD",
   "record_ids": [
     "REC-828989A229D296A5"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22AS31202.json",
-  "attachment_repo_id": "COURSES-8C30CD827955"
+  "attachment_repo_id": "COURSES-RA-4A200AFA4ECD"
 }

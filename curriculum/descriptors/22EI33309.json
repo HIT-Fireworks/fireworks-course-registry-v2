@@ -3,8 +3,8 @@
   "course_code": "22EI33309",
   "course_name": "电子系统综合设计",
   "resource_group_id": "exact-name-3a4c00cfda63840e",
-  "physical_repository_id": "physical-course-a90ffb55eb77112c",
-  "repo_id": "22EI33309",
+  "physical_repository_id": "physical-course-ra-2dac0b0deea43ce1",
+  "repo_id": "COURSES-RA-2DAC0B0DEEA4",
   "record_ids": [
     "REC-5C7666F7E2CC9678",
     "REC-7F932B14D32E3FCD",
@@ -30,5 +30,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EI33309.json",
-  "attachment_repo_id": "22EI33309"
+  "attachment_repo_id": "COURSES-RA-2DAC0B0DEEA4"
 }

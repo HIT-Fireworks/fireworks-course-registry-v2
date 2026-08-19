@@ -3,8 +3,8 @@
   "course_code": "22PH33005",
   "course_name": "应用物理专业实习",
   "resource_group_id": "exact-name-8c10686e2b74615a",
-  "physical_repository_id": "physical-course-946f2dca1f165881",
-  "repo_id": "COURSES-946F2DCA1F16",
+  "physical_repository_id": "physical-course-ra-eb8fe773296bc3ba",
+  "repo_id": "COURSES-RA-EB8FE773296B",
   "record_ids": [
     "REC-00A4641CDA5C2FA3",
     "REC-3E704A7C5772B49E",
@@ -20,5 +20,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22PH33005.json",
-  "attachment_repo_id": "COURSES-946F2DCA1F16"
+  "attachment_repo_id": "COURSES-RA-EB8FE773296B"
 }

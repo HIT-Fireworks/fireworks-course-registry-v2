@@ -26,14 +26,14 @@
     "computer": 0,
     "tutoring": 0
   },
-  "repo_id": "22CS22008",
+  "repo_id": "COURSES-RA-F37F3F23680E",
   "repo_type": "course",
   "resource_group_id": "computer-systems-csapp",
-  "physical_repository_id": "physical-course-c4f7719ffb9291dd",
+  "physical_repository_id": "physical-course-ra-f37f3f23680e162b",
   "descriptor_id": "course-code:22CS22008",
-  "attachment_repo_id": "22CS22008",
-  "merge_key": "physical-repository:physical-course-c4f7719ffb9291dd",
-  "merge_reason": "版本化互斥物理仓库策略按 canonical owner 物化；CourseGroup 仅保留为导航和未来拆分证据",
+  "attachment_repo_id": "COURSES-RA-F37F3F23680E",
+  "merge_key": "physical-repository:physical-course-ra-f37f3f23680e162b",
+  "merge_reason": "版本化互斥物理仓库策略物化；approved 阶段使用资料感知安全 owner 分桶；CourseGroup 仅保留为导航和未来拆分证据",
   "source_paths": [
     "curriculum://hit-data/plans/083_2022版_13B_13B032_信息安全.toml#courses[33]"
   ],

@@ -26,14 +26,14 @@
     "computer": 0,
     "tutoring": 0
   },
-  "repo_id": "COURSES-5C54C9A85165",
+  "repo_id": "COURSES-RA-FBDE6370AF65",
   "repo_type": "course",
   "resource_group_id": "exact-name-3302c6a69111699d",
-  "physical_repository_id": "physical-course-5c54c9a8516594fa",
+  "physical_repository_id": "physical-course-ra-fbde6370af6507a9",
   "descriptor_id": "course-code:22EN22029",
-  "attachment_repo_id": "COURSES-5C54C9A85165",
-  "merge_key": "physical-repository:physical-course-5c54c9a8516594fa",
-  "merge_reason": "版本化互斥物理仓库策略按 canonical owner 物化；CourseGroup 仅保留为导航和未来拆分证据",
+  "attachment_repo_id": "COURSES-RA-FBDE6370AF65",
+  "merge_key": "physical-repository:physical-course-ra-fbde6370af6507a9",
+  "merge_reason": "版本化互斥物理仓库策略物化；approved 阶段使用资料感知安全 owner 分桶；CourseGroup 仅保留为导航和未来拆分证据",
   "source_paths": [
     "curriculum://hit-data/plans/138_2022版_27_27252_城市水系统工程.toml#courses[39]"
   ],

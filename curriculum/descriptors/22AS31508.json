@@ -3,8 +3,8 @@
   "course_code": "22AS31508",
   "course_name": "飞行器设计综合实验",
   "resource_group_id": "exact-name-73dcc92a8d3a9072",
-  "physical_repository_id": "physical-course-8c30cd8279559085",
-  "repo_id": "COURSES-8C30CD827955",
+  "physical_repository_id": "physical-course-ra-460a910d00ccbb06",
+  "repo_id": "COURSES-RA-460A910D00CC",
   "record_ids": [
     "REC-2BDA29472178BFE1",
     "REC-AA7E7B15F27D4C8C"
@@ -16,5 +16,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22AS31508.json",
-  "attachment_repo_id": "COURSES-8C30CD827955"
+  "attachment_repo_id": "COURSES-RA-460A910D00CC"
 }

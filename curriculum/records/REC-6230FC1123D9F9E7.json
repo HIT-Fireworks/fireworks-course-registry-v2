@@ -29,11 +29,11 @@
   "repo_id": "COURSES-669D2EC19F09",
   "repo_type": "course",
   "resource_group_id": "exact-name-3262e1234bd427bb",
-  "physical_repository_id": "physical-course-669d2ec19f097658",
+  "physical_repository_id": "physical-course-ra-f5422e0c04d19825",
   "descriptor_id": "course-code:22ME22008F",
   "attachment_repo_id": "COURSES-669D2EC19F09",
-  "merge_key": "physical-repository:physical-course-669d2ec19f097658",
-  "merge_reason": "版本化互斥物理仓库策略按 canonical owner 物化；CourseGroup 仅保留为导航和未来拆分证据",
+  "merge_key": "physical-repository:physical-course-ra-f5422e0c04d19825",
+  "merge_reason": "版本化互斥物理仓库策略物化；approved 阶段使用资料感知安全 owner 分桶；CourseGroup 仅保留为导航和未来拆分证据",
   "source_paths": [
     "curriculum://hit-data/plans/011_2022版_02_02F085_机械电子工程.toml#courses[1]"
   ],

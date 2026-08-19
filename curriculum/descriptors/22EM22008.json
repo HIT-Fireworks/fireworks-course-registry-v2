@@ -3,8 +3,8 @@
   "course_code": "22EM22008",
   "course_name": "大数据互联网金融",
   "resource_group_id": "exact-name-3979cbd198b3c028",
-  "physical_repository_id": "physical-course-e99be5334e44bf50",
-  "repo_id": "22EM22008",
+  "physical_repository_id": "physical-course-ra-600595b8e88c32fe",
+  "repo_id": "COURSES-RA-600595B8E88C",
   "record_ids": [
     "REC-1EE33822DA864BBE",
     "REC-7FDBC9E16E82C213",
@@ -22,5 +22,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EM22008.json",
-  "attachment_repo_id": "22EM22008"
+  "attachment_repo_id": "COURSES-RA-600595B8E88C"
 }

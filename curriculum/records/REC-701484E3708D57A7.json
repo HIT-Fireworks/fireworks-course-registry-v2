@@ -26,14 +26,14 @@
     "computer": 0,
     "tutoring": 0
   },
-  "repo_id": "22FL32263C",
+  "repo_id": "COURSES-RA-0F4CA6B99003",
   "repo_type": "course",
   "resource_group_id": "exact-name-cb8b93900d392ba8",
-  "physical_repository_id": "physical-course-cc09340bb59c7038",
+  "physical_repository_id": "physical-course-ra-0f4ca6b990039c75",
   "descriptor_id": "course-code:22FL32263C",
-  "attachment_repo_id": "22FL32263C",
-  "merge_key": "physical-repository:physical-course-cc09340bb59c7038",
-  "merge_reason": "版本化互斥物理仓库策略按 canonical owner 物化；CourseGroup 仅保留为导航和未来拆分证据",
+  "attachment_repo_id": "COURSES-RA-0F4CA6B99003",
+  "merge_key": "physical-repository:physical-course-ra-0f4ca6b990039c75",
+  "merge_reason": "版本化互斥物理仓库策略物化；approved 阶段使用资料感知安全 owner 分桶；CourseGroup 仅保留为导航和未来拆分证据",
   "source_paths": [
     "curriculum://hit-data/plans/150_2022版_31_31126_数学与应用数学（中外合作）.toml#courses[24]"
   ],

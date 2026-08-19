@@ -3,8 +3,8 @@
   "course_code": "22EM22940",
   "course_name": "数字经济与贸易",
   "resource_group_id": "exact-name-b7a2fcf2136ca5a3",
-  "physical_repository_id": "physical-course-8cab420ae310747b",
-  "repo_id": "COURSES-8CAB420AE310",
+  "physical_repository_id": "physical-course-ra-1de27cc2e9748c0d",
+  "repo_id": "COURSES-RA-1DE27CC2E974",
   "record_ids": [
     "REC-1E83EE2F19293419",
     "REC-8EB530EB15C95C1E",
@@ -18,5 +18,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EM22940.json",
-  "attachment_repo_id": "COURSES-8CAB420AE310"
+  "attachment_repo_id": "COURSES-RA-1DE27CC2E974"
 }

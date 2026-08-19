@@ -3,8 +3,8 @@
   "course_code": "22CE31028",
   "course_name": "建筑结构",
   "resource_group_id": "exact-name-43f92f3a56b63cc0",
-  "physical_repository_id": "physical-course-b8079c4567d697cd",
-  "repo_id": "COURSES-B8079C4567D6",
+  "physical_repository_id": "physical-course-ra-6c06dd652e326cf8",
+  "repo_id": "COURSES-RA-6C06DD652E32",
   "record_ids": [
     "REC-B81B90C8EE0A9F74"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22CE31028.json",
-  "attachment_repo_id": "COURSES-B8079C4567D6"
+  "attachment_repo_id": "COURSES-RA-6C06DD652E32"
 }

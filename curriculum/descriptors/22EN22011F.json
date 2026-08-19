@@ -3,8 +3,8 @@
   "course_code": "22EN22011F",
   "course_name": "生态学原理及应用",
   "resource_group_id": "exact-name-17f8d98516936a7e",
-  "physical_repository_id": "physical-course-5c54c9a8516594fa",
-  "repo_id": "COURSES-5C54C9A85165",
+  "physical_repository_id": "physical-course-ra-fbde6370af6507a9",
+  "repo_id": "COURSES-RA-FBDE6370AF65",
   "record_ids": [
     "REC-B62E3AE5713486E8"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EN22011F.json",
-  "attachment_repo_id": "COURSES-5C54C9A85165"
+  "attachment_repo_id": "COURSES-RA-FBDE6370AF65"
 }

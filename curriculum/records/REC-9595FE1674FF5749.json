@@ -26,14 +26,14 @@
     "computer": 0,
     "tutoring": 0
   },
-  "repo_id": "22CS21501",
+  "repo_id": "COURSES-RA-F37F3F23680E",
   "repo_type": "course",
   "resource_group_id": "c-language-programming",
-  "physical_repository_id": "physical-course-d219fc778d8175e4",
+  "physical_repository_id": "physical-course-ra-f37f3f23680e162b",
   "descriptor_id": "course-code:22CS21502",
-  "attachment_repo_id": "22CS21501",
-  "merge_key": "physical-repository:physical-course-d219fc778d8175e4",
-  "merge_reason": "版本化互斥物理仓库策略按 canonical owner 物化；CourseGroup 仅保留为导航和未来拆分证据",
+  "attachment_repo_id": "COURSES-RA-F37F3F23680E",
+  "merge_key": "physical-repository:physical-course-ra-f37f3f23680e162b",
+  "merge_reason": "版本化互斥物理仓库策略物化；approved 阶段使用资料感知安全 owner 分桶；CourseGroup 仅保留为导航和未来拆分证据",
   "source_paths": [
     "curriculum://hit-data/plans/094_2022版_12_12321_道路桥梁与渡河工程.toml#courses[169]"
   ],

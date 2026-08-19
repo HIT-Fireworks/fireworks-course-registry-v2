@@ -3,8 +3,8 @@
   "course_code": "22EM31605F",
   "course_name": "财务分析B",
   "resource_group_id": "name-family-ae98f475dbcf466c",
-  "physical_repository_id": "physical-course-1a31c4fa9f17f929",
-  "repo_id": "COURSES-1A31C4FA9F17",
+  "physical_repository_id": "physical-course-ra-c0fd61183ecf87fc",
+  "repo_id": "COURSES-RA-C0FD61183ECF",
   "record_ids": [
     "REC-16440E7B7A3B8D9B"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EM31605F.json",
-  "attachment_repo_id": "COURSES-1A31C4FA9F17"
+  "attachment_repo_id": "COURSES-RA-C0FD61183ECF"
 }

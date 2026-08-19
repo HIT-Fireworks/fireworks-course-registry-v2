@@ -26,14 +26,14 @@
     "computer": 0,
     "tutoring": 0
   },
-  "repo_id": "COURSES-65DA033EA27D",
+  "repo_id": "COURSES-RA-C1FBEAA0E488",
   "repo_type": "course",
   "resource_group_id": "name-family-5423d06a0b6c72e0",
-  "physical_repository_id": "physical-course-65da033ea27d86ad",
+  "physical_repository_id": "physical-course-ra-c1fbeaa0e488ff8a",
   "descriptor_id": "course-code:22HS22103",
-  "attachment_repo_id": "COURSES-65DA033EA27D",
-  "merge_key": "physical-repository:physical-course-65da033ea27d86ad",
-  "merge_reason": "版本化互斥物理仓库策略按 canonical owner 物化；CourseGroup 仅保留为导航和未来拆分证据",
+  "attachment_repo_id": "COURSES-RA-C1FBEAA0E488",
+  "merge_key": "physical-repository:physical-course-ra-c1fbeaa0e488ff8a",
+  "merge_reason": "版本化互斥物理仓库策略物化；approved 阶段使用资料感知安全 owner 分桶；CourseGroup 仅保留为导航和未来拆分证据",
   "source_paths": [
     "curriculum://hit-data/plans/176_2022版_35_35SXS161101_社会学（+信息管理与信息系统双学士学位）.toml#courses[6]"
   ],

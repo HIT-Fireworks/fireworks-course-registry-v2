@@ -26,14 +26,14 @@
     "computer": 0,
     "tutoring": 0
   },
-  "repo_id": "COURSES-BC87C0351D93",
+  "repo_id": "COURSES-RA-ED4F15651BB9",
   "repo_type": "course",
   "resource_group_id": "name-family-f14fb8f7c1f98743",
-  "physical_repository_id": "physical-course-bc87c0351d93e4c1",
+  "physical_repository_id": "physical-course-ra-ed4f15651bb90c0e",
   "descriptor_id": "course-code:22CS22002",
-  "attachment_repo_id": "COURSES-BC87C0351D93",
-  "merge_key": "physical-repository:physical-course-bc87c0351d93e4c1",
-  "merge_reason": "版本化互斥物理仓库策略按 canonical owner 物化；CourseGroup 仅保留为导航和未来拆分证据",
+  "attachment_repo_id": "COURSES-RA-ED4F15651BB9",
+  "merge_key": "physical-repository:physical-course-ra-ed4f15651bb90c0e",
+  "merge_reason": "版本化互斥物理仓库策略物化；approved 阶段使用资料感知安全 owner 分桶；CourseGroup 仅保留为导航和未来拆分证据",
   "source_paths": [
     "curriculum://hit-data/plans/085_2022版_13B_13B036_人工智能.toml#courses[22]"
   ],

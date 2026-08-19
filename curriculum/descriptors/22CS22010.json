@@ -3,8 +3,8 @@
   "course_code": "22CS22010",
   "course_name": "人工智能导论",
   "resource_group_id": "exact-name-09b3208a6fbe72e0",
-  "physical_repository_id": "physical-course-d8dd1660f31c1ed3",
-  "repo_id": "22CS22010",
+  "physical_repository_id": "physical-course-ra-9221da3811a53744",
+  "repo_id": "COURSES-RA-9221DA3811A5",
   "record_ids": [
     "REC-38DD5B29876823C5",
     "REC-49429AC0A54775CA",
@@ -30,5 +30,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22CS22010.json",
-  "attachment_repo_id": "22CS22010"
+  "attachment_repo_id": "COURSES-RA-9221DA3811A5"
 }

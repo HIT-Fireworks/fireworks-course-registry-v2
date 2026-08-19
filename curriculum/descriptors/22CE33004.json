@@ -3,8 +3,8 @@
   "course_code": "22CE33004",
   "course_name": "单层工业厂房设计",
   "resource_group_id": "exact-name-177bc9123d300561",
-  "physical_repository_id": "physical-course-b8079c4567d697cd",
-  "repo_id": "COURSES-B8079C4567D6",
+  "physical_repository_id": "physical-course-ra-6c06dd652e326cf8",
+  "repo_id": "COURSES-RA-6C06DD652E32",
   "record_ids": [
     "REC-2DEFB8EF7DC3C50D",
     "REC-764538E1E4E92DE7"
@@ -16,5 +16,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22CE33004.json",
-  "attachment_repo_id": "COURSES-B8079C4567D6"
+  "attachment_repo_id": "COURSES-RA-6C06DD652E32"
 }

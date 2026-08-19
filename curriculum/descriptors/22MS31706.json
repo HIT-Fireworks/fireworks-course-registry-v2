@@ -3,8 +3,8 @@
   "course_code": "22MS31706",
   "course_name": "功能材料学B",
   "resource_group_id": "name-family-d31d6d8511d1aa2a",
-  "physical_repository_id": "physical-course-12af5bc572e71106",
-  "repo_id": "COURSES-12AF5BC572E7",
+  "physical_repository_id": "physical-course-ra-37938861096dffed",
+  "repo_id": "COURSES-RA-37938861096D",
   "record_ids": [
     "REC-6913EBCF945D7057"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22MS31706.json",
-  "attachment_repo_id": "COURSES-12AF5BC572E7"
+  "attachment_repo_id": "COURSES-RA-37938861096D"
 }

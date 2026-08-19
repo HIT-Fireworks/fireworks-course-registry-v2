@@ -3,8 +3,8 @@
   "course_code": "22FL22403",
   "course_name": "学术英语素养",
   "resource_group_id": "exact-name-e87ec99be29dadfd",
-  "physical_repository_id": "physical-course-65da033ea27d86ad",
-  "repo_id": "COURSES-65DA033EA27D",
+  "physical_repository_id": "physical-course-ra-542e272afadc00d5",
+  "repo_id": "COURSES-RA-542E272AFADC",
   "record_ids": [
     "REC-40CEB5A2CEA19012"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22FL22403.json",
-  "attachment_repo_id": "COURSES-65DA033EA27D"
+  "attachment_repo_id": "COURSES-RA-542E272AFADC"
 }

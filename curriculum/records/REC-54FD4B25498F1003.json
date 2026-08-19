@@ -29,11 +29,11 @@
   "repo_id": "COURSES-67C2CD6B4C4E",
   "repo_type": "course",
   "resource_group_id": "exact-name-75eb9bdaaaf09988",
-  "physical_repository_id": "physical-course-67c2cd6b4c4e794d",
+  "physical_repository_id": "physical-course-ra-0bc205c5e6a853ea",
   "descriptor_id": "course-code:22AR22018",
   "attachment_repo_id": "COURSES-67C2CD6B4C4E",
-  "merge_key": "physical-repository:physical-course-67c2cd6b4c4e794d",
-  "merge_reason": "版本化互斥物理仓库策略按 canonical owner 物化；CourseGroup 仅保留为导航和未来拆分证据",
+  "merge_key": "physical-repository:physical-course-ra-0bc205c5e6a853ea",
+  "merge_reason": "版本化互斥物理仓库策略物化；approved 阶段使用资料感知安全 owner 分桶；CourseGroup 仅保留为导航和未来拆分证据",
   "source_paths": [
     "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[63]"
   ],

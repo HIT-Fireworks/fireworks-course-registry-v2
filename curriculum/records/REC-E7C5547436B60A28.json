@@ -26,14 +26,14 @@
     "computer": 0,
     "tutoring": 0
   },
-  "repo_id": "22EE22029",
+  "repo_id": "COURSES-RA-1B72ED8C2EF9",
   "repo_type": "course",
   "resource_group_id": "name-family-8f520fb3fbfcd4d7",
-  "physical_repository_id": "physical-course-5fe85642c65e9d97",
+  "physical_repository_id": "physical-course-ra-1b72ed8c2ef91ddd",
   "descriptor_id": "course-code:22EE22029",
-  "attachment_repo_id": "22EE22029",
-  "merge_key": "physical-repository:physical-course-5fe85642c65e9d97",
-  "merge_reason": "版本化互斥物理仓库策略按 canonical owner 物化；CourseGroup 仅保留为导航和未来拆分证据",
+  "attachment_repo_id": "COURSES-RA-1B72ED8C2EF9",
+  "merge_key": "physical-repository:physical-course-ra-1b72ed8c2ef91ddd",
+  "merge_reason": "版本化互斥物理仓库策略物化；approved 阶段使用资料感知安全 owner 分桶；CourseGroup 仅保留为导航和未来拆分证据",
   "source_paths": [
     "curriculum://hit-data/plans/020_2022版_04_04025_核工程与核技术.toml#courses[33]"
   ],

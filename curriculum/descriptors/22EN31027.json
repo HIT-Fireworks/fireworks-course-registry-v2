@@ -3,8 +3,8 @@
   "course_code": "22EN31027",
   "course_name": "固体废物处理与处置",
   "resource_group_id": "exact-name-9c0ccbc40bd6d715",
-  "physical_repository_id": "physical-course-5c54c9a8516594fa",
-  "repo_id": "COURSES-5C54C9A85165",
+  "physical_repository_id": "physical-course-ra-fbde6370af6507a9",
+  "repo_id": "COURSES-RA-FBDE6370AF65",
   "record_ids": [
     "REC-8AB8B69051138236"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EN31027.json",
-  "attachment_repo_id": "COURSES-5C54C9A85165"
+  "attachment_repo_id": "COURSES-RA-FBDE6370AF65"
 }

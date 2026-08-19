@@ -3,8 +3,8 @@
   "course_code": "22EM31005",
   "course_name": "管理应用系统",
   "resource_group_id": "exact-name-d508559854630c35",
-  "physical_repository_id": "physical-course-8cab420ae310747b",
-  "repo_id": "COURSES-8CAB420AE310",
+  "physical_repository_id": "physical-course-ra-1de27cc2e9748c0d",
+  "repo_id": "COURSES-RA-1DE27CC2E974",
   "record_ids": [
     "REC-4840F44CC915FE0B"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EM31005.json",
-  "attachment_repo_id": "COURSES-8CAB420AE310"
+  "attachment_repo_id": "COURSES-RA-1DE27CC2E974"
 }

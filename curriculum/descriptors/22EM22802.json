@@ -3,8 +3,8 @@
   "course_code": "22EM22802",
   "course_name": "期货与期权交易",
   "resource_group_id": "exact-name-93839abacf5adb58",
-  "physical_repository_id": "physical-course-8cab420ae310747b",
-  "repo_id": "COURSES-8CAB420AE310",
+  "physical_repository_id": "physical-course-ra-1de27cc2e9748c0d",
+  "repo_id": "COURSES-RA-1DE27CC2E974",
   "record_ids": [
     "REC-4A9ABC9793D24157",
     "REC-016E52693CD60ADC",
@@ -18,5 +18,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EM22802.json",
-  "attachment_repo_id": "COURSES-8CAB420AE310"
+  "attachment_repo_id": "COURSES-RA-1DE27CC2E974"
 }

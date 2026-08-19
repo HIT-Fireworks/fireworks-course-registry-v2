@@ -3,8 +3,8 @@
   "course_code": "22MS31501F",
   "course_name": "焊接方法与设备",
   "resource_group_id": "welding-methods-equipment",
-  "physical_repository_id": "physical-course-12af5bc572e71106",
-  "repo_id": "COURSES-12AF5BC572E7",
+  "physical_repository_id": "physical-course-ra-97e0aa6ce7cd2498",
+  "repo_id": "COURSES-RA-97E0AA6CE7CD",
   "record_ids": [
     "REC-C2A783CC540AF428"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22MS31501F.json",
-  "attachment_repo_id": "COURSES-12AF5BC572E7"
+  "attachment_repo_id": "COURSES-RA-97E0AA6CE7CD"
 }

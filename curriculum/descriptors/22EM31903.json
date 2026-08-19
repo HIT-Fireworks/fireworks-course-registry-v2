@@ -3,8 +3,8 @@
   "course_code": "22EM31903",
   "course_name": "外贸函电",
   "resource_group_id": "exact-name-2a6a2c8cccb5cc78",
-  "physical_repository_id": "physical-course-8cab420ae310747b",
-  "repo_id": "COURSES-8CAB420AE310",
+  "physical_repository_id": "physical-course-ra-1de27cc2e9748c0d",
+  "repo_id": "COURSES-RA-1DE27CC2E974",
   "record_ids": [
     "REC-F7E6893327F1A268"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EM31903.json",
-  "attachment_repo_id": "COURSES-8CAB420AE310"
+  "attachment_repo_id": "COURSES-RA-1DE27CC2E974"
 }

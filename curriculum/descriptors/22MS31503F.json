@@ -3,8 +3,8 @@
   "course_code": "22MS31503F",
   "course_name": "焊接冶金学",
   "resource_group_id": "exact-name-1f5bed219b490f0e",
-  "physical_repository_id": "physical-course-12af5bc572e71106",
-  "repo_id": "COURSES-12AF5BC572E7",
+  "physical_repository_id": "physical-course-ra-97e0aa6ce7cd2498",
+  "repo_id": "COURSES-RA-97E0AA6CE7CD",
   "record_ids": [
     "REC-6172399D70EB41CA"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22MS31503F.json",
-  "attachment_repo_id": "COURSES-12AF5BC572E7"
+  "attachment_repo_id": "COURSES-RA-97E0AA6CE7CD"
 }

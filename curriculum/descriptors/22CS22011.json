@@ -3,8 +3,8 @@
   "course_code": "22CS22011",
   "course_name": "计算机网络",
   "resource_group_id": "name-family-38746af84ac5ac31",
-  "physical_repository_id": "physical-course-b50a73416163c717",
-  "repo_id": "22CS22011",
+  "physical_repository_id": "physical-course-ra-9221da3811a53744",
+  "repo_id": "COURSES-RA-9221DA3811A5",
   "record_ids": [
     "REC-2D83110F5DF314AB",
     "REC-4DA34615DFA4A0AF",
@@ -34,5 +34,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22CS22011.json",
-  "attachment_repo_id": "22CS22011"
+  "attachment_repo_id": "COURSES-RA-9221DA3811A5"
 }

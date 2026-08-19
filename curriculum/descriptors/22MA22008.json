@@ -3,8 +3,8 @@
   "course_code": "22MA22008",
   "course_name": "实变函数",
   "resource_group_id": "exact-name-ac61b922ef6a004d",
-  "physical_repository_id": "physical-course-fe2c9066eed55ac5",
-  "repo_id": "COURSES-FE2C9066EED5",
+  "physical_repository_id": "physical-course-ra-31028a0405b54d52",
+  "repo_id": "COURSES-RA-31028A0405B5",
   "record_ids": [
     "REC-2BB600EEAE51014A",
     "REC-71BB1416EDE9FA06",
@@ -24,5 +24,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22MA22008.json",
-  "attachment_repo_id": "COURSES-FE2C9066EED5"
+  "attachment_repo_id": "COURSES-RA-31028A0405B5"
 }

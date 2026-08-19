@@ -3,8 +3,8 @@
   "course_code": "22MS22901",
   "course_name": "材料科学与工程基础实验",
   "resource_group_id": "exact-name-29533deb80d47b58",
-  "physical_repository_id": "physical-course-12af5bc572e71106",
-  "repo_id": "COURSES-12AF5BC572E7",
+  "physical_repository_id": "physical-course-ra-6217e115199b3da3",
+  "repo_id": "COURSES-RA-6217E115199B",
   "record_ids": [
     "REC-2DF0E177B3B86043",
     "REC-2F0752784D8BDD5E",
@@ -28,5 +28,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22MS22901.json",
-  "attachment_repo_id": "COURSES-12AF5BC572E7"
+  "attachment_repo_id": "COURSES-RA-6217E115199B"
 }

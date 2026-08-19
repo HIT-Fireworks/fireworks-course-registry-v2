@@ -3,8 +3,8 @@
   "course_code": "22EM22006",
   "course_name": "多元统计与R建模",
   "resource_group_id": "course-family-625f3baaf317c6e8",
-  "physical_repository_id": "physical-course-3e3fc0da40096819",
-  "repo_id": "22EM22006",
+  "physical_repository_id": "physical-course-ra-600595b8e88c32fe",
+  "repo_id": "COURSES-RA-600595B8E88C",
   "record_ids": [
     "REC-8A95BB2542D82E69",
     "REC-A9C462CDF0BDF3BC",
@@ -22,5 +22,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EM22006.json",
-  "attachment_repo_id": "22EM22006"
+  "attachment_repo_id": "COURSES-RA-600595B8E88C"
 }

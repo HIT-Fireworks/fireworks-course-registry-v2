@@ -3,8 +3,8 @@
   "course_code": "22HS16001",
   "course_name": "写作与沟通",
   "resource_group_id": "exact-name-5959ce958f6a7c2f",
-  "physical_repository_id": "physical-course-d799e5ba08bf17e3",
-  "repo_id": "22HS16001",
+  "physical_repository_id": "physical-course-ra-0f4ca6b990039c75",
+  "repo_id": "COURSES-RA-0F4CA6B99003",
   "record_ids": [
     "REC-0ADBF686B309BCF6",
     "REC-1C3D70EA66987BC3",
@@ -256,5 +256,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22HS16001.json",
-  "attachment_repo_id": "22HS16001"
+  "attachment_repo_id": "COURSES-RA-0F4CA6B99003"
 }

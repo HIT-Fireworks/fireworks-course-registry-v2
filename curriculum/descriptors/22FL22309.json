@@ -3,8 +3,8 @@
   "course_code": "22FL22309",
   "course_name": "日语视听说(3)",
   "resource_group_id": "name-family-5866c3f8f1fffd7b",
-  "physical_repository_id": "physical-course-65da033ea27d86ad",
-  "repo_id": "COURSES-65DA033EA27D",
+  "physical_repository_id": "physical-course-ra-542e272afadc00d5",
+  "repo_id": "COURSES-RA-542E272AFADC",
   "record_ids": [
     "REC-6D1D5CEEB82F2897"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22FL22309.json",
-  "attachment_repo_id": "COURSES-65DA033EA27D"
+  "attachment_repo_id": "COURSES-RA-542E272AFADC"
 }

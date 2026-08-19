@@ -29,11 +29,11 @@
   "repo_id": "22EN21001",
   "repo_type": "course",
   "resource_group_id": "exact-name-1da854ae373ebf67",
-  "physical_repository_id": "physical-course-2c7c96e6efc0b3c5",
+  "physical_repository_id": "physical-course-ra-e0fab241ce61a2b0",
   "descriptor_id": "course-code:22EN21001",
   "attachment_repo_id": "22EN21001",
-  "merge_key": "physical-repository:physical-course-2c7c96e6efc0b3c5",
-  "merge_reason": "版本化互斥物理仓库策略按 canonical owner 物化；CourseGroup 仅保留为导航和未来拆分证据",
+  "merge_key": "physical-repository:physical-course-ra-e0fab241ce61a2b0",
+  "merge_reason": "版本化互斥物理仓库策略物化；approved 阶段使用资料感知安全 owner 分桶；CourseGroup 仅保留为导航和未来拆分证据",
   "source_paths": [
     "curriculum://hit-data/plans/117_2022版_25_25078_应用化学.toml#courses[12]"
   ],

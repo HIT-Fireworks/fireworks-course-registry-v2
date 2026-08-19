@@ -3,8 +3,8 @@
   "course_code": "22MX11008",
   "course_name": "形势与政策(3)",
   "resource_group_id": "name-family-9dca50b9bd9478a5",
-  "physical_repository_id": "physical-course-20626ab3e489674b",
-  "repo_id": "22MX11006",
+  "physical_repository_id": "physical-course-ra-fca3b5f9a8711d1e",
+  "repo_id": "COURSES-RA-FCA3B5F9A871",
   "record_ids": [
     "REC-0B39F3B1C14614EB",
     "REC-0BF97B193DD418A8",
@@ -258,5 +258,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22MX11008.json",
-  "attachment_repo_id": "22MX11006"
+  "attachment_repo_id": "COURSES-RA-FCA3B5F9A871"
 }

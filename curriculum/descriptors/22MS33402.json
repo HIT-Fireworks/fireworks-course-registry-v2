@@ -3,8 +3,8 @@
   "course_code": "22MS33402",
   "course_name": "增材制造工程课程设计",
   "resource_group_id": "exact-name-4405ffb6f6442d53",
-  "physical_repository_id": "physical-course-12af5bc572e71106",
-  "repo_id": "COURSES-12AF5BC572E7",
+  "physical_repository_id": "physical-course-ra-6217e115199b3da3",
+  "repo_id": "COURSES-RA-6217E115199B",
   "record_ids": [
     "REC-58DF68A93B1AD2C2"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22MS33402.json",
-  "attachment_repo_id": "COURSES-12AF5BC572E7"
+  "attachment_repo_id": "COURSES-RA-6217E115199B"
 }

@@ -26,14 +26,14 @@
     "computer": 0,
     "tutoring": 0
   },
-  "repo_id": "COURSES-B8079C4567D6",
+  "repo_id": "COURSES-RA-6C06DD652E32",
   "repo_type": "course",
   "resource_group_id": "exact-name-8644bfb0fb942364",
-  "physical_repository_id": "physical-course-b8079c4567d697cd",
+  "physical_repository_id": "physical-course-ra-6c06dd652e326cf8",
   "descriptor_id": "course-code:22CE22003",
-  "attachment_repo_id": "COURSES-B8079C4567D6",
-  "merge_key": "physical-repository:physical-course-b8079c4567d697cd",
-  "merge_reason": "版本化互斥物理仓库策略按 canonical owner 物化；CourseGroup 仅保留为导航和未来拆分证据",
+  "attachment_repo_id": "COURSES-RA-6C06DD652E32",
+  "merge_key": "physical-repository:physical-course-ra-6c06dd652e326cf8",
+  "merge_reason": "版本化互斥物理仓库策略物化；approved 阶段使用资料感知安全 owner 分桶；CourseGroup 仅保留为导航和未来拆分证据",
   "source_paths": [
     "curriculum://hit-data/plans/059_2022版_09_09335_工程管理.toml#courses[37]"
   ],

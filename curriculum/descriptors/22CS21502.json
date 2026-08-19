@@ -3,8 +3,8 @@
   "course_code": "22CS21502",
   "course_name": "C语言程序设计B",
   "resource_group_id": "c-language-programming",
-  "physical_repository_id": "physical-course-d219fc778d8175e4",
-  "repo_id": "22CS21501",
+  "physical_repository_id": "physical-course-ra-f37f3f23680e162b",
+  "repo_id": "COURSES-RA-F37F3F23680E",
   "record_ids": [
     "REC-01C12AE695BFD0C3",
     "REC-01D68BDD2415123A",
@@ -58,5 +58,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22CS21502.json",
-  "attachment_repo_id": "22CS21501"
+  "attachment_repo_id": "COURSES-RA-F37F3F23680E"
 }

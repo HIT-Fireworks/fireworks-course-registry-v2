@@ -3,8 +3,8 @@
   "course_code": "22EM22406",
   "course_name": "生产与运作管理",
   "resource_group_id": "exact-name-fea66f7b0cc9b5a6",
-  "physical_repository_id": "physical-course-1a31c4fa9f17f929",
-  "repo_id": "COURSES-1A31C4FA9F17",
+  "physical_repository_id": "physical-course-ra-c0fd61183ecf87fc",
+  "repo_id": "COURSES-RA-C0FD61183ECF",
   "record_ids": [
     "REC-33C8A26F0E880B45",
     "REC-037F109DF7C90C7E",
@@ -18,5 +18,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EM22406.json",
-  "attachment_repo_id": "COURSES-1A31C4FA9F17"
+  "attachment_repo_id": "COURSES-RA-C0FD61183ECF"
 }

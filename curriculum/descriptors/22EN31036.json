@@ -3,8 +3,8 @@
   "course_code": "22EN31036",
   "course_name": "污染控制理论与技术",
   "resource_group_id": "exact-name-3d91f7ba35238c7a",
-  "physical_repository_id": "physical-course-5c54c9a8516594fa",
-  "repo_id": "COURSES-5C54C9A85165",
+  "physical_repository_id": "physical-course-ra-fbde6370af6507a9",
+  "repo_id": "COURSES-RA-FBDE6370AF65",
   "record_ids": [
     "REC-D1D63CA1C83A2811"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EN31036.json",
-  "attachment_repo_id": "COURSES-5C54C9A85165"
+  "attachment_repo_id": "COURSES-RA-FBDE6370AF65"
 }

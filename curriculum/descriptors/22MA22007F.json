@@ -3,8 +3,8 @@
   "course_code": "22MA22007F",
   "course_name": "初等数论",
   "resource_group_id": "exact-name-017641a0cb8f9678",
-  "physical_repository_id": "physical-course-fe2c9066eed55ac5",
-  "repo_id": "COURSES-FE2C9066EED5",
+  "physical_repository_id": "physical-course-ra-7b09876483ef765c",
+  "repo_id": "COURSES-RA-7B09876483EF",
   "record_ids": [
     "REC-2CC2983A93AB1CDC",
     "REC-71765ECCC13A9D9B",
@@ -18,5 +18,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22MA22007F.json",
-  "attachment_repo_id": "COURSES-FE2C9066EED5"
+  "attachment_repo_id": "COURSES-RA-7B09876483EF"
 }

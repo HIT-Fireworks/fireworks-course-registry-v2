@@ -3,8 +3,8 @@
   "course_code": "22CE31004",
   "course_name": "基础工程B",
   "resource_group_id": "name-family-a0552154da1cae11",
-  "physical_repository_id": "physical-course-b8079c4567d697cd",
-  "repo_id": "COURSES-B8079C4567D6",
+  "physical_repository_id": "physical-course-ra-6c06dd652e326cf8",
+  "repo_id": "COURSES-RA-6C06DD652E32",
   "record_ids": [
     "REC-2A5F7778A089673B",
     "REC-11D03711F998ACDF",
@@ -18,5 +18,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22CE31004.json",
-  "attachment_repo_id": "COURSES-B8079C4567D6"
+  "attachment_repo_id": "COURSES-RA-6C06DD652E32"
 }

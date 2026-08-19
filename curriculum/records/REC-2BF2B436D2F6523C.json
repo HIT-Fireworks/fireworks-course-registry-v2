@@ -26,14 +26,14 @@
     "computer": 0,
     "tutoring": 0
   },
-  "repo_id": "COURSES-1A31C4FA9F17",
+  "repo_id": "COURSES-RA-C0FD61183ECF",
   "repo_type": "course",
   "resource_group_id": "name-family-ae98f475dbcf466c",
-  "physical_repository_id": "physical-course-1a31c4fa9f17f929",
+  "physical_repository_id": "physical-course-ra-c0fd61183ecf87fc",
   "descriptor_id": "course-code:22EM22704",
-  "attachment_repo_id": "COURSES-1A31C4FA9F17",
-  "merge_key": "physical-repository:physical-course-1a31c4fa9f17f929",
-  "merge_reason": "版本化互斥物理仓库策略按 canonical owner 物化；CourseGroup 仅保留为导航和未来拆分证据",
+  "attachment_repo_id": "COURSES-RA-C0FD61183ECF",
+  "merge_key": "physical-repository:physical-course-ra-c0fd61183ecf87fc",
+  "merge_reason": "版本化互斥物理仓库策略物化；approved 阶段使用资料感知安全 owner 分桶；CourseGroup 仅保留为导航和未来拆分证据",
   "source_paths": [
     "curriculum://hit-data/plans/206_2022版_60_60203_会计学.toml#courses[43]"
   ],

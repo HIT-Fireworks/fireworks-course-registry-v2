@@ -3,8 +3,8 @@
   "course_code": "AS32806",
   "course_name": "微电子器件原理",
   "resource_group_id": "exact-name-e17e9f2e0d2d77ec",
-  "physical_repository_id": "physical-course-eb672dd1d03392f4",
-  "repo_id": "22AS31801",
+  "physical_repository_id": "physical-course-ra-b7729fd109fae04d",
+  "repo_id": "COURSES-RA-B7729FD109FA",
   "record_ids": [
     "REC-9876485ABF66ED4A"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/AS32806.json",
-  "attachment_repo_id": "22AS31801"
+  "attachment_repo_id": "COURSES-RA-B7729FD109FA"
 }

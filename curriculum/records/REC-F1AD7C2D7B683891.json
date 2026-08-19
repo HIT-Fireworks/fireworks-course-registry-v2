@@ -26,14 +26,14 @@
     "computer": 0,
     "tutoring": 0
   },
-  "repo_id": "22CS31005",
+  "repo_id": "COURSES-RA-9221DA3811A5",
   "repo_type": "course",
   "resource_group_id": "exact-name-8fdab4c8407e727b",
-  "physical_repository_id": "physical-course-bec2292f2bcd81f9",
+  "physical_repository_id": "physical-course-ra-9221da3811a53744",
   "descriptor_id": "course-code:22CS31005",
-  "attachment_repo_id": "22CS31005",
-  "merge_key": "physical-repository:physical-course-bec2292f2bcd81f9",
-  "merge_reason": "版本化互斥物理仓库策略按 canonical owner 物化；CourseGroup 仅保留为导航和未来拆分证据",
+  "attachment_repo_id": "COURSES-RA-9221DA3811A5",
+  "merge_key": "physical-repository:physical-course-ra-9221da3811a53744",
+  "merge_reason": "版本化互斥物理仓库策略物化；approved 阶段使用资料感知安全 owner 分桶；CourseGroup 仅保留为导航和未来拆分证据",
   "source_paths": [
     "curriculum://hit-data/plans/088_2022版_13B_13B373_物联网工程.toml#courses[40]"
   ],

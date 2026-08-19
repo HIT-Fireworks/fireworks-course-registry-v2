@@ -26,14 +26,14 @@
     "computer": 0,
     "tutoring": 0
   },
-  "repo_id": "22AS31801",
+  "repo_id": "COURSES-RA-B7729FD109FA",
   "repo_type": "course",
   "resource_group_id": "exact-name-e17e9f2e0d2d77ec",
-  "physical_repository_id": "physical-course-eb672dd1d03392f4",
+  "physical_repository_id": "physical-course-ra-b7729fd109fae04d",
   "descriptor_id": "course-code:22AS31801",
-  "attachment_repo_id": "22AS31801",
-  "merge_key": "physical-repository:physical-course-eb672dd1d03392f4",
-  "merge_reason": "版本化互斥物理仓库策略按 canonical owner 物化；CourseGroup 仅保留为导航和未来拆分证据",
+  "attachment_repo_id": "COURSES-RA-B7729FD109FA",
+  "merge_key": "physical-repository:physical-course-ra-b7729fd109fae04d",
+  "merge_reason": "版本化互斥物理仓库策略物化；approved 阶段使用资料感知安全 owner 分桶；CourseGroup 仅保留为导航和未来拆分证据",
   "source_paths": [
     "curriculum://hit-data/plans/110_2022版_01_01214_微电子科学与工程.toml#courses[42]"
   ],

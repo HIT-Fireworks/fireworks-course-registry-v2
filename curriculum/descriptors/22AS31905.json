@@ -3,8 +3,8 @@
   "course_code": "22AS31905",
   "course_name": "红外技术与系统",
   "resource_group_id": "exact-name-7e94d55d86aa0d92",
-  "physical_repository_id": "physical-course-8c30cd8279559085",
-  "repo_id": "COURSES-8C30CD827955",
+  "physical_repository_id": "physical-course-ra-460a910d00ccbb06",
+  "repo_id": "COURSES-RA-460A910D00CC",
   "record_ids": [
     "REC-2621C1CD6788000E"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22AS31905.json",
-  "attachment_repo_id": "COURSES-8C30CD827955"
+  "attachment_repo_id": "COURSES-RA-460A910D00CC"
 }

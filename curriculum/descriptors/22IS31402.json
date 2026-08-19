@@ -3,8 +3,8 @@
   "course_code": "22IS31402",
   "course_name": "精密测量原理与仪器设计",
   "resource_group_id": "precision-measurement",
-  "physical_repository_id": "physical-course-2c608f332ac553b6",
-  "repo_id": "COURSES-2C608F332AC5",
+  "physical_repository_id": "physical-course-ra-f7ff65fd449b81d9",
+  "repo_id": "COURSES-RA-F7FF65FD449B",
   "record_ids": [
     "REC-CCE67CB0D764A5E4"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22IS31402.json",
-  "attachment_repo_id": "COURSES-2C608F332AC5"
+  "attachment_repo_id": "COURSES-RA-F7FF65FD449B"
 }

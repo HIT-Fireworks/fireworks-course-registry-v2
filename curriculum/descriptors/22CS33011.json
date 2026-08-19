@@ -3,8 +3,8 @@
   "course_code": "22CS33011",
   "course_name": "基于项目的程序设计",
   "resource_group_id": "exact-name-fe04deb6d7ddc858",
-  "physical_repository_id": "physical-course-bc87c0351d93e4c1",
-  "repo_id": "COURSES-BC87C0351D93",
+  "physical_repository_id": "physical-course-ra-17e77210fda89ec8",
+  "repo_id": "COURSES-RA-17E77210FDA8",
   "record_ids": [
     "REC-DBD6233D9CB85596"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22CS33011.json",
-  "attachment_repo_id": "COURSES-BC87C0351D93"
+  "attachment_repo_id": "COURSES-RA-17E77210FDA8"
 }

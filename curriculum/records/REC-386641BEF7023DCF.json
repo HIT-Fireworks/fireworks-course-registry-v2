@@ -26,14 +26,14 @@
     "computer": 0,
     "tutoring": 0
   },
-  "repo_id": "22AS21002",
+  "repo_id": "COURSES-RA-B7729FD109FA",
   "repo_type": "course",
   "resource_group_id": "exact-name-385d6a3ae254b429",
-  "physical_repository_id": "physical-course-16c18fc14e13cec8",
+  "physical_repository_id": "physical-course-ra-b7729fd109fae04d",
   "descriptor_id": "course-code:22AS21002",
-  "attachment_repo_id": "22AS21002",
-  "merge_key": "physical-repository:physical-course-16c18fc14e13cec8",
-  "merge_reason": "版本化互斥物理仓库策略按 canonical owner 物化；CourseGroup 仅保留为导航和未来拆分证据",
+  "attachment_repo_id": "COURSES-RA-B7729FD109FA",
+  "merge_key": "physical-repository:physical-course-ra-b7729fd109fae04d",
+  "merge_reason": "版本化互斥物理仓库策略物化；approved 阶段使用资料感知安全 owner 分桶；CourseGroup 仅保留为导航和未来拆分证据",
   "source_paths": [
     "curriculum://hit-data/plans/105_2022版_01_01185_空间科学与技术.toml#courses[11]"
   ],

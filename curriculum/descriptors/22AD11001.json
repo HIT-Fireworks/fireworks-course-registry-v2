@@ -3,8 +3,8 @@
   "course_code": "22AD11001",
   "course_name": "思想政治理论实践课",
   "resource_group_id": "ideological-political-theory-practice",
-  "physical_repository_id": "physical-course-eecab16212ae99f1",
-  "repo_id": "22AD11001C",
+  "physical_repository_id": "physical-course-ra-63f4418ccb8d9283",
+  "repo_id": "COURSES-RA-63F4418CCB8D",
   "record_ids": [
     "REC-0A3EEB76A9E9FA08",
     "REC-1A09FBB74A4535AC",
@@ -258,5 +258,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22AD11001.json",
-  "attachment_repo_id": "22AD11001C"
+  "attachment_repo_id": "COURSES-RA-63F4418CCB8D"
 }

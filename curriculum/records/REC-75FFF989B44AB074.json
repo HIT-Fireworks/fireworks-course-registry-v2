@@ -29,11 +29,11 @@
   "repo_id": "22EM22901F",
   "repo_type": "course",
   "resource_group_id": "name-family-8929c9798e94aef8",
-  "physical_repository_id": "physical-course-2424c82672e35d09",
+  "physical_repository_id": "physical-course-ra-37a1063f95deaf1a",
   "descriptor_id": "course-code:22EM22901F",
   "attachment_repo_id": "22EM22901F",
-  "merge_key": "physical-repository:physical-course-2424c82672e35d09",
-  "merge_reason": "版本化互斥物理仓库策略按 canonical owner 物化；CourseGroup 仅保留为导航和未来拆分证据",
+  "merge_key": "physical-repository:physical-course-ra-37a1063f95deaf1a",
+  "merge_reason": "版本化互斥物理仓库策略物化；approved 阶段使用资料感知安全 owner 分桶；CourseGroup 仅保留为导航和未来拆分证据",
   "source_paths": [
     "curriculum://hit-data/plans/042_2022版_07_07F222_国际经济与贸易.toml#courses[3]"
   ],

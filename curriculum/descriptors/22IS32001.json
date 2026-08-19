@@ -3,8 +3,8 @@
   "course_code": "22IS32001",
   "course_name": "产业专家谈仪器",
   "resource_group_id": "exact-name-76754a3f66a5b5f4",
-  "physical_repository_id": "physical-course-2c608f332ac553b6",
-  "repo_id": "COURSES-2C608F332AC5",
+  "physical_repository_id": "physical-course-ra-ae0ec9dd0d5a80ec",
+  "repo_id": "COURSES-RA-AE0EC9DD0D5A",
   "record_ids": [
     "REC-8BE4DAD3A0A73705",
     "REC-8FF8E153F6632A16",
@@ -18,5 +18,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22IS32001.json",
-  "attachment_repo_id": "COURSES-2C608F332AC5"
+  "attachment_repo_id": "COURSES-RA-AE0EC9DD0D5A"
 }

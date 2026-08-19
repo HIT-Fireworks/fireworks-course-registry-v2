@@ -3,8 +3,8 @@
   "course_code": "22ME21003",
   "course_name": "智能装备类专业导论",
   "resource_group_id": "exact-name-1844cbd27ae8eef3",
-  "physical_repository_id": "physical-course-986e80135dd3124b",
-  "repo_id": "22ME21003",
+  "physical_repository_id": "physical-course-ra-38dc612180448883",
+  "repo_id": "COURSES-RA-38DC61218044",
   "record_ids": [
     "REC-00EE9D0289DC4770",
     "REC-279F68381B7F4D88",
@@ -52,5 +52,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22ME21003.json",
-  "attachment_repo_id": "22ME21003"
+  "attachment_repo_id": "COURSES-RA-38DC61218044"
 }

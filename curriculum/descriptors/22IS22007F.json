@@ -3,8 +3,8 @@
   "course_code": "22IS22007F",
   "course_name": "工程光学(2)",
   "resource_group_id": "engineering-optics",
-  "physical_repository_id": "physical-course-2c608f332ac553b6",
-  "repo_id": "COURSES-2C608F332AC5",
+  "physical_repository_id": "physical-course-ra-f7ff65fd449b81d9",
+  "repo_id": "COURSES-RA-F7FF65FD449B",
   "record_ids": [
     "REC-3E2975193255E7B2",
     "REC-8D7B950923526B69"
@@ -16,5 +16,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22IS22007F.json",
-  "attachment_repo_id": "COURSES-2C608F332AC5"
+  "attachment_repo_id": "COURSES-RA-F7FF65FD449B"
 }

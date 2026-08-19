@@ -3,8 +3,8 @@
   "course_code": "22CE33005",
   "course_name": "钢结构课程设计",
   "resource_group_id": "exact-name-67161d945608b68b",
-  "physical_repository_id": "physical-course-b8079c4567d697cd",
-  "repo_id": "COURSES-B8079C4567D6",
+  "physical_repository_id": "physical-course-ra-6c06dd652e326cf8",
+  "repo_id": "COURSES-RA-6C06DD652E32",
   "record_ids": [
     "REC-8D455668DF057822",
     "REC-9CE9DBC6789B218D",
@@ -18,5 +18,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22CE33005.json",
-  "attachment_repo_id": "COURSES-B8079C4567D6"
+  "attachment_repo_id": "COURSES-RA-6C06DD652E32"
 }

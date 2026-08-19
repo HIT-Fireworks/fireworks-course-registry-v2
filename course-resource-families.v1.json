@@ -1,0 +1,5331 @@
+{
+  "schema_version": 1,
+  "description": "HIT 课程资料族配置。课程代码和培养方案记录保持独立；为提高长期可维护性，顺序课、语言/等级变体及相近课程可共享一个资料仓库。运行期不重新执行启发式，配置中的成员关系是唯一权威输入。",
+  "role": "exclusive-resource-repository-policy",
+  "course_groups_do_not_imply_repository_merge": true,
+  "source_resource_group_identity_sha256": "1e433460207be2aa709e67435d3217765d5c6a66f580407c73c2d76583bfc3c1",
+  "source_resource_group_count": 1583,
+  "default_stage": "approved-candidates",
+  "policy": {
+    "runtime_heuristics": "disabled-materialized-membership-only",
+    "name_normalization": "NFKC; casefold; normalize punctuation; remove sequence, language and level suffixes; normalize conjunctions",
+    "similarity": "maximum of normalized edit ratio, character-bigram Jaccard and containment ratio",
+    "similarity_threshold": 0.8,
+    "domain_gate": "same primary offering college or shared course-code subject prefix",
+    "component_rule": "undirected connected components after the approved-candidate stage",
+    "repo_id_strategy": "prefer a legacy-bound or already-explicit member repository, otherwise the case-insensitive first member repo_id",
+    "future_changes_require_review": true,
+    "family_id_strategy": "sha256 of the stable target repo_id; membership changes do not rename the family"
+  },
+  "stages": [
+    {
+      "stage_id": "approved-candidates",
+      "order": 1,
+      "approval": "用户明确批准上一轮全部候选课程族共仓",
+      "expected_input_resource_group_count": 1583,
+      "expected_output_resource_group_count": 1545,
+      "expected_course_repository_reduction": 38,
+      "families": [
+        {
+          "family_id": "course-family-2cd0ab14bb411c40",
+          "repo_id": "22HS31402",
+          "display_name": "初级阅读",
+          "member_group_ids": [
+            "exact-name-89c96df9dc217888",
+            "exact-name-ec33b221ff300adc"
+          ],
+          "expected_source_repo_ids": [
+            "22HS31402",
+            "22HS31404"
+          ],
+          "expected_course_names": [
+            "初级阅读(上)",
+            "初级阅读(下)"
+          ],
+          "expected_course_codes": [
+            "22HS31402",
+            "22HS31404"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。"
+        },
+        {
+          "family_id": "course-family-559a305dd7b229e8",
+          "repo_id": "22CE31001F",
+          "display_name": "混凝土结构原理",
+          "member_group_ids": [
+            "exact-name-94ecb8037c8ebb63",
+            "name-family-f1a88019610cc954"
+          ],
+          "expected_source_repo_ids": [
+            "22CE31001F",
+            "22CE31035"
+          ],
+          "expected_course_names": [
+            "混凝土结构原理",
+            "混凝土结构基本原理",
+            "混凝土结构基本原理A",
+            "混凝土结构基本原理B"
+          ],
+          "expected_course_codes": [
+            "22CE31001F",
+            "22CE31002",
+            "22CE31023",
+            "22CE31035"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。"
+        },
+        {
+          "family_id": "course-family-21a82488ca89ed99",
+          "repo_id": "22AR31706",
+          "display_name": "动画",
+          "member_group_ids": [
+            "exact-name-1bc8fa5e48c340cc",
+            "exact-name-4e93a42320197d8b"
+          ],
+          "expected_source_repo_ids": [
+            "22AR31706",
+            "22AR31707"
+          ],
+          "expected_course_names": [
+            "动画-1",
+            "动画-2"
+          ],
+          "expected_course_codes": [
+            "22AR31706",
+            "22AR31707"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。"
+        },
+        {
+          "family_id": "course-family-6269584dfb49cc0f",
+          "repo_id": "22HS31413",
+          "display_name": "准高级写作",
+          "member_group_ids": [
+            "exact-name-d2e09e8bb0301f52",
+            "exact-name-dda0be093172d564"
+          ],
+          "expected_source_repo_ids": [
+            "22HS31413",
+            "22HS31416"
+          ],
+          "expected_course_names": [
+            "准高级写作(上)",
+            "准高级写作(下)"
+          ],
+          "expected_course_codes": [
+            "22HS31413",
+            "22HS31416"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。"
+        },
+        {
+          "family_id": "course-family-84554833416c86b9",
+          "repo_id": "22HS31412",
+          "display_name": "文学赏读",
+          "member_group_ids": [
+            "exact-name-2dd3ff4f53f476b6",
+            "exact-name-f7bb929e5a8a4400"
+          ],
+          "expected_source_repo_ids": [
+            "22HS31412",
+            "22HS31415"
+          ],
+          "expected_course_names": [
+            "文学赏读(上)",
+            "文学赏读(下)"
+          ],
+          "expected_course_codes": [
+            "22HS31412",
+            "22HS31415"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。"
+        },
+        {
+          "family_id": "course-family-ad44297d4714e291",
+          "repo_id": "22HS22412",
+          "display_name": "中级口语",
+          "member_group_ids": [
+            "exact-name-0ed6ba866f0c3650",
+            "exact-name-b3544e54c2ecfac2"
+          ],
+          "expected_source_repo_ids": [
+            "22HS22412",
+            "22HS22413"
+          ],
+          "expected_course_names": [
+            "中级口语(上)",
+            "中级口语(下)"
+          ],
+          "expected_course_codes": [
+            "22HS22412",
+            "22HS22413"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。"
+        },
+        {
+          "family_id": "course-family-d4a59bce950ee69e",
+          "repo_id": "22EN22001C",
+          "display_name": "实践俄语(俄)",
+          "member_group_ids": [
+            "exact-name-1de05af89ab58c09",
+            "exact-name-2e966a7a98730859",
+            "exact-name-47a506b22c9b95f0",
+            "exact-name-846efbd9c978026a",
+            "exact-name-fd573a85b5deed16"
+          ],
+          "expected_source_repo_ids": [
+            "22EN22001C",
+            "22EN22002C",
+            "22EN22003C",
+            "22EN22004C",
+            "22EN22005C"
+          ],
+          "expected_course_names": [
+            "实践俄语1(俄)",
+            "实践俄语2(俄)",
+            "实践俄语3(俄)",
+            "实践俄语4(俄)",
+            "实践俄语5(俄)"
+          ],
+          "expected_course_codes": [
+            "22EN22001C",
+            "22EN22002C",
+            "22EN22003C",
+            "22EN22004C",
+            "22EN22005C"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。"
+        },
+        {
+          "family_id": "course-family-29943241d1b36a1d",
+          "repo_id": "22FL32252",
+          "display_name": "俄语实用口语",
+          "member_group_ids": [
+            "exact-name-90d45aac13117acf",
+            "exact-name-94a0d24880c549d6",
+            "exact-name-c543261052b04cb0",
+            "exact-name-e3929f523f37be73",
+            "exact-name-fc6e692553d5e3f3"
+          ],
+          "expected_source_repo_ids": [
+            "22FL32252",
+            "22FL32254",
+            "22FL32255",
+            "22FL32256",
+            "22FL32257"
+          ],
+          "expected_course_names": [
+            "俄语实用口语1",
+            "俄语实用口语2",
+            "俄语实用口语3",
+            "俄语实用口语4",
+            "俄语实用口语5"
+          ],
+          "expected_course_codes": [
+            "22FL32252",
+            "22FL32254",
+            "22FL32255",
+            "22FL32256",
+            "22FL32257"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。"
+        },
+        {
+          "family_id": "course-family-240f042956463cc6",
+          "repo_id": "22EN31801C",
+          "display_name": "专业俄语(俄)",
+          "member_group_ids": [
+            "exact-name-c1198b7a78687b1b",
+            "exact-name-fc55d937164f2f37"
+          ],
+          "expected_source_repo_ids": [
+            "22EN31801C",
+            "22EN31802C"
+          ],
+          "expected_course_names": [
+            "专业俄语1(俄)",
+            "专业俄语2(俄)"
+          ],
+          "expected_course_codes": [
+            "22EN31801C",
+            "22EN31802C"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。"
+        },
+        {
+          "family_id": "course-family-2f8b33ae631e62b2",
+          "repo_id": "22HS31417",
+          "display_name": "高级汉语",
+          "member_group_ids": [
+            "exact-name-b293fd21925f6c5f",
+            "exact-name-cd956767c981ab11"
+          ],
+          "expected_source_repo_ids": [
+            "22HS31417",
+            "22HS31419"
+          ],
+          "expected_course_names": [
+            "高级汉语(上)",
+            "高级汉语(下)"
+          ],
+          "expected_course_codes": [
+            "22HS31417",
+            "22HS31419"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。"
+        },
+        {
+          "family_id": "course-family-0f7a3e6397acd24c",
+          "repo_id": "22HS22409",
+          "display_name": "准高级口语",
+          "member_group_ids": [
+            "exact-name-00e65ae784c43b15",
+            "exact-name-68cf9917cc7e7166"
+          ],
+          "expected_source_repo_ids": [
+            "22HS22409",
+            "22HS22410"
+          ],
+          "expected_course_names": [
+            "准高级口语(上)",
+            "准高级口语(下)"
+          ],
+          "expected_course_codes": [
+            "22HS22409",
+            "22HS22410"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。"
+        },
+        {
+          "family_id": "course-family-24e4ce9f3858666e",
+          "repo_id": "22HS31406",
+          "display_name": "中级阅读",
+          "member_group_ids": [
+            "exact-name-0b99d6555159c83f",
+            "exact-name-146fee0be7f855a8"
+          ],
+          "expected_source_repo_ids": [
+            "22HS31406",
+            "22HS31409"
+          ],
+          "expected_course_names": [
+            "中级阅读(上)",
+            "中级阅读(下)"
+          ],
+          "expected_course_codes": [
+            "22HS31406",
+            "22HS31409"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。"
+        },
+        {
+          "family_id": "course-family-4dc8170c51c939cb",
+          "repo_id": "22AS31805B",
+          "display_name": "模拟集成电路设计基础",
+          "member_group_ids": [
+            "exact-name-4a009b7487b3e9b8",
+            "name-family-b3154320e11a6324"
+          ],
+          "expected_source_repo_ids": [
+            "22AS31805B",
+            "AS32805B"
+          ],
+          "expected_course_names": [
+            "模拟集成电路设计基础",
+            "模拟集成电路设计基础(双语)",
+            "模拟集成电路设计基础B"
+          ],
+          "expected_course_codes": [
+            "22AS31805B",
+            "22AS31809B",
+            "AS32805B"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。"
+        },
+        {
+          "family_id": "course-family-fb4dadb784c74227",
+          "repo_id": "22AR31312",
+          "display_name": "快速设计",
+          "member_group_ids": [
+            "exact-name-6f62654b7debea3a",
+            "exact-name-ac86018ec0cefda7"
+          ],
+          "expected_source_repo_ids": [
+            "22AR31312",
+            "22AR31313"
+          ],
+          "expected_course_names": [
+            "快速设计-1",
+            "快速设计-2"
+          ],
+          "expected_course_codes": [
+            "22AR31312",
+            "22AR31313"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。"
+        },
+        {
+          "family_id": "course-family-66a86c636177efe8",
+          "repo_id": "22HS31401",
+          "display_name": "初级汉语",
+          "member_group_ids": [
+            "exact-name-4ac69562d5d4fb9d",
+            "exact-name-ba108662059ba2d9"
+          ],
+          "expected_source_repo_ids": [
+            "22HS31401",
+            "22HS31403"
+          ],
+          "expected_course_names": [
+            "初级汉语(上)",
+            "初级汉语(下)"
+          ],
+          "expected_course_codes": [
+            "22HS31401",
+            "22HS31403"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。"
+        },
+        {
+          "family_id": "course-family-7fa7c6ea543e1f0d",
+          "repo_id": "22HS31407",
+          "display_name": "中级写作",
+          "member_group_ids": [
+            "exact-name-18cb92fd9d695aac",
+            "exact-name-2126eeacc004c2aa"
+          ],
+          "expected_source_repo_ids": [
+            "22HS31407",
+            "22HS31410"
+          ],
+          "expected_course_names": [
+            "中级写作(上)",
+            "中级写作(下)"
+          ],
+          "expected_course_codes": [
+            "22HS31407",
+            "22HS31410"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。"
+        },
+        {
+          "family_id": "course-family-bf922fb29f99db81",
+          "repo_id": "22HS31405",
+          "display_name": "中级汉语",
+          "member_group_ids": [
+            "exact-name-0d4850a6fdc17b88",
+            "exact-name-16073453c32b09e9"
+          ],
+          "expected_source_repo_ids": [
+            "22HS31405",
+            "22HS31408"
+          ],
+          "expected_course_names": [
+            "中级汉语(上)",
+            "中级汉语(下)"
+          ],
+          "expected_course_codes": [
+            "22HS31405",
+            "22HS31408"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。"
+        },
+        {
+          "family_id": "course-family-eb8c769f8395f1d3",
+          "repo_id": "22AR31801F",
+          "display_name": "建筑智慧设计与建造",
+          "member_group_ids": [
+            "exact-name-0b4013bc1e714913",
+            "exact-name-53c0a20b15800a1b",
+            "exact-name-5b4ce77a8a8d096a",
+            "exact-name-68f41e3af5571253"
+          ],
+          "expected_source_repo_ids": [
+            "22AR31801F",
+            "22AR31802F",
+            "22AR31803F",
+            "22AR31804F"
+          ],
+          "expected_course_names": [
+            "建筑智慧设计与建造-1",
+            "建筑智慧设计与建造-2",
+            "建筑智慧设计与建造-3",
+            "建筑智慧设计与建造-4"
+          ],
+          "expected_course_codes": [
+            "22AR31801F",
+            "22AR31802F",
+            "22AR31803F",
+            "22AR31804F"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。"
+        },
+        {
+          "family_id": "course-family-d7e3665a0e879827",
+          "repo_id": "22AR31101F",
+          "display_name": "建筑设计专题",
+          "member_group_ids": [
+            "exact-name-3571fb0b04c47add",
+            "exact-name-6f293d3cbb3754a2",
+            "exact-name-b4ca3a82d1070b01",
+            "exact-name-dc49799df5ac2438",
+            "exact-name-df19f1b755d96341"
+          ],
+          "expected_source_repo_ids": [
+            "22AR31101F",
+            "22AR31102F",
+            "22AR31103F",
+            "22AR31104F",
+            "22AR31105F"
+          ],
+          "expected_course_names": [
+            "建筑设计专题-1",
+            "建筑设计专题-2",
+            "建筑设计专题-3",
+            "建筑设计专题-4",
+            "建筑设计专题-5"
+          ],
+          "expected_course_codes": [
+            "22AR31101F",
+            "22AR31102F",
+            "22AR31103F",
+            "22AR31104F",
+            "22AR31105F"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。"
+        },
+        {
+          "family_id": "course-family-79dc3af25c5ab82e",
+          "repo_id": "22HS31418",
+          "display_name": "高级写作",
+          "member_group_ids": [
+            "exact-name-73dbd10e21dd2484",
+            "exact-name-897c3931b14b4ee6"
+          ],
+          "expected_source_repo_ids": [
+            "22HS31418",
+            "22HS31420"
+          ],
+          "expected_course_names": [
+            "高级写作(上)",
+            "高级写作(下)"
+          ],
+          "expected_course_codes": [
+            "22HS31418",
+            "22HS31420"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。"
+        },
+        {
+          "family_id": "course-family-3710d54c04fb0c92",
+          "repo_id": "22HS22423",
+          "display_name": "初级听力",
+          "member_group_ids": [
+            "exact-name-1361abd500510430",
+            "exact-name-144e24cf35159eb6"
+          ],
+          "expected_source_repo_ids": [
+            "22HS22423",
+            "22HS22424"
+          ],
+          "expected_course_names": [
+            "初级听力(上)",
+            "初级听力(下)"
+          ],
+          "expected_course_codes": [
+            "22HS22423",
+            "22HS22424"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。"
+        },
+        {
+          "family_id": "course-family-030d814fc1f20471",
+          "repo_id": "22HS22421",
+          "display_name": "初级口语",
+          "member_group_ids": [
+            "exact-name-d38375ac88af324d",
+            "exact-name-d9c2fba22b148563"
+          ],
+          "expected_source_repo_ids": [
+            "22HS22421",
+            "22HS22422"
+          ],
+          "expected_course_names": [
+            "初级口语(上)",
+            "初级口语(下)"
+          ],
+          "expected_course_codes": [
+            "22HS22421",
+            "22HS22422"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。"
+        },
+        {
+          "family_id": "course-family-625f3baaf317c6e8",
+          "repo_id": "22EM22006",
+          "display_name": "多元统计与 R 建模",
+          "member_group_ids": [
+            "exact-name-87bc37104e3c359b",
+            "exact-name-ac6013a38cb2e0af"
+          ],
+          "expected_source_repo_ids": [
+            "22EM22006",
+            "22EM31007F"
+          ],
+          "expected_course_names": [
+            "多元统计与R建模",
+            "多元统计分析与R建模"
+          ],
+          "expected_course_codes": [
+            "22EM22006",
+            "22EM31007F"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。"
+        },
+        {
+          "family_id": "course-family-2e2f3dfb9fea97b3",
+          "repo_id": "22AR33502",
+          "display_name": "设计表现实习",
+          "member_group_ids": [
+            "exact-name-06aa1b052df354f1",
+            "exact-name-dd08f2d6d9fcba25"
+          ],
+          "expected_source_repo_ids": [
+            "22AR33502",
+            "22AR33503"
+          ],
+          "expected_course_names": [
+            "设计表现实习-1",
+            "设计表现实习-2"
+          ],
+          "expected_course_codes": [
+            "22AR33502",
+            "22AR33503"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。"
+        },
+        {
+          "family_id": "course-family-630c1f9e6d779205",
+          "repo_id": "22EM22803B",
+          "display_name": "国际金融",
+          "member_group_ids": [
+            "exact-name-adf9e5815ce31ec4",
+            "exact-name-e70b81e722f2ff6f"
+          ],
+          "expected_source_repo_ids": [
+            "22EM22803B",
+            "22EM22803F"
+          ],
+          "expected_course_names": [
+            "国际金融",
+            "国际金融(双语)"
+          ],
+          "expected_course_codes": [
+            "22EM22803B",
+            "22EM22803F"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。"
+        },
+        {
+          "family_id": "course-family-d33a312bd479e973",
+          "repo_id": "22HS22414",
+          "display_name": "中级听力",
+          "member_group_ids": [
+            "exact-name-52f9fe1cd8fe32ae",
+            "exact-name-b65e8eca72696c5e"
+          ],
+          "expected_source_repo_ids": [
+            "22HS22414",
+            "22HS22415"
+          ],
+          "expected_course_names": [
+            "中级听力(上)",
+            "中级听力(下)"
+          ],
+          "expected_course_codes": [
+            "22HS22414",
+            "22HS22415"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。"
+        },
+        {
+          "family_id": "course-family-2f0d2c3326b4a7dd",
+          "repo_id": "22EM22941",
+          "display_name": "数字经济导论",
+          "member_group_ids": [
+            "exact-name-c6e46e8698ccbc53",
+            "exact-name-fff9890a312c973b"
+          ],
+          "expected_source_repo_ids": [
+            "22EM22941",
+            "22EM31914F"
+          ],
+          "expected_course_names": [
+            "数字经济学导论",
+            "数字经济导论"
+          ],
+          "expected_course_codes": [
+            "22EM22941",
+            "22EM31914F"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。"
+        }
+      ]
+    },
+    {
+      "stage_id": "aggressive-policy",
+      "order": 2,
+      "approval": "用户明确接受顺序、变体及相近课程的激进共仓策略",
+      "includes_stage": "approved-candidates",
+      "expected_input_resource_group_count": 1583,
+      "expected_output_resource_group_count": 1303,
+      "expected_course_repository_reduction": 280,
+      "families": [
+        {
+          "family_id": "course-family-d8ec76fb080a60d5",
+          "repo_id": "22AS31255",
+          "display_name": "结构力学",
+          "member_group_ids": [
+            "exact-name-9aaa1fd927fed0dd",
+            "name-family-21c48353367aa2ac",
+            "name-family-adaea56fdbb4144f"
+          ],
+          "expected_source_repo_ids": [
+            "22AS31255",
+            "22CE22001",
+            "22CE22001F"
+          ],
+          "expected_course_names": [
+            "结构力学",
+            "结构力学A(1)",
+            "结构力学A(2)",
+            "结构力学B",
+            "结构力学C",
+            "结构动力学",
+            "结构动力学A",
+            "结构静力学"
+          ],
+          "expected_course_codes": [
+            "22AS31255",
+            "22AS31263F",
+            "22CE22001",
+            "22CE22001F",
+            "22CE22002F",
+            "22CE22005F",
+            "22CE31001",
+            "22CE31009F",
+            "22TS21104",
+            "22TS21105"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-2cd0ab14bb411c40",
+          "repo_id": "22HS31402",
+          "display_name": "初级阅读",
+          "member_group_ids": [
+            "exact-name-89c96df9dc217888",
+            "exact-name-ec33b221ff300adc"
+          ],
+          "expected_source_repo_ids": [
+            "22HS31402",
+            "22HS31404"
+          ],
+          "expected_course_names": [
+            "初级阅读(上)",
+            "初级阅读(下)"
+          ],
+          "expected_course_codes": [
+            "22HS31402",
+            "22HS31404"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。",
+          "absorbed_approved_candidate_family_ids": [
+            "course-family-2cd0ab14bb411c40"
+          ]
+        },
+        {
+          "family_id": "course-family-b04e66eac479aef4",
+          "repo_id": "22AR31502F",
+          "display_name": "室内环境设计",
+          "member_group_ids": [
+            "exact-name-2726369141dfd899",
+            "exact-name-2b0c71412b052e60",
+            "exact-name-324a7a409a30872c"
+          ],
+          "expected_source_repo_ids": [
+            "22AR31502F",
+            "22AR31503",
+            "22AR31504"
+          ],
+          "expected_course_names": [
+            "室内环境设计",
+            "室内环境设计-1",
+            "室内环境设计-2"
+          ],
+          "expected_course_codes": [
+            "22AR31502F",
+            "22AR31503",
+            "22AR31504"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-ae99333a3f9ab033",
+          "repo_id": "22ME22009",
+          "display_name": "工程训练(电子工艺实习)",
+          "member_group_ids": [
+            "name-family-143f286c8092b0e8",
+            "name-family-59f49e6869ff7e43"
+          ],
+          "expected_source_repo_ids": [
+            "22ME22009",
+            "22ME22011"
+          ],
+          "expected_course_names": [
+            "工程训练(制造工艺实习)A",
+            "工程训练(制造工艺实习)B",
+            "工程训练(电子工艺实习)",
+            "工程训练(电子工艺实习)B"
+          ],
+          "expected_course_codes": [
+            "22ME22009",
+            "22ME22010",
+            "22ME22011",
+            "22ME22012"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-0753b14cfd5aae6b",
+          "repo_id": "22EI22381F",
+          "display_name": "模式识别基础",
+          "member_group_ids": [
+            "exact-name-38d7ea35b417723d",
+            "exact-name-7a4397cb2692e1fa"
+          ],
+          "expected_source_repo_ids": [
+            "22EI22381F",
+            "22EI31316"
+          ],
+          "expected_course_names": [
+            "模式识别基础",
+            "统计模式识别基础"
+          ],
+          "expected_course_codes": [
+            "22EI22381F",
+            "22EI31316"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-859821e1b15c8540",
+          "repo_id": "22CC31006F",
+          "display_name": "电化学测量A",
+          "member_group_ids": [
+            "exact-name-8a6c618806ab6a0f",
+            "exact-name-fae50aefbcef44ff"
+          ],
+          "expected_source_repo_ids": [
+            "22CC31006F",
+            "22CC31029"
+          ],
+          "expected_course_names": [
+            "电化学测量A",
+            "电化学测量技术"
+          ],
+          "expected_course_codes": [
+            "22CC31006F",
+            "22CC31029"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-b5269bc2845bafbb",
+          "repo_id": "22CE31005",
+          "display_name": "钢结构设计",
+          "member_group_ids": [
+            "exact-name-3f4019f4fe33ba8c",
+            "exact-name-67161d945608b68b"
+          ],
+          "expected_source_repo_ids": [
+            "22CE31005",
+            "22CE33005"
+          ],
+          "expected_course_names": [
+            "钢结构设计",
+            "钢结构课程设计"
+          ],
+          "expected_course_codes": [
+            "22CE31005",
+            "22CE31005F",
+            "22CE33005"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-d0b0c59aefbc92d0",
+          "repo_id": "22CE22003",
+          "display_name": "工程地质",
+          "member_group_ids": [
+            "exact-name-21d0c72d371aea8e",
+            "exact-name-8644bfb0fb942364"
+          ],
+          "expected_source_repo_ids": [
+            "22CE22003",
+            "22CE33020"
+          ],
+          "expected_course_names": [
+            "工程地质",
+            "工程地质实习"
+          ],
+          "expected_course_codes": [
+            "22CE22003",
+            "22CE33020"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-53b4cc66a575c0d6",
+          "repo_id": "22HS22359",
+          "display_name": "刑事诉讼法",
+          "member_group_ids": [
+            "exact-name-92cc5d7f1dce456d",
+            "exact-name-9a06e55154b11223"
+          ],
+          "expected_source_repo_ids": [
+            "22HS22359",
+            "22HS22360"
+          ],
+          "expected_course_names": [
+            "刑事诉讼法",
+            "民事诉讼法"
+          ],
+          "expected_course_codes": [
+            "22HS22359",
+            "22HS22360",
+            "22HS31302F",
+            "22HS31303F"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-ed0235846a344fbd",
+          "repo_id": "22FL22501F",
+          "display_name": "英语读写",
+          "member_group_ids": [
+            "exact-name-7c2240c03ec21c80",
+            "exact-name-c6b4af727c56b73f"
+          ],
+          "expected_source_repo_ids": [
+            "22FL22501F",
+            "22FL22502F"
+          ],
+          "expected_course_names": [
+            "英语读写",
+            "英语读写进阶"
+          ],
+          "expected_course_codes": [
+            "22FL22501F",
+            "22FL22502F"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-8df15fa6b3f9ad5f",
+          "repo_id": "22CS31153",
+          "display_name": "信息安全设计与实践I",
+          "member_group_ids": [
+            "exact-name-cd51bbd903cb5650",
+            "name-family-ac29c4ce3facd777"
+          ],
+          "expected_source_repo_ids": [
+            "22CS31153",
+            "22CS33150"
+          ],
+          "expected_course_names": [
+            "信息安全程序设计实践",
+            "信息安全设计与实践I",
+            "信息安全设计与实践II"
+          ],
+          "expected_course_codes": [
+            "22CS31153",
+            "22CS31154",
+            "22CS33150"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-26d32edb5564f6a6",
+          "repo_id": "22ME33300",
+          "display_name": "综合实践与生产实习(机器人综合实践)",
+          "member_group_ids": [
+            "exact-name-099e39370100b022",
+            "exact-name-8dce65d79429c83a",
+            "exact-name-90f9bd04b0093f3a",
+            "exact-name-aa7b3a4a36813f5d",
+            "exact-name-b7ec6314e0754f58"
+          ],
+          "expected_source_repo_ids": [
+            "22ME33300",
+            "22ME33400",
+            "22ME33500",
+            "22ME33600",
+            "22ME33700"
+          ],
+          "expected_course_names": [
+            "综合实践与生产实习(工业工程综合实践)",
+            "综合实践与生产实习(智能制造综合实践)",
+            "综合实践与生产实习(机器人综合实践)",
+            "综合实践与生产实习(机械电子综合实践)",
+            "综合实践与生产实习(飞行器制造综合实践)"
+          ],
+          "expected_course_codes": [
+            "22ME33300",
+            "22ME33400",
+            "22ME33500",
+            "22ME33600",
+            "22ME33700"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-9145bdb597c602b3",
+          "repo_id": "22AR31302F",
+          "display_name": "规划设计-1",
+          "member_group_ids": [
+            "exact-name-17bbc1ba105b35c7",
+            "exact-name-298332a7b9a83e9b",
+            "exact-name-56992ddc0cab3940",
+            "exact-name-57f315c847a39d14",
+            "exact-name-5c703e635f2e00bf",
+            "exact-name-654e7e359c2e68b8",
+            "exact-name-6cf01229c20f868d",
+            "exact-name-8430a005f06517b1",
+            "exact-name-95fdcc5409982ba2",
+            "exact-name-9c1fa93ea3b1ed5a",
+            "exact-name-ba84a400783fe42a",
+            "exact-name-c56ed5b966abe748",
+            "exact-name-ec12593c1508bba8"
+          ],
+          "expected_source_repo_ids": [
+            "22AR31302F",
+            "22AR31304F",
+            "22AR31307F",
+            "22AR31308",
+            "22AR31308F",
+            "22AR31309",
+            "22AR31310",
+            "22AR31311",
+            "22AR31401F",
+            "22AR31403F",
+            "22AR31404F",
+            "22AR31406F",
+            "22AR31408"
+          ],
+          "expected_course_names": [
+            "景观规划设计-1",
+            "景观规划设计-2",
+            "景观规划设计-3",
+            "景观规划设计-4",
+            "景观规划设计原理",
+            "规划设计-1",
+            "规划设计-2",
+            "规划设计-3",
+            "规划设计-4",
+            "规划设计专题-1",
+            "规划设计专题-2",
+            "规划设计专题-3",
+            "规划设计专题-4"
+          ],
+          "expected_course_codes": [
+            "22AR31302F",
+            "22AR31304F",
+            "22AR31307F",
+            "22AR31308",
+            "22AR31308F",
+            "22AR31309",
+            "22AR31310",
+            "22AR31311",
+            "22AR31401F",
+            "22AR31403F",
+            "22AR31404F",
+            "22AR31405",
+            "22AR31406",
+            "22AR31406F",
+            "22AR31407",
+            "22AR31408"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-8dc1224f5232bb75",
+          "repo_id": "22CC31009",
+          "display_name": "电化学实验",
+          "member_group_ids": [
+            "exact-name-1fd9714372efa09f",
+            "exact-name-3a82b3598d27278e",
+            "exact-name-3d38a71a2d54aac6",
+            "exact-name-99a13aa2f5d8de51",
+            "exact-name-babbc2484c766681"
+          ],
+          "expected_source_repo_ids": [
+            "22CC31009",
+            "22CC31009F",
+            "22CC31021",
+            "22CC31032",
+            "22CC31033"
+          ],
+          "expected_course_names": [
+            "应用化学综合实验",
+            "材料化学综合实验",
+            "电化学实验",
+            "电化学工程实验",
+            "电化学综合实验"
+          ],
+          "expected_course_codes": [
+            "22CC31009",
+            "22CC31009F",
+            "22CC31021",
+            "22CC31021F",
+            "22CC31032",
+            "22CC31033"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-cdd7a00434f26c97",
+          "repo_id": "22ES22023",
+          "display_name": "半导体物理",
+          "member_group_ids": [
+            "exact-name-2bd71a34ff1b2e2e",
+            "exact-name-89ab83106e012e65"
+          ],
+          "expected_source_repo_ids": [
+            "22ES22023",
+            "22MS31801"
+          ],
+          "expected_course_names": [
+            "半导体物理",
+            "半导体物理学"
+          ],
+          "expected_course_codes": [
+            "22ES22023",
+            "22MS31801",
+            "22MS31801F",
+            "22PH31010C",
+            "AS32807"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-ab842cd8a7453b6c",
+          "repo_id": "22AR33504",
+          "display_name": "设计师业务实践",
+          "member_group_ids": [
+            "exact-name-6eef5f0f0f124670",
+            "exact-name-8731494300cd4e61"
+          ],
+          "expected_source_repo_ids": [
+            "22AR33504",
+            "22AR33902"
+          ],
+          "expected_course_names": [
+            "工业设计师业务实践",
+            "设计师业务实践"
+          ],
+          "expected_course_codes": [
+            "22AR33504",
+            "22AR33902"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-5afc1ab6749b231f",
+          "repo_id": "22AR33405",
+          "display_name": "景观师业务实践-1",
+          "member_group_ids": [
+            "exact-name-098169d94fd50e3a",
+            "exact-name-99bd42a6dbb0ef61"
+          ],
+          "expected_source_repo_ids": [
+            "22AR33405",
+            "22AR33406"
+          ],
+          "expected_course_names": [
+            "景观师业务实践-1",
+            "景观师业务实践-2"
+          ],
+          "expected_course_codes": [
+            "22AR33405",
+            "22AR33406"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-d206b76da29645f5",
+          "repo_id": "22CE22002",
+          "display_name": "土木工程材料",
+          "member_group_ids": [
+            "exact-name-185cecd66196423e",
+            "exact-name-3592cc58814fd480"
+          ],
+          "expected_source_repo_ids": [
+            "22CE22002",
+            "22TS31306"
+          ],
+          "expected_course_names": [
+            "土木工程材料",
+            "土木工程材料工艺学"
+          ],
+          "expected_course_codes": [
+            "22CE22002",
+            "22TS21301",
+            "22TS31306"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-115c45c8139fe426",
+          "repo_id": "22EM22602",
+          "display_name": "中级财务会计",
+          "member_group_ids": [
+            "exact-name-c41eed794a87dc5c",
+            "exact-name-f760d0f518bf90ae",
+            "name-family-6a848decc018ecaa"
+          ],
+          "expected_source_repo_ids": [
+            "22EM22602",
+            "22EM31602",
+            "22EM33602"
+          ],
+          "expected_course_names": [
+            "中级财务会计",
+            "中级财务会计A",
+            "中级财务会计B",
+            "中级财务会计实训",
+            "高级财务会计"
+          ],
+          "expected_course_codes": [
+            "22EM22602",
+            "22EM31601F",
+            "22EM31602",
+            "22EM31602F",
+            "22EM31606F",
+            "22EM33602"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-9d831565083a3bae",
+          "repo_id": "22TS31007F",
+          "display_name": "交通基础设施智能检测",
+          "member_group_ids": [
+            "exact-name-758b459bcdf9fceb",
+            "exact-name-eccd4560dab5cef9"
+          ],
+          "expected_source_repo_ids": [
+            "22TS31007F",
+            "22TS31008F"
+          ],
+          "expected_course_names": [
+            "交通基础设施智能检测",
+            "交通基础设施智能管理"
+          ],
+          "expected_course_codes": [
+            "22TS31007F",
+            "22TS31008F"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-3d840115e5eec18e",
+          "repo_id": "22TS31203",
+          "display_name": "桥梁工程A",
+          "member_group_ids": [
+            "name-family-233bd797f1d65ac8",
+            "name-family-88c19a9b240e0361"
+          ],
+          "expected_source_repo_ids": [
+            "22TS31203",
+            "22TS31206"
+          ],
+          "expected_course_names": [
+            "桥梁基础工程A",
+            "桥梁基础工程B",
+            "桥梁工程A",
+            "桥梁工程B"
+          ],
+          "expected_course_codes": [
+            "22TS31203",
+            "22TS31204",
+            "22TS31206",
+            "22TS31207"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-6269584dfb49cc0f",
+          "repo_id": "22HS31413",
+          "display_name": "高级写作",
+          "member_group_ids": [
+            "exact-name-73dbd10e21dd2484",
+            "exact-name-897c3931b14b4ee6",
+            "exact-name-d2e09e8bb0301f52",
+            "exact-name-dda0be093172d564"
+          ],
+          "expected_source_repo_ids": [
+            "22HS31413",
+            "22HS31416",
+            "22HS31418",
+            "22HS31420"
+          ],
+          "expected_course_names": [
+            "准高级写作(上)",
+            "准高级写作(下)",
+            "高级写作(上)",
+            "高级写作(下)"
+          ],
+          "expected_course_codes": [
+            "22HS31413",
+            "22HS31416",
+            "22HS31418",
+            "22HS31420"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": [
+            "course-family-6269584dfb49cc0f",
+            "course-family-79dc3af25c5ab82e"
+          ]
+        },
+        {
+          "family_id": "course-family-99940fc5d4fbd0b2",
+          "repo_id": "22FL22210",
+          "display_name": "俄语实用口语",
+          "member_group_ids": [
+            "exact-name-90d45aac13117acf",
+            "exact-name-94a0d24880c549d6",
+            "exact-name-c543261052b04cb0",
+            "exact-name-e3929f523f37be73",
+            "exact-name-fc6e692553d5e3f3",
+            "name-family-f90a24df0ed4b8fa"
+          ],
+          "expected_source_repo_ids": [
+            "22FL22210",
+            "22FL32252",
+            "22FL32254",
+            "22FL32255",
+            "22FL32256",
+            "22FL32257"
+          ],
+          "expected_course_names": [
+            "俄语口语(1)",
+            "俄语口语(2)",
+            "俄语口语(3)",
+            "俄语口语(4)",
+            "俄语实用口语1",
+            "俄语实用口语2",
+            "俄语实用口语3",
+            "俄语实用口语4",
+            "俄语实用口语5"
+          ],
+          "expected_course_codes": [
+            "22FL22210",
+            "22FL22215",
+            "22FL22218",
+            "22FL22231",
+            "22FL32252",
+            "22FL32254",
+            "22FL32255",
+            "22FL32256",
+            "22FL32257"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": [
+            "course-family-29943241d1b36a1d"
+          ]
+        },
+        {
+          "family_id": "course-family-90b5a01c35374901",
+          "repo_id": "22ES22005F",
+          "display_name": "气体动力学",
+          "member_group_ids": [
+            "exact-name-e8c6610585825b2f",
+            "exact-name-ea992cc893a66c02"
+          ],
+          "expected_source_repo_ids": [
+            "22ES22005F",
+            "22ES22017"
+          ],
+          "expected_course_names": [
+            "储能气体动力学",
+            "气体动力学"
+          ],
+          "expected_course_codes": [
+            "22ES22005F",
+            "22ES22016",
+            "22ES22017"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-f5475877f03a15fe",
+          "repo_id": "22AR22002",
+          "display_name": "建筑设计专题",
+          "member_group_ids": [
+            "exact-name-06f5ace27bd521fb",
+            "exact-name-2b963dfed3da2b99",
+            "exact-name-3571fb0b04c47add",
+            "exact-name-621a0f046f665007",
+            "exact-name-6f293d3cbb3754a2",
+            "exact-name-7fe3152752d909aa",
+            "exact-name-86332662e3e97eb1",
+            "exact-name-98e3d38c807693f7",
+            "exact-name-9c5c785983805eb3",
+            "exact-name-b38ae59f515b6804",
+            "exact-name-b4206a8d8d7fed3b",
+            "exact-name-b4ca3a82d1070b01",
+            "exact-name-bd79b2822e63fe46",
+            "exact-name-cc6f223bcd4dd301",
+            "exact-name-dc49799df5ac2438",
+            "exact-name-df19f1b755d96341",
+            "exact-name-f611645c417e5d90",
+            "exact-name-fe2c409e33fac78e"
+          ],
+          "expected_source_repo_ids": [
+            "22AR22002",
+            "22AR22003",
+            "22AR22005",
+            "22AR22007",
+            "22AR22012",
+            "22AR22401F",
+            "22AR22601F",
+            "22AR31101F",
+            "22AR31102",
+            "22AR31102F",
+            "22AR31103",
+            "22AR31103F",
+            "22AR31104",
+            "22AR31104F",
+            "22AR31105",
+            "22AR31105F",
+            "22AR31106",
+            "22AR31106F"
+          ],
+          "expected_course_names": [
+            "产品设计基础",
+            "建筑设计-1",
+            "建筑设计-2",
+            "建筑设计-3",
+            "建筑设计-4",
+            "建筑设计-5",
+            "建筑设计-6",
+            "建筑设计专题-1",
+            "建筑设计专题-2",
+            "建筑设计专题-3",
+            "建筑设计专题-4",
+            "建筑设计专题-5",
+            "建筑设计原理",
+            "建筑设计基础",
+            "景观建筑设计",
+            "设计基础",
+            "设计美学",
+            "设计美学基础"
+          ],
+          "expected_course_codes": [
+            "22AR22002",
+            "22AR22003",
+            "22AR22005",
+            "22AR22007",
+            "22AR22012",
+            "22AR22401F",
+            "22AR22601F",
+            "22AR31101F",
+            "22AR31102",
+            "22AR31102F",
+            "22AR31103",
+            "22AR31103F",
+            "22AR31104",
+            "22AR31104F",
+            "22AR31105",
+            "22AR31105F",
+            "22AR31106",
+            "22AR31106F",
+            "22AR31401",
+            "22AR31701"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": [
+            "course-family-d7e3665a0e879827"
+          ]
+        },
+        {
+          "family_id": "course-family-ff2470ffd0428cd1",
+          "repo_id": "22ME31104F",
+          "display_name": "先进加工技术",
+          "member_group_ids": [
+            "exact-name-2f63f2dd919c3844",
+            "exact-name-f5e2bf98a0efebbe"
+          ],
+          "expected_source_repo_ids": [
+            "22ME31104F",
+            "22ME31305F"
+          ],
+          "expected_course_names": [
+            "先进加工技术",
+            "飞行器先进加工技术"
+          ],
+          "expected_course_codes": [
+            "22ME31104F",
+            "22ME31305F",
+            "22ME32315"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-696276b06fa657b6",
+          "repo_id": "22AS22254F",
+          "display_name": "弹性力学",
+          "member_group_ids": [
+            "exact-name-a0da2b4733d81356",
+            "name-family-12da4daaa6c71af3"
+          ],
+          "expected_source_repo_ids": [
+            "22AS22254F",
+            "22AS31302"
+          ],
+          "expected_course_names": [
+            "弹塑性力学",
+            "弹性力学",
+            "弹性力学B"
+          ],
+          "expected_course_codes": [
+            "22AS22254F",
+            "22AS31302",
+            "22CE31011"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-ff47036bfd61e652",
+          "repo_id": "22EN31001F",
+          "display_name": "水质工程学(1)",
+          "member_group_ids": [
+            "exact-name-aff6c65e8938f8a8",
+            "name-family-c3c55f24e4fe081b"
+          ],
+          "expected_source_repo_ids": [
+            "22EN31001F",
+            "22EN31039"
+          ],
+          "expected_course_names": [
+            "水质工程学(1)",
+            "水质工程学(2)",
+            "水质工程学实验"
+          ],
+          "expected_course_codes": [
+            "22EN31001F",
+            "22EN31002F",
+            "22EN31014",
+            "22EN31015",
+            "22EN31039"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-96faf23a4b64f57b",
+          "repo_id": "22HS22361",
+          "display_name": "行政法与行政诉讼法",
+          "member_group_ids": [
+            "exact-name-7f3f2a351677b136",
+            "exact-name-b1058bcac74226b8"
+          ],
+          "expected_source_repo_ids": [
+            "22HS22361",
+            "22HS31304F"
+          ],
+          "expected_course_names": [
+            "行政复议法与行政诉讼法",
+            "行政法与行政诉讼法"
+          ],
+          "expected_course_codes": [
+            "22HS22361",
+            "22HS31304F"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-fca8bc8f18c39441",
+          "repo_id": "22AR22101F",
+          "display_name": "中国建筑史",
+          "member_group_ids": [
+            "exact-name-629e8efffce1af8c",
+            "exact-name-b3954048fce13f85",
+            "name-family-bca0ff7f278b1a24"
+          ],
+          "expected_source_repo_ids": [
+            "22AR22101F",
+            "22AR31107",
+            "22AR31108"
+          ],
+          "expected_course_names": [
+            "中国建筑史",
+            "中外建筑史",
+            "中外建筑史A",
+            "中外建筑史B",
+            "外国建筑史"
+          ],
+          "expected_course_codes": [
+            "22AR22101F",
+            "22AR31107",
+            "22AR31108",
+            "22AR31115",
+            "22AR31116"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-54233112ab4f35a0",
+          "repo_id": "22CC22001C",
+          "display_name": "分析化学",
+          "member_group_ids": [
+            "exact-name-294f578533f2bf60",
+            "exact-name-60259b6edb028237"
+          ],
+          "expected_source_repo_ids": [
+            "22CC22001C",
+            "22CC22005C"
+          ],
+          "expected_course_names": [
+            "分析化学",
+            "分析化学实验"
+          ],
+          "expected_course_codes": [
+            "22CC22001C",
+            "22CC22005C"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-13287789fff1ca4c",
+          "repo_id": "22ME22020",
+          "display_name": "机械基础实验(机械设计)",
+          "member_group_ids": [
+            "exact-name-237823cfab4445ec",
+            "exact-name-39074b9761f817f9",
+            "exact-name-3a77eb63cabff4dc"
+          ],
+          "expected_source_repo_ids": [
+            "22ME22020",
+            "22ME22021",
+            "22ME22022"
+          ],
+          "expected_course_names": [
+            "机械基础实验(机械原理A)",
+            "机械基础实验(机械原理B)",
+            "机械基础实验(机械设计)"
+          ],
+          "expected_course_codes": [
+            "22ME22020",
+            "22ME22021",
+            "22ME22022"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-4a3f494a9ceba2e5",
+          "repo_id": "22FL22132",
+          "display_name": "英语听力(1)",
+          "member_group_ids": [
+            "exact-name-e8b1c759ff47559b",
+            "name-family-ccc1494cb5d5cbb5"
+          ],
+          "expected_source_repo_ids": [
+            "22FL22132",
+            "22FL22137"
+          ],
+          "expected_course_names": [
+            "英语听力(1)",
+            "英语听力(2)",
+            "英语高级听力"
+          ],
+          "expected_course_codes": [
+            "22FL22132",
+            "22FL22133",
+            "22FL22137"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-1f07761480d1bb05",
+          "repo_id": "22AS31260",
+          "display_name": "热力学基础",
+          "member_group_ids": [
+            "exact-name-6c68e68d46476b65",
+            "exact-name-869c0b3cf1b85065"
+          ],
+          "expected_source_repo_ids": [
+            "22AS31260",
+            "22CC31001C"
+          ],
+          "expected_course_names": [
+            "热力学基础",
+            "热力学基础(俄)"
+          ],
+          "expected_course_codes": [
+            "22AS31260",
+            "22CC31001C",
+            "22ES22003"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-ceb747f0a90b2391",
+          "repo_id": "22AS22260",
+          "display_name": "固体力学(1)",
+          "member_group_ids": [
+            "exact-name-5fded31a192a5803",
+            "exact-name-f7ef25f0a27a53af"
+          ],
+          "expected_source_repo_ids": [
+            "22AS22260",
+            "22AS22298"
+          ],
+          "expected_course_names": [
+            "固体力学(1)",
+            "固体力学基础"
+          ],
+          "expected_course_codes": [
+            "22AS22260",
+            "22AS22298"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-21a82488ca89ed99",
+          "repo_id": "22AR31706",
+          "display_name": "动画",
+          "member_group_ids": [
+            "exact-name-1bc8fa5e48c340cc",
+            "exact-name-4e93a42320197d8b"
+          ],
+          "expected_source_repo_ids": [
+            "22AR31706",
+            "22AR31707"
+          ],
+          "expected_course_names": [
+            "动画-1",
+            "动画-2"
+          ],
+          "expected_course_codes": [
+            "22AR31706",
+            "22AR31707"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。",
+          "absorbed_approved_candidate_family_ids": [
+            "course-family-21a82488ca89ed99"
+          ]
+        },
+        {
+          "family_id": "course-family-84554833416c86b9",
+          "repo_id": "22HS31412",
+          "display_name": "文学赏读",
+          "member_group_ids": [
+            "exact-name-2dd3ff4f53f476b6",
+            "exact-name-f7bb929e5a8a4400"
+          ],
+          "expected_source_repo_ids": [
+            "22HS31412",
+            "22HS31415"
+          ],
+          "expected_course_names": [
+            "文学赏读(上)",
+            "文学赏读(下)"
+          ],
+          "expected_course_codes": [
+            "22HS31412",
+            "22HS31415"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。",
+          "absorbed_approved_candidate_family_ids": [
+            "course-family-84554833416c86b9"
+          ]
+        },
+        {
+          "family_id": "course-family-ad44297d4714e291",
+          "repo_id": "22HS22412",
+          "display_name": "中级口语",
+          "member_group_ids": [
+            "exact-name-0ed6ba866f0c3650",
+            "exact-name-b3544e54c2ecfac2"
+          ],
+          "expected_source_repo_ids": [
+            "22HS22412",
+            "22HS22413"
+          ],
+          "expected_course_names": [
+            "中级口语(上)",
+            "中级口语(下)"
+          ],
+          "expected_course_codes": [
+            "22HS22412",
+            "22HS22413"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。",
+          "absorbed_approved_candidate_family_ids": [
+            "course-family-ad44297d4714e291"
+          ]
+        },
+        {
+          "family_id": "course-family-749326b1e1ccf0a2",
+          "repo_id": "22AR22004",
+          "display_name": "建筑环境学",
+          "member_group_ids": [
+            "exact-name-58c17faa37976090",
+            "exact-name-c25c08123a7c805b"
+          ],
+          "expected_source_repo_ids": [
+            "22AR22004",
+            "22AR31206"
+          ],
+          "expected_course_names": [
+            "建筑环境学",
+            "建筑环境学概论"
+          ],
+          "expected_course_codes": [
+            "22AR22004",
+            "22AR31206"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-a3c6e51a15e7f8e1",
+          "repo_id": "22HS22304",
+          "display_name": "中国法制史",
+          "member_group_ids": [
+            "exact-name-6594ed428acd3fea",
+            "exact-name-97b00d57417ebe35"
+          ],
+          "expected_source_repo_ids": [
+            "22HS22304",
+            "22HS31391"
+          ],
+          "expected_course_names": [
+            "中国法制史",
+            "中国法律史"
+          ],
+          "expected_course_codes": [
+            "22HS22304",
+            "22HS31391"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-d4a59bce950ee69e",
+          "repo_id": "22EN22001C",
+          "display_name": "实践俄语(俄)",
+          "member_group_ids": [
+            "exact-name-1de05af89ab58c09",
+            "exact-name-2e966a7a98730859",
+            "exact-name-47a506b22c9b95f0",
+            "exact-name-846efbd9c978026a",
+            "exact-name-fd573a85b5deed16"
+          ],
+          "expected_source_repo_ids": [
+            "22EN22001C",
+            "22EN22002C",
+            "22EN22003C",
+            "22EN22004C",
+            "22EN22005C"
+          ],
+          "expected_course_names": [
+            "实践俄语1(俄)",
+            "实践俄语2(俄)",
+            "实践俄语3(俄)",
+            "实践俄语4(俄)",
+            "实践俄语5(俄)"
+          ],
+          "expected_course_codes": [
+            "22EN22001C",
+            "22EN22002C",
+            "22EN22003C",
+            "22EN22004C",
+            "22EN22005C"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。",
+          "absorbed_approved_candidate_family_ids": [
+            "course-family-d4a59bce950ee69e"
+          ]
+        },
+        {
+          "family_id": "course-family-43fc55ae97e33e37",
+          "repo_id": "22TS22102",
+          "display_name": "道路勘测设计A",
+          "member_group_ids": [
+            "name-family-16119ab5a6d594de",
+            "name-family-200f02d2238d1e0d"
+          ],
+          "expected_source_repo_ids": [
+            "22TS22102",
+            "22TS22105"
+          ],
+          "expected_course_names": [
+            "道路勘测设计A",
+            "道路勘测设计B",
+            "道路勘测设计实习B",
+            "道路勘测设计实习C"
+          ],
+          "expected_course_codes": [
+            "22TS22102",
+            "22TS22105",
+            "22TS22403",
+            "22TS23403"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-dd3fc89275be32b0",
+          "repo_id": "22EN31022",
+          "display_name": "水质工程原理与系统模拟(1)",
+          "member_group_ids": [
+            "exact-name-130daf32e33f2596",
+            "exact-name-72a061cc64c84ad1",
+            "name-family-1851c5a99f2b9d4d"
+          ],
+          "expected_source_repo_ids": [
+            "22EN31022",
+            "22EN31045",
+            "22EN33007"
+          ],
+          "expected_course_names": [
+            "水质工程原理与系统模拟(1)",
+            "水质工程原理与系统模拟(2)",
+            "水质工程原理与系统模拟实验",
+            "水质工程原理与系统模拟综合设计"
+          ],
+          "expected_course_codes": [
+            "22EN31022",
+            "22EN31023",
+            "22EN31045",
+            "22EN33007"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-ab8b606809a40e02",
+          "repo_id": "22FL31402",
+          "display_name": "国际法",
+          "member_group_ids": [
+            "exact-name-184bbb1fcf8216eb",
+            "exact-name-27f69fcff3eee0e3"
+          ],
+          "expected_source_repo_ids": [
+            "22FL31402",
+            "22HS31304"
+          ],
+          "expected_course_names": [
+            "国际法",
+            "国际私法"
+          ],
+          "expected_course_codes": [
+            "22FL31402",
+            "22FL31603F",
+            "22HS22358",
+            "22HS31301F",
+            "22HS31304"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-c51c83cfaccd68ea",
+          "repo_id": "22FL22418",
+          "display_name": "国际关系概览",
+          "member_group_ids": [
+            "exact-name-65a3f00121c94e73",
+            "exact-name-f5340bbc022a9a82"
+          ],
+          "expected_source_repo_ids": [
+            "22FL22418",
+            "22FL31602F"
+          ],
+          "expected_course_names": [
+            "国际关系概览",
+            "国际关系概论"
+          ],
+          "expected_course_codes": [
+            "22FL22418",
+            "22FL31602F"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-5e408db43b19b898",
+          "repo_id": "22AR31710",
+          "display_name": "网站与网络程序设计",
+          "member_group_ids": [
+            "exact-name-860ae5d5d9d24aa7",
+            "exact-name-f34cebb5e234afd8"
+          ],
+          "expected_source_repo_ids": [
+            "22AR31710",
+            "22AR33702"
+          ],
+          "expected_course_names": [
+            "网站与网络程序设计",
+            "网站与网络程序设计课程设计"
+          ],
+          "expected_course_codes": [
+            "22AR31710",
+            "22AR33702"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-745763aaf30cf031",
+          "repo_id": "22AR31305",
+          "display_name": "场地设计",
+          "member_group_ids": [
+            "exact-name-0cf635cc28e16433",
+            "exact-name-16b6511ce895a272"
+          ],
+          "expected_source_repo_ids": [
+            "22AR31305",
+            "22AR31307"
+          ],
+          "expected_course_names": [
+            "场地设计",
+            "场地设计原理"
+          ],
+          "expected_course_codes": [
+            "22AR31305",
+            "22AR31307"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-ad455696644c53b3",
+          "repo_id": "22CS22013",
+          "display_name": "大数据系统",
+          "member_group_ids": [
+            "database-systems",
+            "exact-name-b62219209b7f5289"
+          ],
+          "expected_source_repo_ids": [
+            "22CS22013",
+            "22CS32100"
+          ],
+          "expected_course_names": [
+            "大数据系统",
+            "数据库系统",
+            "数据库系统及应用"
+          ],
+          "expected_course_codes": [
+            "22CS22013",
+            "22CS32100",
+            "22TS21502"
+          ],
+          "expected_legacy_units": [
+            "未来技术学院/【人工智能板块】 数据库前部.pdf"
+          ],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-a1f67761f1160ab2",
+          "repo_id": "22CC15006",
+          "display_name": "环境学(双语)",
+          "member_group_ids": [
+            "exact-name-1ba75f2e9931f076",
+            "exact-name-208182ab4e75e837",
+            "exact-name-338dd3574ff0cdf2",
+            "exact-name-4f151e6310634e46",
+            "exact-name-5220ba4e1567eb7c",
+            "exact-name-70efd4c948d649de",
+            "exact-name-8b8af6f8466b14cc",
+            "exact-name-918459af8cdd93d1",
+            "exact-name-bfd83532640e53a6",
+            "exact-name-f6e26f14891324b1",
+            "exact-name-f868b2371eec6783",
+            "name-family-14d0520a21b042e1",
+            "name-family-7e16f36a1c359519",
+            "name-family-93bce178642a21ec",
+            "name-family-c080453525dd88fe"
+          ],
+          "expected_source_repo_ids": [
+            "22CC15006",
+            "22CC22002C",
+            "22CC22003C",
+            "22CC22004C",
+            "22CC22005F",
+            "22CC22007C",
+            "22CC22008",
+            "22CC31025",
+            "22CC32020C",
+            "22EN21001C",
+            "22EN22003",
+            "22EN22004",
+            "22EN22008F",
+            "22EN22014",
+            "22EN31100C"
+          ],
+          "expected_course_names": [
+            "固体化学",
+            "无机化学",
+            "无机化学C",
+            "无机化学实验",
+            "无机固体化学",
+            "有机化学",
+            "有机化学A",
+            "有机化学A(1)",
+            "有机化学A(2)",
+            "有机化学B",
+            "有机化学B(1)",
+            "有机化学B(2)",
+            "有机化学基础",
+            "有机化学实验",
+            "有机化学实验B",
+            "有机化学实验D",
+            "物理化学",
+            "物理化学A(1)",
+            "物理化学A(2)",
+            "物理化学B(1)",
+            "物理化学B(2)",
+            "物理化学C",
+            "物理化学实验",
+            "环境分析化学",
+            "环境化学",
+            "环境学(双语)",
+            "环境有机化学",
+            "环境物理化学",
+            "环境生物化学"
+          ],
+          "expected_course_codes": [
+            "22CC15006",
+            "22CC22002C",
+            "22CC22003C",
+            "22CC22004C",
+            "22CC22004F",
+            "22CC22005F",
+            "22CC22006C",
+            "22CC22007C",
+            "22CC22008",
+            "22CC22010C",
+            "22CC22015",
+            "22CC22016",
+            "22CC22017",
+            "22CC22018",
+            "22CC22023",
+            "22CC22024",
+            "22CC22025",
+            "22CC22026",
+            "22CC31025",
+            "22CC31035",
+            "22CC32020C",
+            "22EN21001C",
+            "22EN21002C",
+            "22EN21005",
+            "22EN21007",
+            "22EN22003",
+            "22EN22004",
+            "22EN22008F",
+            "22EN22009F",
+            "22EN22014",
+            "22EN22021",
+            "22EN31019F",
+            "22EN31100C",
+            "22LS31013",
+            "22MS31702",
+            "22TS31301",
+            "CC31018"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-9372950b0b9261dd",
+          "repo_id": "22EM22802",
+          "display_name": "期货与期权",
+          "member_group_ids": [
+            "exact-name-93839abacf5adb58",
+            "exact-name-9ac7d534e16e3c95"
+          ],
+          "expected_source_repo_ids": [
+            "22EM22802",
+            "22EM22802F"
+          ],
+          "expected_course_names": [
+            "期货与期权",
+            "期货与期权交易"
+          ],
+          "expected_course_codes": [
+            "22EM22802",
+            "22EM22802F"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-3588249f544665d2",
+          "repo_id": "22CS31054",
+          "display_name": "智能系统设计与实践",
+          "member_group_ids": [
+            "exact-name-377c4b9af93e6199",
+            "exact-name-4dd7bd1105718e06"
+          ],
+          "expected_source_repo_ids": [
+            "22CS31054",
+            "22CS31254"
+          ],
+          "expected_course_names": [
+            "智能物联网系统设计与实践",
+            "智能系统设计与实践"
+          ],
+          "expected_course_codes": [
+            "22CS31054",
+            "22CS31254",
+            "22CS33052F"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-1c70c56a21b3a3af",
+          "repo_id": "22EN31022F",
+          "display_name": "环境生态工程",
+          "member_group_ids": [
+            "exact-name-0c28f4b550cfba6f",
+            "exact-name-65332d5c7761cb66"
+          ],
+          "expected_source_repo_ids": [
+            "22EN31022F",
+            "22EN31029"
+          ],
+          "expected_course_names": [
+            "环境生态工程",
+            "环境生态系统工程"
+          ],
+          "expected_course_codes": [
+            "22EN31022F",
+            "22EN31029",
+            "22EN31104C"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-9c9b19fbe6367ae2",
+          "repo_id": "22MX21004",
+          "display_name": "马克思主义哲学",
+          "member_group_ids": [
+            "exact-name-07e60e54fb33849b",
+            "exact-name-55a18160449ad640",
+            "exact-name-bf5634c4c7a53eb0"
+          ],
+          "expected_source_repo_ids": [
+            "22MX21004",
+            "22MX22023F",
+            "22MX31001"
+          ],
+          "expected_course_names": [
+            "马克思主义伦理学",
+            "马克思主义哲学",
+            "马克思主义哲学原理"
+          ],
+          "expected_course_codes": [
+            "22MX21004",
+            "22MX22002",
+            "22MX22023F",
+            "22MX31001"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-f7dd9d791b885b40",
+          "repo_id": "22AS31800",
+          "display_name": "微电子器件原理",
+          "member_group_ids": [
+            "exact-name-b27ff6b5793085ce",
+            "exact-name-e17e9f2e0d2d77ec"
+          ],
+          "expected_source_repo_ids": [
+            "22AS31800",
+            "22AS31801"
+          ],
+          "expected_course_names": [
+            "微电子器件原理",
+            "微电子器件物理"
+          ],
+          "expected_course_codes": [
+            "22AS31800",
+            "22AS31801",
+            "AS32806"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-11a35aaab8b59b4a",
+          "repo_id": "22FL22303",
+          "display_name": "基础日语(1)",
+          "member_group_ids": [
+            "name-family-37766401a1d2bfba",
+            "name-family-3d78f117c64c79f5"
+          ],
+          "expected_source_repo_ids": [
+            "22FL22303",
+            "22FL22701F"
+          ],
+          "expected_course_names": [
+            "基础日语(1)",
+            "基础日语(3)",
+            "基础日语(4)",
+            "基础日语实践(1)",
+            "基础日语实践(2)",
+            "基础日语实践(3)"
+          ],
+          "expected_course_codes": [
+            "22FL22303",
+            "22FL22304",
+            "22FL22324",
+            "22FL22701F",
+            "22FL22702F",
+            "22FL22703F"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-44dba253c986828c",
+          "repo_id": "22IS33101",
+          "display_name": "测控仪器综合设计实践",
+          "member_group_ids": [
+            "exact-name-494e3fdbf7870dd5",
+            "exact-name-7fc8fa1950093dc7"
+          ],
+          "expected_source_repo_ids": [
+            "22IS33101",
+            "22IS33402"
+          ],
+          "expected_course_names": [
+            "测控仪器综合设计实践",
+            "精密仪器综合设计实践"
+          ],
+          "expected_course_codes": [
+            "22IS33101",
+            "22IS33402"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-763793c96475c3ae",
+          "repo_id": "22AS22302",
+          "display_name": "材料化学基础",
+          "member_group_ids": [
+            "exact-name-1389ba550afd8c2e",
+            "exact-name-29533deb80d47b58",
+            "exact-name-5dfe5cf2b512febe",
+            "exact-name-829ab733b881dd58",
+            "exact-name-b97642b43bb5ab03",
+            "name-family-52ca0fb7b635934f"
+          ],
+          "expected_source_repo_ids": [
+            "22AS22302",
+            "22AS31352F",
+            "22AS31353F",
+            "22AS31361",
+            "22CC31017",
+            "22MS22901"
+          ],
+          "expected_course_names": [
+            "材料化学基础",
+            "材料科学与工程基础",
+            "材料科学与工程基础(上)",
+            "材料科学与工程基础(下)",
+            "材料科学与工程基础I",
+            "材料科学与工程基础II",
+            "材料科学与工程基础实验",
+            "材料科学基础"
+          ],
+          "expected_course_codes": [
+            "22AS22302",
+            "22AS31301",
+            "22AS31352F",
+            "22AS31353F",
+            "22AS31361",
+            "22CC22012",
+            "22CC31017",
+            "22CC31017F",
+            "22MS22104",
+            "22MS22104F",
+            "22MS22702",
+            "22MS22901",
+            "22MS22901F",
+            "22TS31302"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-369e342b18b190d7",
+          "repo_id": "22LS31004",
+          "display_name": "蛋白质工程与酶工程",
+          "member_group_ids": [
+            "exact-name-0d93183ac3cbe65f",
+            "exact-name-671cfa3a69f2dbc0"
+          ],
+          "expected_source_repo_ids": [
+            "22LS31004",
+            "22LS31004F"
+          ],
+          "expected_course_names": [
+            "蛋白质工程与细胞工程",
+            "蛋白质工程与酶工程"
+          ],
+          "expected_course_codes": [
+            "22LS31004",
+            "22LS31004F"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-4e97b1d070ba0881",
+          "repo_id": "22LS22013",
+          "display_name": "生物统计",
+          "member_group_ids": [
+            "exact-name-552701cb9a2c92f2",
+            "exact-name-87db66c558d1b237"
+          ],
+          "expected_source_repo_ids": [
+            "22LS22013",
+            "22MH22007"
+          ],
+          "expected_course_names": [
+            "生物医学统计",
+            "生物统计"
+          ],
+          "expected_course_codes": [
+            "22LS22013",
+            "22MH22007"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-153aacf4eebf7c2b",
+          "repo_id": "22EE22018",
+          "display_name": "电路实验B",
+          "member_group_ids": [
+            "name-family-4104962cadea9565",
+            "name-family-62cfc0da7a31e411",
+            "name-family-f94dbd93e2aa76cd"
+          ],
+          "expected_source_repo_ids": [
+            "22EE22018",
+            "22EE22021",
+            "22EE22037"
+          ],
+          "expected_course_names": [
+            "电子线路(1)",
+            "电子线路(2)",
+            "电子线路实验(1)",
+            "电子线路实验(2)",
+            "电路实验A(1)",
+            "电路实验A(2)",
+            "电路实验B",
+            "电路实验D"
+          ],
+          "expected_course_codes": [
+            "22EE22018",
+            "22EE22019",
+            "22EE22021",
+            "22EE22022",
+            "22EE22023",
+            "22EE22025",
+            "22EE22037",
+            "22EE22038"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-ef227f0460f3b91f",
+          "repo_id": "22AS22005",
+          "display_name": "材料力学A",
+          "member_group_ids": [
+            "exact-name-9b8609c36188adaf",
+            "name-family-f73548468f88f9af"
+          ],
+          "expected_source_repo_ids": [
+            "22AS22005",
+            "22AS31303"
+          ],
+          "expected_course_names": [
+            "复合材料力学",
+            "材料力学A",
+            "材料力学B",
+            "材料力学C",
+            "材料力学D",
+            "材料力学E"
+          ],
+          "expected_course_codes": [
+            "22AS22005",
+            "22AS22006",
+            "22AS22007",
+            "22AS22007F",
+            "22AS22019",
+            "22AS22252F",
+            "22AS31303",
+            "22AS31303F",
+            "22CE22004F"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-e24e03d98f9bfd8a",
+          "repo_id": "22AR22901F",
+          "display_name": "用户体验度量",
+          "member_group_ids": [
+            "exact-name-02b28cf85ac6e7a1",
+            "exact-name-9dce42e356c66126"
+          ],
+          "expected_source_repo_ids": [
+            "22AR22901F",
+            "22AR31704"
+          ],
+          "expected_course_names": [
+            "用户体验度量",
+            "用户体验方法与度量"
+          ],
+          "expected_course_codes": [
+            "22AR22901F",
+            "22AR31704",
+            "22AR31907"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-d8d7a663aa9ca060",
+          "repo_id": "22FL12014",
+          "display_name": "大学外语(俄语LP1)",
+          "member_group_ids": [
+            "exact-name-3d403043e845391c",
+            "exact-name-ad16cec84e7a9f55",
+            "exact-name-dcb7f16eabe633ae",
+            "exact-name-f2fd98da63586011",
+            "exact-name-fea68c17513e6bbf",
+            "exact-name-feb0f878dc8e7c43"
+          ],
+          "expected_source_repo_ids": [
+            "22FL12014",
+            "22FL12015",
+            "22FL12016",
+            "22FL12017",
+            "22FL12018",
+            "22FL12019"
+          ],
+          "expected_course_names": [
+            "大学外语(俄语LP1)",
+            "大学外语(俄语LP2)",
+            "大学外语(俄语LP3)",
+            "大学外语(俄语LP4)",
+            "大学外语(俄语LP5)",
+            "大学外语(俄语LP6)"
+          ],
+          "expected_course_codes": [
+            "22FL12014",
+            "22FL12015",
+            "22FL12016",
+            "22FL12017",
+            "22FL12018",
+            "22FL12019"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-c24267d389d05f4c",
+          "repo_id": "22FL22225",
+          "display_name": "基础俄语(2)A",
+          "member_group_ids": [
+            "exact-name-5ca3e2b98e042072",
+            "exact-name-bb5302f79b415bea"
+          ],
+          "expected_source_repo_ids": [
+            "22FL22225",
+            "22FL22314"
+          ],
+          "expected_course_names": [
+            "基础俄语(2)A",
+            "基础日语(2)A"
+          ],
+          "expected_course_codes": [
+            "22FL22225",
+            "22FL22314"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-240f042956463cc6",
+          "repo_id": "22EN31801C",
+          "display_name": "专业俄语(俄)",
+          "member_group_ids": [
+            "exact-name-c1198b7a78687b1b",
+            "exact-name-fc55d937164f2f37"
+          ],
+          "expected_source_repo_ids": [
+            "22EN31801C",
+            "22EN31802C"
+          ],
+          "expected_course_names": [
+            "专业俄语1(俄)",
+            "专业俄语2(俄)"
+          ],
+          "expected_course_codes": [
+            "22EN31801C",
+            "22EN31802C"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。",
+          "absorbed_approved_candidate_family_ids": [
+            "course-family-240f042956463cc6"
+          ]
+        },
+        {
+          "family_id": "course-family-10524fa464a1d74f",
+          "repo_id": "22EM22704",
+          "display_name": "财务分析",
+          "member_group_ids": [
+            "exact-name-a88dbd63f602c163",
+            "name-family-ae98f475dbcf466c"
+          ],
+          "expected_source_repo_ids": [
+            "22EM22704",
+            "22EM33704"
+          ],
+          "expected_course_names": [
+            "财务分析",
+            "财务分析A",
+            "财务分析B",
+            "财务分析实训"
+          ],
+          "expected_course_codes": [
+            "22EM22704",
+            "22EM31604F",
+            "22EM31605F",
+            "22EM33704"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-b5d514b6bcee4225",
+          "repo_id": "22EN31035",
+          "display_name": "水污染控制工程(设计)",
+          "member_group_ids": [
+            "exact-name-3cda731c1aabc7d5",
+            "exact-name-fdb85e43b7a18286"
+          ],
+          "expected_source_repo_ids": [
+            "22EN31035",
+            "22EN33001"
+          ],
+          "expected_course_names": [
+            "水污染控制工程(设计)",
+            "水污染控制工程课程设计"
+          ],
+          "expected_course_codes": [
+            "22EN31035",
+            "22EN33001"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-0fb99a9395173465",
+          "repo_id": "22CC31023F",
+          "display_name": "微生物学",
+          "member_group_ids": [
+            "exact-name-142bbba08c171ce6",
+            "exact-name-25ee7d55b8a832f3",
+            "exact-name-4a3876b22bf09853",
+            "exact-name-52a4fa208b40e56b",
+            "exact-name-66d735f29768524f",
+            "exact-name-7a0c0b7172f5a42d",
+            "exact-name-87198c27c3830e9d",
+            "exact-name-880cb83c0958cc8b",
+            "exact-name-911bd731abf00cc9",
+            "exact-name-9c5fbdc4bda911c7",
+            "exact-name-a371ad976b73196f",
+            "exact-name-a3c97b99eaf8e89f",
+            "exact-name-b7a8f9da54cf391a",
+            "exact-name-ea7f89fc1ebcedaa",
+            "exact-name-ec293ac33082f7be",
+            "name-family-461d1ad20c75db29",
+            "name-family-fa9c2595d31ab74e"
+          ],
+          "expected_source_repo_ids": [
+            "22CC31023F",
+            "22EN31034",
+            "22LS22009F",
+            "22LS22010F",
+            "22LS22011F",
+            "22LS22015",
+            "22LS22015F",
+            "22LS22016F",
+            "22LS22017",
+            "22LS22017F",
+            "22LS22018",
+            "22LS22018F",
+            "22LS22019",
+            "22LS22019F",
+            "22LS22020F",
+            "22LS22021",
+            "22LS22022"
+          ],
+          "expected_course_names": [
+            "分子生物学",
+            "分子生物学基础",
+            "微生物学",
+            "微生物学基础",
+            "微生物学基础实验",
+            "微生物学实验",
+            "生物化学",
+            "生物化学A(1)",
+            "生物化学A(2)",
+            "生物化学基础",
+            "生物化学基础实验",
+            "生物医学基础",
+            "生物医学基础实验",
+            "生物学基础",
+            "生物学基础实验",
+            "细胞生物学",
+            "细胞生物学基础",
+            "细胞生物学基础实验",
+            "细胞生物学实验A",
+            "细胞生物学实验B"
+          ],
+          "expected_course_codes": [
+            "22CC31023F",
+            "22EN31034",
+            "22LS22009",
+            "22LS22009F",
+            "22LS22010F",
+            "22LS22011F",
+            "22LS22014",
+            "22LS22014F",
+            "22LS22015",
+            "22LS22015F",
+            "22LS22016",
+            "22LS22016F",
+            "22LS22017",
+            "22LS22017F",
+            "22LS22018",
+            "22LS22018F",
+            "22LS22019",
+            "22LS22019F",
+            "22LS22020",
+            "22LS22020F",
+            "22LS22021",
+            "22LS22022",
+            "22MH32301"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-c3991a3c77a35dbe",
+          "repo_id": "22EE31001",
+          "display_name": "嵌入式系统及应用",
+          "member_group_ids": [
+            "exact-name-3c8d2a2b6950e543",
+            "exact-name-52cb5dda6e02224c",
+            "name-family-1238181a4c78b395"
+          ],
+          "expected_source_repo_ids": [
+            "22AS31806",
+            "22EE22010F",
+            "22EE31001"
+          ],
+          "expected_course_names": [
+            "嵌入式系统原理与应用",
+            "嵌入式系统原理及应用",
+            "嵌入式系统原理及应用B",
+            "嵌入式系统及应用"
+          ],
+          "expected_course_codes": [
+            "22AS31806",
+            "22EE22010F",
+            "22EE31001",
+            "22EE31010",
+            "22IS22006",
+            "22IS22006F",
+            "AS33802"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-08e56276196d939c",
+          "repo_id": "22AR22006",
+          "display_name": "造型艺术基础1",
+          "member_group_ids": [
+            "exact-name-01fec9e89eeca952",
+            "exact-name-1b754ec50074af70"
+          ],
+          "expected_source_repo_ids": [
+            "22AR22006",
+            "22AR22008"
+          ],
+          "expected_course_names": [
+            "造型艺术基础-2",
+            "造型艺术基础1"
+          ],
+          "expected_course_codes": [
+            "22AR22006",
+            "22AR22008"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-69bbd455d73c15d4",
+          "repo_id": "22HS22112B",
+          "display_name": "社会统计软件与数据分析技术",
+          "member_group_ids": [
+            "exact-name-eb695f0e09662b51",
+            "name-family-ee20f71da02c4147"
+          ],
+          "expected_source_repo_ids": [
+            "22HS22112B",
+            "22HS31102F"
+          ],
+          "expected_course_names": [
+            "社会统计软件与数据分析技术",
+            "社会统计软件与数据分析技术基础",
+            "社会统计软件与数据分析技术基础A"
+          ],
+          "expected_course_codes": [
+            "22HS22112B",
+            "22HS31102F",
+            "22HS31162B"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-4dc8170c51c939cb",
+          "repo_id": "22AS31805B",
+          "display_name": "模拟集成电路设计基础",
+          "member_group_ids": [
+            "exact-name-28cb771f3893fe62",
+            "exact-name-4a009b7487b3e9b8",
+            "name-family-b3154320e11a6324"
+          ],
+          "expected_source_repo_ids": [
+            "22AS31805B",
+            "AS32805B",
+            "AS34804"
+          ],
+          "expected_course_names": [
+            "模拟集成电路设计基础",
+            "模拟集成电路设计基础(双语)",
+            "模拟集成电路设计基础B",
+            "模拟集成电路课程设计"
+          ],
+          "expected_course_codes": [
+            "22AS31805B",
+            "22AS31809B",
+            "AS32805B",
+            "AS34804"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": [
+            "course-family-4dc8170c51c939cb"
+          ]
+        },
+        {
+          "family_id": "course-family-65e5df8805351aaa",
+          "repo_id": "22MA33005C",
+          "display_name": "生产实践(科学研究工作)",
+          "member_group_ids": [
+            "exact-name-60345cbc451714d6",
+            "exact-name-df4c80549568b03b"
+          ],
+          "expected_source_repo_ids": [
+            "22MA33005C",
+            "22MA33603C"
+          ],
+          "expected_course_names": [
+            "生产实践(科学研究工作)",
+            "生产实践(科学研究活动)"
+          ],
+          "expected_course_codes": [
+            "22MA33005C",
+            "22MA33603C"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-0814a9e936cf5838",
+          "repo_id": "22PH31003",
+          "display_name": "核物理专业实验",
+          "member_group_ids": [
+            "exact-name-568c2c2f02d05f60",
+            "exact-name-8c10686e2b74615a",
+            "exact-name-cdc5c171606b94bb",
+            "exact-name-d4bf63cbb4c57ebc"
+          ],
+          "expected_source_repo_ids": [
+            "22PH31003",
+            "22PH31004",
+            "22PH31014",
+            "22PH33005"
+          ],
+          "expected_course_names": [
+            "应用物理专业实习",
+            "应用物理专业实验",
+            "应用物理专业探索实验",
+            "核物理专业实验"
+          ],
+          "expected_course_codes": [
+            "22PH31003",
+            "22PH31004",
+            "22PH31014",
+            "22PH33005"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-4a178d5c720e6cd1",
+          "repo_id": "22AS33303",
+          "display_name": "生产实习",
+          "member_group_ids": [
+            "exact-name-18527c31b7340394",
+            "exact-name-2dbb98177b1945b0",
+            "exact-name-b3b25fb32fc80be0",
+            "name-family-46f79419661685f3"
+          ],
+          "expected_source_repo_ids": [
+            "22AR33205",
+            "22AS33303",
+            "22MS33502",
+            "AS34803"
+          ],
+          "expected_course_names": [
+            "焊接生产实习",
+            "生产实习",
+            "认识/生产实习",
+            "认识实习",
+            "认识实习I",
+            "认识实习II"
+          ],
+          "expected_course_codes": [
+            "22AR33205",
+            "22AS33101",
+            "22AS33303",
+            "22AS33304",
+            "22AS33501",
+            "22AS33703",
+            "22AS33705",
+            "22AS33803",
+            "22AS33805",
+            "22AS33902",
+            "22AS33903",
+            "22CC33007",
+            "22CC33008",
+            "22CC33009",
+            "22CC33010",
+            "22CC33011",
+            "22CE33001",
+            "22CE33007",
+            "22CE33014",
+            "22CE33022",
+            "22CE33028",
+            "22CE33033",
+            "22EE33003",
+            "22EI33119",
+            "22EI33223",
+            "22EI33327",
+            "22EI33328",
+            "22EI33413",
+            "22EI33511",
+            "22EM33002",
+            "22EM33102",
+            "22EM33202",
+            "22EM33402",
+            "22EM33501",
+            "22EM33604",
+            "22EM33702",
+            "22EM33801",
+            "22EM33902",
+            "22EM33943",
+            "22EN33018",
+            "22EN33019",
+            "22EN33020",
+            "22EN33021",
+            "22EN33022",
+            "22ES33001",
+            "22ES33002",
+            "22ES33003",
+            "22FL33201",
+            "22HS33201",
+            "22HS33362",
+            "22IS33003",
+            "22LS33002",
+            "22MA33001",
+            "22MA33601C",
+            "22MS33103",
+            "22MS33231",
+            "22MS33401",
+            "22MS33502",
+            "22MS33602",
+            "22MS33704",
+            "22MS33802",
+            "AS34803"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-efa1744a61262dd9",
+          "repo_id": "22LS22012F",
+          "display_name": "遗传学基础",
+          "member_group_ids": [
+            "exact-name-233a348a505f61d4",
+            "exact-name-53a21362bd133ef3"
+          ],
+          "expected_source_repo_ids": [
+            "22LS22012F",
+            "22LS22013F"
+          ],
+          "expected_course_names": [
+            "遗传学基础",
+            "遗传学基础实验"
+          ],
+          "expected_course_codes": [
+            "22LS22012F",
+            "22LS22013F"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-24e4ce9f3858666e",
+          "repo_id": "22HS31406",
+          "display_name": "中级阅读",
+          "member_group_ids": [
+            "exact-name-0b99d6555159c83f",
+            "exact-name-146fee0be7f855a8"
+          ],
+          "expected_source_repo_ids": [
+            "22HS31406",
+            "22HS31409"
+          ],
+          "expected_course_names": [
+            "中级阅读(上)",
+            "中级阅读(下)"
+          ],
+          "expected_course_codes": [
+            "22HS31406",
+            "22HS31409"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。",
+          "absorbed_approved_candidate_family_ids": [
+            "course-family-24e4ce9f3858666e"
+          ]
+        },
+        {
+          "family_id": "course-family-9137402cc7425c70",
+          "repo_id": "22FL22209",
+          "display_name": "俄语视听说(1)",
+          "member_group_ids": [
+            "name-family-5866c3f8f1fffd7b",
+            "name-family-7c59cfc2fa2b2c84",
+            "name-family-7d7034725eb22a4c"
+          ],
+          "expected_source_repo_ids": [
+            "22FL22209",
+            "22FL22307",
+            "22FL22412"
+          ],
+          "expected_course_names": [
+            "俄语视听说(1)",
+            "俄语视听说(2)",
+            "俄语视听说(3)",
+            "俄语视听说(4)",
+            "日语视听说(1)",
+            "日语视听说(2)",
+            "日语视听说(3)",
+            "日语视听说(4)",
+            "日语视听说(5)",
+            "法语视听说(1)",
+            "法语视听说(2)"
+          ],
+          "expected_course_codes": [
+            "22FL22209",
+            "22FL22214",
+            "22FL22220",
+            "22FL22221",
+            "22FL22307",
+            "22FL22308",
+            "22FL22309",
+            "22FL22310",
+            "22FL22328",
+            "22FL22412",
+            "22FL22413",
+            "22FL22704F",
+            "22FL22705F",
+            "22FL22706F"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-b1eaa7e403cf38c9",
+          "repo_id": "22AS31308",
+          "display_name": "材料分析测试方法",
+          "member_group_ids": [
+            "exact-name-8426d2aaf3b9b105",
+            "exact-name-84be6872dce87d02"
+          ],
+          "expected_source_repo_ids": [
+            "22AS31308",
+            "22AS31405"
+          ],
+          "expected_course_names": [
+            "智能材料分析测试方法",
+            "材料分析测试方法"
+          ],
+          "expected_course_codes": [
+            "22AS31308",
+            "22AS31405",
+            "22CC31014F",
+            "22CC31034",
+            "22CE31016",
+            "22MS22106",
+            "22MS22106F"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-bfa3c9c930a95e30",
+          "repo_id": "22MA21002",
+          "display_name": "数理方程",
+          "member_group_ids": [
+            "exact-name-56a54357fd24c16e",
+            "exact-name-9ede969f693041a6"
+          ],
+          "expected_source_repo_ids": [
+            "22MA21002",
+            "22MA22015"
+          ],
+          "expected_course_names": [
+            "数学物理方程",
+            "数理方程"
+          ],
+          "expected_course_codes": [
+            "22MA21002",
+            "22MA22015",
+            "22MA22015C",
+            "22MA22015F"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-daecbd4ebebf5c60",
+          "repo_id": "22TS31402",
+          "display_name": "交通控制A",
+          "member_group_ids": [
+            "exact-name-654bba5a3f442ce4",
+            "name-family-d7040ec2a283a5ee"
+          ],
+          "expected_source_repo_ids": [
+            "22TS31004F",
+            "22TS31402"
+          ],
+          "expected_course_names": [
+            "交通控制A",
+            "交通控制B",
+            "智能交通控制"
+          ],
+          "expected_course_codes": [
+            "22TS31004F",
+            "22TS31402",
+            "22TS31502"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-1e648056d95b27e9",
+          "repo_id": "22AS22702",
+          "display_name": "热力学统计物理",
+          "member_group_ids": [
+            "exact-name-d65c1f5004773f2e",
+            "exact-name-f6ebc0e49e6a9385"
+          ],
+          "expected_source_repo_ids": [
+            "22AS22702",
+            "22PH22003F"
+          ],
+          "expected_course_names": [
+            "热力学与统计物理",
+            "热力学统计物理"
+          ],
+          "expected_course_codes": [
+            "22AS22702",
+            "22PH22003F",
+            "22PH22018",
+            "22PH22019C"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-5df28d5e0c81a4a2",
+          "repo_id": "22EM21901F",
+          "display_name": "宏观经济学",
+          "member_group_ids": [
+            "exact-name-1524e256b4dc7c95",
+            "exact-name-fb8e46b4fd253c0b",
+            "name-family-237a18743d6dad23",
+            "name-family-eaf4a24ed9e1e7bd"
+          ],
+          "expected_source_repo_ids": [
+            "22EM21901F",
+            "22EM21902F",
+            "22HS22203",
+            "22HS22204"
+          ],
+          "expected_course_names": [
+            "初级宏观经济学",
+            "初级微观经济学",
+            "宏观经济学",
+            "宏观经济学A",
+            "微观经济学",
+            "微观经济学A"
+          ],
+          "expected_course_codes": [
+            "22EM21901F",
+            "22EM21902F",
+            "22HS22203",
+            "22HS22204",
+            "22HS22282",
+            "22HS22283"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-006abc7d23488659",
+          "repo_id": "22AS31253",
+          "display_name": "空气动力学",
+          "member_group_ids": [
+            "exact-name-51658d93076abaa7",
+            "exact-name-9a636737952535c0"
+          ],
+          "expected_source_repo_ids": [
+            "22AS31253",
+            "22AS31501"
+          ],
+          "expected_course_names": [
+            "弹箭空气动力学",
+            "空气动力学"
+          ],
+          "expected_course_codes": [
+            "22AS31253",
+            "22AS31262F",
+            "22AS31501"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-fb05ec146e347c3a",
+          "repo_id": "22FL31229",
+          "display_name": "翻译实践",
+          "member_group_ids": [
+            "exact-name-1248b62b0975e1b1",
+            "exact-name-555c36f80f912ea7"
+          ],
+          "expected_source_repo_ids": [
+            "22FL31229",
+            "22FL31302"
+          ],
+          "expected_course_names": [
+            "日语翻译实践",
+            "翻译实践"
+          ],
+          "expected_course_codes": [
+            "22FL31229",
+            "22FL31302"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-476501e74d48f026",
+          "repo_id": "22AS22008",
+          "display_name": "工程力学A",
+          "member_group_ids": [
+            "exact-name-24e4f22383f4a4a3",
+            "name-family-229d7063afa4d96f"
+          ],
+          "expected_source_repo_ids": [
+            "22AS22008",
+            "22AS22016"
+          ],
+          "expected_course_names": [
+            "工程力学A",
+            "工程力学B",
+            "工程力学实验"
+          ],
+          "expected_course_codes": [
+            "22AS22008",
+            "22AS22009",
+            "22AS22016",
+            "22AS22016F"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-aec87d80f500f416",
+          "repo_id": "22FL31131",
+          "display_name": "美国文学史及选读",
+          "member_group_ids": [
+            "exact-name-314f86e0fd116974",
+            "exact-name-6bb4572918e96485"
+          ],
+          "expected_source_repo_ids": [
+            "22FL31131",
+            "22FL31132"
+          ],
+          "expected_course_names": [
+            "美国文学史及选读",
+            "英国文学史及选读"
+          ],
+          "expected_course_codes": [
+            "22FL31131",
+            "22FL31132"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-c5f4fda7efff5514",
+          "repo_id": "22EN31009C",
+          "display_name": "技术安全系统保障(1)",
+          "member_group_ids": [
+            "exact-name-a0892af30a87fe77",
+            "name-family-a429534d7b809050"
+          ],
+          "expected_source_repo_ids": [
+            "22EN31009C",
+            "22EN31016C"
+          ],
+          "expected_course_names": [
+            "技术安全系统保障(1)",
+            "技术安全系统保障(2)",
+            "技术安全系统保障-课程项目"
+          ],
+          "expected_course_codes": [
+            "22EN31009C",
+            "22EN31016C",
+            "22EN31214C"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-e520570fbb8ff611",
+          "repo_id": "22HS22101",
+          "display_name": "社会学研究方法",
+          "member_group_ids": [
+            "exact-name-6b4aad06e01d8e06",
+            "name-family-626a3aa5627e2a69"
+          ],
+          "expected_source_repo_ids": [
+            "22HS22101",
+            "22HS22102F"
+          ],
+          "expected_course_names": [
+            "社会学研究方法",
+            "社会学研究方法A",
+            "社会科学研究方法"
+          ],
+          "expected_course_codes": [
+            "22HS22101",
+            "22HS22102F",
+            "22HS22162"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-d0761e54d0dba9ed",
+          "repo_id": "22CS31103",
+          "display_name": "大数据软件实践",
+          "member_group_ids": [
+            "exact-name-59c89709392ba9f8",
+            "exact-name-6aa08a4d349fba38"
+          ],
+          "expected_source_repo_ids": [
+            "22CS31103",
+            "22CS33108"
+          ],
+          "expected_course_names": [
+            "大数据软件实践",
+            "大数据软件开发与实践"
+          ],
+          "expected_course_codes": [
+            "22CS31103",
+            "22CS33108"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-fe80c57cbd57aebd",
+          "repo_id": "22AR22014",
+          "display_name": "城市发展与规划史-1",
+          "member_group_ids": [
+            "exact-name-b278a09a28e54614",
+            "exact-name-d39002f119231bba"
+          ],
+          "expected_source_repo_ids": [
+            "22AR22014",
+            "22AR31301"
+          ],
+          "expected_course_names": [
+            "城市发展与规划史-1",
+            "城市发展与规划史-2"
+          ],
+          "expected_course_codes": [
+            "22AR22014",
+            "22AR31301"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-6a385194f86a2857",
+          "repo_id": "22CE31022",
+          "display_name": "地下空间规划与建筑",
+          "member_group_ids": [
+            "exact-name-09e8743f3fb0d49a",
+            "exact-name-aea7b8175b1189fc"
+          ],
+          "expected_source_repo_ids": [
+            "22CE31022",
+            "22CE33017"
+          ],
+          "expected_course_names": [
+            "地下空间规划与建筑",
+            "地下空间规划与建筑课程设计"
+          ],
+          "expected_course_codes": [
+            "22CE31022",
+            "22CE33017"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-3cd3328256e50d0d",
+          "repo_id": "22AS22299",
+          "display_name": "动力学与控制",
+          "member_group_ids": [
+            "exact-name-5d87155f9542419f",
+            "exact-name-e22e401254df84ff",
+            "exact-name-e310283bbfa44e0e"
+          ],
+          "expected_source_repo_ids": [
+            "22AS22299",
+            "22AS31251",
+            "22AS31604"
+          ],
+          "expected_course_names": [
+            "动力学与控制",
+            "飞行器动力学与控制",
+            "飞行器结构动力学与控制"
+          ],
+          "expected_course_codes": [
+            "22AS22299",
+            "22AS31251",
+            "22AS31604"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-9c339cc0e9be3ca7",
+          "repo_id": "22FL31103",
+          "display_name": "美国文学史",
+          "member_group_ids": [
+            "exact-name-33559d4c04f72580",
+            "exact-name-f129dcf2fde83e70"
+          ],
+          "expected_source_repo_ids": [
+            "22FL31103",
+            "22FL31104"
+          ],
+          "expected_course_names": [
+            "美国文学史",
+            "英国文学史"
+          ],
+          "expected_course_codes": [
+            "22FL31103",
+            "22FL31104"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-fb4dadb784c74227",
+          "repo_id": "22AR31312",
+          "display_name": "快速设计",
+          "member_group_ids": [
+            "exact-name-6f62654b7debea3a",
+            "exact-name-ac86018ec0cefda7"
+          ],
+          "expected_source_repo_ids": [
+            "22AR31312",
+            "22AR31313"
+          ],
+          "expected_course_names": [
+            "快速设计-1",
+            "快速设计-2"
+          ],
+          "expected_course_codes": [
+            "22AR31312",
+            "22AR31313"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。",
+          "absorbed_approved_candidate_family_ids": [
+            "course-family-fb4dadb784c74227"
+          ]
+        },
+        {
+          "family_id": "course-family-815dde3e9bae3732",
+          "repo_id": "22HS22102",
+          "display_name": "社会学概论",
+          "member_group_ids": [
+            "exact-name-cf42c922055ad294",
+            "name-family-5423d06a0b6c72e0",
+            "name-family-546f38c70435ee03",
+            "name-family-c71ae85951823c4d"
+          ],
+          "expected_source_repo_ids": [
+            "22HS22102",
+            "22HS22103",
+            "22HS22104",
+            "22HS22113"
+          ],
+          "expected_course_names": [
+            "古典社会学理论",
+            "古典社会学理论A",
+            "现代社会学理论",
+            "现代社会学理论A",
+            "社会学概论",
+            "社会学概论A",
+            "社会学理论"
+          ],
+          "expected_course_codes": [
+            "22HS22102",
+            "22HS22103",
+            "22HS22104",
+            "22HS22113",
+            "22HS22161",
+            "22HS22163",
+            "22HS22164"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-66a86c636177efe8",
+          "repo_id": "22HS31401",
+          "display_name": "初级汉语",
+          "member_group_ids": [
+            "exact-name-4ac69562d5d4fb9d",
+            "exact-name-ba108662059ba2d9"
+          ],
+          "expected_source_repo_ids": [
+            "22HS31401",
+            "22HS31403"
+          ],
+          "expected_course_names": [
+            "初级汉语(上)",
+            "初级汉语(下)"
+          ],
+          "expected_course_codes": [
+            "22HS31401",
+            "22HS31403"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。",
+          "absorbed_approved_candidate_family_ids": [
+            "course-family-66a86c636177efe8"
+          ]
+        },
+        {
+          "family_id": "course-family-7fa7c6ea543e1f0d",
+          "repo_id": "22HS31407",
+          "display_name": "中级写作",
+          "member_group_ids": [
+            "exact-name-18cb92fd9d695aac",
+            "exact-name-2126eeacc004c2aa"
+          ],
+          "expected_source_repo_ids": [
+            "22HS31407",
+            "22HS31410"
+          ],
+          "expected_course_names": [
+            "中级写作(上)",
+            "中级写作(下)"
+          ],
+          "expected_course_codes": [
+            "22HS31407",
+            "22HS31410"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。",
+          "absorbed_approved_candidate_family_ids": [
+            "course-family-7fa7c6ea543e1f0d"
+          ]
+        },
+        {
+          "family_id": "course-family-617ab96378cd343a",
+          "repo_id": "22CC32002C",
+          "display_name": "俄语基础语法1",
+          "member_group_ids": [
+            "exact-name-08b7d2b9bb9ff4aa",
+            "exact-name-2a55cb4a4cbb1c9b",
+            "exact-name-5114829c06f15fdc",
+            "exact-name-cb8b93900d392ba8",
+            "name-family-c3475cdb1dd9f896"
+          ],
+          "expected_source_repo_ids": [
+            "22CC32002C",
+            "22FL32251C",
+            "22FL32261C",
+            "22FL32263C",
+            "22FL32271C"
+          ],
+          "expected_course_names": [
+            "俄语基础语法(3)",
+            "俄语基础语法(4)",
+            "俄语基础语法1",
+            "俄语基础语法2",
+            "俄语基础语法3",
+            "俄语基础语法4"
+          ],
+          "expected_course_codes": [
+            "22CC32002C",
+            "22CC32004C",
+            "22FL32251C",
+            "22FL32258C",
+            "22FL32261C",
+            "22FL32263C",
+            "22FL32265C",
+            "22FL32267C",
+            "22FL32269C",
+            "22FL32271C",
+            "22FL32273C"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-bf922fb29f99db81",
+          "repo_id": "22HS31405",
+          "display_name": "中级汉语",
+          "member_group_ids": [
+            "exact-name-0d4850a6fdc17b88",
+            "exact-name-16073453c32b09e9"
+          ],
+          "expected_source_repo_ids": [
+            "22HS31405",
+            "22HS31408"
+          ],
+          "expected_course_names": [
+            "中级汉语(上)",
+            "中级汉语(下)"
+          ],
+          "expected_course_codes": [
+            "22HS31405",
+            "22HS31408"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。",
+          "absorbed_approved_candidate_family_ids": [
+            "course-family-bf922fb29f99db81"
+          ]
+        },
+        {
+          "family_id": "course-family-eb8c769f8395f1d3",
+          "repo_id": "22AR31801F",
+          "display_name": "建筑智慧设计与建造",
+          "member_group_ids": [
+            "exact-name-0b4013bc1e714913",
+            "exact-name-53c0a20b15800a1b",
+            "exact-name-5b4ce77a8a8d096a",
+            "exact-name-68f41e3af5571253"
+          ],
+          "expected_source_repo_ids": [
+            "22AR31801F",
+            "22AR31802F",
+            "22AR31803F",
+            "22AR31804F"
+          ],
+          "expected_course_names": [
+            "建筑智慧设计与建造-1",
+            "建筑智慧设计与建造-2",
+            "建筑智慧设计与建造-3",
+            "建筑智慧设计与建造-4"
+          ],
+          "expected_course_codes": [
+            "22AR31801F",
+            "22AR31802F",
+            "22AR31803F",
+            "22AR31804F"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。",
+          "absorbed_approved_candidate_family_ids": [
+            "course-family-eb8c769f8395f1d3"
+          ]
+        },
+        {
+          "family_id": "course-family-e169afaecdfc2105",
+          "repo_id": "22AR33105",
+          "display_name": "建筑师业务实践-1",
+          "member_group_ids": [
+            "exact-name-8bf42ecd952cbd99",
+            "exact-name-f6863f5de4611e10"
+          ],
+          "expected_source_repo_ids": [
+            "22AR33105",
+            "22AR33106"
+          ],
+          "expected_course_names": [
+            "建筑师业务实践-1",
+            "建筑师业务实践-2"
+          ],
+          "expected_course_codes": [
+            "22AR33105",
+            "22AR33106"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-3832ea77b3ca8b42",
+          "repo_id": "22CE22009F",
+          "display_name": "建筑结构",
+          "member_group_ids": [
+            "exact-name-43f92f3a56b63cc0",
+            "exact-name-8fcab801873849ea"
+          ],
+          "expected_source_repo_ids": [
+            "22CE22009F",
+            "22CE31025"
+          ],
+          "expected_course_names": [
+            "地下建筑结构",
+            "建筑结构"
+          ],
+          "expected_course_codes": [
+            "22CE22009F",
+            "22CE31025",
+            "22CE31028"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-55345455f84b210a",
+          "repo_id": "22PH31012",
+          "display_name": "核电子学",
+          "member_group_ids": [
+            "exact-name-4fe80a865c703f15",
+            "exact-name-ad5a63f78c7d3d06"
+          ],
+          "expected_source_repo_ids": [
+            "22PH31012",
+            "22PH31013"
+          ],
+          "expected_course_names": [
+            "核电子学",
+            "核电子学实验"
+          ],
+          "expected_course_codes": [
+            "22PH31012",
+            "22PH31013"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-75f67f44200b7ad0",
+          "repo_id": "22HS31101F",
+          "display_name": "国内法治专题",
+          "member_group_ids": [
+            "exact-name-48660570eb3fd0d8",
+            "exact-name-5a35b17b7f3fe3b0"
+          ],
+          "expected_source_repo_ids": [
+            "22HS31101F",
+            "22HS31104F"
+          ],
+          "expected_course_names": [
+            "国内法治专题",
+            "国际法治专题"
+          ],
+          "expected_course_codes": [
+            "22HS31101F",
+            "22HS31104F"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-3710d54c04fb0c92",
+          "repo_id": "22HS22423",
+          "display_name": "初级听力",
+          "member_group_ids": [
+            "exact-name-1361abd500510430",
+            "exact-name-144e24cf35159eb6"
+          ],
+          "expected_source_repo_ids": [
+            "22HS22423",
+            "22HS22424"
+          ],
+          "expected_course_names": [
+            "初级听力(上)",
+            "初级听力(下)"
+          ],
+          "expected_course_codes": [
+            "22HS22423",
+            "22HS22424"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。",
+          "absorbed_approved_candidate_family_ids": [
+            "course-family-3710d54c04fb0c92"
+          ]
+        },
+        {
+          "family_id": "course-family-2d8c43bf5931e24e",
+          "repo_id": "22EI22202",
+          "display_name": "信号处理A",
+          "member_group_ids": [
+            "exact-name-e31bd96521b614b3",
+            "exact-name-f94f417bdcf0595b"
+          ],
+          "expected_source_repo_ids": [
+            "22EI22202",
+            "22EI22311"
+          ],
+          "expected_course_names": [
+            "信号处理A",
+            "数字信号处理"
+          ],
+          "expected_course_codes": [
+            "22EI22202",
+            "22EI22311",
+            "22TS22003F",
+            "AS33104"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-559a305dd7b229e8",
+          "repo_id": "22CE31001F",
+          "display_name": "混凝土结构原理",
+          "member_group_ids": [
+            "exact-name-5bc9d8fcb42ecdbe",
+            "exact-name-94ecb8037c8ebb63",
+            "exact-name-9d9392b4211922aa",
+            "name-family-f1a88019610cc954"
+          ],
+          "expected_source_repo_ids": [
+            "22CE31001F",
+            "22CE31009",
+            "22CE31017",
+            "22CE31035"
+          ],
+          "expected_course_names": [
+            "混凝土结构",
+            "混凝土结构原理",
+            "混凝土结构基本原理",
+            "混凝土结构基本原理A",
+            "混凝土结构基本原理B",
+            "钢筋混凝土结构"
+          ],
+          "expected_course_codes": [
+            "22CE31001F",
+            "22CE31002",
+            "22CE31009",
+            "22CE31017",
+            "22CE31023",
+            "22CE31035"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": [
+            "course-family-559a305dd7b229e8"
+          ]
+        },
+        {
+          "family_id": "course-family-ebeb9230ae1ba5fc",
+          "repo_id": "22FL31606F",
+          "display_name": "国际经济学",
+          "member_group_ids": [
+            "exact-name-4a23114251d8e116",
+            "name-family-6a561d55cb0e7df1"
+          ],
+          "expected_source_repo_ids": [
+            "22FL31606F",
+            "22HS31305"
+          ],
+          "expected_course_names": [
+            "国际经济学",
+            "国际经济学A",
+            "国际经济法"
+          ],
+          "expected_course_codes": [
+            "22FL31606F",
+            "22HS31201B",
+            "22HS31281",
+            "22HS31305"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-cc97effe4fd3d665",
+          "repo_id": "22CS31100",
+          "display_name": "大数据计算基础",
+          "member_group_ids": [
+            "exact-name-038dbacc618ffdce",
+            "exact-name-942387ffd16af471"
+          ],
+          "expected_source_repo_ids": [
+            "22CS31100",
+            "22CS31105"
+          ],
+          "expected_course_names": [
+            "大数据计算基础",
+            "大数据计算平台基础"
+          ],
+          "expected_course_codes": [
+            "22CS31100",
+            "22CS31105"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-b811cb73ea352984",
+          "repo_id": "22EN31001",
+          "display_name": "水污染控制工程",
+          "member_group_ids": [
+            "exact-name-2cdf9e77d5ce6c2a",
+            "exact-name-7152f6218e992217",
+            "exact-name-f21f4ed10097ce55",
+            "name-family-14f62cf6d49928c4"
+          ],
+          "expected_source_repo_ids": [
+            "22EN31001",
+            "22EN31003",
+            "22EN31026",
+            "22EN31038"
+          ],
+          "expected_course_names": [
+            "大气污染控制工程",
+            "水污染控制工程",
+            "水污染控制工程(1)",
+            "水污染控制工程(2)",
+            "水污染控制工程实验",
+            "环境污染控制工程"
+          ],
+          "expected_course_codes": [
+            "22EN31001",
+            "22EN31002",
+            "22EN31003",
+            "22EN31012F",
+            "22EN31013F",
+            "22EN31026",
+            "22EN31038"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-030d814fc1f20471",
+          "repo_id": "22HS22421",
+          "display_name": "初级口语",
+          "member_group_ids": [
+            "exact-name-d38375ac88af324d",
+            "exact-name-d9c2fba22b148563"
+          ],
+          "expected_source_repo_ids": [
+            "22HS22421",
+            "22HS22422"
+          ],
+          "expected_course_names": [
+            "初级口语(上)",
+            "初级口语(下)"
+          ],
+          "expected_course_codes": [
+            "22HS22421",
+            "22HS22422"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。",
+          "absorbed_approved_candidate_family_ids": [
+            "course-family-030d814fc1f20471"
+          ]
+        },
+        {
+          "family_id": "course-family-c752fccc6e9040dd",
+          "repo_id": "22AR31801",
+          "display_name": "智慧建筑设计与建造-1",
+          "member_group_ids": [
+            "exact-name-064b514df93c2d67",
+            "exact-name-2a0e134dffdbca2c",
+            "exact-name-deee8a17681d67b1",
+            "exact-name-ead0695e8064163c"
+          ],
+          "expected_source_repo_ids": [
+            "22AR31801",
+            "22AR31802",
+            "22AR31803",
+            "22AR31804"
+          ],
+          "expected_course_names": [
+            "智慧建筑设计与建造-1",
+            "智慧建筑设计与建造-2",
+            "智慧建筑设计与建造-3",
+            "智慧建筑设计与建造-4"
+          ],
+          "expected_course_codes": [
+            "22AR31801",
+            "22AR31802",
+            "22AR31803",
+            "22AR31804"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-b55918ad87484ba5",
+          "repo_id": "22PH15001",
+          "display_name": "大学物理E",
+          "member_group_ids": [
+            "university-physics",
+            "university-physics-labs"
+          ],
+          "expected_source_repo_ids": [
+            "22PH15001",
+            "22PH15014"
+          ],
+          "expected_course_names": [
+            "大学物理A(1)",
+            "大学物理A(2)",
+            "大学物理B(1)",
+            "大学物理B(2)",
+            "大学物理C(1)",
+            "大学物理C(2)",
+            "大学物理D(1)",
+            "大学物理D(2)",
+            "大学物理E",
+            "大学物理F",
+            "大学物理x(1)",
+            "大学物理x(2)",
+            "大学物理实验A(1)",
+            "大学物理实验A(2)",
+            "大学物理实验B",
+            "大学物理实验x(1)",
+            "大学物理实验x(2)"
+          ],
+          "expected_course_codes": [
+            "22PH15001",
+            "22PH15002",
+            "22PH15003",
+            "22PH15004",
+            "22PH15005",
+            "22PH15006",
+            "22PH15007",
+            "22PH15008",
+            "22PH15008C",
+            "22PH15010",
+            "22PH15011",
+            "22PH15012",
+            "22PH15012C",
+            "22PH15013",
+            "22PH15013C",
+            "22PH15014",
+            "22PH15015",
+            "22PH15016",
+            "22PH15017",
+            "22PH15018"
+          ],
+          "expected_legacy_units": [
+            "【公共课】/【公共课】大学物理",
+            "实验报告/物理实验报告/大学物理实验报告"
+          ],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-9b013ecfd715715c",
+          "repo_id": "22EN31042",
+          "display_name": "水环境科学",
+          "member_group_ids": [
+            "exact-name-290ec88e26bb754e",
+            "exact-name-5951bc7b180747b7",
+            "exact-name-6d96d5a65c099175",
+            "exact-name-9c9523d8dbe8ad9b",
+            "exact-name-aa183024edeb0cb6",
+            "name-family-0f49612b9dab59ee"
+          ],
+          "expected_source_repo_ids": [
+            "22EN31024",
+            "22EN31025",
+            "22EN31040",
+            "22EN31041",
+            "22EN31042",
+            "22EN33006"
+          ],
+          "expected_course_names": [
+            "大气环境科学",
+            "大气环境科学实验",
+            "水环境科学",
+            "水环境科学实验",
+            "环境科学综合实践",
+            "环境科学综合实验I",
+            "环境科学综合实验II"
+          ],
+          "expected_course_codes": [
+            "22EN31024",
+            "22EN31025",
+            "22EN31040",
+            "22EN31041",
+            "22EN31042",
+            "22EN31043",
+            "22EN33006"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-3523467679e83eeb",
+          "repo_id": "22ME22003",
+          "display_name": "机械设计",
+          "member_group_ids": [
+            "exact-name-3262e1234bd427bb",
+            "exact-name-b79692f494a192bc",
+            "name-family-9a34c1aa82bc9829"
+          ],
+          "expected_source_repo_ids": [
+            "22ME22003",
+            "22ME22008",
+            "22ME22019"
+          ],
+          "expected_course_names": [
+            "机械设计",
+            "机械设计基础B",
+            "机械设计基础C",
+            "机械设计基础实验"
+          ],
+          "expected_course_codes": [
+            "22ME22003",
+            "22ME22004",
+            "22ME22008",
+            "22ME22008F",
+            "22ME22019"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-49069dc70a9cded0",
+          "repo_id": "22TS33405",
+          "display_name": "交通工程设计课程设计",
+          "member_group_ids": [
+            "exact-name-168aaf62f8e2481e",
+            "exact-name-c4f532b153994801"
+          ],
+          "expected_source_repo_ids": [
+            "22TS33405",
+            "22TS33407"
+          ],
+          "expected_course_names": [
+            "交通工程设计课程设计",
+            "交通系统工程课程设计"
+          ],
+          "expected_course_codes": [
+            "22TS33405",
+            "22TS33407"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-b847b4c0dbaf6083",
+          "repo_id": "22FL22125",
+          "display_name": "英语写作",
+          "member_group_ids": [
+            "exact-name-5a2a5b4cb7d2168a",
+            "exact-name-dd00f9afbf96f636",
+            "exact-name-f7e2a93fa6665867",
+            "exact-name-fcccb73d2c5fed55"
+          ],
+          "expected_source_repo_ids": [
+            "22FL22125",
+            "22FL22134",
+            "22FL22135",
+            "22FL31303"
+          ],
+          "expected_course_names": [
+            "日语基础写作",
+            "英语写作",
+            "英语基础写作",
+            "英语学术写作"
+          ],
+          "expected_course_codes": [
+            "22FL22125",
+            "22FL22134",
+            "22FL22135",
+            "22FL31303"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-0f7a3e6397acd24c",
+          "repo_id": "22HS22409",
+          "display_name": "高级汉语",
+          "member_group_ids": [
+            "exact-name-00e65ae784c43b15",
+            "exact-name-392050adce81a10e",
+            "exact-name-50c47fe4eb8de3e8",
+            "exact-name-68cf9917cc7e7166",
+            "exact-name-b293fd21925f6c5f",
+            "exact-name-cd956767c981ab11",
+            "exact-name-f2d2165a428c66eb"
+          ],
+          "expected_source_repo_ids": [
+            "22HS22409",
+            "22HS22410",
+            "22HS22411",
+            "22HS31411",
+            "22HS31414",
+            "22HS31417",
+            "22HS31419"
+          ],
+          "expected_course_names": [
+            "准高级口语(上)",
+            "准高级口语(下)",
+            "准高级汉语(上)",
+            "准高级汉语(下)",
+            "高级口语",
+            "高级汉语(上)",
+            "高级汉语(下)"
+          ],
+          "expected_course_codes": [
+            "22HS22409",
+            "22HS22410",
+            "22HS22411",
+            "22HS31411",
+            "22HS31414",
+            "22HS31417",
+            "22HS31419"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": [
+            "course-family-0f7a3e6397acd24c",
+            "course-family-2f8b33ae631e62b2"
+          ]
+        },
+        {
+          "family_id": "course-family-60cd6159af01af92",
+          "repo_id": "22FL22117",
+          "display_name": "专业导论",
+          "member_group_ids": [
+            "exact-name-2942b626bf25e1da",
+            "exact-name-44df3b6434dfc586",
+            "exact-name-92e66d769c30a341"
+          ],
+          "expected_source_repo_ids": [
+            "22FL22117",
+            "22FL22322",
+            "22HS22281"
+          ],
+          "expected_course_names": [
+            "专业导论",
+            "日语专业导论",
+            "英语专业导论"
+          ],
+          "expected_course_codes": [
+            "22FL22117",
+            "22FL22322",
+            "22HS22281"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-498708ffd60e534e",
+          "repo_id": "22AR31301F",
+          "display_name": "城乡规划原理-1",
+          "member_group_ids": [
+            "exact-name-873adf20244d0a4d",
+            "exact-name-b86f27e6a6c5053b",
+            "exact-name-c7179145a76f1774"
+          ],
+          "expected_source_repo_ids": [
+            "22AR31301F",
+            "22AR31303F",
+            "22AR31306F"
+          ],
+          "expected_course_names": [
+            "城乡规划原理-1",
+            "城乡规划原理-2",
+            "城乡规划原理-3"
+          ],
+          "expected_course_codes": [
+            "22AR31301F",
+            "22AR31303",
+            "22AR31303F",
+            "22AR31304",
+            "22AR31306F",
+            "22AR31315"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-abe48b91bae56180",
+          "repo_id": "22AR31109",
+          "display_name": "建筑物理(光)",
+          "member_group_ids": [
+            "exact-name-17e1e0c21459aa3f",
+            "exact-name-3e0035732deeea65",
+            "exact-name-cbdea1fbdb70cd4f"
+          ],
+          "expected_source_repo_ids": [
+            "22AR31109",
+            "22AR31110",
+            "22AR31111"
+          ],
+          "expected_course_names": [
+            "建筑物理(光)",
+            "建筑物理(声)",
+            "建筑物理(热)"
+          ],
+          "expected_course_codes": [
+            "22AR31109",
+            "22AR31110",
+            "22AR31111"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-dae6b09bc49232f1",
+          "repo_id": "22TS31505",
+          "display_name": "EDA技术及物联网基础",
+          "member_group_ids": [
+            "exact-name-69958b1e514b6f02",
+            "exact-name-deb53aa1eec06e59"
+          ],
+          "expected_source_repo_ids": [
+            "22TS31505",
+            "22TS33502"
+          ],
+          "expected_course_names": [
+            "EDA技术及物联网基础",
+            "EDA技术及物联网基础课程设计"
+          ],
+          "expected_course_codes": [
+            "22TS31505",
+            "22TS33502"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-0423837937b8dc5a",
+          "repo_id": "22CS21501",
+          "display_name": "C语言程序设计A",
+          "member_group_ids": [
+            "c-language-programming",
+            "exact-name-ce794559888a7e72",
+            "exact-name-dfbe0ecc57b5a2c5"
+          ],
+          "expected_source_repo_ids": [
+            "22CS21001",
+            "22CS21501",
+            "22CS21506"
+          ],
+          "expected_course_names": [
+            "C++语言程序设计B",
+            "C语言程序设计A",
+            "C语言程序设计B",
+            "高级语言程序设计"
+          ],
+          "expected_course_codes": [
+            "22CS21001",
+            "22CS21501",
+            "22CS21502",
+            "22CS21506"
+          ],
+          "expected_legacy_units": [
+            "未来技术学院/【未来技术】C语言"
+          ],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-4ecfd87763f51dcf",
+          "repo_id": "22CC32001C",
+          "display_name": "综合俄语1",
+          "member_group_ids": [
+            "exact-name-2472def98d6f4906",
+            "exact-name-6296c9d8bcff033d",
+            "exact-name-f8a6a30e784182b3",
+            "exact-name-fcd93af6e3256dce",
+            "name-family-1c7f5f767634885f"
+          ],
+          "expected_source_repo_ids": [
+            "22CC32001C",
+            "22FL32250C",
+            "22FL32259C",
+            "22FL32262C",
+            "22FL32270C"
+          ],
+          "expected_course_names": [
+            "综合俄语(3)",
+            "综合俄语(4)",
+            "综合俄语1",
+            "综合俄语2",
+            "综合俄语3",
+            "综合俄语4"
+          ],
+          "expected_course_codes": [
+            "22CC32001C",
+            "22CC32003C",
+            "22FL32250C",
+            "22FL32259C",
+            "22FL32262C",
+            "22FL32264C",
+            "22FL32266C",
+            "22FL32268C",
+            "22FL32270C",
+            "22FL32272C"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-fb28534c84fdb745",
+          "repo_id": "22MS31706",
+          "display_name": "功能材料",
+          "member_group_ids": [
+            "exact-name-6878d356e7f2b9e4",
+            "name-family-d31d6d8511d1aa2a"
+          ],
+          "expected_source_repo_ids": [
+            "22CC31016F",
+            "22MS31706"
+          ],
+          "expected_course_names": [
+            "功能材料",
+            "功能材料学",
+            "功能材料学B"
+          ],
+          "expected_course_codes": [
+            "22CC31016F",
+            "22MS31706",
+            "22MS31706F"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-b299f96cedcfdfd8",
+          "repo_id": "22AR22025",
+          "display_name": "流体力学",
+          "member_group_ids": [
+            "exact-name-1ceae9b6c259c3b6",
+            "exact-name-589885f41a9888e6",
+            "name-family-aad37b3fec84fa85"
+          ],
+          "expected_source_repo_ids": [
+            "22AR22025",
+            "22EN31010C",
+            "22ES22001F"
+          ],
+          "expected_course_names": [
+            "工程流体力学",
+            "流体力学",
+            "流体力学(1)",
+            "流体力学B",
+            "环境流体力学B"
+          ],
+          "expected_course_codes": [
+            "22AR22025",
+            "22AR22201F",
+            "22AR31202",
+            "22EN22016",
+            "22EN31010C",
+            "22ES22001F",
+            "22ES22012",
+            "22ES22029"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-625f3baaf317c6e8",
+          "repo_id": "22EM22006",
+          "display_name": "多元统计与 R 建模",
+          "member_group_ids": [
+            "exact-name-87bc37104e3c359b",
+            "exact-name-ac6013a38cb2e0af"
+          ],
+          "expected_source_repo_ids": [
+            "22EM22006",
+            "22EM31007F"
+          ],
+          "expected_course_names": [
+            "多元统计与R建模",
+            "多元统计分析与R建模"
+          ],
+          "expected_course_codes": [
+            "22EM22006",
+            "22EM31007F"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。",
+          "absorbed_approved_candidate_family_ids": [
+            "course-family-625f3baaf317c6e8"
+          ]
+        },
+        {
+          "family_id": "course-family-d68eea79a15d3b60",
+          "repo_id": "22CE33003",
+          "display_name": "基础工程A课程设计",
+          "member_group_ids": [
+            "exact-name-7c2a491002f00b15",
+            "exact-name-db79c8ba4109c75f"
+          ],
+          "expected_source_repo_ids": [
+            "22CE33003",
+            "22CE33019"
+          ],
+          "expected_course_names": [
+            "基础工程A课程设计",
+            "基础工程B课程设计"
+          ],
+          "expected_course_codes": [
+            "22CE33003",
+            "22CE33019"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-12d6e375cfca90a1",
+          "repo_id": "22PH31007C",
+          "display_name": "专业实验",
+          "member_group_ids": [
+            "exact-name-af12c1d9f664ba84",
+            "exact-name-e4bca83c8a3aee6b",
+            "name-family-7c0776ac4a3ebe78"
+          ],
+          "expected_source_repo_ids": [
+            "22CC31010C",
+            "22PH22016",
+            "22PH31007C"
+          ],
+          "expected_course_names": [
+            "专业基础实验",
+            "专业实验",
+            "专业物理实验(1)",
+            "专业物理实验(2)",
+            "专业物理实验(3)",
+            "专业物理实验(4)"
+          ],
+          "expected_course_codes": [
+            "22CC31010C",
+            "22PH22016",
+            "22PH31007C",
+            "22PH31009C",
+            "22PH31010",
+            "22PH31014C",
+            "22PH31015C"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-2e2f3dfb9fea97b3",
+          "repo_id": "22AR33502",
+          "display_name": "设计表现实习",
+          "member_group_ids": [
+            "exact-name-06aa1b052df354f1",
+            "exact-name-dd08f2d6d9fcba25"
+          ],
+          "expected_source_repo_ids": [
+            "22AR33502",
+            "22AR33503"
+          ],
+          "expected_course_names": [
+            "设计表现实习-1",
+            "设计表现实习-2"
+          ],
+          "expected_course_codes": [
+            "22AR33502",
+            "22AR33503"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。",
+          "absorbed_approved_candidate_family_ids": [
+            "course-family-2e2f3dfb9fea97b3"
+          ]
+        },
+        {
+          "family_id": "course-family-630c1f9e6d779205",
+          "repo_id": "22EM22803B",
+          "display_name": "国际金融",
+          "member_group_ids": [
+            "exact-name-adf9e5815ce31ec4",
+            "exact-name-e70b81e722f2ff6f"
+          ],
+          "expected_source_repo_ids": [
+            "22EM22803B",
+            "22EM22803F"
+          ],
+          "expected_course_names": [
+            "国际金融",
+            "国际金融(双语)"
+          ],
+          "expected_course_codes": [
+            "22EM22803B",
+            "22EM22803F"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。",
+          "absorbed_approved_candidate_family_ids": [
+            "course-family-630c1f9e6d779205"
+          ]
+        },
+        {
+          "family_id": "course-family-d68def25da344e60",
+          "repo_id": "22EE21002",
+          "display_name": "电路B",
+          "member_group_ids": [
+            "circuits-and-electronics",
+            "exact-name-0f8528024e6677fb",
+            "exact-name-3630ff9bdaab8afb",
+            "exact-name-70536d133ac66417",
+            "exact-name-a754df0ed18d57d4",
+            "exact-name-a968348cdb142b5d",
+            "name-family-5961a8455c0580a6",
+            "name-family-8f520fb3fbfcd4d7"
+          ],
+          "expected_source_repo_ids": [
+            "22EE21002",
+            "22EE21003",
+            "22EE22005F",
+            "22EE22029",
+            "22EE22031",
+            "22EI22303",
+            "22EI31210",
+            "22EI31311"
+          ],
+          "expected_course_names": [
+            "光电对抗技术",
+            "数字电子技术基础A",
+            "数字电子技术基础B",
+            "数字电子技术基础C",
+            "数字逻辑电路与系统",
+            "模拟电子技术基础",
+            "模拟电子技术基础B",
+            "电力电子技术",
+            "电子对抗技术A",
+            "电子技术A",
+            "电子技术C",
+            "电子线路基础",
+            "电工与电子技术A",
+            "电工与电子技术B",
+            "电工与电子技术C",
+            "电工与电子技术D",
+            "电工与电子技术E",
+            "电工与电子技术F",
+            "电工与电子技术实验A",
+            "电工与电子技术实验B",
+            "电工与电子技术实验E",
+            "电工与电子技术实验F",
+            "电路A(1)",
+            "电路A(2)",
+            "电路B",
+            "电路C",
+            "电路E",
+            "电路F",
+            "电路与电子基础",
+            "电路与电子学",
+            "电路与电子学实验",
+            "电路与电子技术实验A",
+            "电路与电子技术实验C",
+            "电路基础A"
+          ],
+          "expected_course_codes": [
+            "22EE21001",
+            "22EE21002",
+            "22EE21003",
+            "22EE22001",
+            "22EE22002",
+            "22EE22003",
+            "22EE22005F",
+            "22EE22007",
+            "22EE22008F",
+            "22EE22009",
+            "22EE22010",
+            "22EE22011",
+            "22EE22012",
+            "22EE22013",
+            "22EE22014",
+            "22EE22015",
+            "22EE22016",
+            "22EE22017",
+            "22EE22029",
+            "22EE22030",
+            "22EE22031",
+            "22EE22033",
+            "22EE22044",
+            "22EE22044C",
+            "22EE22045",
+            "22EE22045C",
+            "22EE22046",
+            "22EE22047",
+            "22EE22048",
+            "22EE31003",
+            "22EI22102",
+            "22EI22303",
+            "22EI22306",
+            "22EI31210",
+            "22EI31311",
+            "EE31023"
+          ],
+          "expected_legacy_units": [
+            "【公共课】/【公共课】电路类课程",
+            "薪火笔记社-竞赛/HIT外置/电路与电子C"
+          ],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-d33a312bd479e973",
+          "repo_id": "22HS22414",
+          "display_name": "中级听力",
+          "member_group_ids": [
+            "exact-name-52f9fe1cd8fe32ae",
+            "exact-name-b65e8eca72696c5e"
+          ],
+          "expected_source_repo_ids": [
+            "22HS22414",
+            "22HS22415"
+          ],
+          "expected_course_names": [
+            "中级听力(上)",
+            "中级听力(下)"
+          ],
+          "expected_course_codes": [
+            "22HS22414",
+            "22HS22415"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。",
+          "absorbed_approved_candidate_family_ids": [
+            "course-family-d33a312bd479e973"
+          ]
+        },
+        {
+          "family_id": "course-family-2f0d2c3326b4a7dd",
+          "repo_id": "22EM22941",
+          "display_name": "数字经济导论",
+          "member_group_ids": [
+            "exact-name-c6e46e8698ccbc53",
+            "exact-name-fff9890a312c973b"
+          ],
+          "expected_source_repo_ids": [
+            "22EM22941",
+            "22EM31914F"
+          ],
+          "expected_course_names": [
+            "数字经济学导论",
+            "数字经济导论"
+          ],
+          "expected_course_codes": [
+            "22EM22941",
+            "22EM31914F"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-candidates",
+          "evidence": "用户明确批准上一轮全部候选课程族共仓。",
+          "absorbed_approved_candidate_family_ids": [
+            "course-family-2f0d2c3326b4a7dd"
+          ]
+        },
+        {
+          "family_id": "course-family-2586141fd03e1303",
+          "repo_id": "22EM22701",
+          "display_name": "财务管理",
+          "member_group_ids": [
+            "exact-name-39bdb3740df5c0c3",
+            "exact-name-4893e2750183de4e",
+            "exact-name-6e1f412867ef9fac"
+          ],
+          "expected_source_repo_ids": [
+            "22EM22701",
+            "22EM31701",
+            "22ME22403"
+          ],
+          "expected_course_names": [
+            "中级财务管理",
+            "财务管理",
+            "财务管理学"
+          ],
+          "expected_course_codes": [
+            "22EM22701",
+            "22EM22701F",
+            "22EM31701",
+            "22EM31701F",
+            "22ME22403",
+            "22ME22403F"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-4d432ae40fc2467a",
+          "repo_id": "22CC31016C",
+          "display_name": "化学科技俄语",
+          "member_group_ids": [
+            "exact-name-1c586f5a9faaf708",
+            "exact-name-eec010c1e150de41"
+          ],
+          "expected_source_repo_ids": [
+            "22CC31016C",
+            "22CC31024C"
+          ],
+          "expected_course_names": [
+            "化学科技俄语",
+            "化学科技英语"
+          ],
+          "expected_course_codes": [
+            "22CC31016C",
+            "22CC31024C"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-eefa2f2ab2b92359",
+          "repo_id": "22AS22011",
+          "display_name": "自动控制理论",
+          "member_group_ids": [
+            "name-family-13d4c5857d1893cb",
+            "name-family-9b4558b47c01c11d"
+          ],
+          "expected_source_repo_ids": [
+            "22AS22011",
+            "22AS31102"
+          ],
+          "expected_course_names": [
+            "自动控制原理B",
+            "自动控制原理C",
+            "自动控制原理D",
+            "自动控制理论",
+            "自动控制理论(1)",
+            "自动控制理论(2)"
+          ],
+          "expected_course_codes": [
+            "22AS22011",
+            "22AS22012",
+            "22AS22013",
+            "22AS31102",
+            "22AS31103",
+            "22EE22002F",
+            "22EE22043",
+            "22ES22020",
+            "AS32104",
+            "AS32106"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-c195c234672d0d1a",
+          "repo_id": "22EM22901F",
+          "display_name": "计量经济学",
+          "member_group_ids": [
+            "exact-name-f82a359270d390fc",
+            "name-family-8929c9798e94aef8"
+          ],
+          "expected_source_repo_ids": [
+            "22EM22901F",
+            "22HS22205"
+          ],
+          "expected_course_names": [
+            "初级计量经济学",
+            "计量经济学",
+            "计量经济学A"
+          ],
+          "expected_course_codes": [
+            "22EM22901F",
+            "22EM22902",
+            "22HS22205",
+            "22HS22284"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-cde2f9da7497b17a",
+          "repo_id": "22AS22701",
+          "display_name": "原子物理",
+          "member_group_ids": [
+            "exact-name-1e286e637ef60f97",
+            "name-family-7f4fce80b0cf35a5"
+          ],
+          "expected_source_repo_ids": [
+            "22AS22701",
+            "22PH31011"
+          ],
+          "expected_course_names": [
+            "原子核物理",
+            "原子物理",
+            "原子物理(1)",
+            "原子物理(2)"
+          ],
+          "expected_course_codes": [
+            "22AS22701",
+            "22PH22001F",
+            "22PH22015C",
+            "22PH22016C",
+            "22PH22020",
+            "22PH31011"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        },
+        {
+          "family_id": "course-family-02014c60a62222c5",
+          "repo_id": "22EN31023F",
+          "display_name": "景观生态学",
+          "member_group_ids": [
+            "exact-name-2bac632a5d219c96",
+            "exact-name-9500035d4ebcc2cf",
+            "exact-name-b70a5f2e875b8bd4",
+            "exact-name-e9f821e98a535c93"
+          ],
+          "expected_source_repo_ids": [
+            "22EN31023F",
+            "22EN31024F",
+            "22EN31030",
+            "22EN31070C"
+          ],
+          "expected_course_names": [
+            "景观生态与设计",
+            "景观生态学",
+            "景观生态学(设计)",
+            "景观生态学设计"
+          ],
+          "expected_course_codes": [
+            "22EN31023F",
+            "22EN31024F",
+            "22EN31030",
+            "22EN31070C"
+          ],
+          "expected_legacy_units": [],
+          "approval": "user-approved-aggressive-policy",
+          "evidence": "用户明确接受激进共仓：顺序、语言、等级变体及相近课程在固定相似度与学科约束下共仓。",
+          "absorbed_approved_candidate_family_ids": []
+        }
+      ]
+    }
+  ]
+}

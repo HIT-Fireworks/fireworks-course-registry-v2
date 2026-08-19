@@ -3,8 +3,8 @@
   "course_code": "22PH22017",
   "course_name": "量子力学",
   "resource_group_id": "exact-name-7b27f11ee3671115",
-  "physical_repository_id": "physical-course-946f2dca1f165881",
-  "repo_id": "COURSES-946F2DCA1F16",
+  "physical_repository_id": "physical-course-ra-3ea87d20a2e20193",
+  "repo_id": "COURSES-RA-3EA87D20A2E2",
   "record_ids": [
     "REC-0E95C5D4D1DA0E4A",
     "REC-1AC270CCD97E5B37",
@@ -22,5 +22,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22PH22017.json",
-  "attachment_repo_id": "COURSES-946F2DCA1F16"
+  "attachment_repo_id": "COURSES-RA-3EA87D20A2E2"
 }

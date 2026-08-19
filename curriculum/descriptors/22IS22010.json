@@ -3,8 +3,8 @@
   "course_code": "22IS22010",
   "course_name": "传感技术及应用",
   "resource_group_id": "exact-name-098c31e8d4263895",
-  "physical_repository_id": "physical-course-2c608f332ac553b6",
-  "repo_id": "COURSES-2C608F332AC5",
+  "physical_repository_id": "physical-course-ra-ae0ec9dd0d5a80ec",
+  "repo_id": "COURSES-RA-AE0EC9DD0D5A",
   "record_ids": [
     "REC-3D91E2E675B3F689",
     "REC-B2E8927401B0F75C",
@@ -18,5 +18,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22IS22010.json",
-  "attachment_repo_id": "COURSES-2C608F332AC5"
+  "attachment_repo_id": "COURSES-RA-AE0EC9DD0D5A"
 }

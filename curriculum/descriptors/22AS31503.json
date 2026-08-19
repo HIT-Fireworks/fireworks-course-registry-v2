@@ -3,8 +3,8 @@
   "course_code": "22AS31503",
   "course_name": "远程火箭弹道学及制导方法",
   "resource_group_id": "exact-name-7002aa3789069e76",
-  "physical_repository_id": "physical-course-8c30cd8279559085",
-  "repo_id": "COURSES-8C30CD827955",
+  "physical_repository_id": "physical-course-ra-460a910d00ccbb06",
+  "repo_id": "COURSES-RA-460A910D00CC",
   "record_ids": [
     "REC-FC72C756C1489165"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22AS31503.json",
-  "attachment_repo_id": "COURSES-8C30CD827955"
+  "attachment_repo_id": "COURSES-RA-460A910D00CC"
 }

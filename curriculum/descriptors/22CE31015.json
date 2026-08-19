@@ -3,8 +3,8 @@
   "course_code": "22CE31015",
   "course_name": "无机材料科学基础",
   "resource_group_id": "exact-name-5d3ee8284a33e656",
-  "physical_repository_id": "physical-course-b8079c4567d697cd",
-  "repo_id": "COURSES-B8079C4567D6",
+  "physical_repository_id": "physical-course-ra-6c06dd652e326cf8",
+  "repo_id": "COURSES-RA-6C06DD652E32",
   "record_ids": [
     "REC-5D98B615E3E3BBE2",
     "REC-3170F81FAA8389E1"
@@ -16,5 +16,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22CE31015.json",
-  "attachment_repo_id": "COURSES-B8079C4567D6"
+  "attachment_repo_id": "COURSES-RA-6C06DD652E32"
 }

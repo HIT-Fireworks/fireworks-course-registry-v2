@@ -3,8 +3,8 @@
   "course_code": "22MA31015F",
   "course_name": "应用回归分析",
   "resource_group_id": "exact-name-475d8594f8d209fc",
-  "physical_repository_id": "physical-course-fe2c9066eed55ac5",
-  "repo_id": "COURSES-FE2C9066EED5",
+  "physical_repository_id": "physical-course-ra-abb94f5bf175b83f",
+  "repo_id": "COURSES-RA-ABB94F5BF175",
   "record_ids": [
     "REC-F44464FAAE29F291"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22MA31015F.json",
-  "attachment_repo_id": "COURSES-FE2C9066EED5"
+  "attachment_repo_id": "COURSES-RA-ABB94F5BF175"
 }

@@ -3,8 +3,8 @@
   "course_code": "22CS22006",
   "course_name": "计算机组成原理A",
   "resource_group_id": "name-family-f25024c9bba10fc1",
-  "physical_repository_id": "physical-course-f2e6dab479b1cb1e",
-  "repo_id": "22CS22006",
+  "physical_repository_id": "physical-course-ra-9221da3811a53744",
+  "repo_id": "COURSES-RA-9221DA3811A5",
   "record_ids": [
     "REC-20AA9C56513E6A22",
     "REC-316411CA12ECE501",
@@ -26,5 +26,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22CS22006.json",
-  "attachment_repo_id": "22CS22006"
+  "attachment_repo_id": "COURSES-RA-9221DA3811A5"
 }

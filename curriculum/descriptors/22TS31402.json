@@ -3,8 +3,8 @@
   "course_code": "22TS31402",
   "course_name": "交通控制A",
   "resource_group_id": "name-family-d7040ec2a283a5ee",
-  "physical_repository_id": "physical-course-9c6503da11740603",
-  "repo_id": "COURSES-9C6503DA1174",
+  "physical_repository_id": "physical-course-ra-22604b84c175e2c5",
+  "repo_id": "COURSES-RA-22604B84C175",
   "record_ids": [
     "REC-6DCCB295F7552D42"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22TS31402.json",
-  "attachment_repo_id": "COURSES-9C6503DA1174"
+  "attachment_repo_id": "COURSES-RA-22604B84C175"
 }

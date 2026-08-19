@@ -3,8 +3,8 @@
   "course_code": "22TS31303",
   "course_name": "无机材料性能",
   "resource_group_id": "exact-name-559b245698083032",
-  "physical_repository_id": "physical-course-9c6503da11740603",
-  "repo_id": "COURSES-9C6503DA1174",
+  "physical_repository_id": "physical-course-ra-22604b84c175e2c5",
+  "repo_id": "COURSES-RA-22604B84C175",
   "record_ids": [
     "REC-BAA2E54B23E69773",
     "REC-D624A4528A60F8DF"
@@ -16,5 +16,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22TS31303.json",
-  "attachment_repo_id": "COURSES-9C6503DA1174"
+  "attachment_repo_id": "COURSES-RA-22604B84C175"
 }

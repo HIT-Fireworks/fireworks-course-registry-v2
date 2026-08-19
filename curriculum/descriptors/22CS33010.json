@@ -3,8 +3,8 @@
   "course_code": "22CS33010",
   "course_name": "处理器设计与实践C",
   "resource_group_id": "name-family-f0037981c0b9b2ba",
-  "physical_repository_id": "physical-course-1cba1ca2a07097fe",
-  "repo_id": "22CS31003",
+  "physical_repository_id": "physical-course-ra-9221da3811a53744",
+  "repo_id": "COURSES-RA-9221DA3811A5",
   "record_ids": [
     "REC-76AA4CDA44DD39C6"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22CS33010.json",
-  "attachment_repo_id": "22CS31003"
+  "attachment_repo_id": "COURSES-RA-9221DA3811A5"
 }

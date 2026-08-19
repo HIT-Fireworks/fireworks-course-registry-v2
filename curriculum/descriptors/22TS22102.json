@@ -3,8 +3,8 @@
   "course_code": "22TS22102",
   "course_name": "道路勘测设计A",
   "resource_group_id": "name-family-16119ab5a6d594de",
-  "physical_repository_id": "physical-course-9c6503da11740603",
-  "repo_id": "COURSES-9C6503DA1174",
+  "physical_repository_id": "physical-course-ra-22604b84c175e2c5",
+  "repo_id": "COURSES-RA-22604B84C175",
   "record_ids": [
     "REC-6D28A1349CCA5B73",
     "REC-8D3AE7022B16D1C1",
@@ -24,5 +24,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22TS22102.json",
-  "attachment_repo_id": "COURSES-9C6503DA1174"
+  "attachment_repo_id": "COURSES-RA-22604B84C175"
 }

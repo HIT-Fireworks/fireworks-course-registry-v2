@@ -3,8 +3,8 @@
   "course_code": "22PH31002C",
   "course_name": "等离子体物理(2)",
   "resource_group_id": "name-family-75aeee92047d119d",
-  "physical_repository_id": "physical-course-946f2dca1f165881",
-  "repo_id": "COURSES-946F2DCA1F16",
+  "physical_repository_id": "physical-course-ra-eb8fe773296bc3ba",
+  "repo_id": "COURSES-RA-EB8FE773296B",
   "record_ids": [
     "REC-DCB0D1EDE099B3B1"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22PH31002C.json",
-  "attachment_repo_id": "COURSES-946F2DCA1F16"
+  "attachment_repo_id": "COURSES-RA-EB8FE773296B"
 }

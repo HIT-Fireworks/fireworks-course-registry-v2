@@ -3,8 +3,8 @@
   "course_code": "22TS33405",
   "course_name": "交通系统工程课程设计",
   "resource_group_id": "exact-name-c4f532b153994801",
-  "physical_repository_id": "physical-course-9c6503da11740603",
-  "repo_id": "COURSES-9C6503DA1174",
+  "physical_repository_id": "physical-course-ra-22604b84c175e2c5",
+  "repo_id": "COURSES-RA-22604B84C175",
   "record_ids": [
     "REC-A74D611CEC79DBB9"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22TS33405.json",
-  "attachment_repo_id": "COURSES-9C6503DA1174"
+  "attachment_repo_id": "COURSES-RA-22604B84C175"
 }

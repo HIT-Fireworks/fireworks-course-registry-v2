@@ -3,8 +3,8 @@
   "course_code": "22EM31704F",
   "course_name": "内部控制",
   "resource_group_id": "exact-name-22be54e649026f24",
-  "physical_repository_id": "physical-course-1a31c4fa9f17f929",
-  "repo_id": "COURSES-1A31C4FA9F17",
+  "physical_repository_id": "physical-course-ra-c0fd61183ecf87fc",
+  "repo_id": "COURSES-RA-C0FD61183ECF",
   "record_ids": [
     "REC-6A39F4FE3FF6EE34"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EM31704F.json",
-  "attachment_repo_id": "COURSES-1A31C4FA9F17"
+  "attachment_repo_id": "COURSES-RA-C0FD61183ECF"
 }

@@ -26,14 +26,14 @@
     "computer": 0,
     "tutoring": 0
   },
-  "repo_id": "COURSES-8C30CD827955",
+  "repo_id": "COURSES-RA-4A200AFA4ECD",
   "repo_type": "course",
   "resource_group_id": "optimal-control",
-  "physical_repository_id": "physical-course-8c30cd8279559085",
+  "physical_repository_id": "physical-course-ra-4a200afa4ecda155",
   "descriptor_id": "course-code:AS33106",
-  "attachment_repo_id": "COURSES-8C30CD827955",
-  "merge_key": "physical-repository:physical-course-8c30cd8279559085",
-  "merge_reason": "版本化互斥物理仓库策略按 canonical owner 物化；CourseGroup 仅保留为导航和未来拆分证据",
+  "attachment_repo_id": "COURSES-RA-4A200AFA4ECD",
+  "merge_key": "physical-repository:physical-course-ra-4a200afa4ecda155",
+  "merge_reason": "版本化互斥物理仓库策略物化；approved 阶段使用资料感知安全 owner 分桶；CourseGroup 仅保留为导航和未来拆分证据",
   "source_paths": [
     "curriculum://hit-data/plans/111_2022版_01_01E041_自动化.toml#courses[8]"
   ],

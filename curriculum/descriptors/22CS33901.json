@@ -3,8 +3,8 @@
   "course_code": "22CS33901",
   "course_name": "工业实践",
   "resource_group_id": "exact-name-d50dc23127904f8d",
-  "physical_repository_id": "physical-course-bc87c0351d93e4c1",
-  "repo_id": "COURSES-BC87C0351D93",
+  "physical_repository_id": "physical-course-ra-17e77210fda89ec8",
+  "repo_id": "COURSES-RA-17E77210FDA8",
   "record_ids": [
     "REC-76A8FE60EC68DFA0"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22CS33901.json",
-  "attachment_repo_id": "COURSES-BC87C0351D93"
+  "attachment_repo_id": "COURSES-RA-17E77210FDA8"
 }

@@ -3,8 +3,8 @@
   "course_code": "22FL32250C",
   "course_name": "综合俄语1",
   "resource_group_id": "exact-name-fcd93af6e3256dce",
-  "physical_repository_id": "physical-course-61030dd6641b59f7",
-  "repo_id": "22FL32250C",
+  "physical_repository_id": "physical-course-ra-0f4ca6b990039c75",
+  "repo_id": "COURSES-RA-0F4CA6B99003",
   "record_ids": [
     "REC-1D0A417E0A4E24A2",
     "REC-8CA4B4C4AAE60E46",
@@ -18,5 +18,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22FL32250C.json",
-  "attachment_repo_id": "22FL32250C"
+  "attachment_repo_id": "COURSES-RA-0F4CA6B99003"
 }

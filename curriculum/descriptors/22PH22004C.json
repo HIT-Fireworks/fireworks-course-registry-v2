@@ -3,8 +3,8 @@
   "course_code": "22PH22004C",
   "course_name": "电磁学(1)",
   "resource_group_id": "name-family-7e07b665573015cb",
-  "physical_repository_id": "physical-course-946f2dca1f165881",
-  "repo_id": "COURSES-946F2DCA1F16",
+  "physical_repository_id": "physical-course-ra-3ea87d20a2e20193",
+  "repo_id": "COURSES-RA-3EA87D20A2E2",
   "record_ids": [
     "REC-1B4AF907CCEC0595"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22PH22004C.json",
-  "attachment_repo_id": "COURSES-946F2DCA1F16"
+  "attachment_repo_id": "COURSES-RA-3EA87D20A2E2"
 }

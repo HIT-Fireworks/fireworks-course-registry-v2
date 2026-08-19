@@ -3,8 +3,8 @@
   "course_code": "22HS22303",
   "course_name": "法理学",
   "resource_group_id": "name-family-9e69074a79bfc61a",
-  "physical_repository_id": "physical-course-65da033ea27d86ad",
-  "repo_id": "COURSES-65DA033EA27D",
+  "physical_repository_id": "physical-course-ra-c1fbeaa0e488ff8a",
+  "repo_id": "COURSES-RA-C1FBEAA0E488",
   "record_ids": [
     "REC-8931DA5AFC605E5F"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22HS22303.json",
-  "attachment_repo_id": "COURSES-65DA033EA27D"
+  "attachment_repo_id": "COURSES-RA-C1FBEAA0E488"
 }

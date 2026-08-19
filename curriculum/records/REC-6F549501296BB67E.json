@@ -26,14 +26,14 @@
     "computer": 0,
     "tutoring": 0
   },
-  "repo_id": "22MX11006",
+  "repo_id": "COURSES-RA-FCA3B5F9A871",
   "repo_type": "course",
   "resource_group_id": "name-family-9dca50b9bd9478a5",
-  "physical_repository_id": "physical-course-20626ab3e489674b",
+  "physical_repository_id": "physical-course-ra-fca3b5f9a8711d1e",
   "descriptor_id": "course-code:22MX11008",
-  "attachment_repo_id": "22MX11006",
-  "merge_key": "physical-repository:physical-course-20626ab3e489674b",
-  "merge_reason": "版本化互斥物理仓库策略按 canonical owner 物化；CourseGroup 仅保留为导航和未来拆分证据",
+  "attachment_repo_id": "COURSES-RA-FCA3B5F9A871",
+  "merge_key": "physical-repository:physical-course-ra-fca3b5f9a8711d1e",
+  "merge_reason": "版本化互斥物理仓库策略物化；approved 阶段使用资料感知安全 owner 分桶；CourseGroup 仅保留为导航和未来拆分证据",
   "source_paths": [
     "curriculum://hit-data/plans/068_2022版_11B_11B345_城乡规划.toml#courses[52]"
   ],

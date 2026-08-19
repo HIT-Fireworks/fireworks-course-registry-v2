@@ -3,8 +3,8 @@
   "course_code": "22MS22111F",
   "course_name": "材料力学性能",
   "resource_group_id": "name-family-8623b6265ba3f483",
-  "physical_repository_id": "physical-course-12af5bc572e71106",
-  "repo_id": "COURSES-12AF5BC572E7",
+  "physical_repository_id": "physical-course-ra-86131c81563856d8",
+  "repo_id": "COURSES-RA-86131C815638",
   "record_ids": [
     "REC-4EB839283771B9E2",
     "REC-6EF2377A673607A0",
@@ -26,5 +26,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22MS22111F.json",
-  "attachment_repo_id": "COURSES-12AF5BC572E7"
+  "attachment_repo_id": "COURSES-RA-86131C815638"
 }

@@ -3,8 +3,8 @@
   "course_code": "22ME22004",
   "course_name": "机械设计基础C",
   "resource_group_id": "name-family-9a34c1aa82bc9829",
-  "physical_repository_id": "physical-course-0b9f6078fd5336f8",
-  "repo_id": "22ME22003",
+  "physical_repository_id": "physical-course-ra-38dc612180448883",
+  "repo_id": "COURSES-RA-38DC61218044",
   "record_ids": [
     "REC-2ECFE6752A71EC27",
     "REC-3C95F15529D62B96",
@@ -30,5 +30,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22ME22004.json",
-  "attachment_repo_id": "22ME22003"
+  "attachment_repo_id": "COURSES-RA-38DC61218044"
 }

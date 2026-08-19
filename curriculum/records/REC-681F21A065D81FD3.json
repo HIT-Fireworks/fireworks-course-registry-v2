@@ -26,14 +26,14 @@
     "computer": 0,
     "tutoring": 0
   },
-  "repo_id": "22ME22011",
+  "repo_id": "COURSES-RA-38DC61218044",
   "repo_type": "course",
   "resource_group_id": "name-family-59f49e6869ff7e43",
-  "physical_repository_id": "physical-course-92ddeef762384c5c",
+  "physical_repository_id": "physical-course-ra-38dc612180448883",
   "descriptor_id": "course-code:22ME22011",
-  "attachment_repo_id": "22ME22011",
-  "merge_key": "physical-repository:physical-course-92ddeef762384c5c",
-  "merge_reason": "版本化互斥物理仓库策略按 canonical owner 物化；CourseGroup 仅保留为导航和未来拆分证据",
+  "attachment_repo_id": "COURSES-RA-38DC61218044",
+  "merge_key": "physical-repository:physical-course-ra-38dc612180448883",
+  "merge_reason": "版本化互斥物理仓库策略物化；approved 阶段使用资料感知安全 owner 分桶；CourseGroup 仅保留为导航和未来拆分证据",
   "source_paths": [
     "curriculum://hit-data/plans/192_2022版_28_28015_智能感知工程.toml#courses[56]"
   ],

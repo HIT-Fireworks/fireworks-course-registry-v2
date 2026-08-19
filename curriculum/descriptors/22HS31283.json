@@ -3,8 +3,8 @@
   "course_code": "22HS31283",
   "course_name": "产业经济学A",
   "resource_group_id": "name-family-ef02f43e01d336fd",
-  "physical_repository_id": "physical-course-65da033ea27d86ad",
-  "repo_id": "COURSES-65DA033EA27D",
+  "physical_repository_id": "physical-course-ra-542e272afadc00d5",
+  "repo_id": "COURSES-RA-542E272AFADC",
   "record_ids": [
     "REC-84A44620B2A9AC71"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22HS31283.json",
-  "attachment_repo_id": "COURSES-65DA033EA27D"
+  "attachment_repo_id": "COURSES-RA-542E272AFADC"
 }

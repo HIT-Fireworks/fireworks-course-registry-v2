@@ -3,8 +3,8 @@
   "course_code": "22AS31802",
   "course_name": "微电子工艺",
   "resource_group_id": "exact-name-77ce76820b539234",
-  "physical_repository_id": "physical-course-7bb7f5e61cac3b06",
-  "repo_id": "22AS31802",
+  "physical_repository_id": "physical-course-ra-b7729fd109fae04d",
+  "repo_id": "COURSES-RA-B7729FD109FA",
   "record_ids": [
     "REC-390BCBAAA6386EB9",
     "REC-915B26D0B007AABB"
@@ -16,5 +16,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22AS31802.json",
-  "attachment_repo_id": "22AS31802"
+  "attachment_repo_id": "COURSES-RA-B7729FD109FA"
 }

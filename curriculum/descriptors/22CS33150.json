@@ -3,8 +3,8 @@
   "course_code": "22CS33150",
   "course_name": "信息安全程序设计实践",
   "resource_group_id": "exact-name-cd51bbd903cb5650",
-  "physical_repository_id": "physical-course-bc87c0351d93e4c1",
-  "repo_id": "COURSES-BC87C0351D93",
+  "physical_repository_id": "physical-course-ra-17e77210fda89ec8",
+  "repo_id": "COURSES-RA-17E77210FDA8",
   "record_ids": [
     "REC-8D6353816C038FB9",
     "REC-79E9E9762F81BD2B"
@@ -16,5 +16,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22CS33150.json",
-  "attachment_repo_id": "COURSES-BC87C0351D93"
+  "attachment_repo_id": "COURSES-RA-17E77210FDA8"
 }

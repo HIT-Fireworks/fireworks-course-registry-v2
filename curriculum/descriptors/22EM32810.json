@@ -3,8 +3,8 @@
   "course_code": "22EM32810",
   "course_name": "金融科技与区块链",
   "resource_group_id": "exact-name-6ebd45fb50aa03eb",
-  "physical_repository_id": "physical-course-b57afdbb4a868ce1",
-  "repo_id": "22EM32810",
+  "physical_repository_id": "physical-course-ra-600595b8e88c32fe",
+  "repo_id": "COURSES-RA-600595B8E88C",
   "record_ids": [
     "REC-3CF2B6C564A7FA90",
     "REC-2359E9ABC0BD2089"
@@ -16,5 +16,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EM32810.json",
-  "attachment_repo_id": "22EM32810"
+  "attachment_repo_id": "COURSES-RA-600595B8E88C"
 }

@@ -3,8 +3,8 @@
   "course_code": "22EE31002F",
   "course_name": "电力系统分析",
   "resource_group_id": "exact-name-93bbe74a2f6d9ed1",
-  "physical_repository_id": "physical-course-720b5cdda511950e",
-  "repo_id": "22EE31002F",
+  "physical_repository_id": "physical-course-ra-1b72ed8c2ef91ddd",
+  "repo_id": "COURSES-RA-1B72ED8C2EF9",
   "record_ids": [
     "REC-9D7FCC7BCEC3A093"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EE31002F.json",
-  "attachment_repo_id": "22EE31002F"
+  "attachment_repo_id": "COURSES-RA-1B72ED8C2EF9"
 }

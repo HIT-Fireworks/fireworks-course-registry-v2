@@ -3,8 +3,8 @@
   "course_code": "22EM31202F",
   "course_name": "人力资源管理",
   "resource_group_id": "exact-name-6ff43c99212c516b",
-  "physical_repository_id": "physical-course-23ebda8d88ee00c1",
-  "repo_id": "22EM22405",
+  "physical_repository_id": "physical-course-ra-600595b8e88c32fe",
+  "repo_id": "COURSES-RA-600595B8E88C",
   "record_ids": [
     "REC-978EF27C4207BA04",
     "REC-F7C644509DBA41F7"
@@ -16,5 +16,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EM31202F.json",
-  "attachment_repo_id": "22EM22405"
+  "attachment_repo_id": "COURSES-RA-600595B8E88C"
 }

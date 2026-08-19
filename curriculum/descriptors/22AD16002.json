@@ -3,8 +3,8 @@
   "course_code": "22AD16002",
   "course_name": "军事技能",
   "resource_group_id": "exact-name-289a6c10aa9a25cd",
-  "physical_repository_id": "physical-course-81d369562a63b24f",
-  "repo_id": "22AD16002",
+  "physical_repository_id": "physical-course-ra-63f4418ccb8d9283",
+  "repo_id": "COURSES-RA-63F4418CCB8D",
   "record_ids": [
     "REC-0AC9E7BA35FEC5C6",
     "REC-0D283E03B1D27424",
@@ -248,5 +248,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22AD16002.json",
-  "attachment_repo_id": "22AD16002"
+  "attachment_repo_id": "COURSES-RA-63F4418CCB8D"
 }

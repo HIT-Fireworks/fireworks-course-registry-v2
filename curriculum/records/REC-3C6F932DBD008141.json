@@ -26,14 +26,14 @@
     "computer": 0,
     "tutoring": 0
   },
-  "repo_id": "COURSES-2C608F332AC5",
+  "repo_id": "COURSES-RA-AE0EC9DD0D5A",
   "repo_type": "course",
   "resource_group_id": "name-family-b82139106c633b7f",
-  "physical_repository_id": "physical-course-2c608f332ac553b6",
+  "physical_repository_id": "physical-course-ra-ae0ec9dd0d5a80ec",
   "descriptor_id": "course-code:22IS22004",
-  "attachment_repo_id": "COURSES-2C608F332AC5",
-  "merge_key": "physical-repository:physical-course-2c608f332ac553b6",
-  "merge_reason": "版本化互斥物理仓库策略按 canonical owner 物化；CourseGroup 仅保留为导航和未来拆分证据",
+  "attachment_repo_id": "COURSES-RA-AE0EC9DD0D5A",
+  "merge_key": "physical-repository:physical-course-ra-ae0ec9dd0d5a80ec",
+  "merge_reason": "版本化互斥物理仓库策略物化；approved 阶段使用资料感知安全 owner 分桶；CourseGroup 仅保留为导航和未来拆分证据",
   "source_paths": [
     "curriculum://hit-data/plans/190_2022版_28_28011_测控技术与仪器.toml#courses[35]"
   ],

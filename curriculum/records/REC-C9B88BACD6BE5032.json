@@ -29,11 +29,11 @@
   "repo_id": "22AS31308",
   "repo_type": "course",
   "resource_group_id": "exact-name-84be6872dce87d02",
-  "physical_repository_id": "physical-course-69e1b92cc6406c72",
+  "physical_repository_id": "physical-course-ra-a38d1fbbecc13897",
   "descriptor_id": "course-code:22MS22106F",
   "attachment_repo_id": "22AS31308",
-  "merge_key": "physical-repository:physical-course-69e1b92cc6406c72",
-  "merge_reason": "版本化互斥物理仓库策略按 canonical owner 物化；CourseGroup 仅保留为导航和未来拆分证据",
+  "merge_key": "physical-repository:physical-course-ra-a38d1fbbecc13897",
+  "merge_reason": "版本化互斥物理仓库策略物化；approved 阶段使用资料感知安全 owner 分桶；CourseGroup 仅保留为导航和未来拆分证据",
   "source_paths": [
     "curriculum://hit-data/plans/035_2022版_03_03F291_焊接技术与工程.toml#courses[4]"
   ],

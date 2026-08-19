@@ -3,8 +3,8 @@
   "course_code": "22PH22003F",
   "course_name": "热力学与统计物理",
   "resource_group_id": "exact-name-d65c1f5004773f2e",
-  "physical_repository_id": "physical-course-946f2dca1f165881",
-  "repo_id": "COURSES-946F2DCA1F16",
+  "physical_repository_id": "physical-course-ra-32060093741d40fd",
+  "repo_id": "COURSES-RA-32060093741D",
   "record_ids": [
     "REC-E25BF220CAEFE103"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22PH22003F.json",
-  "attachment_repo_id": "COURSES-946F2DCA1F16"
+  "attachment_repo_id": "COURSES-RA-32060093741D"
 }

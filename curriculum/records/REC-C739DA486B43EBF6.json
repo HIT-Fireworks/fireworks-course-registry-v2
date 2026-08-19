@@ -29,11 +29,11 @@
   "repo_id": "COURSES-FABC2915B57C",
   "repo_type": "course",
   "resource_group_id": "exact-name-589885f41a9888e6",
-  "physical_repository_id": "physical-course-fabc2915b57c2ea7",
+  "physical_repository_id": "physical-course-ra-a8bd0e364def139c",
   "descriptor_id": "course-code:22ES22012",
   "attachment_repo_id": "COURSES-FABC2915B57C",
-  "merge_key": "physical-repository:physical-course-fabc2915b57c2ea7",
-  "merge_reason": "版本化互斥物理仓库策略按 canonical owner 物化；CourseGroup 仅保留为导航和未来拆分证据",
+  "merge_key": "physical-repository:physical-course-ra-a8bd0e364def139c",
+  "merge_reason": "版本化互斥物理仓库策略物化；approved 阶段使用资料感知安全 owner 分桶；CourseGroup 仅保留为导航和未来拆分证据",
   "source_paths": [
     "curriculum://hit-data/plans/014_2022版_04_04E024_能源与动力工程.toml#courses[0]"
   ],

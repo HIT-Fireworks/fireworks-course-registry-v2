@@ -3,8 +3,8 @@
   "course_code": "22FL32267C",
   "course_name": "俄语基础语法2",
   "resource_group_id": "exact-name-5114829c06f15fdc",
-  "physical_repository_id": "physical-course-cf57911f934e37a9",
-  "repo_id": "22FL32261C",
+  "physical_repository_id": "physical-course-ra-0f4ca6b990039c75",
+  "repo_id": "COURSES-RA-0F4CA6B99003",
   "record_ids": [
     "REC-DDF95E11260744B5"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22FL32267C.json",
-  "attachment_repo_id": "22FL32261C"
+  "attachment_repo_id": "COURSES-RA-0F4CA6B99003"
 }

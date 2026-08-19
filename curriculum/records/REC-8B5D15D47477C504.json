@@ -29,11 +29,11 @@
   "repo_id": "22MX11005",
   "repo_type": "course",
   "resource_group_id": "exact-name-61b019325605f739",
-  "physical_repository_id": "physical-course-11400d6ff88905da",
+  "physical_repository_id": "physical-course-ra-b2305c1c78b8905a",
   "descriptor_id": "course-code:22MX11005",
   "attachment_repo_id": "22MX11005",
-  "merge_key": "physical-repository:physical-course-11400d6ff88905da",
-  "merge_reason": "版本化互斥物理仓库策略按 canonical owner 物化；CourseGroup 仅保留为导航和未来拆分证据",
+  "merge_key": "physical-repository:physical-course-ra-b2305c1c78b8905a",
+  "merge_reason": "版本化互斥物理仓库策略物化；approved 阶段使用资料感知安全 owner 分桶；CourseGroup 仅保留为导航和未来拆分证据",
   "source_paths": [
     "curriculum://hit-data/plans/154_2022版_31_31SXS121031_数学与应用数学（+计算机科学与技术双学士学位）.toml#courses[27]"
   ],

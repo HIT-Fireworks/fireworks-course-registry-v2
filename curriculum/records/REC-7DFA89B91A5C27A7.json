@@ -29,11 +29,11 @@
   "repo_id": "22MX11002",
   "repo_type": "course",
   "resource_group_id": "exact-name-0b69d84945c7dffa",
-  "physical_repository_id": "physical-course-f8fcee96f6ce77bd",
+  "physical_repository_id": "physical-course-ra-84844bf78b43527b",
   "descriptor_id": "course-code:22MX11002",
   "attachment_repo_id": "22MX11002",
-  "merge_key": "physical-repository:physical-course-f8fcee96f6ce77bd",
-  "merge_reason": "版本化互斥物理仓库策略按 canonical owner 物化；CourseGroup 仅保留为导航和未来拆分证据",
+  "merge_key": "physical-repository:physical-course-ra-84844bf78b43527b",
+  "merge_reason": "版本化互斥物理仓库策略物化；approved 阶段使用资料感知安全 owner 分桶；CourseGroup 仅保留为导航和未来拆分证据",
   "source_paths": [
     "curriculum://hit-data/plans/196_2022版_32_32111_应用物理学.toml#courses[15]"
   ],

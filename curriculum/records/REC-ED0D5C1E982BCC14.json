@@ -26,14 +26,14 @@
     "computer": 0,
     "tutoring": 0
   },
-  "repo_id": "22ME21007",
+  "repo_id": "COURSES-RA-38DC61218044",
   "repo_type": "course",
   "resource_group_id": "exact-name-1773a20312a20643",
-  "physical_repository_id": "physical-course-abcccfe2fa9e6d04",
+  "physical_repository_id": "physical-course-ra-38dc612180448883",
   "descriptor_id": "course-code:22ME21007",
-  "attachment_repo_id": "22ME21007",
-  "merge_key": "physical-repository:physical-course-abcccfe2fa9e6d04",
-  "merge_reason": "版本化互斥物理仓库策略按 canonical owner 物化；CourseGroup 仅保留为导航和未来拆分证据",
+  "attachment_repo_id": "COURSES-RA-38DC61218044",
+  "merge_key": "physical-repository:physical-course-ra-38dc612180448883",
+  "merge_reason": "版本化互斥物理仓库策略物化；approved 阶段使用资料感知安全 owner 分桶；CourseGroup 仅保留为导航和未来拆分证据",
   "source_paths": [
     "curriculum://hit-data/plans/140_2022版_27_27272_环境科学.toml#courses[15]"
   ],

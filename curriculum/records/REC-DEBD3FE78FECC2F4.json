@@ -29,11 +29,11 @@
   "repo_id": "22MX11001",
   "repo_type": "course",
   "resource_group_id": "exact-name-95604c8885f8f7db",
-  "physical_repository_id": "physical-course-929bfb79df3cb042",
+  "physical_repository_id": "physical-course-ra-939e2f23084b512f",
   "descriptor_id": "course-code:22MX11001",
   "attachment_repo_id": "22MX11001",
-  "merge_key": "physical-repository:physical-course-929bfb79df3cb042",
-  "merge_reason": "版本化互斥物理仓库策略按 canonical owner 物化；CourseGroup 仅保留为导航和未来拆分证据",
+  "merge_key": "physical-repository:physical-course-ra-939e2f23084b512f",
+  "merge_reason": "版本化互斥物理仓库策略物化；approved 阶段使用资料感知安全 owner 分桶；CourseGroup 仅保留为导航和未来拆分证据",
   "source_paths": [
     "curriculum://hit-data/plans/087_2022版_13B_13B371_软件工程.toml#courses[7]"
   ],

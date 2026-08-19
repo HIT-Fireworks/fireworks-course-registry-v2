@@ -3,8 +3,8 @@
   "course_code": "22CS31050",
   "course_name": "人工智能数学基础A",
   "resource_group_id": "name-family-f4d7b64a4b89654e",
-  "physical_repository_id": "physical-course-bc87c0351d93e4c1",
-  "repo_id": "COURSES-BC87C0351D93",
+  "physical_repository_id": "physical-course-ra-17e77210fda89ec8",
+  "repo_id": "COURSES-RA-17E77210FDA8",
   "record_ids": [
     "REC-7AE1AD074405D449"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22CS31050.json",
-  "attachment_repo_id": "COURSES-BC87C0351D93"
+  "attachment_repo_id": "COURSES-RA-17E77210FDA8"
 }

@@ -3,8 +3,8 @@
   "course_code": "22EM22007F",
   "course_name": "人工智能与机器学习",
   "resource_group_id": "exact-name-d1603ac81526be8a",
-  "physical_repository_id": "physical-course-cd9dee285a45a304",
-  "repo_id": "22EM22007",
+  "physical_repository_id": "physical-course-ra-600595b8e88c32fe",
+  "repo_id": "COURSES-RA-600595B8E88C",
   "record_ids": [
     "REC-506FD9C5D33CC4D2"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EM22007F.json",
-  "attachment_repo_id": "22EM22007"
+  "attachment_repo_id": "COURSES-RA-600595B8E88C"
 }

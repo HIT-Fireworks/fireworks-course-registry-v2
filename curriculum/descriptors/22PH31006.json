@@ -3,8 +3,8 @@
   "course_code": "22PH31006",
   "course_name": "光电信号检测与处理",
   "resource_group_id": "exact-name-7b502e0d83b652b2",
-  "physical_repository_id": "physical-course-946f2dca1f165881",
-  "repo_id": "COURSES-946F2DCA1F16",
+  "physical_repository_id": "physical-course-ra-32060093741d40fd",
+  "repo_id": "COURSES-RA-32060093741D",
   "record_ids": [
     "REC-86EB6AC1340022BC",
     "REC-A6FD5FCAD27AF924",
@@ -18,5 +18,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22PH31006.json",
-  "attachment_repo_id": "COURSES-946F2DCA1F16"
+  "attachment_repo_id": "COURSES-RA-32060093741D"
 }

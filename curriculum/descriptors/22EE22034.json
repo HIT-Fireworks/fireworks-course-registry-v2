@@ -3,8 +3,8 @@
   "course_code": "22EE22034",
   "course_name": "模拟电子技术实验",
   "resource_group_id": "exact-name-ffeeffa70277d016",
-  "physical_repository_id": "physical-course-d097c9aa9e1daa22",
-  "repo_id": "22EE22034",
+  "physical_repository_id": "physical-course-ra-1b72ed8c2ef91ddd",
+  "repo_id": "COURSES-RA-1B72ED8C2EF9",
   "record_ids": [
     "REC-4DE6B87014164685",
     "REC-041B108B8360E48D",
@@ -32,5 +32,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EE22034.json",
-  "attachment_repo_id": "22EE22034"
+  "attachment_repo_id": "COURSES-RA-1B72ED8C2EF9"
 }

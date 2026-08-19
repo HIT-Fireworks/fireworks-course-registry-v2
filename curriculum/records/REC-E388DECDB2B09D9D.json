@@ -29,11 +29,11 @@
   "repo_id": "22EI22202",
   "repo_type": "course",
   "resource_group_id": "exact-name-e31bd96521b614b3",
-  "physical_repository_id": "physical-course-b4a3676d3cd3551d",
+  "physical_repository_id": "physical-course-ra-63cb24120d89267c",
   "descriptor_id": "course-code:22TS22003F",
   "attachment_repo_id": "22EI22202",
-  "merge_key": "physical-repository:physical-course-b4a3676d3cd3551d",
-  "merge_reason": "版本化互斥物理仓库策略按 canonical owner 物化；CourseGroup 仅保留为导航和未来拆分证据",
+  "merge_key": "physical-repository:physical-course-ra-63cb24120d89267c",
+  "merge_reason": "版本化互斥物理仓库策略物化；approved 阶段使用资料感知安全 owner 分桶；CourseGroup 仅保留为导航和未来拆分证据",
   "source_paths": [
     "curriculum://hit-data/plans/097_2022版_12_12F326S_智能交通.toml#courses[2]"
   ],

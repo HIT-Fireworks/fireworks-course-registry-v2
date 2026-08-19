@@ -3,8 +3,8 @@
   "course_code": "22AS31507",
   "course_name": "航天器总体设计",
   "resource_group_id": "exact-name-db025dadfd67c23a",
-  "physical_repository_id": "physical-course-8c30cd8279559085",
-  "repo_id": "COURSES-8C30CD827955",
+  "physical_repository_id": "physical-course-ra-460a910d00ccbb06",
+  "repo_id": "COURSES-RA-460A910D00CC",
   "record_ids": [
     "REC-F136F5B317CDE79D"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22AS31507.json",
-  "attachment_repo_id": "COURSES-8C30CD827955"
+  "attachment_repo_id": "COURSES-RA-460A910D00CC"
 }

@@ -3,8 +3,8 @@
   "course_code": "22AS31401",
   "course_name": "智能结构与系统设计",
   "resource_group_id": "exact-name-f6ee462d2d61e9f9",
-  "physical_repository_id": "physical-course-8c30cd8279559085",
-  "repo_id": "COURSES-8C30CD827955",
+  "physical_repository_id": "physical-course-ra-460a910d00ccbb06",
+  "repo_id": "COURSES-RA-460A910D00CC",
   "record_ids": [
     "REC-22FF91240EC16527"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22AS31401.json",
-  "attachment_repo_id": "COURSES-8C30CD827955"
+  "attachment_repo_id": "COURSES-RA-460A910D00CC"
 }
