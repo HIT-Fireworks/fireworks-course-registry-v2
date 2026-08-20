@@ -3,8 +3,8 @@
   "course_code": "22FL12001",
   "course_name": "大学外语",
   "resource_group_id": "exact-name-8ce930f6daa0a3d0",
-  "physical_repository_id": "physical-course-ra-0f4ca6b990039c75",
-  "repo_id": "COURSES-RA-0F4CA6B99003",
+  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
+  "repo_id": "COURSES-RA-542E272AFADC",
   "record_ids": [
     "REC-01D968D4F7C81753",
     "REC-1DFBCE8F5978BC6F",
@@ -246,5 +246,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22FL12001.json",
-  "attachment_repo_id": "COURSES-RA-0F4CA6B99003"
+  "attachment_repo_id": "COURSES-RA-542E272AFADC"
 }

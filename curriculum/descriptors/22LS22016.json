@@ -3,8 +3,8 @@
   "course_code": "22LS22016",
   "course_name": "生物化学A(2)",
   "resource_group_id": "name-family-fa9c2595d31ab74e",
-  "physical_repository_id": "physical-course-ra-20e8f4648168b9f9",
-  "repo_id": "22CC31023F",
+  "physical_repository_id": "physical-course-atomic-8fdee15683baa619",
+  "repo_id": "COURSES-CE4133CBE869",
   "record_ids": [
     "REC-9BCA18101FA1B3A6",
     "REC-676449247B3AE58A",
@@ -20,5 +20,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22LS22016.json",
-  "attachment_repo_id": "22CC31023F"
+  "attachment_repo_id": "COURSES-CE4133CBE869"
 }

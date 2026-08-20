@@ -3,8 +3,8 @@
   "course_code": "22FL32256",
   "course_name": "俄语实用口语4",
   "resource_group_id": "course-family-29943241d1b36a1d",
-  "physical_repository_id": "physical-course-ra-0a95a5cc73b6cc63",
-  "repo_id": "COURSES-B2F4130DA53E",
+  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
+  "repo_id": "COURSES-RA-542E272AFADC",
   "record_ids": [
     "REC-0D1B9074ABB71D2B"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22FL32256.json",
-  "attachment_repo_id": "COURSES-B2F4130DA53E"
+  "attachment_repo_id": "COURSES-RA-542E272AFADC"
 }

@@ -3,8 +3,8 @@
   "course_code": "22ME45100",
   "course_name": "社会实践",
   "resource_group_id": "exact-name-c2806a1907c8bba4",
-  "physical_repository_id": "physical-course-ra-7ff254a00afc9833",
-  "repo_id": "22IS45001",
+  "physical_repository_id": "physical-course-atomic-a42f57a93e87e2ce",
+  "repo_id": "COURSES-669D2EC19F09",
   "record_ids": [
     "REC-69E224DF3B180CEB"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22ME45100.json",
-  "attachment_repo_id": "22IS45001"
+  "attachment_repo_id": "COURSES-669D2EC19F09"
 }

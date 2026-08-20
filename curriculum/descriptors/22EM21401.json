@@ -3,8 +3,8 @@
   "course_code": "22EM21401",
   "course_name": "管理学基础",
   "resource_group_id": "exact-name-a9bd98c9566c9a93",
-  "physical_repository_id": "physical-course-ra-600595b8e88c32fe",
-  "repo_id": "COURSES-RA-600595B8E88C",
+  "physical_repository_id": "physical-course-atomic-bf03a328b2629a0c",
+  "repo_id": "COURSES-RA-1DE27CC2E974",
   "record_ids": [
     "REC-1B2C250A0B7ACFD8",
     "REC-9FE42563AD611E00",
@@ -38,5 +38,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EM21401.json",
-  "attachment_repo_id": "COURSES-RA-600595B8E88C"
+  "attachment_repo_id": "COURSES-RA-1DE27CC2E974"
 }

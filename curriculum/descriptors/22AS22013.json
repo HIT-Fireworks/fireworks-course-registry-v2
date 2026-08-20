@@ -3,8 +3,8 @@
   "course_code": "22AS22013",
   "course_name": "自动控制原理D",
   "resource_group_id": "name-family-13d4c5857d1893cb",
-  "physical_repository_id": "physical-course-ra-d8bb417793d30681",
-  "repo_id": "22AS22011",
+  "physical_repository_id": "physical-course-atomic-d21079c35223ce1d",
+  "repo_id": "COURSES-RA-460A910D00CC",
   "record_ids": [
     "REC-A4A431F3D8C72D18"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22AS22013.json",
-  "attachment_repo_id": "22AS22011"
+  "attachment_repo_id": "COURSES-RA-460A910D00CC"
 }

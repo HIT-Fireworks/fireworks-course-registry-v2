@@ -3,8 +3,8 @@
   "course_code": "22MA15013",
   "course_name": "建筑数学",
   "resource_group_id": "exact-name-211176a27ea8f3e1",
-  "physical_repository_id": "physical-course-ra-f224380fb4639cf3",
-  "repo_id": "COURSES-8DBE597C3EB0",
+  "physical_repository_id": "physical-course-atomic-4dcb7147533baeaa",
+  "repo_id": "COURSES-RA-ABB94F5BF175",
   "record_ids": [
     "REC-4DEF2435684DFFFA",
     "REC-4F7A9813C7FC0152",
@@ -24,5 +24,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22MA15013.json",
-  "attachment_repo_id": "COURSES-8DBE597C3EB0"
+  "attachment_repo_id": "COURSES-RA-ABB94F5BF175"
 }

@@ -3,8 +3,8 @@
   "course_code": "22PH33002",
   "course_name": "毕业论文(设计)",
   "resource_group_id": "exact-name-8db41f88b0b6c77e",
-  "physical_repository_id": "physical-course-ra-9eb540713d06cfed",
-  "repo_id": "22AR33001F",
+  "physical_repository_id": "physical-course-atomic-387096aeb39fcde3",
+  "repo_id": "COURSES-RA-EB8FE773296B",
   "record_ids": [
     "REC-1FF345EB1873724F"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22PH33002.json",
-  "attachment_repo_id": "22AR33001F"
+  "attachment_repo_id": "COURSES-RA-EB8FE773296B"
 }

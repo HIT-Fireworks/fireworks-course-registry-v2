@@ -3,8 +3,8 @@
   "course_code": "22EI31507",
   "course_name": "生物医学传感技术",
   "resource_group_id": "exact-name-24eda652e72d05d1",
-  "physical_repository_id": "physical-course-ra-8cc7f35a381b3d1c",
-  "repo_id": "COURSES-4EE11C9B7787",
+  "physical_repository_id": "physical-course-atomic-496e744c544c2462",
+  "repo_id": "COURSES-2656A175B646",
   "record_ids": [
     "REC-0B5B2BC66C2A4F19"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EI31507.json",
-  "attachment_repo_id": "COURSES-4EE11C9B7787"
+  "attachment_repo_id": "COURSES-2656A175B646"
 }

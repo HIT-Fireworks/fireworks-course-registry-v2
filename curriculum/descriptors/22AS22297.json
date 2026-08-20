@@ -3,8 +3,8 @@
   "course_code": "22AS22297",
   "course_name": "工程仿真模拟",
   "resource_group_id": "exact-name-1843de053b6a347c",
-  "physical_repository_id": "physical-course-ra-c7ea97d6318c36e9",
-  "repo_id": "COURSES-A7D42CCC977A",
+  "physical_repository_id": "physical-course-atomic-d21079c35223ce1d",
+  "repo_id": "COURSES-RA-460A910D00CC",
   "record_ids": [
     "REC-E5DCB7428385A032"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22AS22297.json",
-  "attachment_repo_id": "COURSES-A7D42CCC977A"
+  "attachment_repo_id": "COURSES-RA-460A910D00CC"
 }

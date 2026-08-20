@@ -1,0 +1,234 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-20T19:35:51.627696+00:00",
+  "mode": "course-code-atomic-repository-optimization",
+  "remote_apply_performed": false,
+  "logical_identity_changes": false,
+  "historical_resource_groups_are_evidence_only": true,
+  "summary": {
+    "production_repository_count_before": 192,
+    "production_repository_count_after": 116,
+    "course_repository_count_before": 169,
+    "course_repository_count_after": 93,
+    "course_code_count": 2618,
+    "shared_material_component_count": 2394,
+    "resource_bearing_component_count": 99,
+    "empty_component_count": 2295,
+    "empty_college_bucket_count": 21,
+    "file_count": 3857,
+    "bytes": 9159380782,
+    "created_repository_count": 7,
+    "retired_repository_count": 83,
+    "expected_remote_after_with_preserve": 118
+  },
+  "created_repo_ids": [
+    "COURSES-AT-2AD60A98A4DF",
+    "COURSES-AT-3BE74E9CE903",
+    "COURSES-AT-8F25BF866A2B",
+    "COURSES-AT-562403FC53E3",
+    "COURSES-AT-822947E995EB",
+    "COURSES-AT-DF3D4B5896B0",
+    "COURSES-AT-E6B456E9268A"
+  ],
+  "retired_repo_ids": [
+    "22AR22202F",
+    "22AR22203F",
+    "22AR33001F",
+    "22AR33205",
+    "22AS22005",
+    "22AS22011",
+    "22AS22254F",
+    "22AS31102",
+    "22AS31102F",
+    "22AS31203",
+    "22AS31204",
+    "22AS31254",
+    "22AS31255",
+    "22AS31361",
+    "22AS31806",
+    "22AS31903",
+    "22AS32260",
+    "22AS33251",
+    "22AS33303",
+    "22CC21001",
+    "22CC22004C",
+    "22CC31001",
+    "22CC31002",
+    "22CC31002C",
+    "22CC31003C",
+    "22CC31010C",
+    "22CC31023F",
+    "22CC33013",
+    "22CE22001",
+    "22CE22002",
+    "22CE22008F",
+    "22CS22004",
+    "22CS22018",
+    "22EI22401",
+    "22EI31320",
+    "22EM21901",
+    "22EM21902F",
+    "22EM22002",
+    "22EM22004F",
+    "22EM22801",
+    "22EM22901",
+    "22EM22901F",
+    "22EM22904",
+    "22EM31101",
+    "22EN21001",
+    "22EN21002",
+    "22EN31034",
+    "22ES22023",
+    "22IS31103",
+    "22IS45001",
+    "22LS15001",
+    "22MA15014",
+    "22MX33003",
+    "22PH15009",
+    "22TS21606",
+    "COURSES-3E691AD258DA",
+    "COURSES-4EE11C9B7787",
+    "COURSES-4F546DB2CCFE",
+    "COURSES-7ACEDFDF1DB7",
+    "COURSES-8DBE597C3EB0",
+    "COURSES-67C2CD6B4C4E",
+    "COURSES-154D3B81CC9B",
+    "COURSES-703C47053491",
+    "COURSES-1930AA849A2F",
+    "COURSES-7742D3D9E18D",
+    "COURSES-4692226DD28F",
+    "COURSES-6668667C8B49",
+    "COURSES-5898931324A5",
+    "COURSES-A7D42CCC977A",
+    "COURSES-B2F4130DA53E",
+    "COURSES-DFF643133EEF",
+    "COURSES-E654AFF96ECA",
+    "COURSES-F596B3F9602E",
+    "COURSES-F7330DCDB146",
+    "COURSES-FB2E829E8EA6",
+    "COURSES-RA-0F4CA6B99003",
+    "COURSES-RA-2DAC0B0DEEA4",
+    "COURSES-RA-38DC61218044",
+    "COURSES-RA-9221DA3811A5",
+    "COURSES-RA-600595B8E88C",
+    "COURSES-RA-B7729FD109FA",
+    "COURSES-RA-C0FD61183ECF",
+    "COURSES-RA-FCA3B5F9A871"
+  ],
+  "split_source_repo_ids": [
+    "COURSES-RA-3EA87D20A2E2",
+    "COURSES-RA-43B4396AA956",
+    "COURSES-RA-913BB6E87D37",
+    "COURSES-RA-31028A0405B5"
+  ],
+  "empty_college_anchors": [
+    {
+      "college": "交通科学与工程学院",
+      "repo_id": "COURSES-RA-22604B84C175",
+      "course_code_count": 94
+    },
+    {
+      "college": "人文社科学部",
+      "repo_id": "COURSES-RA-542E272AFADC",
+      "course_code_count": 368
+    },
+    {
+      "college": "仪器科学与工程学院",
+      "repo_id": "COURSES-RA-AE0EC9DD0D5A",
+      "course_code_count": 44
+    },
+    {
+      "college": "体育部",
+      "repo_id": "22PE13001",
+      "course_code_count": 12
+    },
+    {
+      "college": "化工与化学学院",
+      "repo_id": "COURSES-5AF3514CBD50",
+      "course_code_count": 131
+    },
+    {
+      "college": "土木工程学院",
+      "repo_id": "COURSES-RA-6C06DD652E32",
+      "course_code_count": 104
+    },
+    {
+      "college": "学生工作部(处)/团委",
+      "repo_id": "COURSES-RA-63F4418CCB8D",
+      "course_code_count": 9
+    },
+    {
+      "college": "建筑与设计学院",
+      "repo_id": "COURSES-AF51708C5BBA",
+      "course_code_count": 256
+    },
+    {
+      "college": "数学学院",
+      "repo_id": "COURSES-RA-ABB94F5BF175",
+      "course_code_count": 46
+    },
+    {
+      "college": "机电工程学院",
+      "repo_id": "COURSES-669D2EC19F09",
+      "course_code_count": 111
+    },
+    {
+      "college": "材料科学与工程学院",
+      "repo_id": "COURSES-RA-6217E115199B",
+      "course_code_count": 67
+    },
+    {
+      "college": "物理学院",
+      "repo_id": "COURSES-RA-EB8FE773296B",
+      "course_code_count": 41
+    },
+    {
+      "college": "环境学院",
+      "repo_id": "COURSES-RA-FBDE6370AF65",
+      "course_code_count": 175
+    },
+    {
+      "college": "生命科学和医学学部",
+      "repo_id": "COURSES-CE4133CBE869",
+      "course_code_count": 90
+    },
+    {
+      "college": "电子与信息工程学院",
+      "repo_id": "COURSES-2656A175B646",
+      "course_code_count": 64
+    },
+    {
+      "college": "电气工程及自动化学院",
+      "repo_id": "COURSES-RA-1B72ED8C2EF9",
+      "course_code_count": 54
+    },
+    {
+      "college": "经济与管理学院",
+      "repo_id": "COURSES-RA-1DE27CC2E974",
+      "course_code_count": 204
+    },
+    {
+      "college": "能源科学与工程学院",
+      "repo_id": "COURSES-FABC2915B57C",
+      "course_code_count": 94
+    },
+    {
+      "college": "航天学院",
+      "repo_id": "COURSES-RA-460A910D00CC",
+      "course_code_count": 171
+    },
+    {
+      "college": "计算学部",
+      "repo_id": "COURSES-RA-17E77210FDA8",
+      "course_code_count": 106
+    },
+    {
+      "college": "马克思主义学院",
+      "repo_id": "COURSES-C939A79F0C3A",
+      "course_code_count": 54
+    }
+  ],
+  "policy_identity_sha256": "02998df833312b8f8d88f08283faeb4706bff2c1fc5d7ac109c17f5e5dc79c84",
+  "plan_identity_sha256": "89d55bcddad14443a11e787a4bed14522b0ecd8a80904e62ba25755fc8556432",
+  "report_identity_sha256": "0ea031dd05c7557478d25f7e0664bb2bea2642cb9e37ea22883dba7d611c3985"
+}

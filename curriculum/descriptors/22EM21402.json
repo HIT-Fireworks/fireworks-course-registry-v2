@@ -3,8 +3,8 @@
   "course_code": "22EM21402",
   "course_name": "组织行为学",
   "resource_group_id": "exact-name-20e71e8f11af63f6",
-  "physical_repository_id": "physical-course-ra-600595b8e88c32fe",
-  "repo_id": "COURSES-RA-600595B8E88C",
+  "physical_repository_id": "physical-course-atomic-bf03a328b2629a0c",
+  "repo_id": "COURSES-RA-1DE27CC2E974",
   "record_ids": [
     "REC-04AB3744A5193B5A",
     "REC-5D1BE9AB172C3196",
@@ -36,5 +36,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EM21402.json",
-  "attachment_repo_id": "COURSES-RA-600595B8E88C"
+  "attachment_repo_id": "COURSES-RA-1DE27CC2E974"
 }

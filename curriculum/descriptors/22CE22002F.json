@@ -3,8 +3,8 @@
   "course_code": "22CE22002F",
   "course_name": "结构动力学",
   "resource_group_id": "name-family-adaea56fdbb4144f",
-  "physical_repository_id": "physical-course-ra-1c879b348caf905a",
-  "repo_id": "22AS31255",
+  "physical_repository_id": "physical-course-atomic-e31cb6e867db505e",
+  "repo_id": "COURSES-RA-6C06DD652E32",
   "record_ids": [
     "REC-53280CC132F3CF93"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22CE22002F.json",
-  "attachment_repo_id": "22AS31255"
+  "attachment_repo_id": "COURSES-RA-6C06DD652E32"
 }

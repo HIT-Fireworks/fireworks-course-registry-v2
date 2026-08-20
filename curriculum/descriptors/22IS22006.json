@@ -3,8 +3,8 @@
   "course_code": "22IS22006",
   "course_name": "嵌入式系统及应用",
   "resource_group_id": "exact-name-3c8d2a2b6950e543",
-  "physical_repository_id": "physical-course-ra-9f43ef462c78de39",
-  "repo_id": "22AS31806",
+  "physical_repository_id": "physical-course-atomic-4db498a4e9dbde3a",
+  "repo_id": "COURSES-RA-AE0EC9DD0D5A",
   "record_ids": [
     "REC-41240108F3755245",
     "REC-F9515BBD6BA5E228",
@@ -18,5 +18,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22IS22006.json",
-  "attachment_repo_id": "22AS31806"
+  "attachment_repo_id": "COURSES-RA-AE0EC9DD0D5A"
 }

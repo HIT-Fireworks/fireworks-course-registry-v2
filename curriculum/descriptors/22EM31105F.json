@@ -3,8 +3,8 @@
   "course_code": "22EM31105F",
   "course_name": "文本分析与文本挖掘",
   "resource_group_id": "exact-name-eab6a53c268aabab",
-  "physical_repository_id": "physical-course-ra-600595b8e88c32fe",
-  "repo_id": "COURSES-RA-600595B8E88C",
+  "physical_repository_id": "physical-course-atomic-bf03a328b2629a0c",
+  "repo_id": "COURSES-RA-1DE27CC2E974",
   "record_ids": [
     "REC-81FDC07481E00BAC"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EM31105F.json",
-  "attachment_repo_id": "COURSES-RA-600595B8E88C"
+  "attachment_repo_id": "COURSES-RA-1DE27CC2E974"
 }

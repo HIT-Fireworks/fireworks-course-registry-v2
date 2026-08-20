@@ -3,8 +3,8 @@
   "course_code": "22MS31107",
   "course_name": "高分子物理",
   "resource_group_id": "exact-name-9907781664015db1",
-  "physical_repository_id": "physical-course-ra-291f3bb502f2d356",
-  "repo_id": "22CC31001",
+  "physical_repository_id": "physical-course-atomic-8a45d0fa46165dbc",
+  "repo_id": "COURSES-RA-6217E115199B",
   "record_ids": [
     "REC-3A74F055F16CE947",
     "REC-352387422B71126F"
@@ -16,5 +16,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22MS31107.json",
-  "attachment_repo_id": "22CC31001"
+  "attachment_repo_id": "COURSES-RA-6217E115199B"
 }

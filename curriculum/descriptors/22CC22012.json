@@ -3,8 +3,8 @@
   "course_code": "22CC22012",
   "course_name": "材料科学基础",
   "resource_group_id": "exact-name-1389ba550afd8c2e",
-  "physical_repository_id": "physical-course-ra-0236f6a3b2e9815f",
-  "repo_id": "22AS31361",
+  "physical_repository_id": "physical-course-atomic-542b2fc253a5a5d7",
+  "repo_id": "COURSES-5AF3514CBD50",
   "record_ids": [
     "REC-5FBC2899AC60E739",
     "REC-6EB368488270831A",
@@ -22,5 +22,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22CC22012.json",
-  "attachment_repo_id": "22AS31361"
+  "attachment_repo_id": "COURSES-5AF3514CBD50"
 }

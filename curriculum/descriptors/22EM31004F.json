@@ -3,8 +3,8 @@
   "course_code": "22EM31004F",
   "course_name": "系统分析与设计",
   "resource_group_id": "exact-name-d5e76bbceb679a22",
-  "physical_repository_id": "physical-course-ra-600595b8e88c32fe",
-  "repo_id": "COURSES-RA-600595B8E88C",
+  "physical_repository_id": "physical-course-atomic-bf03a328b2629a0c",
+  "repo_id": "COURSES-RA-1DE27CC2E974",
   "record_ids": [
     "REC-5EB57A56EC8AF495"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EM31004F.json",
-  "attachment_repo_id": "COURSES-RA-600595B8E88C"
+  "attachment_repo_id": "COURSES-RA-1DE27CC2E974"
 }

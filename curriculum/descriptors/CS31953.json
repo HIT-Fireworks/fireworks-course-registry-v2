@@ -3,8 +3,8 @@
   "course_code": "CS31953",
   "course_name": "微机原理与接口C",
   "resource_group_id": "exact-name-d8ba89f4632e601a",
-  "physical_repository_id": "physical-course-ra-ae2ba6785017ddb9",
-  "repo_id": "COURSES-F7330DCDB146",
+  "physical_repository_id": "physical-course-atomic-bd43faff1cb1a2ec",
+  "repo_id": "COURSES-RA-17E77210FDA8",
   "record_ids": [
     "REC-0BC211293652ACFB"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/CS31953.json",
-  "attachment_repo_id": "COURSES-F7330DCDB146"
+  "attachment_repo_id": "COURSES-RA-17E77210FDA8"
 }

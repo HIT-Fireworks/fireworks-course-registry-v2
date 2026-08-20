@@ -3,8 +3,8 @@
   "course_code": "22ES22030",
   "course_name": "工程热力学A",
   "resource_group_id": "name-family-6b509dcca20ef62c",
-  "physical_repository_id": "physical-course-ra-a132b285c3ead0a1",
-  "repo_id": "22AR22202F",
+  "physical_repository_id": "physical-course-atomic-74435dd3bcdd0243",
+  "repo_id": "COURSES-FABC2915B57C",
   "record_ids": [
     "REC-AEF0D2BD5D68B921"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22ES22030.json",
-  "attachment_repo_id": "22AR22202F"
+  "attachment_repo_id": "COURSES-FABC2915B57C"
 }

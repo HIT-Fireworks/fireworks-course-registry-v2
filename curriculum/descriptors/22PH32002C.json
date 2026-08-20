@@ -3,8 +3,8 @@
   "course_code": "22PH32002C",
   "course_name": "生命安全",
   "resource_group_id": "exact-name-0ea82fe130d95b64",
-  "physical_repository_id": "physical-course-ra-7c5954facd3c63b8",
-  "repo_id": "22CC31002C",
+  "physical_repository_id": "physical-course-atomic-387096aeb39fcde3",
+  "repo_id": "COURSES-RA-EB8FE773296B",
   "record_ids": [
     "REC-6F034D9B1F9859BF"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22PH32002C.json",
-  "attachment_repo_id": "22CC31002C"
+  "attachment_repo_id": "COURSES-RA-EB8FE773296B"
 }

@@ -3,8 +3,8 @@
   "course_code": "22PH31010C",
   "course_name": "半导体物理",
   "resource_group_id": "exact-name-89ab83106e012e65",
-  "physical_repository_id": "physical-course-ra-1652a4a693376586",
-  "repo_id": "22ES22023",
+  "physical_repository_id": "physical-course-atomic-387096aeb39fcde3",
+  "repo_id": "COURSES-RA-EB8FE773296B",
   "record_ids": [
     "REC-D3A3BEE1ECCADE46"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22PH31010C.json",
-  "attachment_repo_id": "22ES22023"
+  "attachment_repo_id": "COURSES-RA-EB8FE773296B"
 }

@@ -26,12 +26,12 @@
     "computer": 0,
     "tutoring": 0
   },
-  "repo_id": "COURSES-4692226DD28F",
+  "repo_id": "COURSES-RA-1B72ED8C2EF9",
   "repo_type": "course",
   "resource_group_id": "exact-name-c108fca66651a5c2",
-  "physical_repository_id": "physical-course-ra-b5802f9f11bc397a",
+  "physical_repository_id": "physical-course-atomic-e2c42fb749f2642e",
   "descriptor_id": "course-code:22EE33007",
-  "attachment_repo_id": "COURSES-4692226DD28F",
+  "attachment_repo_id": "COURSES-RA-1B72ED8C2EF9",
   "merge_key": "physical-repository:physical-course-ra-b5802f9f11bc397a",
   "merge_reason": "版本化互斥物理仓库策略物化；approved 阶段使用资料感知安全 owner 分桶；CourseGroup 仅保留为导航和未来拆分证据",
   "source_paths": [

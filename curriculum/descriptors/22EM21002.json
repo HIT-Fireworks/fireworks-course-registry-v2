@@ -3,8 +3,8 @@
   "course_code": "22EM21002",
   "course_name": "运筹学",
   "resource_group_id": "name-family-679bf724ce0766f5",
-  "physical_repository_id": "physical-course-ra-9225e8dca9b45955",
-  "repo_id": "22CE22008F",
+  "physical_repository_id": "physical-course-atomic-bf03a328b2629a0c",
+  "repo_id": "COURSES-RA-1DE27CC2E974",
   "record_ids": [
     "REC-2C48B99DC2BEA375",
     "REC-4D0D75552E74E1AA",
@@ -36,5 +36,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EM21002.json",
-  "attachment_repo_id": "22CE22008F"
+  "attachment_repo_id": "COURSES-RA-1DE27CC2E974"
 }

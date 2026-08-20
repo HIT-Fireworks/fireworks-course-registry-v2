@@ -3,8 +3,8 @@
   "course_code": "22EM31302",
   "course_name": "应用随机过程",
   "resource_group_id": "exact-name-2dc1250166bda6c3",
-  "physical_repository_id": "physical-course-ra-600595b8e88c32fe",
-  "repo_id": "COURSES-RA-600595B8E88C",
+  "physical_repository_id": "physical-course-atomic-bf03a328b2629a0c",
+  "repo_id": "COURSES-RA-1DE27CC2E974",
   "record_ids": [
     "REC-9F754D1B739A1063",
     "REC-92F85AF17F6623E1"
@@ -16,5 +16,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EM31302.json",
-  "attachment_repo_id": "COURSES-RA-600595B8E88C"
+  "attachment_repo_id": "COURSES-RA-1DE27CC2E974"
 }

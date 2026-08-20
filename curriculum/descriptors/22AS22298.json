@@ -3,8 +3,8 @@
   "course_code": "22AS22298",
   "course_name": "固体力学(1)",
   "resource_group_id": "exact-name-5fded31a192a5803",
-  "physical_repository_id": "physical-course-ra-c7ea97d6318c36e9",
-  "repo_id": "COURSES-A7D42CCC977A",
+  "physical_repository_id": "physical-course-atomic-d21079c35223ce1d",
+  "repo_id": "COURSES-RA-460A910D00CC",
   "record_ids": [
     "REC-B7DF663C4EA37690"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22AS22298.json",
-  "attachment_repo_id": "COURSES-A7D42CCC977A"
+  "attachment_repo_id": "COURSES-RA-460A910D00CC"
 }

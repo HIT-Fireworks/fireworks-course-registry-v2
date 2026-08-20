@@ -3,8 +3,8 @@
   "course_code": "22EI31320",
   "course_name": "测量学",
   "resource_group_id": "name-family-0097ebc26a1f26de",
-  "physical_repository_id": "physical-course-ra-39ad05245221a867",
-  "repo_id": "22EI31320",
+  "physical_repository_id": "physical-course-atomic-496e744c544c2462",
+  "repo_id": "COURSES-2656A175B646",
   "record_ids": [
     "REC-31E91BDB2D7F0B52"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EI31320.json",
-  "attachment_repo_id": "22EI31320"
+  "attachment_repo_id": "COURSES-2656A175B646"
 }

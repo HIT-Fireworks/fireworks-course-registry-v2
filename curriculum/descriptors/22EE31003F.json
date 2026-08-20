@@ -3,8 +3,8 @@
   "course_code": "22EE31003F",
   "course_name": "能源经济与电力市场",
   "resource_group_id": "exact-name-e2b3b1db0c53d98b",
-  "physical_repository_id": "physical-course-ra-c94bc56d1bc3453b",
-  "repo_id": "COURSES-7742D3D9E18D",
+  "physical_repository_id": "physical-course-atomic-e2c42fb749f2642e",
+  "repo_id": "COURSES-RA-1B72ED8C2EF9",
   "record_ids": [
     "REC-C03E7D19D0D513EF"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EE31003F.json",
-  "attachment_repo_id": "COURSES-7742D3D9E18D"
+  "attachment_repo_id": "COURSES-RA-1B72ED8C2EF9"
 }

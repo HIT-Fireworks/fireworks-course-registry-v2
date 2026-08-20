@@ -3,8 +3,8 @@
   "course_code": "22EE31001F",
   "course_name": "能源互联网基础",
   "resource_group_id": "exact-name-fc699e42a338810c",
-  "physical_repository_id": "physical-course-ra-c94bc56d1bc3453b",
-  "repo_id": "COURSES-7742D3D9E18D",
+  "physical_repository_id": "physical-course-atomic-e2c42fb749f2642e",
+  "repo_id": "COURSES-RA-1B72ED8C2EF9",
   "record_ids": [
     "REC-1290699175FC928C"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EE31001F.json",
-  "attachment_repo_id": "COURSES-7742D3D9E18D"
+  "attachment_repo_id": "COURSES-RA-1B72ED8C2EF9"
 }

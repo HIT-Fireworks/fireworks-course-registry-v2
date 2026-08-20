@@ -3,8 +3,8 @@
   "course_code": "22EM31503",
   "course_name": "定价管理",
   "resource_group_id": "exact-name-a1153f0d81dfae4a",
-  "physical_repository_id": "physical-course-ra-c0fd61183ecf87fc",
-  "repo_id": "COURSES-RA-C0FD61183ECF",
+  "physical_repository_id": "physical-course-atomic-bf03a328b2629a0c",
+  "repo_id": "COURSES-RA-1DE27CC2E974",
   "record_ids": [
     "REC-F5A5D16040BD192A"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EM31503.json",
-  "attachment_repo_id": "COURSES-RA-C0FD61183ECF"
+  "attachment_repo_id": "COURSES-RA-1DE27CC2E974"
 }

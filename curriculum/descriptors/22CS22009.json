@@ -3,8 +3,8 @@
   "course_code": "22CS22009",
   "course_name": "形式语言与自动机",
   "resource_group_id": "exact-name-9f3362df23112f5d",
-  "physical_repository_id": "physical-course-ra-9221da3811a53744",
-  "repo_id": "COURSES-RA-9221DA3811A5",
+  "physical_repository_id": "physical-course-atomic-bd43faff1cb1a2ec",
+  "repo_id": "COURSES-RA-17E77210FDA8",
   "record_ids": [
     "REC-5F6D4E39C0291A24",
     "REC-6F8430DB98F25E05",
@@ -30,5 +30,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22CS22009.json",
-  "attachment_repo_id": "COURSES-RA-9221DA3811A5"
+  "attachment_repo_id": "COURSES-RA-17E77210FDA8"
 }

@@ -3,8 +3,8 @@
   "course_code": "22EE32007F",
   "course_name": "综合能源系统稳态计算",
   "resource_group_id": "exact-name-32aa258de07f45d3",
-  "physical_repository_id": "physical-course-ra-c94bc56d1bc3453b",
-  "repo_id": "COURSES-7742D3D9E18D",
+  "physical_repository_id": "physical-course-atomic-e2c42fb749f2642e",
+  "repo_id": "COURSES-RA-1B72ED8C2EF9",
   "record_ids": [
     "REC-273620FF196826D3"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EE32007F.json",
-  "attachment_repo_id": "COURSES-7742D3D9E18D"
+  "attachment_repo_id": "COURSES-RA-1B72ED8C2EF9"
 }

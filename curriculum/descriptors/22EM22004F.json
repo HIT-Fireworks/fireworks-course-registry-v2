@@ -3,8 +3,8 @@
   "course_code": "22EM22004F",
   "course_name": "社会调查研究方法",
   "resource_group_id": "exact-name-f757b05f8752a0df",
-  "physical_repository_id": "physical-course-ra-e6b291353dfe009c",
-  "repo_id": "22EM22004F",
+  "physical_repository_id": "physical-course-atomic-bf03a328b2629a0c",
+  "repo_id": "COURSES-RA-1DE27CC2E974",
   "record_ids": [
     "REC-2E6DD80E1A4882E7"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EM22004F.json",
-  "attachment_repo_id": "22EM22004F"
+  "attachment_repo_id": "COURSES-RA-1DE27CC2E974"
 }

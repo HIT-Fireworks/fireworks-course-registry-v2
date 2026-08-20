@@ -3,8 +3,8 @@
   "course_code": "22EE33005",
   "course_name": "建筑电气专业项目实习",
   "resource_group_id": "exact-name-1ab1e5e33cb8b238",
-  "physical_repository_id": "physical-course-ra-c94bc56d1bc3453b",
-  "repo_id": "COURSES-7742D3D9E18D",
+  "physical_repository_id": "physical-course-atomic-e2c42fb749f2642e",
+  "repo_id": "COURSES-RA-1B72ED8C2EF9",
   "record_ids": [
     "REC-868711C540E7C417"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EE33005.json",
-  "attachment_repo_id": "COURSES-7742D3D9E18D"
+  "attachment_repo_id": "COURSES-RA-1B72ED8C2EF9"
 }

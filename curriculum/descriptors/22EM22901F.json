@@ -3,8 +3,8 @@
   "course_code": "22EM22901F",
   "course_name": "计量经济学",
   "resource_group_id": "name-family-8929c9798e94aef8",
-  "physical_repository_id": "physical-course-ra-37a1063f95deaf1a",
-  "repo_id": "22EM22901F",
+  "physical_repository_id": "physical-course-atomic-bf03a328b2629a0c",
+  "repo_id": "COURSES-RA-1DE27CC2E974",
   "record_ids": [
     "REC-75FFF989B44AB074",
     "REC-872B5843B7E45AEE"
@@ -16,5 +16,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EM22901F.json",
-  "attachment_repo_id": "22EM22901F"
+  "attachment_repo_id": "COURSES-RA-1DE27CC2E974"
 }

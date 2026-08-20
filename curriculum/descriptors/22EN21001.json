@@ -3,8 +3,8 @@
   "course_code": "22EN21001",
   "course_name": "资源环境与新材料化工前沿",
   "resource_group_id": "exact-name-1da854ae373ebf67",
-  "physical_repository_id": "physical-course-ra-e0fab241ce61a2b0",
-  "repo_id": "22EN21001",
+  "physical_repository_id": "physical-course-atomic-7109ade39c57c305",
+  "repo_id": "COURSES-RA-FBDE6370AF65",
   "record_ids": [
     "REC-2B199C4594E5936F",
     "REC-3E7BF8343D994CA5",
@@ -32,5 +32,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EN21001.json",
-  "attachment_repo_id": "22EN21001"
+  "attachment_repo_id": "COURSES-RA-FBDE6370AF65"
 }

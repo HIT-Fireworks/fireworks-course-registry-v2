@@ -3,8 +3,8 @@
   "course_code": "22MA22009F",
   "course_name": "复变函数",
   "resource_group_id": "exact-name-a7e08dc14fa74e36",
-  "physical_repository_id": "physical-course-ra-31028a0405b54d52",
-  "repo_id": "COURSES-RA-31028A0405B5",
+  "physical_repository_id": "physical-course-atomic-562403fc53e3e950",
+  "repo_id": "COURSES-AT-562403FC53E3",
   "record_ids": [
     "REC-8F515C7353736F8A",
     "REC-E2CE353A3B696A19",
@@ -18,5 +18,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22MA22009F.json",
-  "attachment_repo_id": "COURSES-RA-31028A0405B5"
+  "attachment_repo_id": "COURSES-AT-562403FC53E3"
 }

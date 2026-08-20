@@ -3,8 +3,8 @@
   "course_code": "22HS31282",
   "course_name": "货币银行学A",
   "resource_group_id": "name-family-5c0e6aa6eb9a2807",
-  "physical_repository_id": "physical-course-ra-da082940c2e5444d",
-  "repo_id": "22EM22801",
+  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
+  "repo_id": "COURSES-RA-542E272AFADC",
   "record_ids": [
     "REC-A1D1BFE33827DBBB"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22HS31282.json",
-  "attachment_repo_id": "22EM22801"
+  "attachment_repo_id": "COURSES-RA-542E272AFADC"
 }

@@ -3,8 +3,8 @@
   "course_code": "22ME21006",
   "course_name": "画法几何与阴影透视",
   "resource_group_id": "exact-name-43534e172eb5dcaf",
-  "physical_repository_id": "physical-course-ra-32f9b232a30fbb3a",
-  "repo_id": "COURSES-3E691AD258DA",
+  "physical_repository_id": "physical-course-atomic-a42f57a93e87e2ce",
+  "repo_id": "COURSES-669D2EC19F09",
   "record_ids": [
     "REC-9ED8A85FD2C0C702",
     "REC-43A1ED58E0E93276",
@@ -28,5 +28,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22ME21006.json",
-  "attachment_repo_id": "COURSES-3E691AD258DA"
+  "attachment_repo_id": "COURSES-669D2EC19F09"
 }

@@ -3,8 +3,8 @@
   "course_code": "22ES33001",
   "course_name": "认识实习I",
   "resource_group_id": "name-family-46f79419661685f3",
-  "physical_repository_id": "physical-course-ra-ea9ec8bb892374bb",
-  "repo_id": "22AS33303",
+  "physical_repository_id": "physical-course-atomic-74435dd3bcdd0243",
+  "repo_id": "COURSES-FABC2915B57C",
   "record_ids": [
     "REC-31B042FE47FB682A"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22ES33001.json",
-  "attachment_repo_id": "22AS33303"
+  "attachment_repo_id": "COURSES-FABC2915B57C"
 }

@@ -3,8 +3,8 @@
   "course_code": "22MA21002",
   "course_name": "数理方程",
   "resource_group_id": "exact-name-9ede969f693041a6",
-  "physical_repository_id": "physical-course-ra-b2c31db6873ce9e8",
-  "repo_id": "COURSES-4F546DB2CCFE",
+  "physical_repository_id": "physical-course-atomic-4dcb7147533baeaa",
+  "repo_id": "COURSES-RA-ABB94F5BF175",
   "record_ids": [
     "REC-7A70456CD397786E",
     "REC-0013F04E5452465C"
@@ -16,5 +16,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22MA21002.json",
-  "attachment_repo_id": "COURSES-4F546DB2CCFE"
+  "attachment_repo_id": "COURSES-RA-ABB94F5BF175"
 }

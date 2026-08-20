@@ -3,8 +3,8 @@
   "course_code": "22AR22203F",
   "course_name": "传热学",
   "resource_group_id": "name-family-16ad66e26e2007ec",
-  "physical_repository_id": "physical-course-ra-fad8e8f8476597b1",
-  "repo_id": "22AR22203F",
+  "physical_repository_id": "physical-course-atomic-3d09c28bf35c5f42",
+  "repo_id": "COURSES-AF51708C5BBA",
   "record_ids": [
     "REC-8840A46BE78590D1"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22AR22203F.json",
-  "attachment_repo_id": "22AR22203F"
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
 }

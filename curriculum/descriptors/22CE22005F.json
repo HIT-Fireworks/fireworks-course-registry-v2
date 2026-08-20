@@ -3,8 +3,8 @@
   "course_code": "22CE22005F",
   "course_name": "结构力学A(1)",
   "resource_group_id": "name-family-21c48353367aa2ac",
-  "physical_repository_id": "physical-course-ra-6f6c6a00ddc6a8fc",
-  "repo_id": "22CE22001",
+  "physical_repository_id": "physical-course-atomic-e31cb6e867db505e",
+  "repo_id": "COURSES-RA-6C06DD652E32",
   "record_ids": [
     "REC-FC85F2693D90E46C"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22CE22005F.json",
-  "attachment_repo_id": "22CE22001"
+  "attachment_repo_id": "COURSES-RA-6C06DD652E32"
 }

@@ -3,8 +3,8 @@
   "course_code": "22ME32613",
   "course_name": "工业机器人设计与应用",
   "resource_group_id": "exact-name-babf76e0e536a6b8",
-  "physical_repository_id": "physical-course-ra-68fbcb3916b9823a",
-  "repo_id": "COURSES-6668667C8B49",
+  "physical_repository_id": "physical-course-atomic-a42f57a93e87e2ce",
+  "repo_id": "COURSES-669D2EC19F09",
   "record_ids": [
     "REC-943D02BE2B094524"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22ME32613.json",
-  "attachment_repo_id": "COURSES-6668667C8B49"
+  "attachment_repo_id": "COURSES-669D2EC19F09"
 }

@@ -3,8 +3,8 @@
   "course_code": "22PH31003C",
   "course_name": "傅里叶光学",
   "resource_group_id": "exact-name-e062e5bae20504f5",
-  "physical_repository_id": "physical-course-ra-10b4fe717d550614",
-  "repo_id": "22AS31903",
+  "physical_repository_id": "physical-course-atomic-387096aeb39fcde3",
+  "repo_id": "COURSES-RA-EB8FE773296B",
   "record_ids": [
     "REC-CBF4042F579B9567"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22PH31003C.json",
-  "attachment_repo_id": "22AS31903"
+  "attachment_repo_id": "COURSES-RA-EB8FE773296B"
 }

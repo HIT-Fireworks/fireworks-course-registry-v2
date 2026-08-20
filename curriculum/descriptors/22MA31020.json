@@ -3,8 +3,8 @@
   "course_code": "22MA31020",
   "course_name": "数理统计",
   "resource_group_id": "exact-name-49ef3bbf59820076",
-  "physical_repository_id": "physical-course-ra-43b4396aa956c3a1",
-  "repo_id": "COURSES-RA-43B4396AA956",
+  "physical_repository_id": "physical-course-atomic-2ad60a98a4df0e54",
+  "repo_id": "COURSES-AT-2AD60A98A4DF",
   "record_ids": [
     "REC-4A1265C34B064C60",
     "REC-4E1FAD7CF31FD66B",
@@ -20,5 +20,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22MA31020.json",
-  "attachment_repo_id": "COURSES-RA-43B4396AA956"
+  "attachment_repo_id": "COURSES-AT-2AD60A98A4DF"
 }

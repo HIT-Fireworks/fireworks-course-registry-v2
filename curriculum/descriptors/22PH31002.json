@@ -3,8 +3,8 @@
   "course_code": "22PH31002",
   "course_name": "固体物理",
   "resource_group_id": "exact-name-e8feb9cb343c8315",
-  "physical_repository_id": "physical-course-ra-3ea87d20a2e20193",
-  "repo_id": "COURSES-RA-3EA87D20A2E2",
+  "physical_repository_id": "physical-course-atomic-822947e995eb615f",
+  "repo_id": "COURSES-AT-822947E995EB",
   "record_ids": [
     "REC-3B15E38B30D8258A",
     "REC-B22A59A83083EEA8",
@@ -22,5 +22,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22PH31002.json",
-  "attachment_repo_id": "COURSES-RA-3EA87D20A2E2"
+  "attachment_repo_id": "COURSES-AT-822947E995EB"
 }

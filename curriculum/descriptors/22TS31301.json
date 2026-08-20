@@ -3,8 +3,8 @@
   "course_code": "22TS31301",
   "course_name": "物理化学",
   "resource_group_id": "name-family-7e16f36a1c359519",
-  "physical_repository_id": "physical-course-ra-6e135a11d8cdc152",
-  "repo_id": "22CC22004C",
+  "physical_repository_id": "physical-course-atomic-7d871d46904b9ccb",
+  "repo_id": "COURSES-RA-22604B84C175",
   "record_ids": [
     "REC-348ED3D90D4F70A3",
     "REC-DE826A9C35F65B66"
@@ -16,5 +16,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22TS31301.json",
-  "attachment_repo_id": "22CC22004C"
+  "attachment_repo_id": "COURSES-RA-22604B84C175"
 }

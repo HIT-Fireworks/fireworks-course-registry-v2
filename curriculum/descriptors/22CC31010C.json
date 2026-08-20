@@ -3,8 +3,8 @@
   "course_code": "22CC31010C",
   "course_name": "专业实验",
   "resource_group_id": "exact-name-e4bca83c8a3aee6b",
-  "physical_repository_id": "physical-course-ra-aac6ad046a6110ec",
-  "repo_id": "22CC31010C",
+  "physical_repository_id": "physical-course-atomic-542b2fc253a5a5d7",
+  "repo_id": "COURSES-5AF3514CBD50",
   "record_ids": [
     "REC-6DBB86D2E493C6B4"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22CC31010C.json",
-  "attachment_repo_id": "22CC31010C"
+  "attachment_repo_id": "COURSES-5AF3514CBD50"
 }

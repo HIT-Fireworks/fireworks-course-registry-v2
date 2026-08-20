@@ -3,8 +3,8 @@
   "course_code": "22EM21901",
   "course_name": "经济学原理",
   "resource_group_id": "exact-name-8229e821dcd9a8c2",
-  "physical_repository_id": "physical-course-ra-d2f5948c0746b48b",
-  "repo_id": "22EM21901",
+  "physical_repository_id": "physical-course-atomic-bf03a328b2629a0c",
+  "repo_id": "COURSES-RA-1DE27CC2E974",
   "record_ids": [
     "REC-7F445F087F360BDA",
     "REC-8E64169ECB225C81",
@@ -38,5 +38,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EM21901.json",
-  "attachment_repo_id": "22EM21901"
+  "attachment_repo_id": "COURSES-RA-1DE27CC2E974"
 }

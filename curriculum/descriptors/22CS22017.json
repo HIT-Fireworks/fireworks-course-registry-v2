@@ -3,8 +3,8 @@
   "course_code": "22CS22017",
   "course_name": "信息安全概论",
   "resource_group_id": "exact-name-6c91f9cacbe8a240",
-  "physical_repository_id": "physical-course-ra-9221da3811a53744",
-  "repo_id": "COURSES-RA-9221DA3811A5",
+  "physical_repository_id": "physical-course-atomic-bd43faff1cb1a2ec",
+  "repo_id": "COURSES-RA-17E77210FDA8",
   "record_ids": [
     "REC-9DE4093D3F862A28",
     "REC-89CDA40B86250707",
@@ -18,5 +18,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22CS22017.json",
-  "attachment_repo_id": "COURSES-RA-9221DA3811A5"
+  "attachment_repo_id": "COURSES-RA-17E77210FDA8"
 }

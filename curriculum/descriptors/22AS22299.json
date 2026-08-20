@@ -3,8 +3,8 @@
   "course_code": "22AS22299",
   "course_name": "动力学与控制",
   "resource_group_id": "exact-name-5d87155f9542419f",
-  "physical_repository_id": "physical-course-ra-c7ea97d6318c36e9",
-  "repo_id": "COURSES-A7D42CCC977A",
+  "physical_repository_id": "physical-course-atomic-d21079c35223ce1d",
+  "repo_id": "COURSES-RA-460A910D00CC",
   "record_ids": [
     "REC-36F3388B84D8BCBB"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22AS22299.json",
-  "attachment_repo_id": "COURSES-A7D42CCC977A"
+  "attachment_repo_id": "COURSES-RA-460A910D00CC"
 }

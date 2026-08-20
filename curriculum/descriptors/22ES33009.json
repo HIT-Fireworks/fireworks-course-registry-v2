@@ -3,8 +3,8 @@
   "course_code": "22ES33009",
   "course_name": "专业课程设计",
   "resource_group_id": "exact-name-b637be3d510d1115",
-  "physical_repository_id": "physical-course-ra-26a5f6d3520b46db",
-  "repo_id": "22CC33013",
+  "physical_repository_id": "physical-course-atomic-74435dd3bcdd0243",
+  "repo_id": "COURSES-FABC2915B57C",
   "record_ids": [
     "REC-DF64698BCF10F7F6"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22ES33009.json",
-  "attachment_repo_id": "22CC33013"
+  "attachment_repo_id": "COURSES-FABC2915B57C"
 }

@@ -3,8 +3,8 @@
   "course_code": "22AS21002",
   "course_name": "航天与自动化集群专业导论",
   "resource_group_id": "exact-name-385d6a3ae254b429",
-  "physical_repository_id": "physical-course-ra-b7729fd109fae04d",
-  "repo_id": "COURSES-RA-B7729FD109FA",
+  "physical_repository_id": "physical-course-atomic-d21079c35223ce1d",
+  "repo_id": "COURSES-RA-460A910D00CC",
   "record_ids": [
     "REC-004F728475F8E010",
     "REC-28D15D94AACB7F81",
@@ -38,5 +38,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22AS21002.json",
-  "attachment_repo_id": "COURSES-RA-B7729FD109FA"
+  "attachment_repo_id": "COURSES-RA-460A910D00CC"
 }

@@ -3,8 +3,8 @@
   "course_code": "22MX16001",
   "course_name": "国家安全教育",
   "resource_group_id": "exact-name-6d14a21a83313461",
-  "physical_repository_id": "physical-course-ra-fca3b5f9a8711d1e",
-  "repo_id": "COURSES-RA-FCA3B5F9A871",
+  "physical_repository_id": "physical-course-atomic-1bcd22a497801436",
+  "repo_id": "COURSES-C939A79F0C3A",
   "record_ids": [
     "REC-0A623CF4A33D96B7",
     "REC-0C86D0165D78D8A2",
@@ -258,5 +258,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22MX16001.json",
-  "attachment_repo_id": "COURSES-RA-FCA3B5F9A871"
+  "attachment_repo_id": "COURSES-C939A79F0C3A"
 }

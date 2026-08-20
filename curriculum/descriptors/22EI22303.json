@@ -3,8 +3,8 @@
   "course_code": "22EI22303",
   "course_name": "电子线路基础",
   "resource_group_id": "exact-name-0f8528024e6677fb",
-  "physical_repository_id": "physical-course-ra-2dac0b0deea43ce1",
-  "repo_id": "COURSES-RA-2DAC0B0DEEA4",
+  "physical_repository_id": "physical-course-atomic-496e744c544c2462",
+  "repo_id": "COURSES-2656A175B646",
   "record_ids": [
     "REC-1B55689592E5C090",
     "REC-87CEEF1D28DCDDD6",
@@ -30,5 +30,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EI22303.json",
-  "attachment_repo_id": "COURSES-RA-2DAC0B0DEEA4"
+  "attachment_repo_id": "COURSES-2656A175B646"
 }

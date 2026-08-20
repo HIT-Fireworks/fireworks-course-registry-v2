@@ -3,8 +3,8 @@
   "course_code": "22EI31508",
   "course_name": "医学信号分析与处理",
   "resource_group_id": "exact-name-8f7a8fcf407e8350",
-  "physical_repository_id": "physical-course-ra-8cc7f35a381b3d1c",
-  "repo_id": "COURSES-4EE11C9B7787",
+  "physical_repository_id": "physical-course-atomic-496e744c544c2462",
+  "repo_id": "COURSES-2656A175B646",
   "record_ids": [
     "REC-A565ECE53B49EDFD"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EI31508.json",
-  "attachment_repo_id": "COURSES-4EE11C9B7787"
+  "attachment_repo_id": "COURSES-2656A175B646"
 }

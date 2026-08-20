@@ -3,8 +3,8 @@
   "course_code": "22TS21501",
   "course_name": "数据结构与算法B",
   "resource_group_id": "name-family-46a793ce01d7a83f",
-  "physical_repository_id": "physical-course-ra-0878e5c0da238a26",
-  "repo_id": "22CS22004",
+  "physical_repository_id": "physical-course-atomic-7d871d46904b9ccb",
+  "repo_id": "COURSES-RA-22604B84C175",
   "record_ids": [
     "REC-1D1957A04E76741A"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22TS21501.json",
-  "attachment_repo_id": "22CS22004"
+  "attachment_repo_id": "COURSES-RA-22604B84C175"
 }

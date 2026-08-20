@@ -3,8 +3,8 @@
   "course_code": "AS32104",
   "course_name": "自动控制理论(1)",
   "resource_group_id": "name-family-9b4558b47c01c11d",
-  "physical_repository_id": "physical-course-ra-abb065b4d3aee88e",
-  "repo_id": "22AS31102",
+  "physical_repository_id": "physical-course-atomic-d21079c35223ce1d",
+  "repo_id": "COURSES-RA-460A910D00CC",
   "record_ids": [
     "REC-E547F311BCEC7B42"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/AS32104.json",
-  "attachment_repo_id": "22AS31102"
+  "attachment_repo_id": "COURSES-RA-460A910D00CC"
 }

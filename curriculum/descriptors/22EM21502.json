@@ -3,8 +3,8 @@
   "course_code": "22EM21502",
   "course_name": "跨专业综合实训",
   "resource_group_id": "exact-name-2d0c7a5dae4d3a4b",
-  "physical_repository_id": "physical-course-ra-600595b8e88c32fe",
-  "repo_id": "COURSES-RA-600595B8E88C",
+  "physical_repository_id": "physical-course-atomic-bf03a328b2629a0c",
+  "repo_id": "COURSES-RA-1DE27CC2E974",
   "record_ids": [
     "REC-1A26709E2B131695",
     "REC-7B7936251BD885A4",
@@ -36,5 +36,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EM21502.json",
-  "attachment_repo_id": "COURSES-RA-600595B8E88C"
+  "attachment_repo_id": "COURSES-RA-1DE27CC2E974"
 }

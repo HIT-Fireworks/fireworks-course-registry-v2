@@ -3,8 +3,8 @@
   "course_code": "22FL32253",
   "course_name": "俄罗斯历史与文化",
   "resource_group_id": "exact-name-a803b889ded0c72c",
-  "physical_repository_id": "physical-course-ra-0a95a5cc73b6cc63",
-  "repo_id": "COURSES-B2F4130DA53E",
+  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
+  "repo_id": "COURSES-RA-542E272AFADC",
   "record_ids": [
     "REC-A3961382348670F4"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22FL32253.json",
-  "attachment_repo_id": "COURSES-B2F4130DA53E"
+  "attachment_repo_id": "COURSES-RA-542E272AFADC"
 }

@@ -3,8 +3,8 @@
   "course_code": "22EI33327",
   "course_name": "生产实习",
   "resource_group_id": "exact-name-18527c31b7340394",
-  "physical_repository_id": "physical-course-ra-173ffcad0e55591c",
-  "repo_id": "22AR33205",
+  "physical_repository_id": "physical-course-atomic-496e744c544c2462",
+  "repo_id": "COURSES-2656A175B646",
   "record_ids": [
     "REC-00AA46DCB98E96DB"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EI33327.json",
-  "attachment_repo_id": "22AR33205"
+  "attachment_repo_id": "COURSES-2656A175B646"
 }

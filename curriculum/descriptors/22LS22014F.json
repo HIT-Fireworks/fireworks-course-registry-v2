@@ -3,8 +3,8 @@
   "course_code": "22LS22014F",
   "course_name": "生物化学基础",
   "resource_group_id": "exact-name-9c5fbdc4bda911c7",
-  "physical_repository_id": "physical-course-ra-a3b47b34c82f08fa",
-  "repo_id": "22EN31034",
+  "physical_repository_id": "physical-course-atomic-8fdee15683baa619",
+  "repo_id": "COURSES-CE4133CBE869",
   "record_ids": [
     "REC-6B9D4524F372E20D",
     "REC-A3A985375AC5A80B"
@@ -16,5 +16,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22LS22014F.json",
-  "attachment_repo_id": "22EN31034"
+  "attachment_repo_id": "COURSES-CE4133CBE869"
 }

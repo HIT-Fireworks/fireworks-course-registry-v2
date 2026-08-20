@@ -3,8 +3,8 @@
   "course_code": "22PH22010",
   "course_name": "光学",
   "resource_group_id": "exact-name-41e313bc2b36e5aa",
-  "physical_repository_id": "physical-course-ra-3ea87d20a2e20193",
-  "repo_id": "COURSES-RA-3EA87D20A2E2",
+  "physical_repository_id": "physical-course-atomic-3be74e9ce903390b",
+  "repo_id": "COURSES-AT-3BE74E9CE903",
   "record_ids": [
     "REC-872AD8E271A4D68D",
     "REC-6363B20D83256CCA",
@@ -22,5 +22,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22PH22010.json",
-  "attachment_repo_id": "COURSES-RA-3EA87D20A2E2"
+  "attachment_repo_id": "COURSES-AT-3BE74E9CE903"
 }

@@ -3,8 +3,8 @@
   "course_code": "22EN22012",
   "course_name": "工程伦理学",
   "resource_group_id": "exact-name-087570ae1d7be86c",
-  "physical_repository_id": "physical-course-ra-cd3372d7cc2046d1",
-  "repo_id": "COURSES-F596B3F9602E",
+  "physical_repository_id": "physical-course-atomic-7109ade39c57c305",
+  "repo_id": "COURSES-RA-FBDE6370AF65",
   "record_ids": [
     "REC-558B4AFB40D9FEEF"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EN22012.json",
-  "attachment_repo_id": "COURSES-F596B3F9602E"
+  "attachment_repo_id": "COURSES-RA-FBDE6370AF65"
 }

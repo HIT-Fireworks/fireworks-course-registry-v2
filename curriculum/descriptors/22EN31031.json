@@ -3,8 +3,8 @@
   "course_code": "22EN31031",
   "course_name": "普通生物学A",
   "resource_group_id": "name-family-c0ad9c7397ed828c",
-  "physical_repository_id": "physical-course-ra-2d175100c2785c7d",
-  "repo_id": "22EN21002",
+  "physical_repository_id": "physical-course-atomic-7109ade39c57c305",
+  "repo_id": "COURSES-RA-FBDE6370AF65",
   "record_ids": [
     "REC-24C35F65E010943C"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EN31031.json",
-  "attachment_repo_id": "22EN21002"
+  "attachment_repo_id": "COURSES-RA-FBDE6370AF65"
 }

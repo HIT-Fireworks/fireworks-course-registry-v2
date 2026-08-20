@@ -3,8 +3,8 @@
   "course_code": "22CC21002",
   "course_name": "无机与分析化学(2)",
   "resource_group_id": "name-family-fdb785e7d02efef4",
-  "physical_repository_id": "physical-course-ra-1fadd52a8e46999e",
-  "repo_id": "22CC21001",
+  "physical_repository_id": "physical-course-atomic-542b2fc253a5a5d7",
+  "repo_id": "COURSES-5AF3514CBD50",
   "record_ids": [
     "REC-3B1A8A936BE7F672",
     "REC-3EDEDBB09BF9950D",
@@ -32,5 +32,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22CC21002.json",
-  "attachment_repo_id": "22CC21001"
+  "attachment_repo_id": "COURSES-5AF3514CBD50"
 }

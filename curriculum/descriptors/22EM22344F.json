@@ -3,8 +3,8 @@
   "course_code": "22EM22344F",
   "course_name": "Python程序设计",
   "resource_group_id": "name-family-94e9241f6a514ca9",
-  "physical_repository_id": "physical-course-ra-6e9bdd4426561c1b",
-  "repo_id": "22CS22018",
+  "physical_repository_id": "physical-course-atomic-bf03a328b2629a0c",
+  "repo_id": "COURSES-RA-1DE27CC2E974",
   "record_ids": [
     "REC-890BBC3631918526"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EM22344F.json",
-  "attachment_repo_id": "22CS22018"
+  "attachment_repo_id": "COURSES-RA-1DE27CC2E974"
 }

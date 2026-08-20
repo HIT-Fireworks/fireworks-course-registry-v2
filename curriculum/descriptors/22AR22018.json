@@ -3,8 +3,8 @@
   "course_code": "22AR22018",
   "course_name": "房屋建筑学",
   "resource_group_id": "exact-name-75eb9bdaaaf09988",
-  "physical_repository_id": "physical-course-ra-0bc205c5e6a853ea",
-  "repo_id": "COURSES-67C2CD6B4C4E",
+  "physical_repository_id": "physical-course-atomic-3d09c28bf35c5f42",
+  "repo_id": "COURSES-AF51708C5BBA",
   "record_ids": [
     "REC-4C0F5F5EA940DBFD",
     "REC-54FD4B25498F1003",
@@ -28,5 +28,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22AR22018.json",
-  "attachment_repo_id": "COURSES-67C2CD6B4C4E"
+  "attachment_repo_id": "COURSES-AF51708C5BBA"
 }

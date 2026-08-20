@@ -3,8 +3,8 @@
   "course_code": "22CC31023F",
   "course_name": "生物化学",
   "resource_group_id": "name-family-fa9c2595d31ab74e",
-  "physical_repository_id": "physical-course-ra-20e8f4648168b9f9",
-  "repo_id": "22CC31023F",
+  "physical_repository_id": "physical-course-atomic-542b2fc253a5a5d7",
+  "repo_id": "COURSES-5AF3514CBD50",
   "record_ids": [
     "REC-0AFC50D177EA7B1F"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22CC31023F.json",
-  "attachment_repo_id": "22CC31023F"
+  "attachment_repo_id": "COURSES-5AF3514CBD50"
 }

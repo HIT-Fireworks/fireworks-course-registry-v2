@@ -3,8 +3,8 @@
   "course_code": "22EM31608F",
   "course_name": "资产评估学",
   "resource_group_id": "exact-name-a5139c4a2e1a5a7f",
-  "physical_repository_id": "physical-course-ra-c0fd61183ecf87fc",
-  "repo_id": "COURSES-RA-C0FD61183ECF",
+  "physical_repository_id": "physical-course-atomic-bf03a328b2629a0c",
+  "repo_id": "COURSES-RA-1DE27CC2E974",
   "record_ids": [
     "REC-DA9A8F07AA03AC84"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EM31608F.json",
-  "attachment_repo_id": "COURSES-RA-C0FD61183ECF"
+  "attachment_repo_id": "COURSES-RA-1DE27CC2E974"
 }

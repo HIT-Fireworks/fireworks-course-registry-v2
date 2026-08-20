@@ -3,8 +3,8 @@
   "course_code": "22CS21506",
   "course_name": "C++语言程序设计B",
   "resource_group_id": "exact-name-ce794559888a7e72",
-  "physical_repository_id": "physical-course-ra-c15316d8bcca139c",
-  "repo_id": "COURSES-FB2E829E8EA6",
+  "physical_repository_id": "physical-course-atomic-bd43faff1cb1a2ec",
+  "repo_id": "COURSES-RA-17E77210FDA8",
   "record_ids": [
     "REC-DA707D1761677C46"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22CS21506.json",
-  "attachment_repo_id": "COURSES-FB2E829E8EA6"
+  "attachment_repo_id": "COURSES-RA-17E77210FDA8"
 }

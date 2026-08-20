@@ -3,8 +3,8 @@
   "course_code": "22FL31212",
   "course_name": "俄罗斯概况(1)",
   "resource_group_id": "name-family-4e182ae4924e1dd0",
-  "physical_repository_id": "physical-course-ra-1c4fc33885ace24f",
-  "repo_id": "22CC31003C",
+  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
+  "repo_id": "COURSES-RA-542E272AFADC",
   "record_ids": [
     "REC-8BFE299417EA3401",
     "REC-BE36F0F9F113654D"
@@ -16,5 +16,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22FL31212.json",
-  "attachment_repo_id": "22CC31003C"
+  "attachment_repo_id": "COURSES-RA-542E272AFADC"
 }

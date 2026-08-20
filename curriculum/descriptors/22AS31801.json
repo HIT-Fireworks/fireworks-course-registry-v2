@@ -3,8 +3,8 @@
   "course_code": "22AS31801",
   "course_name": "微电子器件原理",
   "resource_group_id": "exact-name-e17e9f2e0d2d77ec",
-  "physical_repository_id": "physical-course-ra-b7729fd109fae04d",
-  "repo_id": "COURSES-RA-B7729FD109FA",
+  "physical_repository_id": "physical-course-atomic-d21079c35223ce1d",
+  "repo_id": "COURSES-RA-460A910D00CC",
   "record_ids": [
     "REC-54FC02CF8117EA5C",
     "REC-B87266A53779C147"
@@ -16,5 +16,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22AS31801.json",
-  "attachment_repo_id": "COURSES-RA-B7729FD109FA"
+  "attachment_repo_id": "COURSES-RA-460A910D00CC"
 }

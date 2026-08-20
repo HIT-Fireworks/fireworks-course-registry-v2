@@ -3,8 +3,8 @@
   "course_code": "22CS31051",
   "course_name": "模式识别与机器学习A",
   "resource_group_id": "name-family-bc93b23c062d5257",
-  "physical_repository_id": "physical-course-ra-9221da3811a53744",
-  "repo_id": "COURSES-RA-9221DA3811A5",
+  "physical_repository_id": "physical-course-atomic-bd43faff1cb1a2ec",
+  "repo_id": "COURSES-RA-17E77210FDA8",
   "record_ids": [
     "REC-56D7E25DF4872B8F",
     "REC-C2FF4B534D59BA75"
@@ -16,5 +16,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22CS31051.json",
-  "attachment_repo_id": "COURSES-RA-9221DA3811A5"
+  "attachment_repo_id": "COURSES-RA-17E77210FDA8"
 }

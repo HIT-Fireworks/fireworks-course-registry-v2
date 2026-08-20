@@ -3,8 +3,8 @@
   "course_code": "22TS33503",
   "course_name": "毕业实习",
   "resource_group_id": "exact-name-144c5c83446ec6f9",
-  "physical_repository_id": "physical-course-ra-c3d1ea1e85b3dcc2",
-  "repo_id": "22AS33251",
+  "physical_repository_id": "physical-course-atomic-7d871d46904b9ccb",
+  "repo_id": "COURSES-RA-22604B84C175",
   "record_ids": [
     "REC-9E5E448DD709DD99"
   ],
@@ -14,5 +14,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22TS33503.json",
-  "attachment_repo_id": "22AS33251"
+  "attachment_repo_id": "COURSES-RA-22604B84C175"
 }

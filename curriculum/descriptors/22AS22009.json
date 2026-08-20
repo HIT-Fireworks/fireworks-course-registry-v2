@@ -3,8 +3,8 @@
   "course_code": "22AS22009",
   "course_name": "工程力学B",
   "resource_group_id": "name-family-229d7063afa4d96f",
-  "physical_repository_id": "physical-course-ra-b7729fd109fae04d",
-  "repo_id": "COURSES-RA-B7729FD109FA",
+  "physical_repository_id": "physical-course-atomic-d21079c35223ce1d",
+  "repo_id": "COURSES-RA-460A910D00CC",
   "record_ids": [
     "REC-6C849E8787509DA7",
     "REC-37D9EA2D7FB47781",
@@ -22,5 +22,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22AS22009.json",
-  "attachment_repo_id": "COURSES-RA-B7729FD109FA"
+  "attachment_repo_id": "COURSES-RA-460A910D00CC"
 }

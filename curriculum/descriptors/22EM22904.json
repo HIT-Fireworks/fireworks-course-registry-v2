@@ -3,8 +3,8 @@
   "course_code": "22EM22904",
   "course_name": "财政学",
   "resource_group_id": "name-family-fd3000f2e131081c",
-  "physical_repository_id": "physical-course-ra-4d949a7f31349737",
-  "repo_id": "22EM22904",
+  "physical_repository_id": "physical-course-atomic-bf03a328b2629a0c",
+  "repo_id": "COURSES-RA-1DE27CC2E974",
   "record_ids": [
     "REC-6E53E2CF9A0DC4D5",
     "REC-67CD30BE4EDC294D",
@@ -18,5 +18,5 @@
   "status": "mapped",
   "metadata_repo_id": "fireworks-course-registry-v2",
   "metadata_path": "curriculum/descriptors/22EM22904.json",
-  "attachment_repo_id": "22EM22904"
+  "attachment_repo_id": "COURSES-RA-1DE27CC2E974"
 }
