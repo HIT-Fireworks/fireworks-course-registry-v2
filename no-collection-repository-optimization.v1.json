@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-21T07:46:14.724625+00:00",
+  "mode": "no-collection-repository-optimization",
+  "remote_apply_performed": false,
+  "summary": {
+    "production_repository_count_before": 116,
+    "production_repository_count_after": 100,
+    "collection_repository_count_before": 16,
+    "collection_repository_count_after": 0,
+    "virtual_collection_count": 16,
+    "file_count": 3857,
+    "bytes": 9159380782,
+    "moved_file_count": 1,
+    "retired_repository_count": 16,
+    "expected_remote_after_with_preserve": 102
+  },
+  "retired_repo_ids": [
+    "CAT-chemistry",
+    "CAT-civil-engineering",
+    "CAT-electronics-information",
+    "CAT-environment",
+    "CAT-experiment-reports",
+    "CAT-future-technology",
+    "CAT-humanities",
+    "CAT-instruments",
+    "CAT-life-medicine",
+    "CAT-management",
+    "CAT-mathematics",
+    "CAT-mechatronics",
+    "CAT-pending-identification",
+    "CAT-physics",
+    "CAT-public-courses",
+    "CAT-transportation"
+  ],
+  "replacement": {
+    "source_repo_id": "CAT-public-courses",
+    "target_repo_id": "CAT-campus-resources",
+    "route_key": "SPECIAL-POLITICAL-EDUCATION-ARCHIVE"
+  },
+  "plan_identity_sha256": "e740c27004bfbbd5517eda194e40cf68238d88c15788e291e2b529ca434bd1c9",
+  "report_identity_sha256": "cfecf901345205f434274b5675d52a401e18a97c4c5c6d5e03549433bb17eca3"
+}
