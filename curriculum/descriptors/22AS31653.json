@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22AS31653",
-  "course_code": "22AS31653",
-  "course_name": "基础天文学",
-  "resource_group_id": "exact-name-2ce21fc40a193c04",
-  "physical_repository_id": "physical-course-atomic-d21079c35223ce1d",
-  "repo_id": "COURSES-RA-460A910D00CC",
-  "record_ids": [
-    "REC-0139454BAF3A5DA7"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/105_2022版_01_01185_空间科学与技术.toml#courses[43]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22AS31653.json",
-  "attachment_repo_id": "COURSES-RA-460A910D00CC"
-}
+{"attachment_repo_id":"COURSES-RA-460A910D00CC","course_code":"22AS31653","course_name":"基础天文学","descriptor_id":"course-code:22AS31653","metadata_path":"curriculum/descriptors/22AS31653.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-d21079c35223ce1d","record_ids":["REC-0139454BAF3A5DA7","REC-6634CFB8D3AB02062C8A","REC-F266A2134EA61F383A77","REC-AA9D1DFB3B4E8E1F1889","REC-A600D27F487E855CFD06","REC-5B609478EB46F3ED02D4","REC-4405909B0FD88D241273","REC-88FC5450E6302C88CABF","REC-CD081F35C68290B5A4C7","REC-F2C1018AB744AE4C78E1","REC-C9B3E39626AAEEDAA585","REC-97C765AE532134EAAD87","REC-8707E102E19122B6B873","REC-2E3318C24128B6D86278","REC-3FC4CB40C1F2831005CF","REC-27BD01394E04400B4C66","REC-5FB04CD1537E48711225","REC-1DC896687E50D7AE0929","REC-FB3EABB68BE6C2205B15","REC-10B2CE9F852D77371F86","REC-E859C8A374306AAE3004","REC-CFFD921CF7661850E312","REC-9EB3B409B2245C5ADF1E"],"repo_id":"COURSES-RA-460A910D00CC","resource_group_id":"exact-name-2ce21fc40a193c04","source_paths":["curriculum://hit-data/plans/105_2022版_01_01185_空间科学与技术.toml#courses[43]"],"status":"mapped-current"}

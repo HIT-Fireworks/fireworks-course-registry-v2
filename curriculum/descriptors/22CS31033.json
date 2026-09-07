@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22CS31033",
-  "course_code": "22CS31033",
-  "course_name": "处理器设计与实践B",
-  "resource_group_id": "name-family-f0037981c0b9b2ba",
-  "physical_repository_id": "physical-course-atomic-bd43faff1cb1a2ec",
-  "repo_id": "COURSES-RA-17E77210FDA8",
-  "record_ids": [
-    "REC-E7590979F36D1097"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/154_2022版_31_31SXS121031_数学与应用数学（+计算机科学与技术双学士学位）.toml#courses[40]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22CS31033.json",
-  "attachment_repo_id": "COURSES-RA-17E77210FDA8"
-}
+{"attachment_repo_id":"COURSES-RA-17E77210FDA8","course_code":"22CS31033","course_name":"处理器设计与实践B","descriptor_id":"course-code:22CS31033","metadata_path":"curriculum/descriptors/22CS31033.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-bd43faff1cb1a2ec","record_ids":["REC-E7590979F36D1097","REC-0CCA6C6B93383C2A3195","REC-A1B1907084F87C8B3849","REC-AB7F1D3ADC32FE44ADD7","REC-7B8D2D59A7401BCE904F","REC-9D5CCBA29FE8CDA3EAE5","REC-43FFC12E02ECD4290964"],"repo_id":"COURSES-RA-17E77210FDA8","resource_group_id":"name-family-f0037981c0b9b2ba","source_paths":["curriculum://hit-data/plans/154_2022版_31_31SXS121031_数学与应用数学（+计算机科学与技术双学士学位）.toml#courses[40]"],"status":"mapped-current"}

@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22MA22015C",
-  "course_code": "22MA22015C",
-  "course_name": "数学物理方程",
-  "resource_group_id": "exact-name-56a54357fd24c16e",
-  "physical_repository_id": "physical-course-atomic-4dcb7147533baeaa",
-  "repo_id": "COURSES-RA-ABB94F5BF175",
-  "record_ids": [
-    "REC-9B4E9E47A60AC1AF"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/150_2022版_31_31126_数学与应用数学（中外合作）.toml#courses[41]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22MA22015C.json",
-  "attachment_repo_id": "COURSES-RA-ABB94F5BF175"
-}
+{"attachment_repo_id":"COURSES-RA-ABB94F5BF175","course_code":"22MA22015C","course_name":"数学物理方程","descriptor_id":"course-code:22MA22015C","metadata_path":"curriculum/descriptors/22MA22015C.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-4dcb7147533baeaa","record_ids":["REC-9B4E9E47A60AC1AF","REC-C77BE3169B6AC8526602","REC-C8863EA814E659CC85FD","REC-46E1B6BE9C55DD55A2A9"],"repo_id":"COURSES-RA-ABB94F5BF175","resource_group_id":"exact-name-56a54357fd24c16e","source_paths":["curriculum://hit-data/plans/150_2022版_31_31126_数学与应用数学（中外合作）.toml#courses[41]"],"status":"mapped-current"}

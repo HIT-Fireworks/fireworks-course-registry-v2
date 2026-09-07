@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22AR22012",
-  "course_code": "22AR22012",
-  "course_name": "产品设计基础",
-  "resource_group_id": "exact-name-2b963dfed3da2b99",
-  "physical_repository_id": "physical-course-atomic-3d09c28bf35c5f42",
-  "repo_id": "COURSES-AF51708C5BBA",
-  "record_ids": [
-    "REC-1B6DF4AC315D1F63"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/064_2022版_11B_11B082_工业设计.toml#courses[25]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22AR22012.json",
-  "attachment_repo_id": "COURSES-AF51708C5BBA"
-}
+{"attachment_repo_id":"COURSES-AF51708C5BBA","course_code":"22AR22012","course_name":"产品设计基础","descriptor_id":"course-code:22AR22012","metadata_path":"curriculum/descriptors/22AR22012.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3d09c28bf35c5f42","record_ids":["REC-1B6DF4AC315D1F63","REC-55D5F8E3FC281DFC0583","REC-357F004BD72D90D9D853","REC-2ADEE0BE2FC84BD744A7","REC-5F540756606BCCD6CBBD","REC-AE26377DEEB532D2D3AF","REC-10E9AC2E0338612F8A46","REC-9E737457DE85133E38B4","REC-61E54A7C3A605355136D","REC-2B249C74AE1A04D2A854","REC-E93ADB83EAA308A1F2CC","REC-510DC8DFDF1E9A8A6C18"],"repo_id":"COURSES-AF51708C5BBA","resource_group_id":"exact-name-2b963dfed3da2b99","source_paths":["curriculum://hit-data/plans/064_2022版_11B_11B082_工业设计.toml#courses[25]"],"status":"mapped-current"}

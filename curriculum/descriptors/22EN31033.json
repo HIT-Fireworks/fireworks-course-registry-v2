@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EN31033",
-  "course_code": "22EN31033",
-  "course_name": "生态环境应急管理",
-  "resource_group_id": "exact-name-c56bf52fc073d841",
-  "physical_repository_id": "physical-course-atomic-7109ade39c57c305",
-  "repo_id": "COURSES-RA-FBDE6370AF65",
-  "record_ids": [
-    "REC-9760991A112FB5CB"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/141_2022版_27_27273_环境生态工程.toml#courses[56]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EN31033.json",
-  "attachment_repo_id": "COURSES-RA-FBDE6370AF65"
-}
+{"attachment_repo_id":"COURSES-RA-FBDE6370AF65","course_code":"22EN31033","course_name":"生态环境应急管理","descriptor_id":"course-code:22EN31033","metadata_path":"curriculum/descriptors/22EN31033.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-7109ade39c57c305","record_ids":["REC-9760991A112FB5CB","REC-69251187075E3981434F","REC-9EA111BA21D5F8615EDA","REC-7A673ACFF1C5266A4EA8","REC-DA3ED40E2C7A8F2CAD5E"],"repo_id":"COURSES-RA-FBDE6370AF65","resource_group_id":"exact-name-c56bf52fc073d841","source_paths":["curriculum://hit-data/plans/141_2022版_27_27273_环境生态工程.toml#courses[56]"],"status":"mapped-current"}

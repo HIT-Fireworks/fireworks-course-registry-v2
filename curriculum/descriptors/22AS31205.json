@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22AS31205",
-  "course_code": "22AS31205",
-  "course_name": "智能装备一体化设计",
-  "resource_group_id": "exact-name-ceafe190e5467cb4",
-  "physical_repository_id": "physical-course-atomic-d21079c35223ce1d",
-  "repo_id": "COURSES-RA-460A910D00CC",
-  "record_ids": [
-    "REC-2AA316464CE05520"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/100_2022版_01_01043_智能装备与系统.toml#courses[51]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22AS31205.json",
-  "attachment_repo_id": "COURSES-RA-460A910D00CC"
-}
+{"attachment_repo_id":"COURSES-RA-460A910D00CC","course_code":"22AS31205","course_name":"智能装备一体化设计","descriptor_id":"course-code:22AS31205","metadata_path":"curriculum/descriptors/22AS31205.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-d21079c35223ce1d","record_ids":["REC-2AA316464CE05520","REC-045458A79BB4D8AE029E","REC-6A712573E76017B7CF0A","REC-85AA4939588557DEC59C","REC-356855F5145DD0AE0B4E","REC-F75C955E7B6BE091BE8B","REC-2D0DDFBB6692DA11C86C","REC-92CC76BC360C6AEB5235","REC-C2D802F8440E22CE8F17","REC-FC3023F12A192EDD2B05","REC-7C1D523C5F56607DAB2A","REC-BF0A2C151EDA40F547E4","REC-8F0AE8C93376D43F561B","REC-37601A4906FC1BAB9B89","REC-276DDAEE4E2204C7CA64","REC-309CCD43A5E8DA1F3183","REC-544762C6CB28BB2A1EB4","REC-B42481BEA43B7677A204","REC-5595189D14A320091777","REC-917C22E62D2A71EA64CB","REC-E56431D6863E38DC5848","REC-AE60759908167312FD9E","REC-D1D81DE13520061C328D","REC-F07F465B0434495904AD","REC-89A2FA5193D3A7424AC6","REC-74345FE1EA7751A35EA0","REC-E1ACE92CFFFA8DE6F3F2","REC-E68301B0CBD2233BE301","REC-90AE5A622C4FFCD03E94","REC-90EE9BA6AA2344940340","REC-29062FB8A3F9AA86C07B"],"repo_id":"COURSES-RA-460A910D00CC","resource_group_id":"exact-name-ceafe190e5467cb4","source_paths":["curriculum://hit-data/plans/100_2022版_01_01043_智能装备与系统.toml#courses[51]"],"status":"mapped-current"}

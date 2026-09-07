@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22CE31035",
-  "course_code": "22CE31035",
-  "course_name": "混凝土结构原理",
-  "resource_group_id": "course-family-559a305dd7b229e8",
-  "physical_repository_id": "physical-course-atomic-e31cb6e867db505e",
-  "repo_id": "COURSES-RA-6C06DD652E32",
-  "record_ids": [
-    "REC-26CDCF26A0219734"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/060_2022版_09_09336_智能建造.toml#courses[46]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22CE31035.json",
-  "attachment_repo_id": "COURSES-RA-6C06DD652E32"
-}
+{"attachment_repo_id":"COURSES-RA-6C06DD652E32","course_code":"22CE31035","course_name":"混凝土结构原理","descriptor_id":"course-code:22CE31035","metadata_path":"curriculum/descriptors/22CE31035.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-e31cb6e867db505e","record_ids":["REC-26CDCF26A0219734","REC-A41ED4C4732C93F6EE70","REC-B89923A8FCBC01272ADD","REC-7F491455580C9B0E36E1","REC-7BD7FE6227E6D09A2BAD"],"repo_id":"COURSES-RA-6C06DD652E32","resource_group_id":"course-family-559a305dd7b229e8","source_paths":["curriculum://hit-data/plans/060_2022版_09_09336_智能建造.toml#courses[46]"],"status":"mapped-current"}

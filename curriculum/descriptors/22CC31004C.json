@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22CC31004C",
-  "course_code": "22CC31004C",
-  "course_name": "热力学与动力学应用",
-  "resource_group_id": "exact-name-b9f50ec5720629e7",
-  "physical_repository_id": "physical-course-atomic-542b2fc253a5a5d7",
-  "repo_id": "COURSES-5AF3514CBD50",
-  "record_ids": [
-    "REC-6423ED1367E18772"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/118_2022版_25_25079_化学（中外合作）.toml#courses[52]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22CC31004C.json",
-  "attachment_repo_id": "COURSES-5AF3514CBD50"
-}
+{"attachment_repo_id":"COURSES-5AF3514CBD50","course_code":"22CC31004C","course_name":"热力学与动力学应用","descriptor_id":"course-code:22CC31004C","metadata_path":"curriculum/descriptors/22CC31004C.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-542b2fc253a5a5d7","record_ids":["REC-6423ED1367E18772","REC-39818E1BC991ED2A87D8","REC-08BA22A4FCBD26D7AC15"],"repo_id":"COURSES-5AF3514CBD50","resource_group_id":"exact-name-b9f50ec5720629e7","source_paths":["curriculum://hit-data/plans/118_2022版_25_25079_化学（中外合作）.toml#courses[52]"],"status":"mapped-current"}

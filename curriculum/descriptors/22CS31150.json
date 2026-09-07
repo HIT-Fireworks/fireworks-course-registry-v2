@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22CS31150",
-  "course_code": "22CS31150",
-  "course_name": "密码学原理A",
-  "resource_group_id": "exact-name-1e79b3160214f498",
-  "physical_repository_id": "physical-course-atomic-bd43faff1cb1a2ec",
-  "repo_id": "COURSES-RA-17E77210FDA8",
-  "record_ids": [
-    "REC-79DBFC4A59B97030"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/083_2022版_13B_13B032_信息安全.toml#courses[35]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22CS31150.json",
-  "attachment_repo_id": "COURSES-RA-17E77210FDA8"
-}
+{"attachment_repo_id":"COURSES-RA-17E77210FDA8","course_code":"22CS31150","course_name":"密码学原理A","descriptor_id":"course-code:22CS31150","metadata_path":"curriculum/descriptors/22CS31150.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-bd43faff1cb1a2ec","record_ids":["REC-79DBFC4A59B97030","REC-AFC3BB15D29AC38C1D0C","REC-8A5787D4760A04923D2A","REC-A234920C5C335889E40B","REC-34467C586052EC0A02CB","REC-7745D7F0C71E610D0424","REC-CF2DFDE1644656E7CCE6","REC-32E583FEC48726E2326D","REC-6701A60A9B839780094F","REC-034ED55C54A8CBE75C41","REC-29FC8D946E2CC3660152"],"repo_id":"COURSES-RA-17E77210FDA8","resource_group_id":"exact-name-1e79b3160214f498","source_paths":["curriculum://hit-data/plans/083_2022版_13B_13B032_信息安全.toml#courses[35]"],"status":"mapped-current"}

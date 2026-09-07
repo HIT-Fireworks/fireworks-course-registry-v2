@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22PH15012C",
-  "course_code": "22PH15012C",
-  "course_name": "大学物理x(1)",
-  "resource_group_id": "university-physics",
-  "physical_repository_id": "physical-course-ra-e2e3f54ce1344413",
-  "repo_id": "22PH15001",
-  "record_ids": [
-    "REC-C3C17E367D9DEAA0"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/150_2022版_31_31126_数学与应用数学（中外合作）.toml#courses[38]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22PH15012C.json",
-  "attachment_repo_id": "22PH15001"
-}
+{"attachment_repo_id":"22PH15001","course_code":"22PH15012C","course_name":"大学物理x(1)","descriptor_id":"course-code:22PH15012C","metadata_path":"curriculum/descriptors/22PH15012C.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-ra-e2e3f54ce1344413","record_ids":["REC-C3C17E367D9DEAA0","REC-2BE50EECDC96467ECC7E","REC-FE690B7CB3E0540E346B","REC-1FB853658F087AA59BAB"],"repo_id":"22PH15001","resource_group_id":"university-physics","source_paths":["curriculum://hit-data/plans/150_2022版_31_31126_数学与应用数学（中外合作）.toml#courses[38]"],"status":"mapped-current"}

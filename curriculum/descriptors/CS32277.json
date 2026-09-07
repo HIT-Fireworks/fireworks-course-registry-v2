@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:CS32277",
-  "course_code": "CS32277",
-  "course_name": "大数据挖掘",
-  "resource_group_id": "exact-name-cf74e366e96eb4c9",
-  "physical_repository_id": "physical-course-atomic-bd43faff1cb1a2ec",
-  "repo_id": "COURSES-RA-17E77210FDA8",
-  "record_ids": [
-    "REC-D61608DEA1B8B8A3"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/090_2022版_13B_13BE035_数据科学与大数据技术.toml#courses[8]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/CS32277.json",
-  "attachment_repo_id": "COURSES-RA-17E77210FDA8"
-}
+{"attachment_repo_id":"COURSES-RA-17E77210FDA8","course_code":"CS32277","course_name":"大数据挖掘","descriptor_id":"course-code:CS32277","metadata_path":"curriculum/descriptors/CS32277.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-bd43faff1cb1a2ec","record_ids":["REC-D61608DEA1B8B8A3","REC-505AF6B9CC5E65EB2EE2","REC-07035D04D9F43A627DCD","REC-342C7543B2F8EC44E778","REC-483826DF8ED7B67E8AAA","REC-E0A93575ADB6FE58A65A"],"repo_id":"COURSES-RA-17E77210FDA8","resource_group_id":"exact-name-cf74e366e96eb4c9","source_paths":["curriculum://hit-data/plans/090_2022版_13B_13BE035_数据科学与大数据技术.toml#courses[8]"],"status":"mapped-current"}

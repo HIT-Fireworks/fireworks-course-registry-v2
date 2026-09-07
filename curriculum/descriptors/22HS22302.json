@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22HS22302",
-  "course_code": "22HS22302",
-  "course_name": "宪法学",
-  "resource_group_id": "name-family-f6539a5787a3798f",
-  "physical_repository_id": "physical-course-ra-c1fbeaa0e488ff8a",
-  "repo_id": "COURSES-RA-C1FBEAA0E488",
-  "record_ids": [
-    "REC-ED0440426B8EF83B"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/165_2022版_35_35242_法学.toml#courses[5]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22HS22302.json",
-  "attachment_repo_id": "COURSES-RA-C1FBEAA0E488"
-}
+{"attachment_repo_id":"COURSES-RA-C1FBEAA0E488","course_code":"22HS22302","course_name":"宪法学","descriptor_id":"course-code:22HS22302","metadata_path":"curriculum/descriptors/22HS22302.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-ra-c1fbeaa0e488ff8a","record_ids":["REC-ED0440426B8EF83B","REC-80C2EAFAE5A3D0953785"],"repo_id":"COURSES-RA-C1FBEAA0E488","resource_group_id":"name-family-f6539a5787a3798f","source_paths":["curriculum://hit-data/plans/165_2022版_35_35242_法学.toml#courses[5]"],"status":"mapped-current"}

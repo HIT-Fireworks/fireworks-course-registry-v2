@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22TS31508",
-  "course_code": "22TS31508",
-  "course_name": "交通系统建模与仿真",
-  "resource_group_id": "exact-name-65ffbb7bb76f8de2",
-  "physical_repository_id": "physical-course-atomic-0ef349a7098537a1",
-  "repo_id": "COURSES-RA-913BB6E87D37",
-  "record_ids": [
-    "REC-69BB43AAFFF5EAF1"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/096_2022版_12_12325_交通设备与控制工程.toml#courses[58]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22TS31508.json",
-  "attachment_repo_id": "COURSES-RA-913BB6E87D37"
-}
+{"attachment_repo_id":"COURSES-RA-913BB6E87D37","course_code":"22TS31508","course_name":"交通系统建模与仿真","descriptor_id":"course-code:22TS31508","metadata_path":"curriculum/descriptors/22TS31508.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-0ef349a7098537a1","record_ids":["REC-69BB43AAFFF5EAF1","REC-36BB5CCB054461D2CD7C","REC-9D89F5C34DE1ACB5A1F6","REC-7AA74B12EB6FEC07F076"],"repo_id":"COURSES-RA-913BB6E87D37","resource_group_id":"exact-name-65ffbb7bb76f8de2","source_paths":["curriculum://hit-data/plans/096_2022版_12_12325_交通设备与控制工程.toml#courses[58]"],"status":"mapped-current"}

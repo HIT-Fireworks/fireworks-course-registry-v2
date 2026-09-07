@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22LS31009",
-  "course_code": "22LS31009",
-  "course_name": "发育生物学",
-  "resource_group_id": "exact-name-ce7af60a7e0375ce",
-  "physical_repository_id": "physical-course-atomic-8fdee15683baa619",
-  "repo_id": "COURSES-CE4133CBE869",
-  "record_ids": [
-    "REC-54DF0FC1F62FD690"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/179_2022版_37_37281_生物技术.toml#courses[54]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22LS31009.json",
-  "attachment_repo_id": "COURSES-CE4133CBE869"
-}
+{"attachment_repo_id":"COURSES-CE4133CBE869","course_code":"22LS31009","course_name":"发育生物学","descriptor_id":"course-code:22LS31009","metadata_path":"curriculum/descriptors/22LS31009.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-8fdee15683baa619","record_ids":["REC-54DF0FC1F62FD690","REC-C01BB53832F8C201AD9A","REC-41FC85580DF00B3E2FF3","REC-2C0E602458AC6145563B","REC-3F26D9D115DE0CB6BA76","REC-2EAB80CFC85FE78379DB","REC-59E4229784F177512CB2","REC-A2C049A36A5FF58323E6","REC-368AFE44057FC0A5A357","REC-9285740D28ED6462E356","REC-7B11DA74E8BE193DCDAA","REC-41405D64881600FFAF36","REC-4C6AD1519FE603860DE8","REC-59840ACC861866C08D20","REC-9232A59AEA7920822BD0","REC-FFB27E22F1771A12A265","REC-011ABD4F21B4601A66A0","REC-E6E66ED6E24180865616","REC-074FF15946A39CFC5098","REC-B23D372A6BB061DF66F0","REC-8FF227BB704E71259C80","REC-8BAF2DEC8EFCBC5B8413","REC-4F519C0546A1ED482E5E","REC-4E818DA062D42F7866B6"],"repo_id":"COURSES-CE4133CBE869","resource_group_id":"exact-name-ce7af60a7e0375ce","source_paths":["curriculum://hit-data/plans/179_2022版_37_37281_生物技术.toml#courses[54]"],"status":"mapped-current"}

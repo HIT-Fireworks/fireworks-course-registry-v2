@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22HS31407",
-  "course_code": "22HS31407",
-  "course_name": "中级写作(上)",
-  "resource_group_id": "course-family-7fa7c6ea543e1f0d",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-2089C60C391088CD"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/163_2022版_35_35163_汉语言文学.toml#courses[12]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22HS31407.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22HS31407","course_name":"中级写作(上)","descriptor_id":"course-code:22HS31407","metadata_path":"curriculum/descriptors/22HS31407.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-2089C60C391088CD","REC-06CA13C02180483CE57F","REC-571E176D849FE7856828","REC-8180A125D26DB1B60621","REC-AEDAB3D3D7D5A6180074"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"course-family-7fa7c6ea543e1f0d","source_paths":["curriculum://hit-data/plans/163_2022版_35_35163_汉语言文学.toml#courses[12]"],"status":"mapped-current"}

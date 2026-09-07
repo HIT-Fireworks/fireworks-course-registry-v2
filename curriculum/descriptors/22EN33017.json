@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EN33017",
-  "course_code": "22EN33017",
-  "course_name": "毕业实习",
-  "resource_group_id": "exact-name-144c5c83446ec6f9",
-  "physical_repository_id": "physical-course-atomic-7109ade39c57c305",
-  "repo_id": "COURSES-RA-FBDE6370AF65",
-  "record_ids": [
-    "REC-F601D84499F64525"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/137_2022版_27_27251_给排水科学与工程.toml#courses[60]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EN33017.json",
-  "attachment_repo_id": "COURSES-RA-FBDE6370AF65"
-}
+{"attachment_repo_id":"COURSES-RA-FBDE6370AF65","course_code":"22EN33017","course_name":"毕业实习","descriptor_id":"course-code:22EN33017","metadata_path":"curriculum/descriptors/22EN33017.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-7109ade39c57c305","record_ids":["REC-F601D84499F64525","REC-5191DBF7C48C24A7498F"],"repo_id":"COURSES-RA-FBDE6370AF65","resource_group_id":"exact-name-144c5c83446ec6f9","source_paths":["curriculum://hit-data/plans/137_2022版_27_27251_给排水科学与工程.toml#courses[60]"],"status":"mapped-current"}

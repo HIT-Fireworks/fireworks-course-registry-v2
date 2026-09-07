@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EI31507",
-  "course_code": "22EI31507",
-  "course_name": "生物医学传感技术",
-  "resource_group_id": "exact-name-24eda652e72d05d1",
-  "physical_repository_id": "physical-course-atomic-496e744c544c2462",
-  "repo_id": "COURSES-2656A175B646",
-  "record_ids": [
-    "REC-0B5B2BC66C2A4F19"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/186_2022版_37_37SXS281056_生物技术（+智能测控工程双学士学位）.toml#courses[55]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EI31507.json",
-  "attachment_repo_id": "COURSES-2656A175B646"
-}
+{"attachment_repo_id":"COURSES-2656A175B646","course_code":"22EI31507","course_name":"生物医学传感技术","descriptor_id":"course-code:22EI31507","metadata_path":"curriculum/descriptors/22EI31507.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-496e744c544c2462","record_ids":["REC-0B5B2BC66C2A4F19","REC-9CB64F09D66174E6201A"],"repo_id":"COURSES-2656A175B646","resource_group_id":"exact-name-24eda652e72d05d1","source_paths":["curriculum://hit-data/plans/186_2022版_37_37SXS281056_生物技术（+智能测控工程双学士学位）.toml#courses[55]"],"status":"mapped-current"}

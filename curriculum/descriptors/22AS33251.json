@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22AS33251",
-  "course_code": "22AS33251",
-  "course_name": "毕业实习",
-  "resource_group_id": "exact-name-144c5c83446ec6f9",
-  "physical_repository_id": "physical-course-atomic-d21079c35223ce1d",
-  "repo_id": "COURSES-RA-460A910D00CC",
-  "record_ids": [
-    "REC-88978D810F952F25"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/107_2022版_01_01187_工程力学（强基计划）.toml#courses[52]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22AS33251.json",
-  "attachment_repo_id": "COURSES-RA-460A910D00CC"
-}
+{"attachment_repo_id":"COURSES-RA-460A910D00CC","course_code":"22AS33251","course_name":"毕业实习","descriptor_id":"course-code:22AS33251","metadata_path":"curriculum/descriptors/22AS33251.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-d21079c35223ce1d","record_ids":["REC-88978D810F952F25","REC-D4310EC6CD529EAA3B5A","REC-EA1221F95F55F5F8D8B5","REC-B9F2612E93A42A0225FF","REC-B3B8536CA1327DE4F07A","REC-73EB9CE3B330546E2F92","REC-C68BD3E07049B4823D47"],"repo_id":"COURSES-RA-460A910D00CC","resource_group_id":"exact-name-144c5c83446ec6f9","source_paths":["curriculum://hit-data/plans/107_2022版_01_01187_工程力学（强基计划）.toml#courses[52]"],"status":"mapped-current"}

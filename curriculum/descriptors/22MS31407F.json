@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22MS31407F",
-  "course_code": "22MS31407F",
-  "course_name": "增材制造综合实验",
-  "resource_group_id": "exact-name-c742684f70fa2990",
-  "physical_repository_id": "physical-course-atomic-8a45d0fa46165dbc",
-  "repo_id": "COURSES-RA-6217E115199B",
-  "record_ids": [
-    "REC-DC34F9426132A7FA"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/033_2022版_03_03F092_增材制造工程.toml#courses[7]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22MS31407F.json",
-  "attachment_repo_id": "COURSES-RA-6217E115199B"
-}
+{"attachment_repo_id":"COURSES-RA-6217E115199B","course_code":"22MS31407F","course_name":"增材制造综合实验","descriptor_id":"course-code:22MS31407F","metadata_path":"curriculum/descriptors/22MS31407F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-8a45d0fa46165dbc","record_ids":["REC-DC34F9426132A7FA"],"repo_id":"COURSES-RA-6217E115199B","resource_group_id":"exact-name-c742684f70fa2990","source_paths":["curriculum://hit-data/plans/033_2022版_03_03F092_增材制造工程.toml#courses[7]"],"status":"mapped-current"}

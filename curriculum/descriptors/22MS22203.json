@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22MS22203",
-  "course_code": "22MS22203",
-  "course_name": "机械设计原理与方法",
-  "resource_group_id": "exact-name-8c624f094d093115",
-  "physical_repository_id": "physical-course-ra-00ca87781a371d72",
-  "repo_id": "COURSES-RA-00CA87781A37",
-  "record_ids": [
-    "REC-E0B9983C0182C197"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/027_2022版_03_031911_材料科学与工程（强基计划）.toml#courses[34]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22MS22203.json",
-  "attachment_repo_id": "COURSES-RA-00CA87781A37"
-}
+{"attachment_repo_id":"COURSES-RA-00CA87781A37","course_code":"22MS22203","course_name":"机械设计原理与方法","descriptor_id":"course-code:22MS22203","metadata_path":"curriculum/descriptors/22MS22203.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-ra-00ca87781a371d72","record_ids":["REC-E0B9983C0182C197","REC-128D9117EABBBBDE4D33","REC-6FFEFE67904EBFA9C08C","REC-219A915D47E372EBEB3D","REC-587705CD55E0C97086D8","REC-85C484E3D2729D9FBFD7","REC-6784FB0DF7CB709244DB","REC-0798754DCD917E8CBCD7","REC-066376822F3E72920BAA","REC-E764977169CBFFBFAE10","REC-5B218F0EE13959289DCD","REC-ACFEBB98A3928316DEA8","REC-5F0A2AFB05204203DF47","REC-A95762A94684C3385A4E","REC-93BD79FFAA38A8290911","REC-99880C93D055B11EA2D0","REC-CAFC450D4E64D4703B92","REC-4A9C95CB169AD067EA4D","REC-F19B905982CBBB497DD1","REC-1831AC7B40C998701A91","REC-B28975F4D36F16060520","REC-54D4AABD9AC107290A72","REC-CFE103BEA722BB0E7D0C","REC-B152D2BA3E3FF3FBBCE4","REC-9B5C5E1D9E39FED40C94","REC-1372973D34D0A60E4E11","REC-5F7AFD9B510C0C4C7173","REC-E8FB6BA43D1CFC7E6401","REC-DBC33497C59F6C0654DF","REC-3900BB7E1D8EC2A1BB31","REC-EE2515C5C7CB0BE13BD6","REC-7FBA0DB61E6FF7891A63","REC-E41EEA2048B343353D07","REC-4240FB7104D0D18D341E","REC-F8AA24D84FB8C342A6E0","REC-583A990ED34C05B1F908"],"repo_id":"COURSES-RA-00CA87781A37","resource_group_id":"exact-name-8c624f094d093115","source_paths":["curriculum://hit-data/plans/027_2022版_03_031911_材料科学与工程（强基计划）.toml#courses[34]"],"status":"mapped-current"}

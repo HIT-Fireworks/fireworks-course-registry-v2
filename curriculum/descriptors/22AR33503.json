@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22AR33503",
-  "course_code": "22AR33503",
-  "course_name": "设计表现实习-2",
-  "resource_group_id": "course-family-2e2f3dfb9fea97b3",
-  "physical_repository_id": "physical-course-atomic-3d09c28bf35c5f42",
-  "repo_id": "COURSES-AF51708C5BBA",
-  "record_ids": [
-    "REC-0EB2F44DFF17F78C"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/069_2022版_11B_11B346_环境设计.toml#courses[52]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22AR33503.json",
-  "attachment_repo_id": "COURSES-AF51708C5BBA"
-}
+{"attachment_repo_id":"COURSES-AF51708C5BBA","course_code":"22AR33503","course_name":"设计表现实习-2","descriptor_id":"course-code:22AR33503","metadata_path":"curriculum/descriptors/22AR33503.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3d09c28bf35c5f42","record_ids":["REC-0EB2F44DFF17F78C","REC-DCF3E2465ACF8D3AFF3B"],"repo_id":"COURSES-AF51708C5BBA","resource_group_id":"course-family-2e2f3dfb9fea97b3","source_paths":["curriculum://hit-data/plans/069_2022版_11B_11B346_环境设计.toml#courses[52]"],"status":"mapped-current"}

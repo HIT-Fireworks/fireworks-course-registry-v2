@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:AS32105",
-  "course_code": "AS32105",
-  "course_name": "自动控制实践(1)",
-  "resource_group_id": "automatic-control-practice",
-  "physical_repository_id": "physical-course-ra-4a200afa4ecda155",
-  "repo_id": "COURSES-RA-4A200AFA4ECD",
-  "record_ids": [
-    "REC-1953FCF549C7E1A4"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/111_2022版_01_01E041_自动化.toml#courses[10]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/AS32105.json",
-  "attachment_repo_id": "COURSES-RA-4A200AFA4ECD"
-}
+{"attachment_repo_id":"COURSES-RA-4A200AFA4ECD","course_code":"AS32105","course_name":"自动控制实践(1)","descriptor_id":"course-code:AS32105","metadata_path":"curriculum/descriptors/AS32105.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-ra-4a200afa4ecda155","record_ids":["REC-1953FCF549C7E1A4","REC-32F1B62459D8B68CD2A5","REC-63EF11B902CF06C56E38","REC-14CAF3964E700CC8036C","REC-872C9FAD33B482EFE22A","REC-CB65F505F96E37306BC3","REC-9E2762BC3D426D622EBD","REC-7DA2AD71DF84A9BA8FD0","REC-7E90B8DD6E1C4BA1A203","REC-BC9B63BA763FC09741AC","REC-067C8E5986467D2446F6","REC-074AB378F2F92D6691E7","REC-70235D548602264B2F32","REC-286C42D4A7497A0374FA","REC-9EB5CFB2F2F035D528AF","REC-7B3E9AC3EE4919C90497","REC-EA8698AC84A6B62B5F6A","REC-C03E66B2196FF5DC64CF","REC-DD1350558EE36D0D3160","REC-C29BF170512E6778BB87","REC-4A10695AFFD95BBAA650","REC-D7416BD46FAF67B5BDAD","REC-99432653F2FBB7DBFF76","REC-C4DDDC813B3A45EDBFCD","REC-9DB5925C3C1739993432"],"repo_id":"COURSES-RA-4A200AFA4ECD","resource_group_id":"automatic-control-practice","source_paths":["curriculum://hit-data/plans/111_2022版_01_01E041_自动化.toml#courses[10]"],"status":"mapped-current"}

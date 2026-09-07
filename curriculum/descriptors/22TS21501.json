@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22TS21501",
-  "course_code": "22TS21501",
-  "course_name": "数据结构与算法B",
-  "resource_group_id": "name-family-46a793ce01d7a83f",
-  "physical_repository_id": "physical-course-atomic-7d871d46904b9ccb",
-  "repo_id": "COURSES-RA-22604B84C175",
-  "record_ids": [
-    "REC-1D1957A04E76741A"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/096_2022版_12_12325_交通设备与控制工程.toml#courses[31]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22TS21501.json",
-  "attachment_repo_id": "COURSES-RA-22604B84C175"
-}
+{"attachment_repo_id":"COURSES-RA-22604B84C175","course_code":"22TS21501","course_name":"数据结构与算法B","descriptor_id":"course-code:22TS21501","metadata_path":"curriculum/descriptors/22TS21501.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-7d871d46904b9ccb","record_ids":["REC-1D1957A04E76741A","REC-4C08EACC4059EED64FD8"],"repo_id":"COURSES-RA-22604B84C175","resource_group_id":"name-family-46a793ce01d7a83f","source_paths":["curriculum://hit-data/plans/096_2022版_12_12325_交通设备与控制工程.toml#courses[31]"],"status":"mapped-current"}

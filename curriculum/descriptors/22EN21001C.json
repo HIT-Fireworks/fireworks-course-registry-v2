@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EN21001C",
-  "course_code": "22EN21001C",
-  "course_name": "环境分析化学",
-  "resource_group_id": "exact-name-5220ba4e1567eb7c",
-  "physical_repository_id": "physical-course-atomic-7109ade39c57c305",
-  "repo_id": "COURSES-RA-FBDE6370AF65",
-  "record_ids": [
-    "REC-020B8136A03178D5"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/142_2022版_27_27274_环境生态工程（鲍曼合作办学）.toml#courses[19]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EN21001C.json",
-  "attachment_repo_id": "COURSES-RA-FBDE6370AF65"
-}
+{"attachment_repo_id":"COURSES-RA-FBDE6370AF65","course_code":"22EN21001C","course_name":"环境分析化学","descriptor_id":"course-code:22EN21001C","metadata_path":"curriculum/descriptors/22EN21001C.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-7109ade39c57c305","record_ids":["REC-020B8136A03178D5","REC-18F4046B88F85F28E665"],"repo_id":"COURSES-RA-FBDE6370AF65","resource_group_id":"exact-name-5220ba4e1567eb7c","source_paths":["curriculum://hit-data/plans/142_2022版_27_27274_环境生态工程（鲍曼合作办学）.toml#courses[19]"],"status":"mapped-current"}

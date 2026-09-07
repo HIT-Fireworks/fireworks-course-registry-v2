@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22MA31021",
-  "course_code": "22MA31021",
-  "course_name": "数值代数",
-  "resource_group_id": "exact-name-5f2888c83dd6491a",
-  "physical_repository_id": "physical-course-atomic-4dcb7147533baeaa",
-  "repo_id": "COURSES-RA-ABB94F5BF175",
-  "record_ids": [
-    "REC-45F38CA1B92C01F4"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/148_2022版_31_31122_信息与计算科学.toml#courses[34]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22MA31021.json",
-  "attachment_repo_id": "COURSES-RA-ABB94F5BF175"
-}
+{"attachment_repo_id":"COURSES-RA-ABB94F5BF175","course_code":"22MA31021","course_name":"数值代数","descriptor_id":"course-code:22MA31021","metadata_path":"curriculum/descriptors/22MA31021.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-4dcb7147533baeaa","record_ids":["REC-45F38CA1B92C01F4","REC-96520C70EEF8858D6EAA","REC-0BAFACC5E79F44A3854D","REC-9BD59E17B387D714CDCD","REC-8FF41B45452504E008FE"],"repo_id":"COURSES-RA-ABB94F5BF175","resource_group_id":"exact-name-5f2888c83dd6491a","source_paths":["curriculum://hit-data/plans/148_2022版_31_31122_信息与计算科学.toml#courses[34]"],"status":"mapped-current"}

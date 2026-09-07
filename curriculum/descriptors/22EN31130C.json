@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EN31130C",
-  "course_code": "22EN31130C",
-  "course_name": "环境管理(俄)",
-  "resource_group_id": "exact-name-50cacceedbc0e01e",
-  "physical_repository_id": "physical-course-atomic-7109ade39c57c305",
-  "repo_id": "COURSES-RA-FBDE6370AF65",
-  "record_ids": [
-    "REC-836F97ED2A6529A7"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/142_2022版_27_27274_环境生态工程（鲍曼合作办学）.toml#courses[63]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EN31130C.json",
-  "attachment_repo_id": "COURSES-RA-FBDE6370AF65"
-}
+{"attachment_repo_id":"COURSES-RA-FBDE6370AF65","course_code":"22EN31130C","course_name":"环境管理(俄)","descriptor_id":"course-code:22EN31130C","metadata_path":"curriculum/descriptors/22EN31130C.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-7109ade39c57c305","record_ids":["REC-836F97ED2A6529A7","REC-45BC4E6D6984ABCD9FA6"],"repo_id":"COURSES-RA-FBDE6370AF65","resource_group_id":"exact-name-50cacceedbc0e01e","source_paths":["curriculum://hit-data/plans/142_2022版_27_27274_环境生态工程（鲍曼合作办学）.toml#courses[63]"],"status":"mapped-current"}

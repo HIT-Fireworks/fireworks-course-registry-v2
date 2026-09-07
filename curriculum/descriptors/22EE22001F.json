@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EE22001F",
-  "course_code": "22EE22001F",
-  "course_name": "电工电子基础",
-  "resource_group_id": "exact-name-0fdee9a4ea1d5be3",
-  "physical_repository_id": "physical-course-atomic-e2c42fb749f2642e",
-  "repo_id": "COURSES-RA-1B72ED8C2EF9",
-  "record_ids": [
-    "REC-F507A6436769E894"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/055_2022版_05_05F064_能源互联网工程.toml#courses[0]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EE22001F.json",
-  "attachment_repo_id": "COURSES-RA-1B72ED8C2EF9"
-}
+{"attachment_repo_id":"COURSES-RA-1B72ED8C2EF9","course_code":"22EE22001F","course_name":"电工电子基础","descriptor_id":"course-code:22EE22001F","metadata_path":"curriculum/descriptors/22EE22001F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-e2c42fb749f2642e","record_ids":["REC-F507A6436769E894","REC-AE61B317E153ED22775A","REC-A11BC54808E266DD7DE7"],"repo_id":"COURSES-RA-1B72ED8C2EF9","resource_group_id":"exact-name-0fdee9a4ea1d5be3","source_paths":["curriculum://hit-data/plans/055_2022版_05_05F064_能源互联网工程.toml#courses[0]"],"status":"mapped-current"}

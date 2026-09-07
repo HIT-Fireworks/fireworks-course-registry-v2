@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22HS31402",
-  "course_code": "22HS31402",
-  "course_name": "初级阅读(上)",
-  "resource_group_id": "course-family-2cd0ab14bb411c40",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-D4EABDD466243D35"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/163_2022版_35_35163_汉语言文学.toml#courses[3]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22HS31402.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22HS31402","course_name":"初级阅读(上)","descriptor_id":"course-code:22HS31402","metadata_path":"curriculum/descriptors/22HS31402.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-D4EABDD466243D35","REC-DE1C5A5C1C940C82280A","REC-FB666E08DC62BBC82B55","REC-F911E4722C93C724B43B","REC-1D63707E52602A692028"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"course-family-2cd0ab14bb411c40","source_paths":["curriculum://hit-data/plans/163_2022版_35_35163_汉语言文学.toml#courses[3]"],"status":"mapped-current"}

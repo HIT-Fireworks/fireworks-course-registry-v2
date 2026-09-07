@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22MS31601",
-  "course_code": "22MS31601",
-  "course_name": "电子封装基础实验",
-  "resource_group_id": "exact-name-790192c5e9510969",
-  "physical_repository_id": "physical-course-atomic-8a45d0fa46165dbc",
-  "repo_id": "COURSES-RA-6217E115199B",
-  "record_ids": [
-    "REC-62234973B848961D"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/029_2022版_03_03292_电子封装技术.toml#courses[44]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22MS31601.json",
-  "attachment_repo_id": "COURSES-RA-6217E115199B"
-}
+{"attachment_repo_id":"COURSES-RA-6217E115199B","course_code":"22MS31601","course_name":"电子封装基础实验","descriptor_id":"course-code:22MS31601","metadata_path":"curriculum/descriptors/22MS31601.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-8a45d0fa46165dbc","record_ids":["REC-62234973B848961D","REC-5C05BCD63CD5E7D10ED5","REC-8DBBC643A3288A7814EB","REC-B6C68CEBA91BBF6DA5FC","REC-0CA68FFAF6906A1CFFAF","REC-D24C760CBFF63E5FA8BA","REC-0BE8B063A2093FDEDCF4","REC-4C733CD1578794BEC721","REC-677716A737893BE23AFB","REC-6B1E4F53A3CC7A2B27B6"],"repo_id":"COURSES-RA-6217E115199B","resource_group_id":"exact-name-790192c5e9510969","source_paths":["curriculum://hit-data/plans/029_2022版_03_03292_电子封装技术.toml#courses[44]"],"status":"mapped-current"}

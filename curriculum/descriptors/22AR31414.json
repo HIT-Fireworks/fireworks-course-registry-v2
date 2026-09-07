@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22AR31414",
-  "course_code": "22AR31414",
-  "course_name": "景观社会学",
-  "resource_group_id": "exact-name-30d6f87965c2d197",
-  "physical_repository_id": "physical-course-atomic-3d09c28bf35c5f42",
-  "repo_id": "COURSES-AF51708C5BBA",
-  "record_ids": [
-    "REC-012F3EA52D9752CA"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/070_2022版_11B_11B347_风景园林.toml#courses[50]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22AR31414.json",
-  "attachment_repo_id": "COURSES-AF51708C5BBA"
-}
+{"attachment_repo_id":"COURSES-AF51708C5BBA","course_code":"22AR31414","course_name":"景观社会学","descriptor_id":"course-code:22AR31414","metadata_path":"curriculum/descriptors/22AR31414.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3d09c28bf35c5f42","record_ids":["REC-012F3EA52D9752CA","REC-D3B10E17C6F7F8A2316C","REC-A016CAAC5078D011A35C"],"repo_id":"COURSES-AF51708C5BBA","resource_group_id":"exact-name-30d6f87965c2d197","source_paths":["curriculum://hit-data/plans/070_2022版_11B_11B347_风景园林.toml#courses[50]"],"status":"mapped-current"}

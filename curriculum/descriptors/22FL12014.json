@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22FL12014",
-  "course_code": "22FL12014",
-  "course_name": "大学外语(俄语LP1)",
-  "resource_group_id": "exact-name-f2fd98da63586011",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-5EEFC5E207D77DD3"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/022_2022版_04_04027_飞行器动力工程（莫航联培班）.toml#courses[4]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22FL12014.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22FL12014","course_name":"大学外语(俄语LP1)","descriptor_id":"course-code:22FL12014","metadata_path":"curriculum/descriptors/22FL12014.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-5EEFC5E207D77DD3","REC-6465CAC2874F7E5ED120","REC-622DB25652938594366F","REC-4DE839218243AD5EAD04","REC-44FA0113FEEB75CACBC7"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"exact-name-f2fd98da63586011","source_paths":["curriculum://hit-data/plans/022_2022版_04_04027_飞行器动力工程（莫航联培班）.toml#courses[4]"],"status":"mapped-current"}

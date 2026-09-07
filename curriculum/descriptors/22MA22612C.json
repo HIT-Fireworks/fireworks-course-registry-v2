@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22MA22612C",
-  "course_code": "22MA22612C",
-  "course_name": "概率论",
-  "resource_group_id": "exact-name-8b7d5539eecac651",
-  "physical_repository_id": "physical-course-atomic-4dcb7147533baeaa",
-  "repo_id": "COURSES-RA-ABB94F5BF175",
-  "record_ids": [
-    "REC-B703E3BB37FAA843"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/150_2022版_31_31126_数学与应用数学（中外合作）.toml#courses[47]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22MA22612C.json",
-  "attachment_repo_id": "COURSES-RA-ABB94F5BF175"
-}
+{"attachment_repo_id":"COURSES-RA-ABB94F5BF175","course_code":"22MA22612C","course_name":"概率论","descriptor_id":"course-code:22MA22612C","metadata_path":"curriculum/descriptors/22MA22612C.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-4dcb7147533baeaa","record_ids":["REC-B703E3BB37FAA843","REC-384E343E1E27CC49CE37","REC-DC90058C534B70212B2C"],"repo_id":"COURSES-RA-ABB94F5BF175","resource_group_id":"exact-name-8b7d5539eecac651","source_paths":["curriculum://hit-data/plans/150_2022版_31_31126_数学与应用数学（中外合作）.toml#courses[47]"],"status":"mapped-current"}

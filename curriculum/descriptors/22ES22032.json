@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22ES22032",
-  "course_code": "22ES22032",
-  "course_name": "工程热力学D",
-  "resource_group_id": "name-family-6b509dcca20ef62c",
-  "physical_repository_id": "physical-course-atomic-74435dd3bcdd0243",
-  "repo_id": "COURSES-FABC2915B57C",
-  "record_ids": [
-    "REC-8E4974935E9A459C"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/104_2022版_01_011841_复合材料与工程（强基计划）.toml#courses[33]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22ES22032.json",
-  "attachment_repo_id": "COURSES-FABC2915B57C"
-}
+{"attachment_repo_id":"COURSES-FABC2915B57C","course_code":"22ES22032","course_name":"工程热力学D","descriptor_id":"course-code:22ES22032","metadata_path":"curriculum/descriptors/22ES22032.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-74435dd3bcdd0243","record_ids":["REC-8E4974935E9A459C","REC-E23BDCD906A409D0B071","REC-57A8F62F1049E5711C8C","REC-B660581D037BDA649115","REC-A3315E1BA446BE2D839D","REC-FA5763106FA5A9E2D722"],"repo_id":"COURSES-FABC2915B57C","resource_group_id":"name-family-6b509dcca20ef62c","source_paths":["curriculum://hit-data/plans/104_2022版_01_011841_复合材料与工程（强基计划）.toml#courses[33]"],"status":"mapped-current"}

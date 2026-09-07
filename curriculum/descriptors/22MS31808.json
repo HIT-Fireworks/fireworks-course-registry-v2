@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22MS31808",
-  "course_code": "22MS31808",
-  "course_name": "光电信息科学与工程综合实验",
-  "resource_group_id": "exact-name-f00d0897735a48af",
-  "physical_repository_id": "physical-course-atomic-8a45d0fa46165dbc",
-  "repo_id": "COURSES-RA-6217E115199B",
-  "record_ids": [
-    "REC-B790B79B9BB5788F"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/031_2022版_03_03443_光电信息材料与器件.toml#courses[48]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22MS31808.json",
-  "attachment_repo_id": "COURSES-RA-6217E115199B"
-}
+{"attachment_repo_id":"COURSES-RA-6217E115199B","course_code":"22MS31808","course_name":"光电信息科学与工程综合实验","descriptor_id":"course-code:22MS31808","metadata_path":"curriculum/descriptors/22MS31808.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-8a45d0fa46165dbc","record_ids":["REC-B790B79B9BB5788F","REC-293626E17B2356E70EFA","REC-CD11D1A5D9115E82216C","REC-FBACCB94AEFA83E7B42B"],"repo_id":"COURSES-RA-6217E115199B","resource_group_id":"exact-name-f00d0897735a48af","source_paths":["curriculum://hit-data/plans/031_2022版_03_03443_光电信息材料与器件.toml#courses[48]"],"status":"mapped-current"}

@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EM31602",
-  "course_code": "22EM31602",
-  "course_name": "高级财务会计",
-  "resource_group_id": "exact-name-c41eed794a87dc5c",
-  "physical_repository_id": "physical-course-atomic-bf03a328b2629a0c",
-  "repo_id": "COURSES-RA-1DE27CC2E974",
-  "record_ids": [
-    "REC-7005D205C9ED3498"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/206_2022版_60_60203_会计学.toml#courses[44]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EM31602.json",
-  "attachment_repo_id": "COURSES-RA-1DE27CC2E974"
-}
+{"attachment_repo_id":"COURSES-RA-1DE27CC2E974","course_code":"22EM31602","course_name":"高级财务会计","descriptor_id":"course-code:22EM31602","metadata_path":"curriculum/descriptors/22EM31602.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-bf03a328b2629a0c","record_ids":["REC-7005D205C9ED3498","REC-C677D0236A9A5F1D2CB8","REC-910491C73E33EE3F6F94","REC-8CC2D092280BED680F7C"],"repo_id":"COURSES-RA-1DE27CC2E974","resource_group_id":"exact-name-c41eed794a87dc5c","source_paths":["curriculum://hit-data/plans/206_2022版_60_60203_会计学.toml#courses[44]"],"status":"mapped-current"}

@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22TS31501",
-  "course_code": "22TS31501",
-  "course_name": "交通管理",
-  "resource_group_id": "exact-name-393548d2fde2160a",
-  "physical_repository_id": "physical-course-ra-4275d1a36c646ecc",
-  "repo_id": "COURSES-RA-4275D1A36C64",
-  "record_ids": [
-    "REC-040110A4C8933B6E"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/096_2022版_12_12325_交通设备与控制工程.toml#courses[47]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22TS31501.json",
-  "attachment_repo_id": "COURSES-RA-4275D1A36C64"
-}
+{"attachment_repo_id":"COURSES-RA-4275D1A36C64","course_code":"22TS31501","course_name":"交通管理","descriptor_id":"course-code:22TS31501","metadata_path":"curriculum/descriptors/22TS31501.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-ra-4275d1a36c646ecc","record_ids":["REC-040110A4C8933B6E","REC-81899CCD1D359EF63FCF","REC-994D4DC26080BD73AA3F","REC-D9D9BB44B76E9AEB47B3"],"repo_id":"COURSES-RA-4275D1A36C64","resource_group_id":"exact-name-393548d2fde2160a","source_paths":["curriculum://hit-data/plans/096_2022版_12_12325_交通设备与控制工程.toml#courses[47]"],"status":"mapped-current"}

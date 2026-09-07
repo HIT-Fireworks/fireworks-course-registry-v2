@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:AS32106",
-  "course_code": "AS32106",
-  "course_name": "自动控制理论(2)",
-  "resource_group_id": "name-family-9b4558b47c01c11d",
-  "physical_repository_id": "physical-course-atomic-d21079c35223ce1d",
-  "repo_id": "COURSES-RA-460A910D00CC",
-  "record_ids": [
-    "REC-75CDBFCC1D010C19"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/111_2022版_01_01E041_自动化.toml#courses[4]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/AS32106.json",
-  "attachment_repo_id": "COURSES-RA-460A910D00CC"
-}
+{"attachment_repo_id":"COURSES-RA-460A910D00CC","course_code":"AS32106","course_name":"自动控制理论(2)","descriptor_id":"course-code:AS32106","metadata_path":"curriculum/descriptors/AS32106.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-d21079c35223ce1d","record_ids":["REC-75CDBFCC1D010C19","REC-8384C492DC2D894FD83F","REC-4C4416A207C802CD5A71","REC-81244343E3215072B22A","REC-D9425805B5AB78D35472","REC-B84696FA926EC102FE43","REC-D3A6664FB3FB4844E819","REC-9DCD6A678BF23C8F1926","REC-3E70626F60D6A38CE0AF","REC-37A334BB4D86AC0F596B","REC-6D70AB1D7C69CEEF5B27","REC-9196F0B183801D38A6F1","REC-A737D1A48C19A46F99EE","REC-3E8BC9627BF55AF1CDD2","REC-9ABD469F1049152BC164","REC-809449266FF5FEB56247","REC-3AF525EA02214CD53D1E","REC-E8288FDE1DAFEC72AF8E","REC-99FF74AA7F59BE6136CB","REC-86F5BB037439928BE266","REC-1B5EDF7818BE866ACD9E","REC-F8CF56D54926F3F91AD8","REC-02F03E869FC2EB5367B9"],"repo_id":"COURSES-RA-460A910D00CC","resource_group_id":"name-family-9b4558b47c01c11d","source_paths":["curriculum://hit-data/plans/111_2022版_01_01E041_自动化.toml#courses[4]"],"status":"mapped-current"}

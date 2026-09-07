@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22ES32704",
-  "course_code": "22ES32704",
-  "course_name": "高超声速组合推进原理",
-  "resource_group_id": "exact-name-f4475e75930d2566",
-  "physical_repository_id": "physical-course-atomic-74435dd3bcdd0243",
-  "repo_id": "COURSES-FABC2915B57C",
-  "record_ids": [
-    "REC-5CD440A2DD088E7D"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/022_2022版_04_04027_飞行器动力工程（莫航联培班）.toml#courses[69]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22ES32704.json",
-  "attachment_repo_id": "COURSES-FABC2915B57C"
-}
+{"attachment_repo_id":"COURSES-FABC2915B57C","course_code":"22ES32704","course_name":"高超声速组合推进原理","descriptor_id":"course-code:22ES32704","metadata_path":"curriculum/descriptors/22ES32704.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-74435dd3bcdd0243","record_ids":["REC-5CD440A2DD088E7D","REC-C9F27A068B3CE1FDA88F","REC-D64EBBD3E5719A1C7821","REC-B64C9EFF62D0496AA086","REC-1626C42AC2070A996E2C","REC-1882028EB197E4262ABE","REC-729FBAF0A9DA807F0142"],"repo_id":"COURSES-FABC2915B57C","resource_group_id":"exact-name-f4475e75930d2566","source_paths":["curriculum://hit-data/plans/022_2022版_04_04027_飞行器动力工程（莫航联培班）.toml#courses[69]"],"status":"mapped-current"}

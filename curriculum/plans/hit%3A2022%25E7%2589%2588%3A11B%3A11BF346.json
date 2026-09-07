@@ -1,13 +1,1 @@
-{
-  "plan_id": "hit:2022%E7%89%88:11B:11BF346",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/plans/hit%3A2022%25E7%2589%2588%3A11B%3A11BF346.json",
-  "source_plan_file": "079_2022版_11B_11BF346_环境设计.toml",
-  "campus": "hit",
-  "plan_version": "2022版",
-  "department_code": "11B",
-  "school_name": "建筑与设计学院",
-  "major_code": "11BF346",
-  "major_name": "环境设计",
-  "year": "2022"
-}
+{"campus":"hit","department_code":"11B","major_code":"11BF346","major_full_name":"环境设计【辅修】","major_name":"环境设计","metadata_path":"curriculum/plans/hit%3A2022%25E7%2589%2588%3A11B%3A11BF346.json","metadata_repo_id":"fireworks-course-registry-v2","plan_id":"hit:2022%E7%89%88:11B:11BF346","plan_version":"2022版","program_type":"辅修","school_name":"建筑与设计学院","source_capture":{"checks":{"authenticated":true,"confirmed_empty":false,"expected_headers":true,"pagination_consistent":true},"complete":true,"endpoint":"/pyfa/queryPykc","pages":[10],"rows":10,"scope":{"pageBbh":"2022版","pageKcmc":"","pageKkxn":"","pageKkxq":"","pageYxdm":"11B","pageZydm":"11BF346"},"unpaged_rows":0},"source_kind":"curriculum","source_plan_file":"hit%3A2022%25E7%2589%2588%3A11B%3A11BF346_环境设计.json"}

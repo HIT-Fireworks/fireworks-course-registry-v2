@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22CC31002C",
-  "course_code": "22CC31002C",
-  "course_name": "生命安全",
-  "resource_group_id": "exact-name-0ea82fe130d95b64",
-  "physical_repository_id": "physical-course-atomic-542b2fc253a5a5d7",
-  "repo_id": "COURSES-5AF3514CBD50",
-  "record_ids": [
-    "REC-280275D91F66E3B1"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/118_2022版_25_25079_化学（中外合作）.toml#courses[21]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22CC31002C.json",
-  "attachment_repo_id": "COURSES-5AF3514CBD50"
-}
+{"attachment_repo_id":"COURSES-5AF3514CBD50","course_code":"22CC31002C","course_name":"生命安全","descriptor_id":"course-code:22CC31002C","metadata_path":"curriculum/descriptors/22CC31002C.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-542b2fc253a5a5d7","record_ids":["REC-280275D91F66E3B1","REC-046163AB635F994DD0B6","REC-1A637179DA5178A531B1","REC-640DF328EB297385E384","REC-2A590708670C47D4D78A","REC-C8A73122A85F9F44AADD"],"repo_id":"COURSES-5AF3514CBD50","resource_group_id":"exact-name-0ea82fe130d95b64","source_paths":["curriculum://hit-data/plans/118_2022版_25_25079_化学（中外合作）.toml#courses[21]"],"status":"mapped-current"}

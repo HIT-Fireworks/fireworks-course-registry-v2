@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EE31010",
-  "course_code": "22EE31010",
-  "course_name": "嵌入式系统原理及应用B",
-  "resource_group_id": "name-family-1238181a4c78b395",
-  "physical_repository_id": "physical-course-atomic-e2c42fb749f2642e",
-  "repo_id": "COURSES-RA-1B72ED8C2EF9",
-  "record_ids": [
-    "REC-A4FFC7A4808EAAD8"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/201_2022版_32_32SXS111061_应用物理学（+电气工程及其自动化双学士学位）.toml#courses[52]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EE31010.json",
-  "attachment_repo_id": "COURSES-RA-1B72ED8C2EF9"
-}
+{"attachment_repo_id":"COURSES-RA-1B72ED8C2EF9","course_code":"22EE31010","course_name":"嵌入式系统原理及应用B","descriptor_id":"course-code:22EE31010","metadata_path":"curriculum/descriptors/22EE31010.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-e2c42fb749f2642e","record_ids":["REC-A4FFC7A4808EAAD8","REC-59BFF896306DC46E7692","REC-02690698CEC390CCB51B","REC-CE348148DD5484CE6A65","REC-6658A3D49F1A3D9B5BA9","REC-D01C84FDCD82678C6A4B","REC-7EA91A484E31624A0F5D"],"repo_id":"COURSES-RA-1B72ED8C2EF9","resource_group_id":"name-family-1238181a4c78b395","source_paths":["curriculum://hit-data/plans/201_2022版_32_32SXS111061_应用物理学（+电气工程及其自动化双学士学位）.toml#courses[52]"],"status":"mapped-current"}

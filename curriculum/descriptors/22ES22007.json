@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22ES22007",
-  "course_code": "22ES22007",
-  "course_name": "核工程热流基础I",
-  "resource_group_id": "name-family-72eb1e62b7301e26",
-  "physical_repository_id": "physical-course-atomic-74435dd3bcdd0243",
-  "repo_id": "COURSES-FABC2915B57C",
-  "record_ids": [
-    "REC-5327F907359B6DBA"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/020_2022版_04_04025_核工程与核技术.toml#courses[34]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22ES22007.json",
-  "attachment_repo_id": "COURSES-FABC2915B57C"
-}
+{"attachment_repo_id":"COURSES-FABC2915B57C","course_code":"22ES22007","course_name":"核工程热流基础I","descriptor_id":"course-code:22ES22007","metadata_path":"curriculum/descriptors/22ES22007.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-74435dd3bcdd0243","record_ids":["REC-5327F907359B6DBA","REC-BDEC97A1DDBC3E524565","REC-BC794E1CD65DB7C64EE1","REC-69D9805D82382AE25C65","REC-3B84DE8DE7B22FD7F0A0"],"repo_id":"COURSES-FABC2915B57C","resource_group_id":"name-family-72eb1e62b7301e26","source_paths":["curriculum://hit-data/plans/020_2022版_04_04025_核工程与核技术.toml#courses[34]"],"status":"mapped-current"}

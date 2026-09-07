@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22AS31906B",
-  "course_code": "22AS31906B",
-  "course_name": "光电图像处理",
-  "resource_group_id": "exact-name-2664d23de6bcc5f8",
-  "physical_repository_id": "physical-course-atomic-d21079c35223ce1d",
-  "repo_id": "COURSES-RA-460A910D00CC",
-  "record_ids": [
-    "REC-43464EBE83499468"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/109_2022版_01_01213_光电信息科学与工程(光学工程方向).toml#courses[50]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22AS31906B.json",
-  "attachment_repo_id": "COURSES-RA-460A910D00CC"
-}
+{"attachment_repo_id":"COURSES-RA-460A910D00CC","course_code":"22AS31906B","course_name":"光电图像处理","descriptor_id":"course-code:22AS31906B","metadata_path":"curriculum/descriptors/22AS31906B.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-d21079c35223ce1d","record_ids":["REC-43464EBE83499468","REC-6F7439E283118DBD0B5B","REC-503BFFB2235E86F57A5E","REC-6A375FB27C00A1F8243B"],"repo_id":"COURSES-RA-460A910D00CC","resource_group_id":"exact-name-2664d23de6bcc5f8","source_paths":["curriculum://hit-data/plans/109_2022版_01_01213_光电信息科学与工程(光学工程方向).toml#courses[50]"],"status":"mapped-current"}

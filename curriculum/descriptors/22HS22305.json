@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22HS22305",
-  "course_code": "22HS22305",
-  "course_name": "刑法总论",
-  "resource_group_id": "name-family-2aa49bbd88f2b1f2",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-B94D2EB3A28FF12E"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/165_2022版_35_35242_法学.toml#courses[13]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22HS22305.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22HS22305","course_name":"刑法总论","descriptor_id":"course-code:22HS22305","metadata_path":"curriculum/descriptors/22HS22305.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-B94D2EB3A28FF12E","REC-EF4A03A847FAEE9F1B74"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"name-family-2aa49bbd88f2b1f2","source_paths":["curriculum://hit-data/plans/165_2022版_35_35242_法学.toml#courses[13]"],"status":"mapped-current"}

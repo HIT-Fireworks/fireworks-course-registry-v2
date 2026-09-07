@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22AS31202",
-  "course_code": "22AS31202",
-  "course_name": "最优控制基础",
-  "resource_group_id": "optimal-control",
-  "physical_repository_id": "physical-course-ra-4a200afa4ecda155",
-  "repo_id": "COURSES-RA-4A200AFA4ECD",
-  "record_ids": [
-    "REC-828989A229D296A5"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/098_2022版_01_01041_自动化.toml#courses[51]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22AS31202.json",
-  "attachment_repo_id": "COURSES-RA-4A200AFA4ECD"
-}
+{"attachment_repo_id":"COURSES-RA-4A200AFA4ECD","course_code":"22AS31202","course_name":"最优控制基础","descriptor_id":"course-code:22AS31202","metadata_path":"curriculum/descriptors/22AS31202.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-ra-4a200afa4ecda155","record_ids":["REC-828989A229D296A5","REC-4D381665D5588A4766C8","REC-CC144C4FD68D8D5D18FF","REC-9B2E4D38926A71D21752","REC-62E0B5DB2344112CB9F0","REC-E711D9D010A07AEEF3F9","REC-A09F86440A74B45EC069","REC-49926A93D04D3D017364","REC-7A831803E643E17EF4C4","REC-DDF318176EA8F39E7F20","REC-919CF7D54570359A94C9","REC-66248D676714A392A935","REC-27A46EC5F87C7B237063","REC-2A37DFDF53778A3592ED","REC-F7AE4DF0FA9A1E48C144","REC-D9F8174E7FF7CF27D718","REC-F0E242B1F88CBB26F538","REC-45815D5083BEACCC656C","REC-FCCF4363EFB7F56DC499","REC-BBBFB90AAEE86EAC5B3F","REC-D4AD1DEACF8A4BB6BB4A","REC-847C545CC96FF0B637F8","REC-5C41082CE14FE3D4F4A8","REC-647A5A9DC1C443D5AAB7","REC-24972262128D665A84A0","REC-9F1F787C003AAD79EFE9","REC-19F9CE941FC9DD56326D","REC-5797F6B163E109006A48","REC-4AA325C8ED8FC8B4D0DC","REC-BB6F3EE7A8D6E0BA6A38","REC-5538840D54353A30C14A","REC-C3815EF5687C7DD15FB2"],"repo_id":"COURSES-RA-4A200AFA4ECD","resource_group_id":"optimal-control","source_paths":["curriculum://hit-data/plans/098_2022版_01_01041_自动化.toml#courses[51]"],"status":"mapped-current"}

@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22FL22411",
-  "course_code": "22FL22411",
-  "course_name": "高级法语(2)",
-  "resource_group_id": "name-family-e45319e98b14e222",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-18D4157695A8026B"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/160_2022版_35_35154_国际组织与全球治理.toml#courses[33]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22FL22411.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22FL22411","course_name":"高级法语(2)","descriptor_id":"course-code:22FL22411","metadata_path":"curriculum/descriptors/22FL22411.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-18D4157695A8026B","REC-BBBAE6FDFCF679BCFDB7","REC-7EED6DDD4E3365CE323C","REC-3BD723C122185A2783A5","REC-EAA5A70F9199374B1660"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"name-family-e45319e98b14e222","source_paths":["curriculum://hit-data/plans/160_2022版_35_35154_国际组织与全球治理.toml#courses[33]"],"status":"mapped-current"}

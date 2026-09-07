@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EN22009F",
-  "course_code": "22EN22009F",
-  "course_name": "环境分析化学",
-  "resource_group_id": "exact-name-5220ba4e1567eb7c",
-  "physical_repository_id": "physical-course-atomic-7109ade39c57c305",
-  "repo_id": "COURSES-RA-FBDE6370AF65",
-  "record_ids": [
-    "REC-48E9245441337D3C"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/145_2022版_27_27F272_环境科学.toml#courses[1]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EN22009F.json",
-  "attachment_repo_id": "COURSES-RA-FBDE6370AF65"
-}
+{"attachment_repo_id":"COURSES-RA-FBDE6370AF65","course_code":"22EN22009F","course_name":"环境分析化学","descriptor_id":"course-code:22EN22009F","metadata_path":"curriculum/descriptors/22EN22009F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-7109ade39c57c305","record_ids":["REC-48E9245441337D3C"],"repo_id":"COURSES-RA-FBDE6370AF65","resource_group_id":"exact-name-5220ba4e1567eb7c","source_paths":["curriculum://hit-data/plans/145_2022版_27_27F272_环境科学.toml#courses[1]"],"status":"mapped-current"}

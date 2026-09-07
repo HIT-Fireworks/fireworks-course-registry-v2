@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22CS33060",
-  "course_code": "22CS33060",
-  "course_name": "人工智能程序设计实践B",
-  "resource_group_id": "name-family-e61f4c4df12bd4c1",
-  "physical_repository_id": "physical-course-atomic-bd43faff1cb1a2ec",
-  "repo_id": "COURSES-RA-17E77210FDA8",
-  "record_ids": [
-    "REC-D12CA6D1F356C9DE"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/091_2022版_13B_13BE036_人工智能.toml#courses[8]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22CS33060.json",
-  "attachment_repo_id": "COURSES-RA-17E77210FDA8"
-}
+{"attachment_repo_id":"COURSES-RA-17E77210FDA8","course_code":"22CS33060","course_name":"人工智能程序设计实践B","descriptor_id":"course-code:22CS33060","metadata_path":"curriculum/descriptors/22CS33060.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-bd43faff1cb1a2ec","record_ids":["REC-D12CA6D1F356C9DE","REC-421B491942E13E48AC8A"],"repo_id":"COURSES-RA-17E77210FDA8","resource_group_id":"name-family-e61f4c4df12bd4c1","source_paths":["curriculum://hit-data/plans/091_2022版_13B_13BE036_人工智能.toml#courses[8]"],"status":"mapped-current"}

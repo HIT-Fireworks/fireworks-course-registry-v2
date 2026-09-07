@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22IS31104",
-  "course_code": "22IS31104",
-  "course_name": "在线智能测控系统设计",
-  "resource_group_id": "name-family-bbaed0ea46675dd5",
-  "physical_repository_id": "physical-course-atomic-4db498a4e9dbde3a",
-  "repo_id": "COURSES-RA-AE0EC9DD0D5A",
-  "record_ids": [
-    "REC-5099EA573B2AC613"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/190_2022版_28_28011_测控技术与仪器.toml#courses[53]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22IS31104.json",
-  "attachment_repo_id": "COURSES-RA-AE0EC9DD0D5A"
-}
+{"attachment_repo_id":"COURSES-RA-AE0EC9DD0D5A","course_code":"22IS31104","course_name":"在线智能测控系统设计","descriptor_id":"course-code:22IS31104","metadata_path":"curriculum/descriptors/22IS31104.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-4db498a4e9dbde3a","record_ids":["REC-5099EA573B2AC613","REC-E15427A002EEDB43ABB5","REC-55A4782BB1B9CAD206D5","REC-183319A7F4B7D0087C36","REC-20EA1F384836288AECF1","REC-0ED575290A6E625B4E8E","REC-C6F16F82E6D58A594572","REC-0FA112301AE1BD595F31","REC-2B472E4E8C3BCE38AD04","REC-75E749F223FC6F46DD4B"],"repo_id":"COURSES-RA-AE0EC9DD0D5A","resource_group_id":"name-family-bbaed0ea46675dd5","source_paths":["curriculum://hit-data/plans/190_2022版_28_28011_测控技术与仪器.toml#courses[53]"],"status":"mapped-current"}

@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:AS34102",
-  "course_code": "AS34102",
-  "course_name": "毕业设计(论文)",
-  "resource_group_id": "exact-name-563e3616e33a3994",
-  "physical_repository_id": "physical-course-atomic-d21079c35223ce1d",
-  "repo_id": "COURSES-RA-460A910D00CC",
-  "record_ids": [
-    "REC-A9719488767EB91E"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/111_2022版_01_01E041_自动化.toml#courses[15]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/AS34102.json",
-  "attachment_repo_id": "COURSES-RA-460A910D00CC"
-}
+{"attachment_repo_id":"COURSES-RA-460A910D00CC","course_code":"AS34102","course_name":"毕业设计(论文)","descriptor_id":"course-code:AS34102","metadata_path":"curriculum/descriptors/AS34102.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-d21079c35223ce1d","record_ids":["REC-A9719488767EB91E","REC-E158FAA30E908E4A4E53","REC-957CF4C8FA43864542F0","REC-32223532E5F9BC706F79","REC-8C9FF9270EDAFB980F08","REC-0AB995DBEF99A41675D1","REC-BA05BE5839F6E93693C1","REC-3C14A30FA8D4EBEED6B1","REC-CFC54DDE09A1A12E4D97","REC-B8CD16B238C42E6FE233","REC-F022B9D34EB546BA1F34","REC-DA1111866EA51D23D321","REC-4C04D79453C456D7B47D","REC-B1B546CD3489A18B2191","REC-2B3CFC42B25E6C8AF361","REC-75322804D24135A7F55D","REC-A55DAB6DDAC01449A611","REC-E141767B7D5FBD3F3E47","REC-FCE9C2EBC9BC84455EC5","REC-B3F55AA95AB9A740B53D","REC-9E5D138889C9FF6091D7","REC-BD4FD9384D00AEADF258","REC-EDC60BAF60C8BF3E89D3","REC-A5DE05A8C698AD8D18D9","REC-BCE6B9108030A119640D","REC-206CB7B9C9727C72FCD3","REC-89910957CAF2B0CF0BAA","REC-3E48FD9A490D3D623582","REC-560C535DBAF1452AAADD","REC-F8B70676C881B72EE174","REC-A0AC1325C0CB771FFB34","REC-3E369C4FC5AC53D01BB5","REC-026E945D33AF21CAB432","REC-4A32D62A3F389EC9FB70"],"repo_id":"COURSES-RA-460A910D00CC","resource_group_id":"exact-name-563e3616e33a3994","source_paths":["curriculum://hit-data/plans/111_2022版_01_01E041_自动化.toml#courses[15]"],"status":"mapped-current"}

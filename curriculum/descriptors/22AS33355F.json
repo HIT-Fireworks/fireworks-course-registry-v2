@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22AS33355F",
-  "course_code": "22AS33355F",
-  "course_name": "毕业论文(设计)",
-  "resource_group_id": "exact-name-8db41f88b0b6c77e",
-  "physical_repository_id": "physical-course-atomic-d21079c35223ce1d",
-  "repo_id": "COURSES-RA-460A910D00CC",
-  "record_ids": [
-    "REC-D284BC3CF15A36B0"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/115_2022版_01_01F184_复合材料与工程.toml#courses[8]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22AS33355F.json",
-  "attachment_repo_id": "COURSES-RA-460A910D00CC"
-}
+{"attachment_repo_id":"COURSES-RA-460A910D00CC","course_code":"22AS33355F","course_name":"毕业论文(设计)","descriptor_id":"course-code:22AS33355F","metadata_path":"curriculum/descriptors/22AS33355F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-d21079c35223ce1d","record_ids":["REC-D284BC3CF15A36B0","REC-772AB82CD37CBFE2CBB6"],"repo_id":"COURSES-RA-460A910D00CC","resource_group_id":"exact-name-8db41f88b0b6c77e","source_paths":["curriculum://hit-data/plans/115_2022版_01_01F184_复合材料与工程.toml#courses[8]"],"status":"mapped-current"}

@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22ME22031",
-  "course_code": "22ME22031",
-  "course_name": "设计与制造(3)",
-  "resource_group_id": "name-family-154da41658accc93",
-  "physical_repository_id": "physical-course-atomic-a42f57a93e87e2ce",
-  "repo_id": "COURSES-669D2EC19F09",
-  "record_ids": [
-    "REC-63A69595FE3928D0"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/003_2022版_02_020831_飞行器制造工程（强基计划）.toml#courses[49]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22ME22031.json",
-  "attachment_repo_id": "COURSES-669D2EC19F09"
-}
+{"attachment_repo_id":"COURSES-669D2EC19F09","course_code":"22ME22031","course_name":"设计与制造(3)","descriptor_id":"course-code:22ME22031","metadata_path":"curriculum/descriptors/22ME22031.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-a42f57a93e87e2ce","record_ids":["REC-63A69595FE3928D0","REC-732BEC82F475E738C9FE","REC-06E504A82E4D239162C3","REC-CB1DAB52D0E4F28FB207","REC-C82C8050FDE035D206EB","REC-95001BD2513900FB8BAE","REC-FC57833B40EC28A237CC"],"repo_id":"COURSES-669D2EC19F09","resource_group_id":"name-family-154da41658accc93","source_paths":["curriculum://hit-data/plans/003_2022版_02_020831_飞行器制造工程（强基计划）.toml#courses[49]"],"status":"mapped-current"}

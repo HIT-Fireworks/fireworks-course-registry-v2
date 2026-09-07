@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EM22802F",
-  "course_code": "22EM22802F",
-  "course_name": "期货与期权",
-  "resource_group_id": "exact-name-9ac7d534e16e3c95",
-  "physical_repository_id": "physical-course-atomic-bf03a328b2629a0c",
-  "repo_id": "COURSES-RA-1DE27CC2E974",
-  "record_ids": [
-    "REC-E784A8DF33C8D944"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/041_2022版_07_07F221_金融学.toml#courses[3]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EM22802F.json",
-  "attachment_repo_id": "COURSES-RA-1DE27CC2E974"
-}
+{"attachment_repo_id":"COURSES-RA-1DE27CC2E974","course_code":"22EM22802F","course_name":"期货与期权","descriptor_id":"course-code:22EM22802F","metadata_path":"curriculum/descriptors/22EM22802F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-bf03a328b2629a0c","record_ids":["REC-E784A8DF33C8D944","REC-C4CE9C572804D5677FB4","REC-72A650DA3A5B69DAA9D2"],"repo_id":"COURSES-RA-1DE27CC2E974","resource_group_id":"exact-name-9ac7d534e16e3c95","source_paths":["curriculum://hit-data/plans/041_2022版_07_07F221_金融学.toml#courses[3]"],"status":"mapped-current"}

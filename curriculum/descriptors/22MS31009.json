@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22MS31009",
-  "course_code": "22MS31009",
-  "course_name": "金属力学性能",
-  "resource_group_id": "exact-name-7f98caabbf642991",
-  "physical_repository_id": "physical-course-atomic-8a45d0fa46165dbc",
-  "repo_id": "COURSES-RA-6217E115199B",
-  "record_ids": [
-    "REC-5625462A8DBED1F8"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/025_2022版_03_03092_增材制造工程.toml#courses[40]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22MS31009.json",
-  "attachment_repo_id": "COURSES-RA-6217E115199B"
-}
+{"attachment_repo_id":"COURSES-RA-6217E115199B","course_code":"22MS31009","course_name":"金属力学性能","descriptor_id":"course-code:22MS31009","metadata_path":"curriculum/descriptors/22MS31009.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-8a45d0fa46165dbc","record_ids":["REC-5625462A8DBED1F8","REC-15AFDB1ED3D5D93CB6AF","REC-9EB01641764B2CF76064","REC-822C1D075D38BFF45FF9","REC-68266F0E54A7ADABE027","REC-50E7471B538973485FBB","REC-DB15077A6542F73250EC","REC-CFCA643238EE220F260D","REC-31C06F128B411EF751F9","REC-657D36EBA58A591C36D0","REC-073FB6458FA3A6E2EB58","REC-6DE77F134D0F40DF3F32","REC-2F9E85EB3414D37D5310","REC-16A823E81E4CE8E81C04","REC-323A90500BD8527F7F62","REC-DE579728DF9EFECEB109","REC-6E1D7BA456E822221A67","REC-D51784835AF91B0A3688","REC-517B42FDD10FF4E6DB42","REC-C831838149BCA0F73B39","REC-B36BD011E9C1C648584F","REC-3E2AE0D40ED1C3BB089D","REC-F45D758E699E0F444764"],"repo_id":"COURSES-RA-6217E115199B","resource_group_id":"exact-name-7f98caabbf642991","source_paths":["curriculum://hit-data/plans/025_2022版_03_03092_增材制造工程.toml#courses[40]"],"status":"mapped-current"}

@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22PH31010C",
-  "course_code": "22PH31010C",
-  "course_name": "半导体物理",
-  "resource_group_id": "exact-name-89ab83106e012e65",
-  "physical_repository_id": "physical-course-atomic-387096aeb39fcde3",
-  "repo_id": "COURSES-RA-EB8FE773296B",
-  "record_ids": [
-    "REC-D3A3BEE1ECCADE46"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/198_2022版_32_32115_应用物理学（中外合作）.toml#courses[67]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22PH31010C.json",
-  "attachment_repo_id": "COURSES-RA-EB8FE773296B"
-}
+{"attachment_repo_id":"COURSES-RA-EB8FE773296B","course_code":"22PH31010C","course_name":"半导体物理","descriptor_id":"course-code:22PH31010C","metadata_path":"curriculum/descriptors/22PH31010C.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-387096aeb39fcde3","record_ids":["REC-D3A3BEE1ECCADE46","REC-8A4431C3A05EB74B17EE","REC-11269D12DE2F52ACA8AB"],"repo_id":"COURSES-RA-EB8FE773296B","resource_group_id":"exact-name-89ab83106e012e65","source_paths":["curriculum://hit-data/plans/198_2022版_32_32115_应用物理学（中外合作）.toml#courses[67]"],"status":"mapped-current"}

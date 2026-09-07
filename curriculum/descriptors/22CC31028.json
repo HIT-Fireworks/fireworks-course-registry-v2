@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22CC31028",
-  "course_code": "22CC31028",
-  "course_name": "电化学原理A",
-  "resource_group_id": "exact-name-633b804169bb2d13",
-  "physical_repository_id": "physical-course-atomic-542b2fc253a5a5d7",
-  "repo_id": "COURSES-5AF3514CBD50",
-  "record_ids": [
-    "REC-356BD77DE4438660"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/120_2022版_25_25142_化学工程与工艺.toml#courses[48]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22CC31028.json",
-  "attachment_repo_id": "COURSES-5AF3514CBD50"
-}
+{"attachment_repo_id":"COURSES-5AF3514CBD50","course_code":"22CC31028","course_name":"电化学原理A","descriptor_id":"course-code:22CC31028","metadata_path":"curriculum/descriptors/22CC31028.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-542b2fc253a5a5d7","record_ids":["REC-356BD77DE4438660","REC-41849FD5895EBF41405D","REC-075F7392DC00E845DE9B","REC-E570E630E487EAE542ED","REC-FACA765FFA6F6812AE9E","REC-98A32AEB61657E242927","REC-6433C462A6451C8DD2E9","REC-4BA9FE6C784CA2B695CA","REC-FA5DBF2E85ACBDA77C93"],"repo_id":"COURSES-5AF3514CBD50","resource_group_id":"exact-name-633b804169bb2d13","source_paths":["curriculum://hit-data/plans/120_2022版_25_25142_化学工程与工艺.toml#courses[48]"],"status":"mapped-current"}

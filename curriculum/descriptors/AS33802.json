@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:AS33802",
-  "course_code": "AS33802",
-  "course_name": "嵌入式系统及应用",
-  "resource_group_id": "exact-name-3c8d2a2b6950e543",
-  "physical_repository_id": "physical-course-atomic-d21079c35223ce1d",
-  "repo_id": "COURSES-RA-460A910D00CC",
-  "record_ids": [
-    "REC-2F0AFDE8FF5C4D32"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/112_2022版_01_01E214_微电子科学与工程.toml#courses[8]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/AS33802.json",
-  "attachment_repo_id": "COURSES-RA-460A910D00CC"
-}
+{"attachment_repo_id":"COURSES-RA-460A910D00CC","course_code":"AS33802","course_name":"嵌入式系统及应用","descriptor_id":"course-code:AS33802","metadata_path":"curriculum/descriptors/AS33802.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-d21079c35223ce1d","record_ids":["REC-2F0AFDE8FF5C4D32","REC-18F9F4F75634D23F1094","REC-924EC857C9227E831691","REC-B066283BE04311D200AA","REC-83D62E5D30C329408682","REC-F09443CC4E8DADF4A23A","REC-F88D3BCF61EAA0B19CA5","REC-039453642E54C7296AAA","REC-8778BFBD09DAEB07C9A8","REC-A4AA4725CEDCEF46B567","REC-E25A5A822A3BCE0D2A83","REC-EC60AA147DDCAF2E7159","REC-C68563B61E75006531D5","REC-103D463AED367716F526","REC-A60A75485C2B609EDDE3","REC-819C61EB662F6139D600","REC-CED258F0D5F3BCB59C1A"],"repo_id":"COURSES-RA-460A910D00CC","resource_group_id":"exact-name-3c8d2a2b6950e543","source_paths":["curriculum://hit-data/plans/112_2022版_01_01E214_微电子科学与工程.toml#courses[8]"],"status":"mapped-current"}

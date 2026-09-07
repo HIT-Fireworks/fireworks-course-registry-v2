@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22FL22505F",
-  "course_code": "22FL22505F",
-  "course_name": "英汉口译",
-  "resource_group_id": "exact-name-2ed1af8e767c2549",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-4C39BAD908203C5D"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/171_2022版_35_35F151_英语.toml#courses[8]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22FL22505F.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22FL22505F","course_name":"英汉口译","descriptor_id":"course-code:22FL22505F","metadata_path":"curriculum/descriptors/22FL22505F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-4C39BAD908203C5D","REC-0C3EE2D3735997CA1FFB","REC-7D6C7228A9825308814E"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"exact-name-2ed1af8e767c2549","source_paths":["curriculum://hit-data/plans/171_2022版_35_35F151_英语.toml#courses[8]"],"status":"mapped-current"}

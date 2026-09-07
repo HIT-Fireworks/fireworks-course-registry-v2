@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EN31044",
-  "course_code": "22EN31044",
-  "course_name": "环境工程综合实验",
-  "resource_group_id": "exact-name-27a7e870b6e237cf",
-  "physical_repository_id": "physical-course-atomic-7109ade39c57c305",
-  "repo_id": "COURSES-RA-FBDE6370AF65",
-  "record_ids": [
-    "REC-C558857E5BAB1594"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/139_2022版_27_27271_环境工程.toml#courses[52]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EN31044.json",
-  "attachment_repo_id": "COURSES-RA-FBDE6370AF65"
-}
+{"attachment_repo_id":"COURSES-RA-FBDE6370AF65","course_code":"22EN31044","course_name":"环境工程综合实验","descriptor_id":"course-code:22EN31044","metadata_path":"curriculum/descriptors/22EN31044.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-7109ade39c57c305","record_ids":["REC-C558857E5BAB1594","REC-BEAACD40ACE1E77B829A","REC-749F486973F0BD0B0275","REC-07B76A173E6802656AC1","REC-11463F4AAFCA032A8D6A","REC-C67948ECE5BD3B094D16"],"repo_id":"COURSES-RA-FBDE6370AF65","resource_group_id":"exact-name-27a7e870b6e237cf","source_paths":["curriculum://hit-data/plans/139_2022版_27_27271_环境工程.toml#courses[52]"],"status":"mapped-current"}

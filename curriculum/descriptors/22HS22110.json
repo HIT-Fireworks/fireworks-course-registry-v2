@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22HS22110",
-  "course_code": "22HS22110",
-  "course_name": "社会人类学",
-  "resource_group_id": "name-family-35ad86601d9e5835",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-48D6D5C4B9D371DB"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/162_2022版_35_35161_社会学.toml#courses[33]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22HS22110.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22HS22110","course_name":"社会人类学","descriptor_id":"course-code:22HS22110","metadata_path":"curriculum/descriptors/22HS22110.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-48D6D5C4B9D371DB","REC-82FB66456B336F840A27","REC-611A3E6963DAD4BDB8A7","REC-B1E9D9F68F0F18B0AF7C"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"name-family-35ad86601d9e5835","source_paths":["curriculum://hit-data/plans/162_2022版_35_35161_社会学.toml#courses[33]"],"status":"mapped-current"}

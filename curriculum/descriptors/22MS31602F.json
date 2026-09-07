@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22MS31602F",
-  "course_code": "22MS31602F",
-  "course_name": "电子封装可靠性",
-  "resource_group_id": "exact-name-7dd0f79a8f72fb90",
-  "physical_repository_id": "physical-course-atomic-8a45d0fa46165dbc",
-  "repo_id": "COURSES-RA-6217E115199B",
-  "record_ids": [
-    "REC-5B234682EAD2AFDB"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/036_2022版_03_03F292_电子封装技术.toml#courses[6]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22MS31602F.json",
-  "attachment_repo_id": "COURSES-RA-6217E115199B"
-}
+{"attachment_repo_id":"COURSES-RA-6217E115199B","course_code":"22MS31602F","course_name":"电子封装可靠性","descriptor_id":"course-code:22MS31602F","metadata_path":"curriculum/descriptors/22MS31602F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-8a45d0fa46165dbc","record_ids":["REC-5B234682EAD2AFDB","REC-E4496C1DCEDD905F4D82","REC-377F58643FD8ED10170F"],"repo_id":"COURSES-RA-6217E115199B","resource_group_id":"exact-name-7dd0f79a8f72fb90","source_paths":["curriculum://hit-data/plans/036_2022版_03_03F292_电子封装技术.toml#courses[6]"],"status":"mapped-current"}

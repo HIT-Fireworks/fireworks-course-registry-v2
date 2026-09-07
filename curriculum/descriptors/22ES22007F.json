@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22ES22007F",
-  "course_code": "22ES22007F",
-  "course_name": "核反应堆热工水力学",
-  "resource_group_id": "name-family-7002a4904fa7b842",
-  "physical_repository_id": "physical-course-atomic-74435dd3bcdd0243",
-  "repo_id": "COURSES-FABC2915B57C",
-  "record_ids": [
-    "REC-08883E6091640281"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/016_2022版_04_04F025_核工程与核技术.toml#courses[4]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22ES22007F.json",
-  "attachment_repo_id": "COURSES-FABC2915B57C"
-}
+{"attachment_repo_id":"COURSES-FABC2915B57C","course_code":"22ES22007F","course_name":"核反应堆热工水力学","descriptor_id":"course-code:22ES22007F","metadata_path":"curriculum/descriptors/22ES22007F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-74435dd3bcdd0243","record_ids":["REC-08883E6091640281","REC-5BE9EBE0D80FD486D0C7","REC-7ABEC915CA761EE64CCC","REC-98EB2EDB5307E3C6F26B"],"repo_id":"COURSES-FABC2915B57C","resource_group_id":"name-family-7002a4904fa7b842","source_paths":["curriculum://hit-data/plans/016_2022版_04_04F025_核工程与核技术.toml#courses[4]"],"status":"mapped-current"}

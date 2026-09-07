@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22PH31015",
-  "course_code": "22PH31015",
-  "course_name": "现代光学测量原理与技术B",
-  "resource_group_id": "exact-name-1b76511ad967a9c5",
-  "physical_repository_id": "physical-course-atomic-387096aeb39fcde3",
-  "repo_id": "COURSES-RA-EB8FE773296B",
-  "record_ids": [
-    "REC-A135008B75504FA0"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/196_2022版_32_32111_应用物理学.toml#courses[58]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22PH31015.json",
-  "attachment_repo_id": "COURSES-RA-EB8FE773296B"
-}
+{"attachment_repo_id":"COURSES-RA-EB8FE773296B","course_code":"22PH31015","course_name":"现代光学测量原理与技术B","descriptor_id":"course-code:22PH31015","metadata_path":"curriculum/descriptors/22PH31015.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-387096aeb39fcde3","record_ids":["REC-A135008B75504FA0","REC-EEC3A48BF49673421253","REC-74AC7C7BCAA4C1F6D400"],"repo_id":"COURSES-RA-EB8FE773296B","resource_group_id":"exact-name-1b76511ad967a9c5","source_paths":["curriculum://hit-data/plans/196_2022版_32_32111_应用物理学.toml#courses[58]"],"status":"mapped-current"}

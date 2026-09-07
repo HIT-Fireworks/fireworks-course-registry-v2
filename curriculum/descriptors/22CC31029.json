@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22CC31029",
-  "course_code": "22CC31029",
-  "course_name": "电化学测量A",
-  "resource_group_id": "exact-name-fae50aefbcef44ff",
-  "physical_repository_id": "physical-course-atomic-542b2fc253a5a5d7",
-  "repo_id": "COURSES-5AF3514CBD50",
-  "record_ids": [
-    "REC-BCC79A2067DFA4F7"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/120_2022版_25_25142_化学工程与工艺.toml#courses[51]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22CC31029.json",
-  "attachment_repo_id": "COURSES-5AF3514CBD50"
-}
+{"attachment_repo_id":"COURSES-5AF3514CBD50","course_code":"22CC31029","course_name":"电化学测量A","descriptor_id":"course-code:22CC31029","metadata_path":"curriculum/descriptors/22CC31029.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-542b2fc253a5a5d7","record_ids":["REC-BCC79A2067DFA4F7","REC-110D6E0AD59F72D1585A","REC-B6D6887A9486F5C6F6E0","REC-4FA6E82347AEC96CECB8","REC-5FB4E01DED9CAC63946C","REC-E7480ACA295AAC80BEBC"],"repo_id":"COURSES-5AF3514CBD50","resource_group_id":"exact-name-fae50aefbcef44ff","source_paths":["curriculum://hit-data/plans/120_2022版_25_25142_化学工程与工艺.toml#courses[51]"],"status":"mapped-current"}

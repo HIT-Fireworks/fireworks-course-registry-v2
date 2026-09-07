@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EE33002",
-  "course_code": "22EE33002",
-  "course_name": "专业综合实践II",
-  "resource_group_id": "name-family-394d44c65ee3a99a",
-  "physical_repository_id": "physical-course-atomic-e2c42fb749f2642e",
-  "repo_id": "COURSES-RA-1B72ED8C2EF9",
-  "record_ids": [
-    "REC-11D167E15DB08959"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/053_2022版_05_05061_电气工程及其自动化.toml#courses[54]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EE33002.json",
-  "attachment_repo_id": "COURSES-RA-1B72ED8C2EF9"
-}
+{"attachment_repo_id":"COURSES-RA-1B72ED8C2EF9","course_code":"22EE33002","course_name":"专业综合实践II","descriptor_id":"course-code:22EE33002","metadata_path":"curriculum/descriptors/22EE33002.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-e2c42fb749f2642e","record_ids":["REC-11D167E15DB08959","REC-9CD7E96BF794A1A69459","REC-D587293B8C7EC91329E2","REC-2BB0C8BD81BC582D1BE3","REC-F24220E3D127C31AF545","REC-87B7E9EDAC8B609225AA","REC-31C970B4E11E0E12A8F3"],"repo_id":"COURSES-RA-1B72ED8C2EF9","resource_group_id":"name-family-394d44c65ee3a99a","source_paths":["curriculum://hit-data/plans/053_2022版_05_05061_电气工程及其自动化.toml#courses[54]"],"status":"mapped-current"}

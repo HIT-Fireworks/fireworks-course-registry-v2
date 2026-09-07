@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22ES22005",
-  "course_code": "22ES22005",
-  "course_name": "核工程力学基础",
-  "resource_group_id": "exact-name-df55f6e184f16f1f",
-  "physical_repository_id": "physical-course-atomic-74435dd3bcdd0243",
-  "repo_id": "COURSES-FABC2915B57C",
-  "record_ids": [
-    "REC-5E06BFDB6A304BAD"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/020_2022版_04_04025_核工程与核技术.toml#courses[22]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22ES22005.json",
-  "attachment_repo_id": "COURSES-FABC2915B57C"
-}
+{"attachment_repo_id":"COURSES-FABC2915B57C","course_code":"22ES22005","course_name":"核工程力学基础","descriptor_id":"course-code:22ES22005","metadata_path":"curriculum/descriptors/22ES22005.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-74435dd3bcdd0243","record_ids":["REC-5E06BFDB6A304BAD","REC-5AC6205B6E2726716B8D","REC-31E12BDD1D95E91AAFFA","REC-0CF474925DC751EDE06E","REC-534CA8B125C3A0836EC2"],"repo_id":"COURSES-FABC2915B57C","resource_group_id":"exact-name-df55f6e184f16f1f","source_paths":["curriculum://hit-data/plans/020_2022版_04_04025_核工程与核技术.toml#courses[22]"],"status":"mapped-current"}

@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22AS33803",
-  "course_code": "22AS33803",
-  "course_name": "认识实习",
-  "resource_group_id": "name-family-46f79419661685f3",
-  "physical_repository_id": "physical-course-atomic-d21079c35223ce1d",
-  "repo_id": "COURSES-RA-460A910D00CC",
-  "record_ids": [
-    "REC-5423DDADD512E163"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/110_2022版_01_01214_微电子科学与工程.toml#courses[45]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22AS33803.json",
-  "attachment_repo_id": "COURSES-RA-460A910D00CC"
-}
+{"attachment_repo_id":"COURSES-RA-460A910D00CC","course_code":"22AS33803","course_name":"认识实习","descriptor_id":"course-code:22AS33803","metadata_path":"curriculum/descriptors/22AS33803.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-d21079c35223ce1d","record_ids":["REC-5423DDADD512E163","REC-E9F688AA6F498E373443","REC-3121D59F9D8FADEC96F3","REC-94FEBFAC9A1C7BDE8666","REC-FD9A8E44DE3D076EF9CD","REC-9463F04E0D47BB0927DD","REC-9FE02EC5FBEAB6C1A5B2","REC-073CE4B0E0B0B45820DF","REC-9255323E1D1731BF32CC","REC-70AE6CF0B06D34597F48"],"repo_id":"COURSES-RA-460A910D00CC","resource_group_id":"name-family-46f79419661685f3","source_paths":["curriculum://hit-data/plans/110_2022版_01_01214_微电子科学与工程.toml#courses[45]"],"status":"mapped-current"}

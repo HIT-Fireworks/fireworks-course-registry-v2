@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EE31006",
-  "course_code": "22EE31006",
-  "course_name": "智能建筑弱电系统",
-  "resource_group_id": "exact-name-27f5757b4d77736a",
-  "physical_repository_id": "physical-course-atomic-e2c42fb749f2642e",
-  "repo_id": "COURSES-RA-1B72ED8C2EF9",
-  "record_ids": [
-    "REC-B2845986245517A8"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/054_2022版_05_05062_建筑电气与智能化.toml#courses[51]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EE31006.json",
-  "attachment_repo_id": "COURSES-RA-1B72ED8C2EF9"
-}
+{"attachment_repo_id":"COURSES-RA-1B72ED8C2EF9","course_code":"22EE31006","course_name":"智能建筑弱电系统","descriptor_id":"course-code:22EE31006","metadata_path":"curriculum/descriptors/22EE31006.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-e2c42fb749f2642e","record_ids":["REC-B2845986245517A8","REC-C90D1EEB4C801CD203A7"],"repo_id":"COURSES-RA-1B72ED8C2EF9","resource_group_id":"exact-name-27f5757b4d77736a","source_paths":["curriculum://hit-data/plans/054_2022版_05_05062_建筑电气与智能化.toml#courses[51]"],"status":"mapped-current"}

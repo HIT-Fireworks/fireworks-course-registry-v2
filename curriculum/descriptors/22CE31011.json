@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22CE31011",
-  "course_code": "22CE31011",
-  "course_name": "弹性力学B",
-  "resource_group_id": "name-family-12da4daaa6c71af3",
-  "physical_repository_id": "physical-course-atomic-e31cb6e867db505e",
-  "repo_id": "COURSES-RA-6C06DD652E32",
-  "record_ids": [
-    "REC-57BA42163E8EEABF"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[160]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22CE31011.json",
-  "attachment_repo_id": "COURSES-RA-6C06DD652E32"
-}
+{"attachment_repo_id":"COURSES-RA-6C06DD652E32","course_code":"22CE31011","course_name":"弹性力学B","descriptor_id":"course-code:22CE31011","metadata_path":"curriculum/descriptors/22CE31011.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-e31cb6e867db505e","record_ids":["REC-57BA42163E8EEABF","REC-7AD986289BA3062FE58E","REC-B591FC83361AA4DE2B60","REC-EB24A0A7CA6C418131A3"],"repo_id":"COURSES-RA-6C06DD652E32","resource_group_id":"name-family-12da4daaa6c71af3","source_paths":["curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[160]"],"status":"mapped-current"}

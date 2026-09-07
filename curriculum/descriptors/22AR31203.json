@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22AR31203",
-  "course_code": "22AR31203",
-  "course_name": "传热学",
-  "resource_group_id": "name-family-16ad66e26e2007ec",
-  "physical_repository_id": "physical-course-atomic-3d09c28bf35c5f42",
-  "repo_id": "COURSES-AF51708C5BBA",
-  "record_ids": [
-    "REC-75657A31C47F3F6C"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/065_2022版_11B_11B262_建筑环境与能源应用工程.toml#courses[35]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22AR31203.json",
-  "attachment_repo_id": "COURSES-AF51708C5BBA"
-}
+{"attachment_repo_id":"COURSES-AF51708C5BBA","course_code":"22AR31203","course_name":"传热学","descriptor_id":"course-code:22AR31203","metadata_path":"curriculum/descriptors/22AR31203.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3d09c28bf35c5f42","record_ids":["REC-75657A31C47F3F6C","REC-CE7304FA8FF8F70C043A","REC-4CA9B5716D43A7932A8E","REC-C4104F28C173F807D511"],"repo_id":"COURSES-AF51708C5BBA","resource_group_id":"name-family-16ad66e26e2007ec","source_paths":["curriculum://hit-data/plans/065_2022版_11B_11B262_建筑环境与能源应用工程.toml#courses[35]"],"status":"mapped-current"}

@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EI33512",
-  "course_code": "22EI33512",
-  "course_name": "毕业论文(设计)",
-  "resource_group_id": "exact-name-8db41f88b0b6c77e",
-  "physical_repository_id": "physical-course-atomic-496e744c544c2462",
-  "repo_id": "COURSES-2656A175B646",
-  "record_ids": [
-    "REC-562B193B5BEF6538"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/133_2022版_20_20056_智能测控工程.toml#courses[55]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EI33512.json",
-  "attachment_repo_id": "COURSES-2656A175B646"
-}
+{"attachment_repo_id":"COURSES-2656A175B646","course_code":"22EI33512","course_name":"毕业论文(设计)","descriptor_id":"course-code:22EI33512","metadata_path":"curriculum/descriptors/22EI33512.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-496e744c544c2462","record_ids":["REC-562B193B5BEF6538","REC-281066F70F37BBCB5F21","REC-393A15C926D39274B57E","REC-A8A7B5BC823D01E48C14","REC-7F48703D3CBD3DB09075","REC-E99D23E40308B0F952C6"],"repo_id":"COURSES-2656A175B646","resource_group_id":"exact-name-8db41f88b0b6c77e","source_paths":["curriculum://hit-data/plans/133_2022版_20_20056_智能测控工程.toml#courses[55]"],"status":"mapped-current"}

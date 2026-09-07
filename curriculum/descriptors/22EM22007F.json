@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EM22007F",
-  "course_code": "22EM22007F",
-  "course_name": "人工智能与机器学习",
-  "resource_group_id": "exact-name-d1603ac81526be8a",
-  "physical_repository_id": "physical-course-atomic-bf03a328b2629a0c",
-  "repo_id": "COURSES-RA-1DE27CC2E974",
-  "record_ids": [
-    "REC-506FD9C5D33CC4D2"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/045_2022版_07_07F104_计算金融.toml#courses[5]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EM22007F.json",
-  "attachment_repo_id": "COURSES-RA-1DE27CC2E974"
-}
+{"attachment_repo_id":"COURSES-RA-1DE27CC2E974","course_code":"22EM22007F","course_name":"人工智能与机器学习","descriptor_id":"course-code:22EM22007F","metadata_path":"curriculum/descriptors/22EM22007F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-bf03a328b2629a0c","record_ids":["REC-506FD9C5D33CC4D2","REC-D4299D5E74CFE61ECE0A","REC-205FE051A8CFCC2757F3"],"repo_id":"COURSES-RA-1DE27CC2E974","resource_group_id":"exact-name-d1603ac81526be8a","source_paths":["curriculum://hit-data/plans/045_2022版_07_07F104_计算金融.toml#courses[5]"],"status":"mapped-current"}

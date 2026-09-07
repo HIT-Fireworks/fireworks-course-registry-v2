@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EI31316",
-  "course_code": "22EI31316",
-  "course_name": "模式识别基础",
-  "resource_group_id": "exact-name-7a4397cb2692e1fa",
-  "physical_repository_id": "physical-course-atomic-496e744c544c2462",
-  "repo_id": "COURSES-2656A175B646",
-  "record_ids": [
-    "REC-C5A464DAD69C5CD2"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/131_2022版_20_20054_遥感科学与技术.toml#courses[47]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EI31316.json",
-  "attachment_repo_id": "COURSES-2656A175B646"
-}
+{"attachment_repo_id":"COURSES-2656A175B646","course_code":"22EI31316","course_name":"模式识别基础","descriptor_id":"course-code:22EI31316","metadata_path":"curriculum/descriptors/22EI31316.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-496e744c544c2462","record_ids":["REC-C5A464DAD69C5CD2","REC-8135A98B41A5D7214E0B","REC-DD7CA5EA945137937E4B","REC-8BAF124F1EB316C89CBC","REC-190A775B247ADFA61A1A","REC-903370800F533D9F000F","REC-33D44C2F839CAE71F613","REC-149AA70501127FD80BE0","REC-6D636C9E147FA80A6062","REC-5831604A57F1F766FD57","REC-401850CE8064AE0A8E5E","REC-65F4E397EEFC8F5AFE9E"],"repo_id":"COURSES-2656A175B646","resource_group_id":"exact-name-7a4397cb2692e1fa","source_paths":["curriculum://hit-data/plans/131_2022版_20_20054_遥感科学与技术.toml#courses[47]"],"status":"mapped-current"}

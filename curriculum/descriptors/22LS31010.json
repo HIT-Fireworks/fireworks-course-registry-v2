@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22LS31010",
-  "course_code": "22LS31010",
-  "course_name": "纳米化学",
-  "resource_group_id": "exact-name-f81f81682a74004a",
-  "physical_repository_id": "physical-course-atomic-8fdee15683baa619",
-  "repo_id": "COURSES-CE4133CBE869",
-  "record_ids": [
-    "REC-F7C94AE478B1E976"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/181_2022版_37_37284_整合科学.toml#courses[50]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22LS31010.json",
-  "attachment_repo_id": "COURSES-CE4133CBE869"
-}
+{"attachment_repo_id":"COURSES-CE4133CBE869","course_code":"22LS31010","course_name":"纳米化学","descriptor_id":"course-code:22LS31010","metadata_path":"curriculum/descriptors/22LS31010.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-8fdee15683baa619","record_ids":["REC-F7C94AE478B1E976","REC-F16B9EEA7E254BD60C9D","REC-34180B7159DF6B0C49DB","REC-83506A1CAEF01C1C3EBC","REC-0C082B40FA8CA5A95063","REC-1F4FE805651739035A8F","REC-0C8AA63CD5555860E20B","REC-3219B858276CFF556655","REC-227706B99D685D4621AB","REC-F1E6A2680F1C2A951505","REC-85AAB06A22A3575FD914","REC-FF9ADEEC311C6CF0FD40","REC-2A60CD09CFA595961E60","REC-13223C178C887ED42430","REC-346916F66E928308C674","REC-D7ACE85255B1B3E475B3","REC-10A7DE557D0B8294A95F","REC-FBD2A3C6240516F99475","REC-588B7B5437A59D06C734","REC-712FBB7C8B5261305B79"],"repo_id":"COURSES-CE4133CBE869","resource_group_id":"exact-name-f81f81682a74004a","source_paths":["curriculum://hit-data/plans/181_2022版_37_37284_整合科学.toml#courses[50]"],"status":"mapped-current"}

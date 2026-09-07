@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EI31321",
-  "course_code": "22EI31321",
-  "course_name": "地理信息系统",
-  "resource_group_id": "exact-name-3899f6d327d5f359",
-  "physical_repository_id": "physical-course-atomic-496e744c544c2462",
-  "repo_id": "COURSES-2656A175B646",
-  "record_ids": [
-    "REC-3132D8158D88FD10"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/131_2022版_20_20054_遥感科学与技术.toml#courses[55]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EI31321.json",
-  "attachment_repo_id": "COURSES-2656A175B646"
-}
+{"attachment_repo_id":"COURSES-2656A175B646","course_code":"22EI31321","course_name":"地理信息系统","descriptor_id":"course-code:22EI31321","metadata_path":"curriculum/descriptors/22EI31321.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-496e744c544c2462","record_ids":["REC-3132D8158D88FD10","REC-4AA02B9D1CA020867FE2","REC-A9AD6F3F4CDAECD2AE79","REC-4A9B70B8BA90B6953BF3","REC-BD5B68F0F1C6A1B2EF30","REC-524142E2B97DA58E6467","REC-0F59274C9EA9CFF5E3C6","REC-C728D41B81EBC75D429D"],"repo_id":"COURSES-2656A175B646","resource_group_id":"exact-name-3899f6d327d5f359","source_paths":["curriculum://hit-data/plans/131_2022版_20_20054_遥感科学与技术.toml#courses[55]"],"status":"mapped-current"}

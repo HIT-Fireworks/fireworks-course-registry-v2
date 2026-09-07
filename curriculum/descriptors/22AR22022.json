@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22AR22022",
-  "course_code": "22AR22022",
-  "course_name": "影像声音基础",
-  "resource_group_id": "exact-name-7539068c744836fe",
-  "physical_repository_id": "physical-course-atomic-3d09c28bf35c5f42",
-  "repo_id": "COURSES-AF51708C5BBA",
-  "record_ids": [
-    "REC-CD96521197106159"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/066_2022版_11B_11B304_数字媒体艺术.toml#courses[27]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22AR22022.json",
-  "attachment_repo_id": "COURSES-AF51708C5BBA"
-}
+{"attachment_repo_id":"COURSES-AF51708C5BBA","course_code":"22AR22022","course_name":"影像声音基础","descriptor_id":"course-code:22AR22022","metadata_path":"curriculum/descriptors/22AR22022.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3d09c28bf35c5f42","record_ids":["REC-CD96521197106159","REC-9BD5CE71874D5ED58BE1","REC-6903F5922265E8216D1E","REC-CAF766B1AA2A24B04F0A","REC-1A9FF86EB3EBA6197A13"],"repo_id":"COURSES-AF51708C5BBA","resource_group_id":"exact-name-7539068c744836fe","source_paths":["curriculum://hit-data/plans/066_2022版_11B_11B304_数字媒体艺术.toml#courses[27]"],"status":"mapped-current"}

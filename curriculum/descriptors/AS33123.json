@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:AS33123",
-  "course_code": "AS33123",
-  "course_name": "快速控制原型与硬件在环仿真技术",
-  "resource_group_id": "exact-name-47d467d46fcdd0ae",
-  "physical_repository_id": "physical-course-atomic-d21079c35223ce1d",
-  "repo_id": "COURSES-RA-460A910D00CC",
-  "record_ids": [
-    "REC-C2BAE9062D8CECF5"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/111_2022版_01_01E041_自动化.toml#courses[12]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/AS33123.json",
-  "attachment_repo_id": "COURSES-RA-460A910D00CC"
-}
+{"attachment_repo_id":"COURSES-RA-460A910D00CC","course_code":"AS33123","course_name":"快速控制原型与硬件在环仿真技术","descriptor_id":"course-code:AS33123","metadata_path":"curriculum/descriptors/AS33123.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-d21079c35223ce1d","record_ids":["REC-C2BAE9062D8CECF5","REC-FA412AED221F61433798","REC-338C4DEE8C846DB7D166","REC-1A8D3B356A0A20AB8554","REC-E2DB25DCF7E17902AA6E","REC-F8A42579B8F9E4336690","REC-9E0DDA8F24A30CF42955","REC-C0CCE4CD4347C3974927","REC-E7E7C28726B0A63D9770","REC-9C96D9D792F86A707B0A","REC-869604278974EF8BDCAE","REC-8A9D88D8F71B23DEB516","REC-C79BF152E3256A0F3EFF","REC-3E7F60C03C4D40CBB8F1","REC-F5E798F8956ABF093917","REC-BBF26229A1491FFDEF05","REC-A37C0890E682243F3630","REC-D3CEBA9215B8A0113B4D","REC-FFCE2FF47B44F19B24F1","REC-5BE9EE41B980AF97CC11","REC-8DEEF4B2EBE9ABE5D0B8","REC-1CF02462F2EC35045DA5","REC-FF1CA2BB83C738E64EB0","REC-1CC9239B0D17258BEA39","REC-BAA94697DC1A6052BCA7","REC-C830078AF8B7D18283CD","REC-982F81652D8BED365213","REC-33C32FDF2720806C0D50","REC-6EAD82D2D7DA17854A05","REC-92E4C57EEAA69BD22E0C","REC-AF9CEB381BFA4548588F","REC-1334F0EF9F6120D740B5","REC-604F0A173A6083D4FA1F","REC-04427A2ACA1E0E16C6D4","REC-665339E84E17FD8F07A6","REC-D790E6EE2CDB7F907151"],"repo_id":"COURSES-RA-460A910D00CC","resource_group_id":"exact-name-47d467d46fcdd0ae","source_paths":["curriculum://hit-data/plans/111_2022版_01_01E041_自动化.toml#courses[12]"],"status":"mapped-current"}

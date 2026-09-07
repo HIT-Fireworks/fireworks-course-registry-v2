@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:CS32123",
-  "course_code": "CS32123",
-  "course_name": "软件构造",
-  "resource_group_id": "name-family-7e0fd6bbbaf2c179",
-  "physical_repository_id": "physical-course-atomic-bd43faff1cb1a2ec",
-  "repo_id": "COURSES-RA-17E77210FDA8",
-  "record_ids": [
-    "REC-40E3731D96527448"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/092_2022版_13B_13BE371_软件工程.toml#courses[7]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/CS32123.json",
-  "attachment_repo_id": "COURSES-RA-17E77210FDA8"
-}
+{"attachment_repo_id":"COURSES-RA-17E77210FDA8","course_code":"CS32123","course_name":"软件构造","descriptor_id":"course-code:CS32123","metadata_path":"curriculum/descriptors/CS32123.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-bd43faff1cb1a2ec","record_ids":["REC-40E3731D96527448","REC-4FE738596DBEF0F7F478","REC-B7FDC943DCC41CCC7518","REC-971F922B458297A45DD6","REC-9647D8125A75F2187B94","REC-E98F5942D035FC4CA7BF","REC-E931B0EEA5C19E5C89EA","REC-272DEB96852EE5730034","REC-60CABDA5AA93BA45FF15","REC-92AE9D3EF6BCD4D337D7","REC-F0BC9EFC0442C871618F","REC-788100E9C76339D305C7","REC-2A4BF9CD3B6F5C87EF30","REC-BA077DDEE92C699D0C5D","REC-42DFE49F1ABFEA496146","REC-B327B84B071EE6D3C4CF","REC-D8D5B971AAF03828D390","REC-9E9F045CDFE0C38F6E8D","REC-50AAAAC763DB31CC0178","REC-FB3102F175ED6992BCCE","REC-38ECC24F0269DE309A6B","REC-FE9134575E439698B861","REC-EAD9731662BE60BE1AB5","REC-BE724F167DD87FE38A40","REC-A02DE6B5E26B53655D2B","REC-7807B0C787C07151D1F0","REC-C6075DA5AE12B5DC2AD0"],"repo_id":"COURSES-RA-17E77210FDA8","resource_group_id":"name-family-7e0fd6bbbaf2c179","source_paths":["curriculum://hit-data/plans/092_2022版_13B_13BE371_软件工程.toml#courses[7]"],"status":"mapped-current"}

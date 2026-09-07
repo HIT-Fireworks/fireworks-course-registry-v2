@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22FL22421",
-  "course_code": "22FL22421",
-  "course_name": "社会调查研究方法",
-  "resource_group_id": "exact-name-f757b05f8752a0df",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-73A04478DA3DB70F"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/160_2022版_35_35154_国际组织与全球治理.toml#courses[45]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22FL22421.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22FL22421","course_name":"社会调查研究方法","descriptor_id":"course-code:22FL22421","metadata_path":"curriculum/descriptors/22FL22421.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-73A04478DA3DB70F","REC-3B246A21B36F461F40E6","REC-BEFE40FE960A9AC17F43","REC-7CBC41C936F1F1ABC319","REC-29C7AAE5AA227AD388C5"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"exact-name-f757b05f8752a0df","source_paths":["curriculum://hit-data/plans/160_2022版_35_35154_国际组织与全球治理.toml#courses[45]"],"status":"mapped-current"}

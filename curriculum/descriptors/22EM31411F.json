@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EM31411F",
-  "course_code": "22EM31411F",
-  "course_name": "工商管理学术写作",
-  "resource_group_id": "exact-name-7184135188311dbb",
-  "physical_repository_id": "physical-course-atomic-bf03a328b2629a0c",
-  "repo_id": "COURSES-RA-1DE27CC2E974",
-  "record_ids": [
-    "REC-D16BFC1065ED099C"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/209_2022版_60_60F201_工商管理.toml#courses[10]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EM31411F.json",
-  "attachment_repo_id": "COURSES-RA-1DE27CC2E974"
-}
+{"attachment_repo_id":"COURSES-RA-1DE27CC2E974","course_code":"22EM31411F","course_name":"工商管理学术写作","descriptor_id":"course-code:22EM31411F","metadata_path":"curriculum/descriptors/22EM31411F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-bf03a328b2629a0c","record_ids":["REC-D16BFC1065ED099C","REC-E2A73EFBEF9851A39E4E"],"repo_id":"COURSES-RA-1DE27CC2E974","resource_group_id":"exact-name-7184135188311dbb","source_paths":["curriculum://hit-data/plans/209_2022版_60_60F201_工商管理.toml#courses[10]"],"status":"mapped-current"}

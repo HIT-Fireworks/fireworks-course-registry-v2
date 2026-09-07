@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EM31912F",
-  "course_code": "22EM31912F",
-  "course_name": "平台经济",
-  "resource_group_id": "exact-name-18852d4b9b35da87",
-  "physical_repository_id": "physical-course-atomic-bf03a328b2629a0c",
-  "repo_id": "COURSES-RA-1DE27CC2E974",
-  "record_ids": [
-    "REC-A7A17F306E3C39FC"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/043_2022版_07_07F223_数字经济.toml#courses[8]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EM31912F.json",
-  "attachment_repo_id": "COURSES-RA-1DE27CC2E974"
-}
+{"attachment_repo_id":"COURSES-RA-1DE27CC2E974","course_code":"22EM31912F","course_name":"平台经济","descriptor_id":"course-code:22EM31912F","metadata_path":"curriculum/descriptors/22EM31912F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-bf03a328b2629a0c","record_ids":["REC-A7A17F306E3C39FC","REC-5E561FC2E8C6CB8BB1A7","REC-9367C99C716DCCAD5159"],"repo_id":"COURSES-RA-1DE27CC2E974","resource_group_id":"exact-name-18852d4b9b35da87","source_paths":["curriculum://hit-data/plans/043_2022版_07_07F223_数字经济.toml#courses[8]"],"status":"mapped-current"}

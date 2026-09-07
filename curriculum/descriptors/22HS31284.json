@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22HS31284",
-  "course_code": "22HS31284",
-  "course_name": "世界经济学A",
-  "resource_group_id": "name-family-9c60c3fec530cbb2",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-2904DBBBC09185CE"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/168_2022版_35_35E232_经济学.toml#courses[8]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22HS31284.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22HS31284","course_name":"世界经济学A","descriptor_id":"course-code:22HS31284","metadata_path":"curriculum/descriptors/22HS31284.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-2904DBBBC09185CE","REC-C834BAFF1C839AA46FAE","REC-55C783062D859F3A900F","REC-8280E345C6256C7E37AF"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"name-family-9c60c3fec530cbb2","source_paths":["curriculum://hit-data/plans/168_2022版_35_35E232_经济学.toml#courses[8]"],"status":"mapped-current"}

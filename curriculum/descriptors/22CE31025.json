@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22CE31025",
-  "course_code": "22CE31025",
-  "course_name": "地下建筑结构",
-  "resource_group_id": "exact-name-8fcab801873849ea",
-  "physical_repository_id": "physical-course-atomic-e31cb6e867db505e",
-  "repo_id": "COURSES-RA-6C06DD652E32",
-  "record_ids": [
-    "REC-4F142210E740CB75"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/058_2022版_09_09334_城市地下空间工程.toml#courses[53]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22CE31025.json",
-  "attachment_repo_id": "COURSES-RA-6C06DD652E32"
-}
+{"attachment_repo_id":"COURSES-RA-6C06DD652E32","course_code":"22CE31025","course_name":"地下建筑结构","descriptor_id":"course-code:22CE31025","metadata_path":"curriculum/descriptors/22CE31025.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-e31cb6e867db505e","record_ids":["REC-4F142210E740CB75","REC-9A79F3FFF4776631166B","REC-CA463786C5173C090B63","REC-BD9717D8FDD6EE542E7D"],"repo_id":"COURSES-RA-6C06DD652E32","resource_group_id":"exact-name-8fcab801873849ea","source_paths":["curriculum://hit-data/plans/058_2022版_09_09334_城市地下空间工程.toml#courses[53]"],"status":"mapped-current"}

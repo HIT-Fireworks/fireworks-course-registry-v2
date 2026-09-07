@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EI31210",
-  "course_code": "22EI31210",
-  "course_name": "电子对抗技术A",
-  "resource_group_id": "exact-name-a754df0ed18d57d4",
-  "physical_repository_id": "physical-course-atomic-496e744c544c2462",
-  "repo_id": "COURSES-2656A175B646",
-  "record_ids": [
-    "REC-AD0FC2A71A90DBC9"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/130_2022版_20_20053_信息对抗技术.toml#courses[49]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EI31210.json",
-  "attachment_repo_id": "COURSES-2656A175B646"
-}
+{"attachment_repo_id":"COURSES-2656A175B646","course_code":"22EI31210","course_name":"电子对抗技术A","descriptor_id":"course-code:22EI31210","metadata_path":"curriculum/descriptors/22EI31210.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-496e744c544c2462","record_ids":["REC-AD0FC2A71A90DBC9","REC-D66F385E4B34F8F26A3F","REC-629DFCD5AABC2A053C06","REC-5AF958D801F0A6D1E486","REC-54057CEC6B91AB966200","REC-2B8374254522226CFFC5","REC-6041D089D8C728EEF24D","REC-4843628F2F5630CEC1F1","REC-D8796FC4B034699CDA3D","REC-D666B897A8E0AFA2AF0F","REC-4EA88ED7002CD8D86E59"],"repo_id":"COURSES-2656A175B646","resource_group_id":"exact-name-a754df0ed18d57d4","source_paths":["curriculum://hit-data/plans/130_2022版_20_20053_信息对抗技术.toml#courses[49]"],"status":"mapped-current"}

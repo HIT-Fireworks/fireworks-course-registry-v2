@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22HS22164",
-  "course_code": "22HS22164",
-  "course_name": "现代社会学理论A",
-  "resource_group_id": "name-family-546f38c70435ee03",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-A01EB70E5F102D1A"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/167_2022版_35_35E161_社会学.toml#courses[3]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22HS22164.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22HS22164","course_name":"现代社会学理论A","descriptor_id":"course-code:22HS22164","metadata_path":"curriculum/descriptors/22HS22164.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-A01EB70E5F102D1A","REC-A31FB26414D192F36E77","REC-6F13ED13FE08E46857BE","REC-5152775F66E1EFE00E7E","REC-BB8B8BF2CF26B6EA59FE"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"name-family-546f38c70435ee03","source_paths":["curriculum://hit-data/plans/167_2022版_35_35E161_社会学.toml#courses[3]"],"status":"mapped-current"}

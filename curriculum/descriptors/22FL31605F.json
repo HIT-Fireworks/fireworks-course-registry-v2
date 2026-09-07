@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22FL31605F",
-  "course_code": "22FL31605F",
-  "course_name": "外交学",
-  "resource_group_id": "exact-name-1d39d23b0bb54829",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-38DAC95603FB816E"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/173_2022版_35_35F154_国际组织与全球治理.toml#courses[9]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22FL31605F.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22FL31605F","course_name":"外交学","descriptor_id":"course-code:22FL31605F","metadata_path":"curriculum/descriptors/22FL31605F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-38DAC95603FB816E","REC-F5D0E94A8330D96616FC","REC-C57F04C3022C2C349EEF"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"exact-name-1d39d23b0bb54829","source_paths":["curriculum://hit-data/plans/173_2022版_35_35F154_国际组织与全球治理.toml#courses[9]"],"status":"mapped-current"}

@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22CS31154",
-  "course_code": "22CS31154",
-  "course_name": "信息安全设计与实践II",
-  "resource_group_id": "name-family-ac29c4ce3facd777",
-  "physical_repository_id": "physical-course-atomic-bd43faff1cb1a2ec",
-  "repo_id": "COURSES-RA-17E77210FDA8",
-  "record_ids": [
-    "REC-D4D4A057E75556A3"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/083_2022版_13B_13B032_信息安全.toml#courses[52]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22CS31154.json",
-  "attachment_repo_id": "COURSES-RA-17E77210FDA8"
-}
+{"attachment_repo_id":"COURSES-RA-17E77210FDA8","course_code":"22CS31154","course_name":"信息安全设计与实践II","descriptor_id":"course-code:22CS31154","metadata_path":"curriculum/descriptors/22CS31154.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-bd43faff1cb1a2ec","record_ids":["REC-D4D4A057E75556A3","REC-2F0450375C04CE080044","REC-A1AEFA0A5306DD8676BE","REC-8BEEC914327B749B7D97","REC-F927CC59AC883C0BD050","REC-F2FBB3275B531DAF2A7D","REC-4A86484644FF7E6530CC"],"repo_id":"COURSES-RA-17E77210FDA8","resource_group_id":"name-family-ac29c4ce3facd777","source_paths":["curriculum://hit-data/plans/083_2022版_13B_13B032_信息安全.toml#courses[52]"],"status":"mapped-current"}

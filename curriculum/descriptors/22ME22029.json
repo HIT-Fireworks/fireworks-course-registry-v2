@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22ME22029",
-  "course_code": "22ME22029",
-  "course_name": "机械基础创新实验",
-  "resource_group_id": "exact-name-881bcaa05da5b3a3",
-  "physical_repository_id": "physical-course-atomic-a42f57a93e87e2ce",
-  "repo_id": "COURSES-669D2EC19F09",
-  "record_ids": [
-    "REC-C9926449382CD8B4"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/003_2022版_02_020831_飞行器制造工程（强基计划）.toml#courses[47]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22ME22029.json",
-  "attachment_repo_id": "COURSES-669D2EC19F09"
-}
+{"attachment_repo_id":"COURSES-669D2EC19F09","course_code":"22ME22029","course_name":"机械基础创新实验","descriptor_id":"course-code:22ME22029","metadata_path":"curriculum/descriptors/22ME22029.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-a42f57a93e87e2ce","record_ids":["REC-C9926449382CD8B4","REC-C517A8C849DA6D443551","REC-FC7E41AEE7FC79173E4D","REC-6662255E489F243367FF","REC-8375F05233981BE82C9F","REC-2CE5624FDC2F705C761B","REC-07559FE4D2FDEB6DB142","REC-87DA8F03D1375C654984"],"repo_id":"COURSES-669D2EC19F09","resource_group_id":"exact-name-881bcaa05da5b3a3","source_paths":["curriculum://hit-data/plans/003_2022版_02_020831_飞行器制造工程（强基计划）.toml#courses[47]"],"status":"mapped-current"}

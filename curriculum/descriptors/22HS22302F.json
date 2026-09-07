@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22HS22302F",
-  "course_code": "22HS22302F",
-  "course_name": "宪法与行政法理论",
-  "resource_group_id": "exact-name-0597c29cec39e3be",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-75C7ED99EBC702D8"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/175_2022版_35_35F242_法学.toml#courses[1]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22HS22302F.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22HS22302F","course_name":"宪法与行政法理论","descriptor_id":"course-code:22HS22302F","metadata_path":"curriculum/descriptors/22HS22302F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-75C7ED99EBC702D8","REC-B286F1430743E537557A","REC-136782E0F64EBBB20A03","REC-3DBA60FB4F34A1C06A7F","REC-51743BC4DCB71E87B4EF"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"exact-name-0597c29cec39e3be","source_paths":["curriculum://hit-data/plans/175_2022版_35_35F242_法学.toml#courses[1]"],"status":"mapped-current"}

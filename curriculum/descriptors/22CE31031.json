@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22CE31031",
-  "course_code": "22CE31031",
-  "course_name": "工程经济学A",
-  "resource_group_id": "exact-name-bf465fb93762b40e",
-  "physical_repository_id": "physical-course-atomic-e31cb6e867db505e",
-  "repo_id": "COURSES-RA-6C06DD652E32",
-  "record_ids": [
-    "REC-09092CBDF55ACF7F"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/059_2022版_09_09335_工程管理.toml#courses[47]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22CE31031.json",
-  "attachment_repo_id": "COURSES-RA-6C06DD652E32"
-}
+{"attachment_repo_id":"COURSES-RA-6C06DD652E32","course_code":"22CE31031","course_name":"工程经济学A","descriptor_id":"course-code:22CE31031","metadata_path":"curriculum/descriptors/22CE31031.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-e31cb6e867db505e","record_ids":["REC-09092CBDF55ACF7F","REC-062B4D0345EED8D6CEC4","REC-82A79D6F3BA25AEF74A9","REC-ADA90D0F74066FF0EA4C","REC-A011AF4E8A9440E8F02F"],"repo_id":"COURSES-RA-6C06DD652E32","resource_group_id":"exact-name-bf465fb93762b40e","source_paths":["curriculum://hit-data/plans/059_2022版_09_09335_工程管理.toml#courses[47]"],"status":"mapped-current"}

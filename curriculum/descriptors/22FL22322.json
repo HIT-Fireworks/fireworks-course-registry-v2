@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22FL22322",
-  "course_code": "22FL22322",
-  "course_name": "日语专业导论",
-  "resource_group_id": "exact-name-44df3b6434dfc586",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-69059BD6190A944A"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/159_2022版_35_35153_日语.toml#courses[3]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22FL22322.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22FL22322","course_name":"日语专业导论","descriptor_id":"course-code:22FL22322","metadata_path":"curriculum/descriptors/22FL22322.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-69059BD6190A944A","REC-8206E26F9D437B17F8E6"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"exact-name-44df3b6434dfc586","source_paths":["curriculum://hit-data/plans/159_2022版_35_35153_日语.toml#courses[3]"],"status":"mapped-current"}

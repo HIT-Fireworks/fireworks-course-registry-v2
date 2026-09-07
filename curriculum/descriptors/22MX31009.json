@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22MX31009",
-  "course_code": "22MX31009",
-  "course_name": "企业文化与企业思想政治工作",
-  "resource_group_id": "exact-name-607e418fab5af64c",
-  "physical_repository_id": "physical-course-atomic-1bcd22a497801436",
-  "repo_id": "COURSES-C939A79F0C3A",
-  "record_ids": [
-    "REC-F2D0CE51CD99E3D9"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/187_2022版_49_49491_思想政治教育.toml#courses[41]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22MX31009.json",
-  "attachment_repo_id": "COURSES-C939A79F0C3A"
-}
+{"attachment_repo_id":"COURSES-C939A79F0C3A","course_code":"22MX31009","course_name":"企业文化与企业思想政治工作","descriptor_id":"course-code:22MX31009","metadata_path":"curriculum/descriptors/22MX31009.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-1bcd22a497801436","record_ids":["REC-F2D0CE51CD99E3D9","REC-97C132C1A7B090239DCA","REC-135B2DC3D9274290B33B","REC-0B4FAE22BDC435F070CD"],"repo_id":"COURSES-C939A79F0C3A","resource_group_id":"exact-name-607e418fab5af64c","source_paths":["curriculum://hit-data/plans/187_2022版_49_49491_思想政治教育.toml#courses[41]"],"status":"mapped-current"}

@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22MH31302",
-  "course_code": "22MH31302",
-  "course_name": "疾病组学与精准医学",
-  "resource_group_id": "exact-name-c1c6a6dfdd3df57d",
-  "physical_repository_id": "physical-course-atomic-8fdee15683baa619",
-  "repo_id": "COURSES-CE4133CBE869",
-  "record_ids": [
-    "REC-7276023759C267F9"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/183_2022版_37_37522_生物医学科学.toml#courses[45]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22MH31302.json",
-  "attachment_repo_id": "COURSES-CE4133CBE869"
-}
+{"attachment_repo_id":"COURSES-CE4133CBE869","course_code":"22MH31302","course_name":"疾病组学与精准医学","descriptor_id":"course-code:22MH31302","metadata_path":"curriculum/descriptors/22MH31302.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-8fdee15683baa619","record_ids":["REC-7276023759C267F9","REC-ECCC303624E8D1FCD7D5","REC-1E27C6301ED784CAE26D"],"repo_id":"COURSES-CE4133CBE869","resource_group_id":"exact-name-c1c6a6dfdd3df57d","source_paths":["curriculum://hit-data/plans/183_2022版_37_37522_生物医学科学.toml#courses[45]"],"status":"mapped-current"}

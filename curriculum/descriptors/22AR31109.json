@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22AR31109",
-  "course_code": "22AR31109",
-  "course_name": "建筑物理(光)",
-  "resource_group_id": "exact-name-3e0035732deeea65",
-  "physical_repository_id": "physical-course-atomic-3d09c28bf35c5f42",
-  "repo_id": "COURSES-AF51708C5BBA",
-  "record_ids": [
-    "REC-A77BBDBF834C7DB4"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/067_2022版_11B_11B341_建筑学.toml#courses[34]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22AR31109.json",
-  "attachment_repo_id": "COURSES-AF51708C5BBA"
-}
+{"attachment_repo_id":"COURSES-AF51708C5BBA","course_code":"22AR31109","course_name":"建筑物理(光)","descriptor_id":"course-code:22AR31109","metadata_path":"curriculum/descriptors/22AR31109.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3d09c28bf35c5f42","record_ids":["REC-A77BBDBF834C7DB4","REC-5BAB1E839B3AC8706190","REC-03E7006E13E828B55DC4","REC-E38BD4C728826FD9D1D6","REC-110D9103D06831A832EA","REC-C078AA9915332E64BB54","REC-E58E05B65998CE1B40E3","REC-181FAC4C8277C2244DF6","REC-4A2203EAF1A8005D2CDE"],"repo_id":"COURSES-AF51708C5BBA","resource_group_id":"exact-name-3e0035732deeea65","source_paths":["curriculum://hit-data/plans/067_2022版_11B_11B341_建筑学.toml#courses[34]"],"status":"mapped-current"}

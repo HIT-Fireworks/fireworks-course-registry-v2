@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:AS34804",
-  "course_code": "AS34804",
-  "course_name": "模拟集成电路课程设计",
-  "resource_group_id": "exact-name-28cb771f3893fe62",
-  "physical_repository_id": "physical-course-atomic-d21079c35223ce1d",
-  "repo_id": "COURSES-RA-460A910D00CC",
-  "record_ids": [
-    "REC-5BAA76165D5C17AD"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/112_2022版_01_01E214_微电子科学与工程.toml#courses[7]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/AS34804.json",
-  "attachment_repo_id": "COURSES-RA-460A910D00CC"
-}
+{"attachment_repo_id":"COURSES-RA-460A910D00CC","course_code":"AS34804","course_name":"模拟集成电路课程设计","descriptor_id":"course-code:AS34804","metadata_path":"curriculum/descriptors/AS34804.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-d21079c35223ce1d","record_ids":["REC-5BAA76165D5C17AD","REC-6BDAD48BEBA517A43EDB","REC-44BC82A1049D5C6AAF0C","REC-57501DB183738573FA2D","REC-29BC0D89CCA6BA8E9DFC","REC-B0FD5618B30F1F8356D8","REC-ADA2E73A8EC6C3059461","REC-D4297DB27C615017B6D3","REC-35B12A452C9FC2E4F85C","REC-F572DF3FAA78E3F7B569"],"repo_id":"COURSES-RA-460A910D00CC","resource_group_id":"exact-name-28cb771f3893fe62","source_paths":["curriculum://hit-data/plans/112_2022版_01_01E214_微电子科学与工程.toml#courses[7]"],"status":"mapped-current"}

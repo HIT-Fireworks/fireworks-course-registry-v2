@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22FL31503F",
-  "course_code": "22FL31503F",
-  "course_name": "中国文化",
-  "resource_group_id": "exact-name-0eeb0db89e4a8ca8",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-A251804CB7E3DBD8"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/171_2022版_35_35F151_英语.toml#courses[2]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22FL31503F.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22FL31503F","course_name":"中国文化","descriptor_id":"course-code:22FL31503F","metadata_path":"curriculum/descriptors/22FL31503F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-A251804CB7E3DBD8","REC-CF8A1AE6DBDE732756ED","REC-0800BF2ECF8E378977AC","REC-EE020D7810DCF1D26B0C","REC-6EE7BBA4E2A9C0E124AE"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"exact-name-0eeb0db89e4a8ca8","source_paths":["curriculum://hit-data/plans/171_2022版_35_35F151_英语.toml#courses[2]"],"status":"mapped-current"}

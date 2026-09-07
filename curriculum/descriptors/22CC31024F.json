@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22CC31024F",
-  "course_code": "22CC31024F",
-  "course_name": "基因的奥秘",
-  "resource_group_id": "exact-name-d3f65d8458d0db1d",
-  "physical_repository_id": "physical-course-atomic-542b2fc253a5a5d7",
-  "repo_id": "COURSES-5AF3514CBD50",
-  "record_ids": [
-    "REC-4B941CD249146A5F"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/123_2022版_25_25F076_化学.toml#courses[7]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22CC31024F.json",
-  "attachment_repo_id": "COURSES-5AF3514CBD50"
-}
+{"attachment_repo_id":"COURSES-5AF3514CBD50","course_code":"22CC31024F","course_name":"基因的奥秘","descriptor_id":"course-code:22CC31024F","metadata_path":"curriculum/descriptors/22CC31024F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-542b2fc253a5a5d7","record_ids":["REC-4B941CD249146A5F","REC-D27084E2E43AD49E41C4","REC-CC75FC28286311D77FC9","REC-C248284B7F0E734D6B1C"],"repo_id":"COURSES-5AF3514CBD50","resource_group_id":"exact-name-d3f65d8458d0db1d","source_paths":["curriculum://hit-data/plans/123_2022版_25_25F076_化学.toml#courses[7]"],"status":"mapped-current"}

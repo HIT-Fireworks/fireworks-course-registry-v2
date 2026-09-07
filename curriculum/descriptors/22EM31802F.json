@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EM31802F",
-  "course_code": "22EM31802F",
-  "course_name": "投资学",
-  "resource_group_id": "exact-name-f83c0d108b83df08",
-  "physical_repository_id": "physical-course-atomic-bf03a328b2629a0c",
-  "repo_id": "COURSES-RA-1DE27CC2E974",
-  "record_ids": [
-    "REC-13C4155DC0B4CEB5"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/041_2022版_07_07F221_金融学.toml#courses[5]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EM31802F.json",
-  "attachment_repo_id": "COURSES-RA-1DE27CC2E974"
-}
+{"attachment_repo_id":"COURSES-RA-1DE27CC2E974","course_code":"22EM31802F","course_name":"投资学","descriptor_id":"course-code:22EM31802F","metadata_path":"curriculum/descriptors/22EM31802F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-bf03a328b2629a0c","record_ids":["REC-13C4155DC0B4CEB5","REC-6B4F3AFC9E9EC6CB2EA2","REC-CDE15E8D49CFD42E8F63"],"repo_id":"COURSES-RA-1DE27CC2E974","resource_group_id":"exact-name-f83c0d108b83df08","source_paths":["curriculum://hit-data/plans/041_2022版_07_07F221_金融学.toml#courses[5]"],"status":"mapped-current"}

@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22FL22601F",
-  "course_code": "22FL22601F",
-  "course_name": "国际组织谈判实训",
-  "resource_group_id": "exact-name-638d3a9848e161f1",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-231A3406101C8EE4"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/173_2022版_35_35F154_国际组织与全球治理.toml#courses[0]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22FL22601F.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22FL22601F","course_name":"国际组织谈判实训","descriptor_id":"course-code:22FL22601F","metadata_path":"curriculum/descriptors/22FL22601F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-231A3406101C8EE4","REC-261098A78BE898D62652","REC-4224389DABCD1696357E","REC-F7AF8BF9BC53B9D6CA4E","REC-8AA89414308433282761"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"exact-name-638d3a9848e161f1","source_paths":["curriculum://hit-data/plans/173_2022版_35_35F154_国际组织与全球治理.toml#courses[0]"],"status":"mapped-current"}

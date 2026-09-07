@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22HS22392",
-  "course_code": "22HS22392",
-  "course_name": "民法总论",
-  "resource_group_id": "exact-name-002b75ba11b5e49d",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-16FED2F226CE4DF4"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/170_2022版_35_35E242_法学.toml#courses[2]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22HS22392.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22HS22392","course_name":"民法总论","descriptor_id":"course-code:22HS22392","metadata_path":"curriculum/descriptors/22HS22392.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-16FED2F226CE4DF4","REC-EC1F601FD98624554F11","REC-F7E4A6888E6653752E59","REC-E8122151F7D80CE69D9F","REC-B0CCAC309B8623B3B632","REC-51F199A5CB7CEC79D379","REC-1395A4269242B8E47424","REC-8D20632BB7797D7C5FE6"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"exact-name-002b75ba11b5e49d","source_paths":["curriculum://hit-data/plans/170_2022版_35_35E242_法学.toml#courses[2]"],"status":"mapped-current"}

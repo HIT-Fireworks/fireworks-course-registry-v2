@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:AS32808",
-  "course_code": "AS32808",
-  "course_name": "基于Verilog的数字系统设计",
-  "resource_group_id": "name-family-02d9546d425419b3",
-  "physical_repository_id": "physical-course-atomic-d21079c35223ce1d",
-  "repo_id": "COURSES-RA-460A910D00CC",
-  "record_ids": [
-    "REC-FF79443166B5591D"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/112_2022版_01_01E214_微电子科学与工程.toml#courses[6]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/AS32808.json",
-  "attachment_repo_id": "COURSES-RA-460A910D00CC"
-}
+{"attachment_repo_id":"COURSES-RA-460A910D00CC","course_code":"AS32808","course_name":"基于Verilog的数字系统设计","descriptor_id":"course-code:AS32808","metadata_path":"curriculum/descriptors/AS32808.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-d21079c35223ce1d","record_ids":["REC-FF79443166B5591D","REC-4018A872EAB6F783A747","REC-E715214358F6438528A7","REC-1B59AEDB18A8ABF86B95","REC-1EAFB52CC04FB30792C8","REC-19B7812E3EF56C5F966D"],"repo_id":"COURSES-RA-460A910D00CC","resource_group_id":"name-family-02d9546d425419b3","source_paths":["curriculum://hit-data/plans/112_2022版_01_01E214_微电子科学与工程.toml#courses[6]"],"status":"mapped-current"}

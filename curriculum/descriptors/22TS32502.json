@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22TS32502",
-  "course_code": "22TS32502",
-  "course_name": "车路协同与自动驾驶实验",
-  "resource_group_id": "exact-name-9745137134a4cb28",
-  "physical_repository_id": "physical-course-atomic-7d871d46904b9ccb",
-  "repo_id": "COURSES-RA-22604B84C175",
-  "record_ids": [
-    "REC-ADC0E40B3A45C037"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/096_2022版_12_12325_交通设备与控制工程.toml#courses[59]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22TS32502.json",
-  "attachment_repo_id": "COURSES-RA-22604B84C175"
-}
+{"attachment_repo_id":"COURSES-RA-22604B84C175","course_code":"22TS32502","course_name":"车路协同与自动驾驶实验","descriptor_id":"course-code:22TS32502","metadata_path":"curriculum/descriptors/22TS32502.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-7d871d46904b9ccb","record_ids":["REC-ADC0E40B3A45C037","REC-648B55A21AD3C3A03E80","REC-C32B9A6F7DB02FFAE28F","REC-8A4BAFE6EA483C507C4A"],"repo_id":"COURSES-RA-22604B84C175","resource_group_id":"exact-name-9745137134a4cb28","source_paths":["curriculum://hit-data/plans/096_2022版_12_12325_交通设备与控制工程.toml#courses[59]"],"status":"mapped-current"}

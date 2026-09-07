@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22ME31602",
-  "course_code": "22ME31602",
-  "course_name": "机器人学基础",
-  "resource_group_id": "exact-name-4763d0e35beb3120",
-  "physical_repository_id": "physical-course-atomic-a42f57a93e87e2ce",
-  "repo_id": "COURSES-669D2EC19F09",
-  "record_ids": [
-    "REC-1AE20023780DA244"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/202_2022版_32_32SXS111086_应用物理学（+机器人工程双学士学位）.toml#courses[51]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22ME31602.json",
-  "attachment_repo_id": "COURSES-669D2EC19F09"
-}
+{"attachment_repo_id":"COURSES-669D2EC19F09","course_code":"22ME31602","course_name":"机器人学基础","descriptor_id":"course-code:22ME31602","metadata_path":"curriculum/descriptors/22ME31602.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-a42f57a93e87e2ce","record_ids":["REC-1AE20023780DA244","REC-8269893DC61396110A0B","REC-0DC2B51A9754FC6C9699","REC-2545FCC71948866177A3","REC-7CE5CD1FFFBA4D7D70FE","REC-5492597CBE391F6B26A8","REC-0429A5B761E70B21D704","REC-38947CE422F819694DE2","REC-B6A2F5CCF22368706B46","REC-C0C37BD0B9CB727FCEF1","REC-8661C8D0DEAC37C78B16","REC-D0F5370A8AE315AFABEA","REC-7DB89D745814D6A94868","REC-2AAC0CE69620CA5A1D69"],"repo_id":"COURSES-669D2EC19F09","resource_group_id":"exact-name-4763d0e35beb3120","source_paths":["curriculum://hit-data/plans/202_2022版_32_32SXS111086_应用物理学（+机器人工程双学士学位）.toml#courses[51]"],"status":"mapped-current"}

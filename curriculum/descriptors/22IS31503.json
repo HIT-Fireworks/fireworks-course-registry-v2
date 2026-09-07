@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22IS31503",
-  "course_code": "22IS31503",
-  "course_name": "物联网与智能感知系统设计",
-  "resource_group_id": "exact-name-6c0e2738407a357d",
-  "physical_repository_id": "physical-course-atomic-4db498a4e9dbde3a",
-  "repo_id": "COURSES-RA-AE0EC9DD0D5A",
-  "record_ids": [
-    "REC-0DF4EB251818287D"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/192_2022版_28_28015_智能感知工程.toml#courses[52]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22IS31503.json",
-  "attachment_repo_id": "COURSES-RA-AE0EC9DD0D5A"
-}
+{"attachment_repo_id":"COURSES-RA-AE0EC9DD0D5A","course_code":"22IS31503","course_name":"物联网与智能感知系统设计","descriptor_id":"course-code:22IS31503","metadata_path":"curriculum/descriptors/22IS31503.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-4db498a4e9dbde3a","record_ids":["REC-0DF4EB251818287D","REC-995CD31641FF85437AE7","REC-84B9FD4D7F52891009B4","REC-66215FD8EF28D5EE136C","REC-7CF57D6ECD4F4CE77FBC","REC-793C82732FEDBB2D8903","REC-7B30E0A0BEC91B2D4703","REC-37CF758DEE90CBA2B927","REC-A12467B556EDBB551015","REC-C9A075CE9AF68CF60111"],"repo_id":"COURSES-RA-AE0EC9DD0D5A","resource_group_id":"exact-name-6c0e2738407a357d","source_paths":["curriculum://hit-data/plans/192_2022版_28_28015_智能感知工程.toml#courses[52]"],"status":"mapped-current"}

@@ -1,13 +1,1 @@
-{
-  "plan_id": "hit:2022%E7%89%88:11B:11B348",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/plans/hit%3A2022%25E7%2589%2588%3A11B%3A11B348.json",
-  "source_plan_file": "071_2022版_11B_11B348_智慧建筑与建造.toml",
-  "campus": "hit",
-  "plan_version": "2022版",
-  "department_code": "11B",
-  "school_name": "建筑与设计学院",
-  "major_code": "11B348",
-  "major_name": "智慧建筑与建造",
-  "year": "2022"
-}
+{"campus":"hit","department_code":"11B","major_code":"11B348","major_full_name":"智慧建筑与建造【本】","major_name":"智慧建筑与建造","metadata_path":"curriculum/plans/hit%3A2022%25E7%2589%2588%3A11B%3A11B348.json","metadata_repo_id":"fireworks-course-registry-v2","plan_id":"hit:2022%E7%89%88:11B:11B348","plan_version":"2022版","program_type":"本","school_name":"建筑与设计学院","source_capture":{"checks":{"authenticated":true,"confirmed_empty":false,"expected_headers":true,"pagination_consistent":true},"complete":true,"endpoint":"/pyfa/queryPykc","pages":[20,20,11],"rows":65,"scope":{"pageBbh":"2022版","pageKcmc":"","pageKkxn":"","pageKkxq":"","pageYxdm":"11B","pageZydm":"11B348"},"unpaged_rows":14},"source_kind":"curriculum","source_plan_file":"hit%3A2022%25E7%2589%2588%3A11B%3A11B348_智慧建筑与建造.json"}

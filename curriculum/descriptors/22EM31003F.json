@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EM31003F",
-  "course_code": "22EM31003F",
-  "course_name": "IT项目管理",
-  "resource_group_id": "exact-name-bf46ad837d3b7c69",
-  "physical_repository_id": "physical-course-atomic-bf03a328b2629a0c",
-  "repo_id": "COURSES-RA-1DE27CC2E974",
-  "record_ids": [
-    "REC-BB0659E9BC49C9AC"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/039_2022版_07_07F101_信息管理与信息系统.toml#courses[5]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EM31003F.json",
-  "attachment_repo_id": "COURSES-RA-1DE27CC2E974"
-}
+{"attachment_repo_id":"COURSES-RA-1DE27CC2E974","course_code":"22EM31003F","course_name":"IT项目管理","descriptor_id":"course-code:22EM31003F","metadata_path":"curriculum/descriptors/22EM31003F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-bf03a328b2629a0c","record_ids":["REC-BB0659E9BC49C9AC","REC-DC02AA0132605B480177","REC-857FEF45A5721D87EABD"],"repo_id":"COURSES-RA-1DE27CC2E974","resource_group_id":"exact-name-bf46ad837d3b7c69","source_paths":["curriculum://hit-data/plans/039_2022版_07_07F101_信息管理与信息系统.toml#courses[5]"],"status":"mapped-current"}

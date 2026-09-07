@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EM22803F",
-  "course_code": "22EM22803F",
-  "course_name": "国际金融(双语)",
-  "resource_group_id": "course-family-630c1f9e6d779205",
-  "physical_repository_id": "physical-course-atomic-bf03a328b2629a0c",
-  "repo_id": "COURSES-RA-1DE27CC2E974",
-  "record_ids": [
-    "REC-18672C5039270198"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/041_2022版_07_07F221_金融学.toml#courses[8]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EM22803F.json",
-  "attachment_repo_id": "COURSES-RA-1DE27CC2E974"
-}
+{"attachment_repo_id":"COURSES-RA-1DE27CC2E974","course_code":"22EM22803F","course_name":"国际金融(双语)","descriptor_id":"course-code:22EM22803F","metadata_path":"curriculum/descriptors/22EM22803F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-bf03a328b2629a0c","record_ids":["REC-18672C5039270198","REC-1C31ED3ABCE37D93AF82","REC-6F058A0E88CD3A8B173E"],"repo_id":"COURSES-RA-1DE27CC2E974","resource_group_id":"course-family-630c1f9e6d779205","source_paths":["curriculum://hit-data/plans/041_2022版_07_07F221_金融学.toml#courses[8]"],"status":"mapped-current"}

@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22CS31003",
-  "course_code": "22CS31003",
-  "course_name": "处理器设计与实践A",
-  "resource_group_id": "name-family-f0037981c0b9b2ba",
-  "physical_repository_id": "physical-course-atomic-bd43faff1cb1a2ec",
-  "repo_id": "COURSES-RA-17E77210FDA8",
-  "record_ids": [
-    "REC-49052FBC57C47FC9"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/082_2022版_13B_13B031_计算机科学与技术.toml#courses[45]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22CS31003.json",
-  "attachment_repo_id": "COURSES-RA-17E77210FDA8"
-}
+{"attachment_repo_id":"COURSES-RA-17E77210FDA8","course_code":"22CS31003","course_name":"处理器设计与实践A","descriptor_id":"course-code:22CS31003","metadata_path":"curriculum/descriptors/22CS31003.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-bd43faff1cb1a2ec","record_ids":["REC-49052FBC57C47FC9","REC-1B3A0C09C10B456E24CC","REC-6BB377DA26B48761ED41","REC-2B2299DAC83AC2FC024D","REC-53E23031C934C32662FE","REC-E5DBE28DF59DDCE59509","REC-E7984D53D9ABC1E0E3EF"],"repo_id":"COURSES-RA-17E77210FDA8","resource_group_id":"name-family-f0037981c0b9b2ba","source_paths":["curriculum://hit-data/plans/082_2022版_13B_13B031_计算机科学与技术.toml#courses[45]"],"status":"mapped-current"}

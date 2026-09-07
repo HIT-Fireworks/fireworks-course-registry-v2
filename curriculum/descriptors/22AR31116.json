@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22AR31116",
-  "course_code": "22AR31116",
-  "course_name": "中外建筑史A",
-  "resource_group_id": "name-family-bca0ff7f278b1a24",
-  "physical_repository_id": "physical-course-atomic-3d09c28bf35c5f42",
-  "repo_id": "COURSES-AF51708C5BBA",
-  "record_ids": [
-    "REC-9068B5C5839D682E"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/071_2022版_11B_11B348_智慧建筑与建造.toml#courses[39]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22AR31116.json",
-  "attachment_repo_id": "COURSES-AF51708C5BBA"
-}
+{"attachment_repo_id":"COURSES-AF51708C5BBA","course_code":"22AR31116","course_name":"中外建筑史A","descriptor_id":"course-code:22AR31116","metadata_path":"curriculum/descriptors/22AR31116.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3d09c28bf35c5f42","record_ids":["REC-9068B5C5839D682E","REC-B1AC880D6576489C5C15","REC-E6BCB043510619FEE0FC"],"repo_id":"COURSES-AF51708C5BBA","resource_group_id":"name-family-bca0ff7f278b1a24","source_paths":["curriculum://hit-data/plans/071_2022版_11B_11B348_智慧建筑与建造.toml#courses[39]"],"status":"mapped-current"}

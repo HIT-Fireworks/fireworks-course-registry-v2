@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22AS31253",
-  "course_code": "22AS31253",
-  "course_name": "空气动力学",
-  "resource_group_id": "exact-name-9a636737952535c0",
-  "physical_repository_id": "physical-course-atomic-d21079c35223ce1d",
-  "repo_id": "COURSES-RA-460A910D00CC",
-  "record_ids": [
-    "REC-46C4AA4528B7D8F2"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/107_2022版_01_01187_工程力学（强基计划）.toml#courses[41]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22AS31253.json",
-  "attachment_repo_id": "COURSES-RA-460A910D00CC"
-}
+{"attachment_repo_id":"COURSES-RA-460A910D00CC","course_code":"22AS31253","course_name":"空气动力学","descriptor_id":"course-code:22AS31253","metadata_path":"curriculum/descriptors/22AS31253.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-d21079c35223ce1d","record_ids":["REC-46C4AA4528B7D8F2","REC-2953E495BED068F1D55F","REC-974EE2FF261FB4E6807B","REC-D6A01710B0AAB7A7953C"],"repo_id":"COURSES-RA-460A910D00CC","resource_group_id":"exact-name-9a636737952535c0","source_paths":["curriculum://hit-data/plans/107_2022版_01_01187_工程力学（强基计划）.toml#courses[41]"],"status":"mapped-current"}

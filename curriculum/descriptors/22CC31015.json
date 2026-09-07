@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22CC31015",
-  "course_code": "22CC31015",
-  "course_name": "应用表面化学与技术",
-  "resource_group_id": "exact-name-6dd7642b0328edce",
-  "physical_repository_id": "physical-course-atomic-542b2fc253a5a5d7",
-  "repo_id": "COURSES-5AF3514CBD50",
-  "record_ids": [
-    "REC-A84805A73EFB31A1"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/116_2022版_25_25073_材料化学.toml#courses[48]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22CC31015.json",
-  "attachment_repo_id": "COURSES-5AF3514CBD50"
-}
+{"attachment_repo_id":"COURSES-5AF3514CBD50","course_code":"22CC31015","course_name":"应用表面化学与技术","descriptor_id":"course-code:22CC31015","metadata_path":"curriculum/descriptors/22CC31015.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-542b2fc253a5a5d7","record_ids":["REC-A84805A73EFB31A1","REC-6CBF4164B7B1AD1A9100","REC-D6A1A4ADF2BD723F6CEA"],"repo_id":"COURSES-5AF3514CBD50","resource_group_id":"exact-name-6dd7642b0328edce","source_paths":["curriculum://hit-data/plans/116_2022版_25_25073_材料化学.toml#courses[48]"],"status":"mapped-current"}

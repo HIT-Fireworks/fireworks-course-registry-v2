@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22MA22013C",
-  "course_code": "22MA22013C",
-  "course_name": "数学分析(2)",
-  "resource_group_id": "mathematical-analysis",
-  "physical_repository_id": "physical-course-ra-7b3e3124eed524d0",
-  "repo_id": "22MA15015",
-  "record_ids": [
-    "REC-F43C4E8F5140B510"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/150_2022版_31_31126_数学与应用数学（中外合作）.toml#courses[16]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22MA22013C.json",
-  "attachment_repo_id": "22MA15015"
-}
+{"attachment_repo_id":"22MA15015","course_code":"22MA22013C","course_name":"数学分析(2)","descriptor_id":"course-code:22MA22013C","metadata_path":"curriculum/descriptors/22MA22013C.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-ra-7b3e3124eed524d0","record_ids":["REC-F43C4E8F5140B510","REC-6E8B4FA264D4180983BB","REC-1E20164A9F90EF2EFF47","REC-DC4B7CD45417F01A0D13"],"repo_id":"22MA15015","resource_group_id":"mathematical-analysis","source_paths":["curriculum://hit-data/plans/150_2022版_31_31126_数学与应用数学（中外合作）.toml#courses[16]"],"status":"mapped-current"}

@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22AS31204",
-  "course_code": "22AS31204",
-  "course_name": "计算机视觉",
-  "resource_group_id": "name-family-d25a85f112658069",
-  "physical_repository_id": "physical-course-atomic-d21079c35223ce1d",
-  "repo_id": "COURSES-RA-460A910D00CC",
-  "record_ids": [
-    "REC-BDB1CB8B79EE68F2"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/100_2022版_01_01043_智能装备与系统.toml#courses[50]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22AS31204.json",
-  "attachment_repo_id": "COURSES-RA-460A910D00CC"
-}
+{"attachment_repo_id":"COURSES-RA-460A910D00CC","course_code":"22AS31204","course_name":"计算机视觉","descriptor_id":"course-code:22AS31204","metadata_path":"curriculum/descriptors/22AS31204.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-d21079c35223ce1d","record_ids":["REC-BDB1CB8B79EE68F2","REC-A08EB61F0E0C2AF31F28","REC-BB208C79A21E667B9BB2","REC-9C1F3DCBAC9BE52ED4C2","REC-CA9C553B9F914EB3F707","REC-4F1923FEAFC9E7BACEAD","REC-BC0F0F5F1C98124CFE43","REC-59246DA0A9B147B71D6A","REC-DB76CC55E864406D5A97","REC-BA0FF0099D8EE1B46C80","REC-A759EE09D2A73956C593","REC-44C9FFB9D141883248A1","REC-EB2A44FCFDF690953BC9","REC-80CE8E15CBF3675F06E3","REC-3BD663FBF7242E0520A7","REC-53A7E43980C13AD27989","REC-A2F577F50FF22D84429D","REC-757E1B40BC7613AA8EDD","REC-F24C9973EFC8737DC6AC","REC-53523DBCA494BAF98907","REC-47F91494CCEF6F7F596F","REC-35FEC128BE6B761AB347","REC-97D09561858C59FA082A","REC-5E70D8A215E542262305","REC-A347EF99D431EFEF77ED","REC-1225E77A35FCF6100CC7","REC-642BC6BB1902C7F2E204","REC-B65D2A84731AE593A61C","REC-D71FBBB1825A9509B90D","REC-DF0B670BF6D7F438F28F","REC-E95DA703C19CDB0FC56B","REC-359B1D8101E2B8CBF5D5"],"repo_id":"COURSES-RA-460A910D00CC","resource_group_id":"name-family-d25a85f112658069","source_paths":["curriculum://hit-data/plans/100_2022版_01_01043_智能装备与系统.toml#courses[50]"],"status":"mapped-current"}

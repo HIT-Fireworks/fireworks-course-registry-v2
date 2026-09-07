@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22HS31307",
-  "course_code": "22HS31307",
-  "course_name": "证据学",
-  "resource_group_id": "exact-name-b14ed2a703acf7f6",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-8D2B04BC862BE073"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/165_2022版_35_35242_法学.toml#courses[44]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22HS31307.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22HS31307","course_name":"证据学","descriptor_id":"course-code:22HS31307","metadata_path":"curriculum/descriptors/22HS31307.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-8D2B04BC862BE073","REC-607D7CA31DA9D326D06B","REC-D951C90A207DCDEFDDEB","REC-440A95241FA08BB0FA74","REC-EBAE7560EC42B53B5785","REC-C34DAE33CF2A39810988","REC-C00B3A673D889AA96873","REC-E3DA2123F46CE5AF923A"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"exact-name-b14ed2a703acf7f6","source_paths":["curriculum://hit-data/plans/165_2022版_35_35242_法学.toml#courses[44]"],"status":"mapped-current"}

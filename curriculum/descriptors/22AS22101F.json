@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22AS22101F",
-  "course_code": "22AS22101F",
-  "course_name": "智能信号检测与处理(1)",
-  "resource_group_id": "name-family-08c82634f0e2f2c3",
-  "physical_repository_id": "physical-course-atomic-d21079c35223ce1d",
-  "repo_id": "COURSES-RA-460A910D00CC",
-  "record_ids": [
-    "REC-0CC9027CF573581C"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/113_2022版_01_01F043_智能装备与系统.toml#courses[0]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22AS22101F.json",
-  "attachment_repo_id": "COURSES-RA-460A910D00CC"
-}
+{"attachment_repo_id":"COURSES-RA-460A910D00CC","course_code":"22AS22101F","course_name":"智能信号检测与处理(1)","descriptor_id":"course-code:22AS22101F","metadata_path":"curriculum/descriptors/22AS22101F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-d21079c35223ce1d","record_ids":["REC-0CC9027CF573581C","REC-4D704B05AF6A683F3BC6","REC-4EBB8DC20B8C98D9E039","REC-DB06DB64B8778801608E","REC-BDE9CDAF78F119E7D5BD"],"repo_id":"COURSES-RA-460A910D00CC","resource_group_id":"name-family-08c82634f0e2f2c3","source_paths":["curriculum://hit-data/plans/113_2022版_01_01F043_智能装备与系统.toml#courses[0]"],"status":"mapped-current"}

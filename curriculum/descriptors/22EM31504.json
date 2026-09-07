@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EM31504",
-  "course_code": "22EM31504",
-  "course_name": "网络营销",
-  "resource_group_id": "exact-name-f72fe82feefd861a",
-  "physical_repository_id": "physical-course-atomic-bf03a328b2629a0c",
-  "repo_id": "COURSES-RA-1DE27CC2E974",
-  "record_ids": [
-    "REC-FEDF520B453BD3B6"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/205_2022版_60_60202_市场营销.toml#courses[50]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EM31504.json",
-  "attachment_repo_id": "COURSES-RA-1DE27CC2E974"
-}
+{"attachment_repo_id":"COURSES-RA-1DE27CC2E974","course_code":"22EM31504","course_name":"网络营销","descriptor_id":"course-code:22EM31504","metadata_path":"curriculum/descriptors/22EM31504.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-bf03a328b2629a0c","record_ids":["REC-FEDF520B453BD3B6","REC-2F1C6110E2338CF4F8F6","REC-626B7FC9D4FD847C95BE"],"repo_id":"COURSES-RA-1DE27CC2E974","resource_group_id":"exact-name-f72fe82feefd861a","source_paths":["curriculum://hit-data/plans/205_2022版_60_60202_市场营销.toml#courses[50]"],"status":"mapped-current"}

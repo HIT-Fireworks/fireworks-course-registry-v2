@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22HS31165",
-  "course_code": "22HS31165",
-  "course_name": "社会心理学基础A",
-  "resource_group_id": "name-family-58b1c48ff23339c1",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-B0265D34BD788F50"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/167_2022版_35_35E161_社会学.toml#courses[6]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22HS31165.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22HS31165","course_name":"社会心理学基础A","descriptor_id":"course-code:22HS31165","metadata_path":"curriculum/descriptors/22HS31165.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-B0265D34BD788F50","REC-22A899FE384FBED4D0AE","REC-F04A632A2A13DE08A2D5","REC-ED363002832111FF9B4C","REC-F9B550B8D1EA73CFCE3E"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"name-family-58b1c48ff23339c1","source_paths":["curriculum://hit-data/plans/167_2022版_35_35E161_社会学.toml#courses[6]"],"status":"mapped-current"}

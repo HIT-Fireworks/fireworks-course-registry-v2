@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22LS31014",
-  "course_code": "22LS31014",
-  "course_name": "电磁生物学",
-  "resource_group_id": "exact-name-4253514b19ca3c5b",
-  "physical_repository_id": "physical-course-atomic-8fdee15683baa619",
-  "repo_id": "COURSES-CE4133CBE869",
-  "record_ids": [
-    "REC-763CFBFAFC5CA283"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/181_2022版_37_37284_整合科学.toml#courses[56]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22LS31014.json",
-  "attachment_repo_id": "COURSES-CE4133CBE869"
-}
+{"attachment_repo_id":"COURSES-CE4133CBE869","course_code":"22LS31014","course_name":"电磁生物学","descriptor_id":"course-code:22LS31014","metadata_path":"curriculum/descriptors/22LS31014.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-8fdee15683baa619","record_ids":["REC-763CFBFAFC5CA283","REC-BDC915AECD79E6BCAB2F","REC-C883FA518ED0416152E2","REC-5DDC7758E523BD3091CB","REC-ADB8DA8468940CB35FDB","REC-9BD9A89FB4885E3E97AA","REC-E0B112DDA296C42C16BC","REC-5786219341FA6E980A24","REC-C57AAA815318CC4D6D1F","REC-DB80665F567D28C16767","REC-D4453FF75C366752B35F","REC-ABA1B29367539BFCAB33","REC-630301E3FE2AA92AEB96","REC-965A4FF925F631E294A7","REC-26C5262DCA4022384AD9","REC-33CD35ED73377D43E287","REC-D90C8D3F70C7742EBEF3","REC-EDA345BE5E922748E558","REC-D6EEC181EE952D03DF04"],"repo_id":"COURSES-CE4133CBE869","resource_group_id":"exact-name-4253514b19ca3c5b","source_paths":["curriculum://hit-data/plans/181_2022版_37_37284_整合科学.toml#courses[56]"],"status":"mapped-current"}

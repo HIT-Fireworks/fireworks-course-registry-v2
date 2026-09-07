@@ -1,13 +1,1 @@
-{
-  "plan_id": "hit:2022%E7%89%88:37:37282",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/plans/hit%3A2022%25E7%2589%2588%3A37%3A37282.json",
-  "source_plan_file": "180_2022版_37_37282_生物工程.toml",
-  "campus": "hit",
-  "plan_version": "2022版",
-  "department_code": "37",
-  "school_name": "生命科学和医学学部",
-  "major_code": "37282",
-  "major_name": "生物工程",
-  "year": "2022"
-}
+{"campus":"hit","department_code":"37","major_code":"37282","major_full_name":"生物工程【本】","major_name":"生物工程","metadata_path":"curriculum/plans/hit%3A2022%25E7%2589%2588%3A37%3A37282.json","metadata_repo_id":"fireworks-course-registry-v2","plan_id":"hit:2022%E7%89%88:37:37282","plan_version":"2022版","program_type":"本","school_name":"生命科学和医学学部","source_capture":{"checks":{"authenticated":true,"confirmed_empty":false,"expected_headers":true,"pagination_consistent":true},"complete":true,"endpoint":"/pyfa/queryPykc","pages":[20,20,19],"rows":79,"scope":{"pageBbh":"2022版","pageKcmc":"","pageKkxn":"","pageKkxq":"","pageYxdm":"37","pageZydm":"37282"},"unpaged_rows":20},"source_kind":"curriculum","source_plan_file":"hit%3A2022%25E7%2589%2588%3A37%3A37282_生物工程.json"}

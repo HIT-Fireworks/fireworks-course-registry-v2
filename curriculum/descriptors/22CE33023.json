@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22CE33023",
-  "course_code": "22CE33023",
-  "course_name": "毕业实习",
-  "resource_group_id": "exact-name-144c5c83446ec6f9",
-  "physical_repository_id": "physical-course-atomic-e31cb6e867db505e",
-  "repo_id": "COURSES-RA-6C06DD652E32",
-  "record_ids": [
-    "REC-C89A4E2CE8603416"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/058_2022版_09_09334_城市地下空间工程.toml#courses[59]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22CE33023.json",
-  "attachment_repo_id": "COURSES-RA-6C06DD652E32"
-}
+{"attachment_repo_id":"COURSES-RA-6C06DD652E32","course_code":"22CE33023","course_name":"毕业实习","descriptor_id":"course-code:22CE33023","metadata_path":"curriculum/descriptors/22CE33023.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-e31cb6e867db505e","record_ids":["REC-C89A4E2CE8603416","REC-0B14F3E987C0CBAC4F6C","REC-FE7EF666E0F20D44C220","REC-3C3F9DE65F5932EA4A4A"],"repo_id":"COURSES-RA-6C06DD652E32","resource_group_id":"exact-name-144c5c83446ec6f9","source_paths":["curriculum://hit-data/plans/058_2022版_09_09334_城市地下空间工程.toml#courses[59]"],"status":"mapped-current"}

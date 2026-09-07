@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22CS31251",
-  "course_code": "22CS31251",
-  "course_name": "信息物理系统-理论与建模A",
-  "resource_group_id": "exact-name-976925cd95250451",
-  "physical_repository_id": "physical-course-atomic-bd43faff1cb1a2ec",
-  "repo_id": "COURSES-RA-17E77210FDA8",
-  "record_ids": [
-    "REC-307457A2C41DFACA"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/088_2022版_13B_13B373_物联网工程.toml#courses[44]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22CS31251.json",
-  "attachment_repo_id": "COURSES-RA-17E77210FDA8"
-}
+{"attachment_repo_id":"COURSES-RA-17E77210FDA8","course_code":"22CS31251","course_name":"信息物理系统-理论与建模A","descriptor_id":"course-code:22CS31251","metadata_path":"curriculum/descriptors/22CS31251.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-bd43faff1cb1a2ec","record_ids":["REC-307457A2C41DFACA","REC-9D7AC6E957F91E0807B4","REC-8CFED20554FA934952C0","REC-F71A9E035945180E6A1F","REC-6CF239F716CC4FCA346A"],"repo_id":"COURSES-RA-17E77210FDA8","resource_group_id":"exact-name-976925cd95250451","source_paths":["curriculum://hit-data/plans/088_2022版_13B_13B373_物联网工程.toml#courses[44]"],"status":"mapped-current"}

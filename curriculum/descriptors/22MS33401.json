@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22MS33401",
-  "course_code": "22MS33401",
-  "course_name": "生产实习",
-  "resource_group_id": "exact-name-18527c31b7340394",
-  "physical_repository_id": "physical-course-atomic-8a45d0fa46165dbc",
-  "repo_id": "COURSES-RA-6217E115199B",
-  "record_ids": [
-    "REC-EA9D58C068815B56"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/025_2022版_03_03092_增材制造工程.toml#courses[53]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22MS33401.json",
-  "attachment_repo_id": "COURSES-RA-6217E115199B"
-}
+{"attachment_repo_id":"COURSES-RA-6217E115199B","course_code":"22MS33401","course_name":"生产实习","descriptor_id":"course-code:22MS33401","metadata_path":"curriculum/descriptors/22MS33401.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-8a45d0fa46165dbc","record_ids":["REC-EA9D58C068815B56","REC-4F658730E800B07EDF81","REC-C86D85FC2577D90D0E50","REC-0D2FF6A93100B6F37A78","REC-33B7EE842EFA7313A7B1"],"repo_id":"COURSES-RA-6217E115199B","resource_group_id":"exact-name-18527c31b7340394","source_paths":["curriculum://hit-data/plans/025_2022版_03_03092_增材制造工程.toml#courses[53]"],"status":"mapped-current"}

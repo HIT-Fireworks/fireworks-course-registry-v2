@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:CS32482",
-  "course_code": "CS32482",
-  "course_name": "云原生技术实践",
-  "resource_group_id": "name-family-fa33fcbd3545c886",
-  "physical_repository_id": "physical-course-atomic-bd43faff1cb1a2ec",
-  "repo_id": "COURSES-RA-17E77210FDA8",
-  "record_ids": [
-    "REC-3143845FF466DC19"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/092_2022版_13B_13BE371_软件工程.toml#courses[11]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/CS32482.json",
-  "attachment_repo_id": "COURSES-RA-17E77210FDA8"
-}
+{"attachment_repo_id":"COURSES-RA-17E77210FDA8","course_code":"CS32482","course_name":"云原生技术实践","descriptor_id":"course-code:CS32482","metadata_path":"curriculum/descriptors/CS32482.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-bd43faff1cb1a2ec","record_ids":["REC-3143845FF466DC19","REC-F0353ABBB37CF54C784E","REC-F8CAFD8E266B07A73377","REC-2B8FCBAF8D85961B2D2E","REC-B5A60F854447EA27102B","REC-0608FBE6D7DB416176D3"],"repo_id":"COURSES-RA-17E77210FDA8","resource_group_id":"name-family-fa33fcbd3545c886","source_paths":["curriculum://hit-data/plans/092_2022版_13B_13BE371_软件工程.toml#courses[11]"],"status":"mapped-current"}

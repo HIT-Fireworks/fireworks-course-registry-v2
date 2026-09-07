@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22MA31010",
-  "course_code": "22MA31010",
-  "course_name": "微分几何",
-  "resource_group_id": "exact-name-563f3cbd956e616e",
-  "physical_repository_id": "physical-course-atomic-4dcb7147533baeaa",
-  "repo_id": "COURSES-RA-ABB94F5BF175",
-  "record_ids": [
-    "REC-B4C17DBE053920D8"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/147_2022版_31_31121_数学与应用数学.toml#courses[40]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22MA31010.json",
-  "attachment_repo_id": "COURSES-RA-ABB94F5BF175"
-}
+{"attachment_repo_id":"COURSES-RA-ABB94F5BF175","course_code":"22MA31010","course_name":"微分几何","descriptor_id":"course-code:22MA31010","metadata_path":"curriculum/descriptors/22MA31010.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-4dcb7147533baeaa","record_ids":["REC-B4C17DBE053920D8","REC-F9884B05A60E4809C3E1","REC-4930F07E215831ED8BBA","REC-60C6AA33C5E4EABE6DE0","REC-B1CC5D63BBACBAB5344C"],"repo_id":"COURSES-RA-ABB94F5BF175","resource_group_id":"exact-name-563f3cbd956e616e","source_paths":["curriculum://hit-data/plans/147_2022版_31_31121_数学与应用数学.toml#courses[40]"],"status":"mapped-current"}

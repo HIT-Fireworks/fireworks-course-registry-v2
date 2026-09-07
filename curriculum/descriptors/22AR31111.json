@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22AR31111",
-  "course_code": "22AR31111",
-  "course_name": "建筑物理(声)",
-  "resource_group_id": "exact-name-17e1e0c21459aa3f",
-  "physical_repository_id": "physical-course-atomic-3d09c28bf35c5f42",
-  "repo_id": "COURSES-AF51708C5BBA",
-  "record_ids": [
-    "REC-58DDB432A2623278"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/067_2022版_11B_11B341_建筑学.toml#courses[55]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22AR31111.json",
-  "attachment_repo_id": "COURSES-AF51708C5BBA"
-}
+{"attachment_repo_id":"COURSES-AF51708C5BBA","course_code":"22AR31111","course_name":"建筑物理(声)","descriptor_id":"course-code:22AR31111","metadata_path":"curriculum/descriptors/22AR31111.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3d09c28bf35c5f42","record_ids":["REC-58DDB432A2623278","REC-1743447A1F2DA872A5B7","REC-6103C6A61F7499C087BD","REC-3DA7634E6DA2D47E2E30","REC-5014343DA8B123B5AFAA","REC-FFAC1D5FB9AF413B665B","REC-EE7BE6F8E6D9C0E782DE"],"repo_id":"COURSES-AF51708C5BBA","resource_group_id":"exact-name-17e1e0c21459aa3f","source_paths":["curriculum://hit-data/plans/067_2022版_11B_11B341_建筑学.toml#courses[55]"],"status":"mapped-current"}

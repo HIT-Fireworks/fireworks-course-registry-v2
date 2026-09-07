@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22MS31604B",
-  "course_code": "22MS31604B",
-  "course_name": "微纳连接原理与方法",
-  "resource_group_id": "exact-name-c5510d9bd484b5fc",
-  "physical_repository_id": "physical-course-atomic-8a45d0fa46165dbc",
-  "repo_id": "COURSES-RA-6217E115199B",
-  "record_ids": [
-    "REC-4A1225CC41F13F4E"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/029_2022版_03_03292_电子封装技术.toml#courses[46]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22MS31604B.json",
-  "attachment_repo_id": "COURSES-RA-6217E115199B"
-}
+{"attachment_repo_id":"COURSES-RA-6217E115199B","course_code":"22MS31604B","course_name":"微纳连接原理与方法","descriptor_id":"course-code:22MS31604B","metadata_path":"curriculum/descriptors/22MS31604B.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-8a45d0fa46165dbc","record_ids":["REC-4A1225CC41F13F4E","REC-B24BB7AE97BB61C0DE85","REC-D3F94354E8407B2299F8","REC-AC52B347E67B5C1A20CC","REC-0B67D614CD12DAB96116","REC-F5E360AFCDEDBD40953A","REC-93F3C09635EB77CE0FD5"],"repo_id":"COURSES-RA-6217E115199B","resource_group_id":"exact-name-c5510d9bd484b5fc","source_paths":["curriculum://hit-data/plans/029_2022版_03_03292_电子封装技术.toml#courses[46]"],"status":"mapped-current"}

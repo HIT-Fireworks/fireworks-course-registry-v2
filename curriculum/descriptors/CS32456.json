@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:CS32456",
-  "course_code": "CS32456",
-  "course_name": "软件工程专业导论",
-  "resource_group_id": "exact-name-9e8f23334debf1a6",
-  "physical_repository_id": "physical-course-atomic-bd43faff1cb1a2ec",
-  "repo_id": "COURSES-RA-17E77210FDA8",
-  "record_ids": [
-    "REC-E742F34E62AB8149"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/092_2022版_13B_13BE371_软件工程.toml#courses[4]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/CS32456.json",
-  "attachment_repo_id": "COURSES-RA-17E77210FDA8"
-}
+{"attachment_repo_id":"COURSES-RA-17E77210FDA8","course_code":"CS32456","course_name":"软件工程专业导论","descriptor_id":"course-code:CS32456","metadata_path":"curriculum/descriptors/CS32456.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-bd43faff1cb1a2ec","record_ids":["REC-E742F34E62AB8149","REC-C7B680509CC1956EBDED","REC-BE52CA4729CE559AB2D5","REC-C4D14C97E18000F96775","REC-B8CA029462FAD720AE81"],"repo_id":"COURSES-RA-17E77210FDA8","resource_group_id":"exact-name-9e8f23334debf1a6","source_paths":["curriculum://hit-data/plans/092_2022版_13B_13BE371_软件工程.toml#courses[4]"],"status":"mapped-current"}

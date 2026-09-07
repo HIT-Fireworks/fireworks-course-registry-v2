@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22MA33005C",
-  "course_code": "22MA33005C",
-  "course_name": "生产实践(科学研究活动)",
-  "resource_group_id": "exact-name-df4c80549568b03b",
-  "physical_repository_id": "physical-course-atomic-4dcb7147533baeaa",
-  "repo_id": "COURSES-RA-ABB94F5BF175",
-  "record_ids": [
-    "REC-634E6A4702A667FE"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/150_2022版_31_31126_数学与应用数学（中外合作）.toml#courses[60]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22MA33005C.json",
-  "attachment_repo_id": "COURSES-RA-ABB94F5BF175"
-}
+{"attachment_repo_id":"COURSES-RA-ABB94F5BF175","course_code":"22MA33005C","course_name":"生产实践(科学研究活动)","descriptor_id":"course-code:22MA33005C","metadata_path":"curriculum/descriptors/22MA33005C.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-4dcb7147533baeaa","record_ids":["REC-634E6A4702A667FE","REC-967FF7D3A5F23B0BB72C"],"repo_id":"COURSES-RA-ABB94F5BF175","resource_group_id":"exact-name-df4c80549568b03b","source_paths":["curriculum://hit-data/plans/150_2022版_31_31126_数学与应用数学（中外合作）.toml#courses[60]"],"status":"mapped-current"}

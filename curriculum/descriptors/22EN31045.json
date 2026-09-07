@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EN31045",
-  "course_code": "22EN31045",
-  "course_name": "水质工程原理与系统模拟实验",
-  "resource_group_id": "exact-name-130daf32e33f2596",
-  "physical_repository_id": "physical-course-atomic-7109ade39c57c305",
-  "repo_id": "COURSES-RA-FBDE6370AF65",
-  "record_ids": [
-    "REC-0594F07F66408B73"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/138_2022版_27_27252_城市水系统工程.toml#courses[55]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EN31045.json",
-  "attachment_repo_id": "COURSES-RA-FBDE6370AF65"
-}
+{"attachment_repo_id":"COURSES-RA-FBDE6370AF65","course_code":"22EN31045","course_name":"水质工程原理与系统模拟实验","descriptor_id":"course-code:22EN31045","metadata_path":"curriculum/descriptors/22EN31045.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-7109ade39c57c305","record_ids":["REC-0594F07F66408B73","REC-F1DB18A778EEB97460C2","REC-E9F49F830C2816FB9BAD"],"repo_id":"COURSES-RA-FBDE6370AF65","resource_group_id":"exact-name-130daf32e33f2596","source_paths":["curriculum://hit-data/plans/138_2022版_27_27252_城市水系统工程.toml#courses[55]"],"status":"mapped-current"}

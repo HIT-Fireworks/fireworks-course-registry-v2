@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22FL31504F",
-  "course_code": "22FL31504F",
-  "course_name": "英语文学基础",
-  "resource_group_id": "exact-name-f5208986a34c8dc8",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-BD5251014E9039C7"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/171_2022版_35_35F151_英语.toml#courses[7]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22FL31504F.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22FL31504F","course_name":"英语文学基础","descriptor_id":"course-code:22FL31504F","metadata_path":"curriculum/descriptors/22FL31504F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-BD5251014E9039C7","REC-D35E53CEEA966A5F2851","REC-E30B4D96A7D49AD5E376","REC-D0B180477562BAFE48C6"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"exact-name-f5208986a34c8dc8","source_paths":["curriculum://hit-data/plans/171_2022版_35_35F151_英语.toml#courses[7]"],"status":"mapped-current"}

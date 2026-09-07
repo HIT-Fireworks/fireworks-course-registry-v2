@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22FL22701F",
-  "course_code": "22FL22701F",
-  "course_name": "基础日语实践(1)",
-  "resource_group_id": "name-family-37766401a1d2bfba",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-12969E710FAA3680"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/172_2022版_35_35F153_日语.toml#courses[0]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22FL22701F.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22FL22701F","course_name":"基础日语实践(1)","descriptor_id":"course-code:22FL22701F","metadata_path":"curriculum/descriptors/22FL22701F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-12969E710FAA3680","REC-420E131357141AA2DDD2","REC-648CC35FE5A60B78904D"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"name-family-37766401a1d2bfba","source_paths":["curriculum://hit-data/plans/172_2022版_35_35F153_日语.toml#courses[0]"],"status":"mapped-current"}

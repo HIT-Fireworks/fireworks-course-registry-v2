@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22CS22010F",
-  "course_code": "22CS22010F",
-  "course_name": "人工智能导论",
-  "resource_group_id": "exact-name-09b3208a6fbe72e0",
-  "physical_repository_id": "physical-course-atomic-bd43faff1cb1a2ec",
-  "repo_id": "COURSES-RA-17E77210FDA8",
-  "record_ids": [
-    "REC-A2325F2EA39A6456"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/093_2022版_13B_13BF036_人工智能.toml#courses[1]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22CS22010F.json",
-  "attachment_repo_id": "COURSES-RA-17E77210FDA8"
-}
+{"attachment_repo_id":"COURSES-RA-17E77210FDA8","course_code":"22CS22010F","course_name":"人工智能导论","descriptor_id":"course-code:22CS22010F","metadata_path":"curriculum/descriptors/22CS22010F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-bd43faff1cb1a2ec","record_ids":["REC-A2325F2EA39A6456","REC-8AD587CDD67DCB702F3E","REC-CB752BB6BC6D9480DA0E","REC-B3C4EB6E6C5F83DE37CA"],"repo_id":"COURSES-RA-17E77210FDA8","resource_group_id":"exact-name-09b3208a6fbe72e0","source_paths":["curriculum://hit-data/plans/093_2022版_13B_13BF036_人工智能.toml#courses[1]"],"status":"mapped-current"}

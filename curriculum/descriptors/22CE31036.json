@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22CE31036",
-  "course_code": "22CE31036",
-  "course_name": "机器学习",
-  "resource_group_id": "exact-name-e0ab0981aba5c06d",
-  "physical_repository_id": "physical-course-atomic-e31cb6e867db505e",
-  "repo_id": "COURSES-RA-6C06DD652E32",
-  "record_ids": [
-    "REC-3EDD4BE0469EDEDA"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/060_2022版_09_09336_智能建造.toml#courses[47]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22CE31036.json",
-  "attachment_repo_id": "COURSES-RA-6C06DD652E32"
-}
+{"attachment_repo_id":"COURSES-RA-6C06DD652E32","course_code":"22CE31036","course_name":"机器学习","descriptor_id":"course-code:22CE31036","metadata_path":"curriculum/descriptors/22CE31036.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-e31cb6e867db505e","record_ids":["REC-3EDD4BE0469EDEDA","REC-DF418E98D4822E9ED3FD","REC-C519359C9FC09932A309","REC-752007EB41CF2F28950B","REC-BC2B0C563A1206CAEF3D","REC-A32F56ABFF979B739C81","REC-4052ED4DA58E7C87FB6D","REC-899FD0552252470DABDE","REC-9EAC8967DFEAA85303B0"],"repo_id":"COURSES-RA-6C06DD652E32","resource_group_id":"exact-name-e0ab0981aba5c06d","source_paths":["curriculum://hit-data/plans/060_2022版_09_09336_智能建造.toml#courses[47]"],"status":"mapped-current"}

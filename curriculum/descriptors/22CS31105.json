@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22CS31105",
-  "course_code": "22CS31105",
-  "course_name": "大数据计算平台基础",
-  "resource_group_id": "exact-name-942387ffd16af471",
-  "physical_repository_id": "physical-course-atomic-bd43faff1cb1a2ec",
-  "repo_id": "COURSES-RA-17E77210FDA8",
-  "record_ids": [
-    "REC-AB2E17E36F935BC7"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/090_2022版_13B_13BE035_数据科学与大数据技术.toml#courses[10]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22CS31105.json",
-  "attachment_repo_id": "COURSES-RA-17E77210FDA8"
-}
+{"attachment_repo_id":"COURSES-RA-17E77210FDA8","course_code":"22CS31105","course_name":"大数据计算平台基础","descriptor_id":"course-code:22CS31105","metadata_path":"curriculum/descriptors/22CS31105.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-bd43faff1cb1a2ec","record_ids":["REC-AB2E17E36F935BC7","REC-026F49181F771C6C3EE9"],"repo_id":"COURSES-RA-17E77210FDA8","resource_group_id":"exact-name-942387ffd16af471","source_paths":["curriculum://hit-data/plans/090_2022版_13B_13BE035_数据科学与大数据技术.toml#courses[10]"],"status":"mapped-current"}

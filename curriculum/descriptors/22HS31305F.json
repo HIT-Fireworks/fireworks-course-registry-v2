@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22HS31305F",
-  "course_code": "22HS31305F",
-  "course_name": "物权法",
-  "resource_group_id": "exact-name-facfc6c35e77f37b",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-F5384264F18CBE64"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/175_2022版_35_35F242_法学.toml#courses[5]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22HS31305F.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22HS31305F","course_name":"物权法","descriptor_id":"course-code:22HS31305F","metadata_path":"curriculum/descriptors/22HS31305F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-F5384264F18CBE64","REC-E5BAD748DA8FCDADE171","REC-07E0C969A117E1FF4979","REC-1A7F080F1CDB65AEC6F0"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"exact-name-facfc6c35e77f37b","source_paths":["curriculum://hit-data/plans/175_2022版_35_35F242_法学.toml#courses[5]"],"status":"mapped-current"}

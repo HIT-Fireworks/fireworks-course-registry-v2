@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:AS32807",
-  "course_code": "AS32807",
-  "course_name": "半导体物理",
-  "resource_group_id": "exact-name-89ab83106e012e65",
-  "physical_repository_id": "physical-course-atomic-d21079c35223ce1d",
-  "repo_id": "COURSES-RA-460A910D00CC",
-  "record_ids": [
-    "REC-7BE844A90B124554"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/112_2022版_01_01E214_微电子科学与工程.toml#courses[2]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/AS32807.json",
-  "attachment_repo_id": "COURSES-RA-460A910D00CC"
-}
+{"attachment_repo_id":"COURSES-RA-460A910D00CC","course_code":"AS32807","course_name":"半导体物理","descriptor_id":"course-code:AS32807","metadata_path":"curriculum/descriptors/AS32807.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-d21079c35223ce1d","record_ids":["REC-7BE844A90B124554","REC-1A48B43FA2ECA7AB7A90","REC-BD4C135B65148616122B"],"repo_id":"COURSES-RA-460A910D00CC","resource_group_id":"exact-name-89ab83106e012e65","source_paths":["curriculum://hit-data/plans/112_2022版_01_01E214_微电子科学与工程.toml#courses[2]"],"status":"mapped-current"}

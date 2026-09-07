@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22AS31208",
-  "course_code": "22AS31208",
-  "course_name": "探测与制导系统原理",
-  "resource_group_id": "exact-name-48dac6afe03ef20d",
-  "physical_repository_id": "physical-course-atomic-d21079c35223ce1d",
-  "repo_id": "COURSES-RA-460A910D00CC",
-  "record_ids": [
-    "REC-3C62EFB5D2202764"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/099_2022版_01_01042_探测制导与控制技术.toml#courses[51]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22AS31208.json",
-  "attachment_repo_id": "COURSES-RA-460A910D00CC"
-}
+{"attachment_repo_id":"COURSES-RA-460A910D00CC","course_code":"22AS31208","course_name":"探测与制导系统原理","descriptor_id":"course-code:22AS31208","metadata_path":"curriculum/descriptors/22AS31208.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-d21079c35223ce1d","record_ids":["REC-3C62EFB5D2202764","REC-478CE4C04B5A480B7F08","REC-C785A57DEB6AEF3B1C0F","REC-ADEA8416692E6E085F05","REC-08F92A003F334020FB45","REC-EDF9EC8685603042302D","REC-BB952CC6E8A91E80E8EE","REC-C6B330E844FE0B5ACFB7","REC-E7A58ED3FC7554EFF6B5","REC-E52D05095C9370308D62","REC-D6A59E7C2F7E6037C22B","REC-8960299CBAEF4021CD14","REC-3CE1C4445B5C90BC370A","REC-89DC5E6D0B68FEF13958","REC-D76375628656EFA21C48","REC-3DB653D195B7B3D7C52B","REC-4757E3AE441AF09B1307","REC-6191859B3AF9F70A08E8","REC-88323159C61A768BEEF1","REC-68980CDFE2C7647B80DC","REC-4B8EC21373936299D085","REC-AC356A7194DA61586F6B","REC-50810ACE761A99BD0C5D","REC-DA3E8A34C05F10B25036","REC-1F4D90ACC269AD9639B6","REC-0E1A8361E5B09438D673","REC-77D10060BE25B21F2EF3","REC-68539DC19618EB23E008","REC-83EEE40521256345686B","REC-9FB933271E34C6A23DB2","REC-9E379C2CAEE9C7E62910"],"repo_id":"COURSES-RA-460A910D00CC","resource_group_id":"exact-name-48dac6afe03ef20d","source_paths":["curriculum://hit-data/plans/099_2022版_01_01042_探测制导与控制技术.toml#courses[51]"],"status":"mapped-current"}

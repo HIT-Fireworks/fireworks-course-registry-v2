@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22ME22013",
-  "course_code": "22ME22013",
-  "course_name": "产品工程制图",
-  "resource_group_id": "engineering-drawing",
-  "physical_repository_id": "physical-course-ra-f845109e879010f4",
-  "repo_id": "22ME21004",
-  "record_ids": [
-    "REC-A329D8810BB71855"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/064_2022版_11B_11B082_工业设计.toml#courses[28]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22ME22013.json",
-  "attachment_repo_id": "22ME21004"
-}
+{"attachment_repo_id":"22ME21004","course_code":"22ME22013","course_name":"产品工程制图","descriptor_id":"course-code:22ME22013","metadata_path":"curriculum/descriptors/22ME22013.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-ra-f845109e879010f4","record_ids":["REC-A329D8810BB71855","REC-C603CF7796015B402BA9","REC-BB019841BF2E2B2A79CE","REC-272AE9B3FA271458B8C5","REC-2E8A0C23C0DB71E04785","REC-A1A6305D8CECEB36CFB3","REC-36159619587E4B19D5C4","REC-3D39E9F4CAC1DB91693B","REC-D37CFD6D8E3997DD5A7A","REC-CC250D87BE83EFDD5916","REC-7B0980F9725B0B33A6D8","REC-D91849646BDB13CC1155","REC-9E8C3A424BC375CA24E6","REC-B61E72DCAF2A0E029C64"],"repo_id":"22ME21004","resource_group_id":"engineering-drawing","source_paths":["curriculum://hit-data/plans/064_2022版_11B_11B082_工业设计.toml#courses[28]"],"status":"mapped-current"}

@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22HS22304F",
-  "course_code": "22HS22304F",
-  "course_name": "刑法学",
-  "resource_group_id": "exact-name-c8633781d2598d0f",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-6F57D9984AA38831"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/175_2022版_35_35F242_法学.toml#courses[3]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22HS22304F.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22HS22304F","course_name":"刑法学","descriptor_id":"course-code:22HS22304F","metadata_path":"curriculum/descriptors/22HS22304F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-6F57D9984AA38831","REC-D5C3B070406479DCECE9","REC-EA7A0F61363911ADFC65","REC-663E88805DC7E251F258"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"exact-name-c8633781d2598d0f","source_paths":["curriculum://hit-data/plans/175_2022版_35_35F242_法学.toml#courses[3]"],"status":"mapped-current"}

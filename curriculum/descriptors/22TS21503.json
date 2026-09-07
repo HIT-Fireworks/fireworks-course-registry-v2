@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22TS21503",
-  "course_code": "22TS21503",
-  "course_name": "地理信息系统原理",
-  "resource_group_id": "exact-name-6b1ff0f5486d6687",
-  "physical_repository_id": "physical-course-atomic-7d871d46904b9ccb",
-  "repo_id": "COURSES-RA-22604B84C175",
-  "record_ids": [
-    "REC-D042E6F9B7242C56"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/096_2022版_12_12325_交通设备与控制工程.toml#courses[46]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22TS21503.json",
-  "attachment_repo_id": "COURSES-RA-22604B84C175"
-}
+{"attachment_repo_id":"COURSES-RA-22604B84C175","course_code":"22TS21503","course_name":"地理信息系统原理","descriptor_id":"course-code:22TS21503","metadata_path":"curriculum/descriptors/22TS21503.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-7d871d46904b9ccb","record_ids":["REC-D042E6F9B7242C56","REC-0E006CD0C3E1216C6AE9","REC-AD29A0DC20987A0596CE","REC-A6E41069729FAEC349DB"],"repo_id":"COURSES-RA-22604B84C175","resource_group_id":"exact-name-6b1ff0f5486d6687","source_paths":["curriculum://hit-data/plans/096_2022版_12_12325_交通设备与控制工程.toml#courses[46]"],"status":"mapped-current"}

@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22PH22018C",
-  "course_code": "22PH22018C",
-  "course_name": "量子力学",
-  "resource_group_id": "exact-name-7b27f11ee3671115",
-  "physical_repository_id": "physical-course-atomic-df3d4b5896b0c17e",
-  "repo_id": "COURSES-AT-DF3D4B5896B0",
-  "record_ids": [
-    "REC-26800968CA139D87"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/198_2022版_32_32115_应用物理学（中外合作）.toml#courses[54]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22PH22018C.json",
-  "attachment_repo_id": "COURSES-AT-DF3D4B5896B0"
-}
+{"attachment_repo_id":"COURSES-AT-DF3D4B5896B0","course_code":"22PH22018C","course_name":"量子力学","descriptor_id":"course-code:22PH22018C","metadata_path":"curriculum/descriptors/22PH22018C.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-df3d4b5896b0c17e","record_ids":["REC-26800968CA139D87","REC-999DA8EFD8F323F40D74","REC-526331305AD0B45C3583","REC-54DAB880D39C8803D986"],"repo_id":"COURSES-AT-DF3D4B5896B0","resource_group_id":"exact-name-7b27f11ee3671115","source_paths":["curriculum://hit-data/plans/198_2022版_32_32115_应用物理学（中外合作）.toml#courses[54]"],"status":"mapped-current"}

@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22CE33022",
-  "course_code": "22CE33022",
-  "course_name": "生产实习",
-  "resource_group_id": "exact-name-18527c31b7340394",
-  "physical_repository_id": "physical-course-atomic-e31cb6e867db505e",
-  "repo_id": "COURSES-RA-6C06DD652E32",
-  "record_ids": [
-    "REC-6CCAAD5771CE833E"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/058_2022版_09_09334_城市地下空间工程.toml#courses[58]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22CE33022.json",
-  "attachment_repo_id": "COURSES-RA-6C06DD652E32"
-}
+{"attachment_repo_id":"COURSES-RA-6C06DD652E32","course_code":"22CE33022","course_name":"生产实习","descriptor_id":"course-code:22CE33022","metadata_path":"curriculum/descriptors/22CE33022.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-e31cb6e867db505e","record_ids":["REC-6CCAAD5771CE833E","REC-61F22A90966E31C47753","REC-9617AE1D965734E3C4A2","REC-C66119A04C1C62AE9F06"],"repo_id":"COURSES-RA-6C06DD652E32","resource_group_id":"exact-name-18527c31b7340394","source_paths":["curriculum://hit-data/plans/058_2022版_09_09334_城市地下空间工程.toml#courses[58]"],"status":"mapped-current"}

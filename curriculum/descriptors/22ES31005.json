@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22ES31005",
-  "course_code": "22ES31005",
-  "course_name": "航天电推进原理",
-  "resource_group_id": "exact-name-27169606fcb9454f",
-  "physical_repository_id": "physical-course-atomic-74435dd3bcdd0243",
-  "repo_id": "COURSES-FABC2915B57C",
-  "record_ids": [
-    "REC-D10A5814FC165565"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/018_2022版_04_04022_飞行器动力工程.toml#courses[52]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22ES31005.json",
-  "attachment_repo_id": "COURSES-FABC2915B57C"
-}
+{"attachment_repo_id":"COURSES-FABC2915B57C","course_code":"22ES31005","course_name":"航天电推进原理","descriptor_id":"course-code:22ES31005","metadata_path":"curriculum/descriptors/22ES31005.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-74435dd3bcdd0243","record_ids":["REC-D10A5814FC165565","REC-3E810AFFF4D0599BA1DA","REC-31508E655C610DCBA0CC","REC-EE55F00DE6CB5CC5624D","REC-874800DF20ABD6796FEB","REC-66E19E90807EC78CEF9B","REC-8BD5C5410BF3407A6E5E","REC-A9986B30AB8772C5D32A"],"repo_id":"COURSES-FABC2915B57C","resource_group_id":"exact-name-27169606fcb9454f","source_paths":["curriculum://hit-data/plans/018_2022版_04_04022_飞行器动力工程.toml#courses[52]"],"status":"mapped-current"}

@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22HS22424",
-  "course_code": "22HS22424",
-  "course_name": "初级听力(下)",
-  "resource_group_id": "course-family-3710d54c04fb0c92",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-F8B4DE169EBBFBA1"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/163_2022版_35_35163_汉语言文学.toml#courses[5]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22HS22424.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22HS22424","course_name":"初级听力(下)","descriptor_id":"course-code:22HS22424","metadata_path":"curriculum/descriptors/22HS22424.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-F8B4DE169EBBFBA1","REC-3713EF6A1C81DD2B25EB","REC-3D91A6C9259F15517DF4","REC-F930A9C32C03251B34F9"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"course-family-3710d54c04fb0c92","source_paths":["curriculum://hit-data/plans/163_2022版_35_35163_汉语言文学.toml#courses[5]"],"status":"mapped-current"}

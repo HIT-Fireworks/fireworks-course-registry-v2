@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22MS33503",
-  "course_code": "22MS33503",
-  "course_name": "焊接创新设计",
-  "resource_group_id": "exact-name-4b6fd08e35e6e6b6",
-  "physical_repository_id": "physical-course-atomic-8a45d0fa46165dbc",
-  "repo_id": "COURSES-RA-6217E115199B",
-  "record_ids": [
-    "REC-4704DAD597BACDCD"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/028_2022版_03_03291_焊接技术与工程.toml#courses[51]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22MS33503.json",
-  "attachment_repo_id": "COURSES-RA-6217E115199B"
-}
+{"attachment_repo_id":"COURSES-RA-6217E115199B","course_code":"22MS33503","course_name":"焊接创新设计","descriptor_id":"course-code:22MS33503","metadata_path":"curriculum/descriptors/22MS33503.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-8a45d0fa46165dbc","record_ids":["REC-4704DAD597BACDCD","REC-3BCA43B8B0F7EFDC65F7","REC-2585B7ADBC4BCAA82E21","REC-70784D6A572A0EC83B10","REC-FAF56235E0BDCEF3325F","REC-658B5D9617076AE0D710","REC-45727ACDC392DDCA8B1A","REC-2B890F4D71604E184FC0"],"repo_id":"COURSES-RA-6217E115199B","resource_group_id":"exact-name-4b6fd08e35e6e6b6","source_paths":["curriculum://hit-data/plans/028_2022版_03_03291_焊接技术与工程.toml#courses[51]"],"status":"mapped-current"}

@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EM31345",
-  "course_code": "22EM31345",
-  "course_name": "金融风险管理",
-  "resource_group_id": "exact-name-e28e856b675469a5",
-  "physical_repository_id": "physical-course-atomic-bf03a328b2629a0c",
-  "repo_id": "COURSES-RA-1DE27CC2E974",
-  "record_ids": [
-    "REC-2E65A097B1B9B402"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/050_2022版_07_07221_金融学.toml#courses[47]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EM31345.json",
-  "attachment_repo_id": "COURSES-RA-1DE27CC2E974"
-}
+{"attachment_repo_id":"COURSES-RA-1DE27CC2E974","course_code":"22EM31345","course_name":"金融风险管理","descriptor_id":"course-code:22EM31345","metadata_path":"curriculum/descriptors/22EM31345.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-bf03a328b2629a0c","record_ids":["REC-2E65A097B1B9B402","REC-8E541B6424DC598B21F3","REC-3815DE8A8399B801E9CC","REC-6098850A9DE4FA1EA77D","REC-42FA3C89BB79B20C23F3"],"repo_id":"COURSES-RA-1DE27CC2E974","resource_group_id":"exact-name-e28e856b675469a5","source_paths":["curriculum://hit-data/plans/050_2022版_07_07221_金融学.toml#courses[47]"],"status":"mapped-current"}

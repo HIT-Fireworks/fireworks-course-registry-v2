@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22AR33306",
-  "course_code": "22AR33306",
-  "course_name": "毕业论文(设计)",
-  "resource_group_id": "exact-name-8db41f88b0b6c77e",
-  "physical_repository_id": "physical-course-atomic-3d09c28bf35c5f42",
-  "repo_id": "COURSES-AF51708C5BBA",
-  "record_ids": [
-    "REC-521C40251086B6C6"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/068_2022版_11B_11B345_城乡规划.toml#courses[67]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22AR33306.json",
-  "attachment_repo_id": "COURSES-AF51708C5BBA"
-}
+{"attachment_repo_id":"COURSES-AF51708C5BBA","course_code":"22AR33306","course_name":"毕业论文(设计)","descriptor_id":"course-code:22AR33306","metadata_path":"curriculum/descriptors/22AR33306.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3d09c28bf35c5f42","record_ids":["REC-521C40251086B6C6"],"repo_id":"COURSES-AF51708C5BBA","resource_group_id":"exact-name-8db41f88b0b6c77e","source_paths":["curriculum://hit-data/plans/068_2022版_11B_11B345_城乡规划.toml#courses[67]"],"status":"mapped-current"}

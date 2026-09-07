@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22AR31503",
-  "course_code": "22AR31503",
-  "course_name": "室内环境设计-1",
-  "resource_group_id": "exact-name-2b0c71412b052e60",
-  "physical_repository_id": "physical-course-atomic-3d09c28bf35c5f42",
-  "repo_id": "COURSES-AF51708C5BBA",
-  "record_ids": [
-    "REC-AECB1A784CD2D908"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/069_2022版_11B_11B346_环境设计.toml#courses[35]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22AR31503.json",
-  "attachment_repo_id": "COURSES-AF51708C5BBA"
-}
+{"attachment_repo_id":"COURSES-AF51708C5BBA","course_code":"22AR31503","course_name":"室内环境设计-1","descriptor_id":"course-code:22AR31503","metadata_path":"curriculum/descriptors/22AR31503.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3d09c28bf35c5f42","record_ids":["REC-AECB1A784CD2D908","REC-F232C34B8F31EDE84C66","REC-5E1ED6A95CB7FA40DC7E","REC-68C44BC999A2474B3AE6"],"repo_id":"COURSES-AF51708C5BBA","resource_group_id":"exact-name-2b0c71412b052e60","source_paths":["curriculum://hit-data/plans/069_2022版_11B_11B346_环境设计.toml#courses[35]"],"status":"mapped-current"}

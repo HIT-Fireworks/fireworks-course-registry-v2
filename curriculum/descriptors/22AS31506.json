@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22AS31506",
-  "course_code": "22AS31506",
-  "course_name": "导弹及运载火箭总体设计",
-  "resource_group_id": "exact-name-46e8097ee76de846",
-  "physical_repository_id": "physical-course-atomic-d21079c35223ce1d",
-  "repo_id": "COURSES-RA-460A910D00CC",
-  "record_ids": [
-    "REC-72F575D7752FB930"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/101_2022版_01_01182_飞行器设计与工程.toml#courses[54]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22AS31506.json",
-  "attachment_repo_id": "COURSES-RA-460A910D00CC"
-}
+{"attachment_repo_id":"COURSES-RA-460A910D00CC","course_code":"22AS31506","course_name":"导弹及运载火箭总体设计","descriptor_id":"course-code:22AS31506","metadata_path":"curriculum/descriptors/22AS31506.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-d21079c35223ce1d","record_ids":["REC-72F575D7752FB930","REC-9FC878D4925A1FDE2635","REC-864D90733AA2DF941717","REC-8D4EA9156D2170D91299","REC-635105A7F1C843DB7A3F","REC-A94C97DE1382E77EC468"],"repo_id":"COURSES-RA-460A910D00CC","resource_group_id":"exact-name-46e8097ee76de846","source_paths":["curriculum://hit-data/plans/101_2022版_01_01182_飞行器设计与工程.toml#courses[54]"],"status":"mapped-current"}

@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22FL31131",
-  "course_code": "22FL31131",
-  "course_name": "美国文学史及选读",
-  "resource_group_id": "exact-name-6bb4572918e96485",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-8249AFC8208DBB8B"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/166_2022版_35_35E151_英语.toml#courses[9]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22FL31131.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22FL31131","course_name":"美国文学史及选读","descriptor_id":"course-code:22FL31131","metadata_path":"curriculum/descriptors/22FL31131.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-8249AFC8208DBB8B","REC-27DA881C939A46B2E1DB","REC-0C4CD78C20ED40BCB13F","REC-9243C3612E2C691A6E97"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"exact-name-6bb4572918e96485","source_paths":["curriculum://hit-data/plans/166_2022版_35_35E151_英语.toml#courses[9]"],"status":"mapped-current"}

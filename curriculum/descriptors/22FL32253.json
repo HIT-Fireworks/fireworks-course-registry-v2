@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22FL32253",
-  "course_code": "22FL32253",
-  "course_name": "俄罗斯历史与文化",
-  "resource_group_id": "exact-name-a803b889ded0c72c",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-A3961382348670F4"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/022_2022版_04_04027_飞行器动力工程（莫航联培班）.toml#courses[21]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22FL32253.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22FL32253","course_name":"俄罗斯历史与文化","descriptor_id":"course-code:22FL32253","metadata_path":"curriculum/descriptors/22FL32253.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-A3961382348670F4","REC-0BAEA4EAA71AF8752BC2","REC-32D0A6E93CE0C77EAE77","REC-0C51D39E1F4CDC20543D","REC-60902C37730AEF2328AE"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"exact-name-a803b889ded0c72c","source_paths":["curriculum://hit-data/plans/022_2022版_04_04027_飞行器动力工程（莫航联培班）.toml#courses[21]"],"status":"mapped-current"}

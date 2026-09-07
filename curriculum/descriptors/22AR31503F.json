@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22AR31503F",
-  "course_code": "22AR31503F",
-  "course_name": "环境综合设计",
-  "resource_group_id": "exact-name-4c7b179c2fa9d587",
-  "physical_repository_id": "physical-course-atomic-3d09c28bf35c5f42",
-  "repo_id": "COURSES-AF51708C5BBA",
-  "record_ids": [
-    "REC-31351052D23379FB"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/079_2022版_11B_11BF346_环境设计.toml#courses[8]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22AR31503F.json",
-  "attachment_repo_id": "COURSES-AF51708C5BBA"
-}
+{"attachment_repo_id":"COURSES-AF51708C5BBA","course_code":"22AR31503F","course_name":"环境综合设计","descriptor_id":"course-code:22AR31503F","metadata_path":"curriculum/descriptors/22AR31503F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3d09c28bf35c5f42","record_ids":["REC-31351052D23379FB","REC-BE70CF7BD6E7A6550418","REC-6F8A4CC10F418BB9CB5F"],"repo_id":"COURSES-AF51708C5BBA","resource_group_id":"exact-name-4c7b179c2fa9d587","source_paths":["curriculum://hit-data/plans/079_2022版_11B_11BF346_环境设计.toml#courses[8]"],"status":"mapped-current"}

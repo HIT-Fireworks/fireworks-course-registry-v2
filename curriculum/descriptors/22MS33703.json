@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22MS33703",
-  "course_code": "22MS33703",
-  "course_name": "材料物理课程设计",
-  "resource_group_id": "exact-name-d12f6c56c918469c",
-  "physical_repository_id": "physical-course-atomic-8a45d0fa46165dbc",
-  "repo_id": "COURSES-RA-6217E115199B",
-  "record_ids": [
-    "REC-35C4A02E1C9B834E"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/030_2022版_03_03351_材料物理.toml#courses[51]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22MS33703.json",
-  "attachment_repo_id": "COURSES-RA-6217E115199B"
-}
+{"attachment_repo_id":"COURSES-RA-6217E115199B","course_code":"22MS33703","course_name":"材料物理课程设计","descriptor_id":"course-code:22MS33703","metadata_path":"curriculum/descriptors/22MS33703.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-8a45d0fa46165dbc","record_ids":["REC-35C4A02E1C9B834E","REC-F93FDB2632F4F1800D69","REC-9EE97D512E60CDE210B9","REC-7FA2E7D9FBFA8FFBADE9"],"repo_id":"COURSES-RA-6217E115199B","resource_group_id":"exact-name-d12f6c56c918469c","source_paths":["curriculum://hit-data/plans/030_2022版_03_03351_材料物理.toml#courses[51]"],"status":"mapped-current"}

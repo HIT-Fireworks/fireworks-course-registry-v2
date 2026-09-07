@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EE22013",
-  "course_code": "22EE22013",
-  "course_name": "电工与电子技术D",
-  "resource_group_id": "circuits-and-electronics",
-  "physical_repository_id": "physical-course-ra-86e9f7b22f5161fe",
-  "repo_id": "22EE21002",
-  "record_ids": [
-    "REC-CC0E2A96FAE49194"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/065_2022版_11B_11B262_建筑环境与能源应用工程.toml#courses[36]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EE22013.json",
-  "attachment_repo_id": "22EE21002"
-}
+{"attachment_repo_id":"22EE21002","course_code":"22EE22013","course_name":"电工与电子技术D","descriptor_id":"course-code:22EE22013","metadata_path":"curriculum/descriptors/22EE22013.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-ra-86e9f7b22f5161fe","record_ids":["REC-CC0E2A96FAE49194","REC-921B8DFBA5B362FCDBC4","REC-AC32AD8B785E428A1509","REC-C2942BEF3F33A602CF42"],"repo_id":"22EE21002","resource_group_id":"circuits-and-electronics","source_paths":["curriculum://hit-data/plans/065_2022版_11B_11B262_建筑环境与能源应用工程.toml#courses[36]"],"status":"mapped-current"}

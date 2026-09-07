@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22FL31502F",
-  "course_code": "22FL31502F",
-  "course_name": "美国概况",
-  "resource_group_id": "exact-name-62ebde7e1364210f",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-A09D6736B02606F5"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/171_2022版_35_35F151_英语.toml#courses[5]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22FL31502F.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22FL31502F","course_name":"美国概况","descriptor_id":"course-code:22FL31502F","metadata_path":"curriculum/descriptors/22FL31502F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-A09D6736B02606F5","REC-02BCCC9DBFA85AA8C2E4","REC-E14486D2039ECF141749","REC-1B9277FF003CD796C2B1"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"exact-name-62ebde7e1364210f","source_paths":["curriculum://hit-data/plans/171_2022版_35_35F151_英语.toml#courses[5]"],"status":"mapped-current"}

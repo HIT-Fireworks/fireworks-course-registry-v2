@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22HS31166",
-  "course_code": "22HS31166",
-  "course_name": "社区概论A",
-  "resource_group_id": "name-family-2978494ae9ce9b4d",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-03D97589C318ECDF"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/167_2022版_35_35E161_社会学.toml#courses[9]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22HS31166.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22HS31166","course_name":"社区概论A","descriptor_id":"course-code:22HS31166","metadata_path":"curriculum/descriptors/22HS31166.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-03D97589C318ECDF","REC-CEC6454F38D5E990CF9E","REC-C8271A986CA29E769764","REC-CBDFDFA98F3C04C03B05"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"name-family-2978494ae9ce9b4d","source_paths":["curriculum://hit-data/plans/167_2022版_35_35E161_社会学.toml#courses[9]"],"status":"mapped-current"}

@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EM31404F",
-  "course_code": "22EM31404F",
-  "course_name": "领导力与沟通",
-  "resource_group_id": "exact-name-7eb1e60220caa11c",
-  "physical_repository_id": "physical-course-atomic-bf03a328b2629a0c",
-  "repo_id": "COURSES-RA-1DE27CC2E974",
-  "record_ids": [
-    "REC-B939156B6646E179"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/209_2022版_60_60F201_工商管理.toml#courses[4]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EM31404F.json",
-  "attachment_repo_id": "COURSES-RA-1DE27CC2E974"
-}
+{"attachment_repo_id":"COURSES-RA-1DE27CC2E974","course_code":"22EM31404F","course_name":"领导力与沟通","descriptor_id":"course-code:22EM31404F","metadata_path":"curriculum/descriptors/22EM31404F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-bf03a328b2629a0c","record_ids":["REC-B939156B6646E179","REC-3C7D2F25B32384FFFEC2","REC-C084E91AA1A7168DD0AC"],"repo_id":"COURSES-RA-1DE27CC2E974","resource_group_id":"exact-name-7eb1e60220caa11c","source_paths":["curriculum://hit-data/plans/209_2022版_60_60F201_工商管理.toml#courses[4]"],"status":"mapped-current"}

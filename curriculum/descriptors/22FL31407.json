@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22FL31407",
-  "course_code": "22FL31407",
-  "course_name": "中国文化国际传播",
-  "resource_group_id": "exact-name-d1be8998fc7f81c2",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-79D98219B351BE71"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/160_2022版_35_35154_国际组织与全球治理.toml#courses[36]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22FL31407.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22FL31407","course_name":"中国文化国际传播","descriptor_id":"course-code:22FL31407","metadata_path":"curriculum/descriptors/22FL31407.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-79D98219B351BE71","REC-A98ACA68013CC9CA9699","REC-71A035F4FA38864E8B14","REC-8B18BFE23C3255EDFE40"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"exact-name-d1be8998fc7f81c2","source_paths":["curriculum://hit-data/plans/160_2022版_35_35154_国际组织与全球治理.toml#courses[36]"],"status":"mapped-current"}

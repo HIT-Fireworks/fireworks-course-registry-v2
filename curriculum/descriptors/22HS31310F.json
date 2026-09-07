@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22HS31310F",
-  "course_code": "22HS31310F",
-  "course_name": "网络法前沿",
-  "resource_group_id": "exact-name-a7bec623c7fcfb6b",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-9B982BF8E4BB39CF"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/175_2022版_35_35F242_法学.toml#courses[14]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22HS31310F.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22HS31310F","course_name":"网络法前沿","descriptor_id":"course-code:22HS31310F","metadata_path":"curriculum/descriptors/22HS31310F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-9B982BF8E4BB39CF","REC-861D86414B95C0AAF3E5","REC-BA762C2F7F55CAD85FA8"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"exact-name-a7bec623c7fcfb6b","source_paths":["curriculum://hit-data/plans/175_2022版_35_35F242_法学.toml#courses[14]"],"status":"mapped-current"}

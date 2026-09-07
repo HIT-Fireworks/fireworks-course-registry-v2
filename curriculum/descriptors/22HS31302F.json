@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22HS31302F",
-  "course_code": "22HS31302F",
-  "course_name": "民事诉讼法",
-  "resource_group_id": "exact-name-92cc5d7f1dce456d",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-392C4508575906E0"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/175_2022版_35_35F242_法学.toml#courses[9]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22HS31302F.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22HS31302F","course_name":"民事诉讼法","descriptor_id":"course-code:22HS31302F","metadata_path":"curriculum/descriptors/22HS31302F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-392C4508575906E0","REC-74FE5C078C22F2949100","REC-BFDF65B557953670C28A"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"exact-name-92cc5d7f1dce456d","source_paths":["curriculum://hit-data/plans/175_2022版_35_35F242_法学.toml#courses[9]"],"status":"mapped-current"}

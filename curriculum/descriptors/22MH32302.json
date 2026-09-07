@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22MH32302",
-  "course_code": "22MH32302",
-  "course_name": "R语言与组学大数据分析",
-  "resource_group_id": "exact-name-8ed841493c26eafc",
-  "physical_repository_id": "physical-course-atomic-8fdee15683baa619",
-  "repo_id": "COURSES-CE4133CBE869",
-  "record_ids": [
-    "REC-27D8943CCA21812E"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/183_2022版_37_37522_生物医学科学.toml#courses[44]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22MH32302.json",
-  "attachment_repo_id": "COURSES-CE4133CBE869"
-}
+{"attachment_repo_id":"COURSES-CE4133CBE869","course_code":"22MH32302","course_name":"R语言与组学大数据分析","descriptor_id":"course-code:22MH32302","metadata_path":"curriculum/descriptors/22MH32302.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-8fdee15683baa619","record_ids":["REC-27D8943CCA21812E","REC-0F7B86010C8AE8D8F9A2","REC-60FE80F8166DFD0DCCFE","REC-4E8E9712C446D0C6DE26","REC-3A5A1CBA9EF7F4EA2AB5"],"repo_id":"COURSES-CE4133CBE869","resource_group_id":"exact-name-8ed841493c26eafc","source_paths":["curriculum://hit-data/plans/183_2022版_37_37522_生物医学科学.toml#courses[44]"],"status":"mapped-current"}

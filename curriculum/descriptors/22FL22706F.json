@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22FL22706F",
-  "course_code": "22FL22706F",
-  "course_name": "日语视听说(3)",
-  "resource_group_id": "name-family-5866c3f8f1fffd7b",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-0D2000E9F0B5C234"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/172_2022版_35_35F153_日语.toml#courses[5]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22FL22706F.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22FL22706F","course_name":"日语视听说(3)","descriptor_id":"course-code:22FL22706F","metadata_path":"curriculum/descriptors/22FL22706F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-0D2000E9F0B5C234","REC-C907D029DF3613954D91","REC-AB87B592E8D040654013"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"name-family-5866c3f8f1fffd7b","source_paths":["curriculum://hit-data/plans/172_2022版_35_35F153_日语.toml#courses[5]"],"status":"mapped-current"}

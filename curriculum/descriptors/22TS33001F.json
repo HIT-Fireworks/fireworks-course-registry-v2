@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22TS33001F",
-  "course_code": "22TS33001F",
-  "course_name": "毕业论文(设计)",
-  "resource_group_id": "exact-name-8db41f88b0b6c77e",
-  "physical_repository_id": "physical-course-atomic-7d871d46904b9ccb",
-  "repo_id": "COURSES-RA-22604B84C175",
-  "record_ids": [
-    "REC-0814F80881EDABB0"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/097_2022版_12_12F326S_智能交通.toml#courses[12]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22TS33001F.json",
-  "attachment_repo_id": "COURSES-RA-22604B84C175"
-}
+{"attachment_repo_id":"COURSES-RA-22604B84C175","course_code":"22TS33001F","course_name":"毕业论文(设计)","descriptor_id":"course-code:22TS33001F","metadata_path":"curriculum/descriptors/22TS33001F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-7d871d46904b9ccb","record_ids":["REC-0814F80881EDABB0"],"repo_id":"COURSES-RA-22604B84C175","resource_group_id":"exact-name-8db41f88b0b6c77e","source_paths":["curriculum://hit-data/plans/097_2022版_12_12F326S_智能交通.toml#courses[12]"],"status":"mapped-current"}

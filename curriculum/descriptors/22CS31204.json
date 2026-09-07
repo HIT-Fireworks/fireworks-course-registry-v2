@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22CS31204",
-  "course_code": "22CS31204",
-  "course_name": "网络空间安全设计与实践II",
-  "resource_group_id": "name-family-9ec11c7cb75eeb5c",
-  "physical_repository_id": "physical-course-atomic-bd43faff1cb1a2ec",
-  "repo_id": "COURSES-RA-17E77210FDA8",
-  "record_ids": [
-    "REC-623AE3D6C6AAF441"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/086_2022版_13B_13B039_网络空间安全.toml#courses[52]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22CS31204.json",
-  "attachment_repo_id": "COURSES-RA-17E77210FDA8"
-}
+{"attachment_repo_id":"COURSES-RA-17E77210FDA8","course_code":"22CS31204","course_name":"网络空间安全设计与实践II","descriptor_id":"course-code:22CS31204","metadata_path":"curriculum/descriptors/22CS31204.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-bd43faff1cb1a2ec","record_ids":["REC-623AE3D6C6AAF441","REC-463ED5386521F7A94C41","REC-9179D8A6D4DD1CA22C7B","REC-A6B9CCB89AD080482AEE","REC-F7364E8760E69A5427DB","REC-D72087AA71E02002F046","REC-DC8382EA026A784377B6"],"repo_id":"COURSES-RA-17E77210FDA8","resource_group_id":"name-family-9ec11c7cb75eeb5c","source_paths":["curriculum://hit-data/plans/086_2022版_13B_13B039_网络空间安全.toml#courses[52]"],"status":"mapped-current"}

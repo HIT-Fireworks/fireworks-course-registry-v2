@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22HS33101",
-  "course_code": "22HS33101",
-  "course_name": "社会调查方法实习",
-  "resource_group_id": "exact-name-c74247b52f526f42",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-A0BEBC75BE50F3D8"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/162_2022版_35_35161_社会学.toml#courses[36]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22HS33101.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22HS33101","course_name":"社会调查方法实习","descriptor_id":"course-code:22HS33101","metadata_path":"curriculum/descriptors/22HS33101.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-A0BEBC75BE50F3D8","REC-6007DCA8CD7DB47C5051"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"exact-name-c74247b52f526f42","source_paths":["curriculum://hit-data/plans/162_2022版_35_35161_社会学.toml#courses[36]"],"status":"mapped-current"}

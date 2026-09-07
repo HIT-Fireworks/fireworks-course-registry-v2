@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22FL32271C",
-  "course_code": "22FL32271C",
-  "course_name": "俄语基础语法4",
-  "resource_group_id": "exact-name-08b7d2b9bb9ff4aa",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-05D8BF5B6E80C62C"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/142_2022版_27_27274_环境生态工程（鲍曼合作办学）.toml#courses[45]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22FL32271C.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22FL32271C","course_name":"俄语基础语法4","descriptor_id":"course-code:22FL32271C","metadata_path":"curriculum/descriptors/22FL32271C.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-05D8BF5B6E80C62C","REC-025ACA8B72EF1D358034"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"exact-name-08b7d2b9bb9ff4aa","source_paths":["curriculum://hit-data/plans/142_2022版_27_27274_环境生态工程（鲍曼合作办学）.toml#courses[45]"],"status":"mapped-current"}

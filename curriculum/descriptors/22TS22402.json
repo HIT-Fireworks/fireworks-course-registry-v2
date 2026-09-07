@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22TS22402",
-  "course_code": "22TS22402",
-  "course_name": "运输经济学",
-  "resource_group_id": "exact-name-e72da326ef5df215",
-  "physical_repository_id": "physical-course-atomic-7d871d46904b9ccb",
-  "repo_id": "COURSES-RA-22604B84C175",
-  "record_ids": [
-    "REC-A0933F63D0BCC969"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/095_2022版_12_12322_交通工程.toml#courses[40]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22TS22402.json",
-  "attachment_repo_id": "COURSES-RA-22604B84C175"
-}
+{"attachment_repo_id":"COURSES-RA-22604B84C175","course_code":"22TS22402","course_name":"运输经济学","descriptor_id":"course-code:22TS22402","metadata_path":"curriculum/descriptors/22TS22402.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-7d871d46904b9ccb","record_ids":["REC-A0933F63D0BCC969","REC-6F3BA28FEE86A94B935E","REC-5AE1A688B51E4D00C9AB","REC-52105E66B66255B8F786"],"repo_id":"COURSES-RA-22604B84C175","resource_group_id":"exact-name-e72da326ef5df215","source_paths":["curriculum://hit-data/plans/095_2022版_12_12322_交通工程.toml#courses[40]"],"status":"mapped-current"}

@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22CE31039",
-  "course_code": "22CE31039",
-  "course_name": "建筑经济与施工",
-  "resource_group_id": "exact-name-97a8de3e0aeed4cb",
-  "physical_repository_id": "physical-course-atomic-e31cb6e867db505e",
-  "repo_id": "COURSES-RA-6C06DD652E32",
-  "record_ids": [
-    "REC-E881FFF354061032"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/067_2022版_11B_11B341_建筑学.toml#courses[60]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22CE31039.json",
-  "attachment_repo_id": "COURSES-RA-6C06DD652E32"
-}
+{"attachment_repo_id":"COURSES-RA-6C06DD652E32","course_code":"22CE31039","course_name":"建筑经济与施工","descriptor_id":"course-code:22CE31039","metadata_path":"curriculum/descriptors/22CE31039.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-e31cb6e867db505e","record_ids":["REC-E881FFF354061032","REC-C19774B608940A8227DB","REC-3C0D318374BECF2E8688","REC-C0EB682FD3263F3F9B14","REC-B4EE75C65E756CD02BD6","REC-CB4DE5FFAA8F799F38C6"],"repo_id":"COURSES-RA-6C06DD652E32","resource_group_id":"exact-name-97a8de3e0aeed4cb","source_paths":["curriculum://hit-data/plans/067_2022版_11B_11B341_建筑学.toml#courses[60]"],"status":"mapped-current"}

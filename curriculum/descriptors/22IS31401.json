@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22IS31401",
-  "course_code": "22IS31401",
-  "course_name": "精密机械学基础(2)",
-  "resource_group_id": "name-family-b82139106c633b7f",
-  "physical_repository_id": "physical-course-atomic-4db498a4e9dbde3a",
-  "repo_id": "COURSES-RA-AE0EC9DD0D5A",
-  "record_ids": [
-    "REC-EE76953D5570A0F2"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/191_2022版_28_28014_精密仪器.toml#courses[48]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22IS31401.json",
-  "attachment_repo_id": "COURSES-RA-AE0EC9DD0D5A"
-}
+{"attachment_repo_id":"COURSES-RA-AE0EC9DD0D5A","course_code":"22IS31401","course_name":"精密机械学基础(2)","descriptor_id":"course-code:22IS31401","metadata_path":"curriculum/descriptors/22IS31401.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-4db498a4e9dbde3a","record_ids":["REC-EE76953D5570A0F2","REC-2C60D7A2E5155A1D1A24","REC-ED3948F7EC29731E0F36","REC-4649BBA7E7F7E6F5C55D","REC-73D1623685FAB9ADF983","REC-C6F93D57C21D63A34819","REC-C58114E0289A9A6FD807","REC-E3A5C219FBC82FEDFDEF"],"repo_id":"COURSES-RA-AE0EC9DD0D5A","resource_group_id":"name-family-b82139106c633b7f","source_paths":["curriculum://hit-data/plans/191_2022版_28_28014_精密仪器.toml#courses[48]"],"status":"mapped-current"}

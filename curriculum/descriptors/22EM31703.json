@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EM31703",
-  "course_code": "22EM31703",
-  "course_name": "内部控制与公司治理",
-  "resource_group_id": "exact-name-00d80abb0769cb11",
-  "physical_repository_id": "physical-course-atomic-bf03a328b2629a0c",
-  "repo_id": "COURSES-RA-1DE27CC2E974",
-  "record_ids": [
-    "REC-0DEDF47C6F272118"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/207_2022版_60_60204_财务管理.toml#courses[48]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EM31703.json",
-  "attachment_repo_id": "COURSES-RA-1DE27CC2E974"
-}
+{"attachment_repo_id":"COURSES-RA-1DE27CC2E974","course_code":"22EM31703","course_name":"内部控制与公司治理","descriptor_id":"course-code:22EM31703","metadata_path":"curriculum/descriptors/22EM31703.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-bf03a328b2629a0c","record_ids":["REC-0DEDF47C6F272118","REC-156D820066D18C742F84","REC-B4C6F46FD229831CE4F6"],"repo_id":"COURSES-RA-1DE27CC2E974","resource_group_id":"exact-name-00d80abb0769cb11","source_paths":["curriculum://hit-data/plans/207_2022版_60_60204_财务管理.toml#courses[48]"],"status":"mapped-current"}

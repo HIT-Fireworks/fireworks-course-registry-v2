@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22ES31009F",
-  "course_code": "22ES31009F",
-  "course_name": "制冷原理与工程",
-  "resource_group_id": "exact-name-cbcdedee3e8eb624",
-  "physical_repository_id": "physical-course-atomic-74435dd3bcdd0243",
-  "repo_id": "COURSES-FABC2915B57C",
-  "record_ids": [
-    "REC-DED062AD9FDD4A61"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/017_2022版_04_04F026_新能源科学与工程.toml#courses[5]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22ES31009F.json",
-  "attachment_repo_id": "COURSES-FABC2915B57C"
-}
+{"attachment_repo_id":"COURSES-FABC2915B57C","course_code":"22ES31009F","course_name":"制冷原理与工程","descriptor_id":"course-code:22ES31009F","metadata_path":"curriculum/descriptors/22ES31009F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-74435dd3bcdd0243","record_ids":["REC-DED062AD9FDD4A61","REC-720785CB50441F562078","REC-6F74C8A254E200937547"],"repo_id":"COURSES-FABC2915B57C","resource_group_id":"exact-name-cbcdedee3e8eb624","source_paths":["curriculum://hit-data/plans/017_2022版_04_04F026_新能源科学与工程.toml#courses[5]"],"status":"mapped-current"}

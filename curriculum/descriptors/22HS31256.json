@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22HS31256",
-  "course_code": "22HS31256",
-  "course_name": "国际结算B",
-  "resource_group_id": "exact-name-4a912f7a9b0c2f2f",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-173102F85CF62F6F"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/169_2022版_35_35E233_经济学.toml#courses[4]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22HS31256.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22HS31256","course_name":"国际结算B","descriptor_id":"course-code:22HS31256","metadata_path":"curriculum/descriptors/22HS31256.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-173102F85CF62F6F","REC-B7C66DB0F399B2CD6609","REC-BB1DDFF3514949D4CC0B"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"exact-name-4a912f7a9b0c2f2f","source_paths":["curriculum://hit-data/plans/169_2022版_35_35E233_经济学.toml#courses[4]"],"status":"mapped-current"}

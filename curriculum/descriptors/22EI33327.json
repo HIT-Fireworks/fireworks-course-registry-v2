@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EI33327",
-  "course_code": "22EI33327",
-  "course_name": "生产实习",
-  "resource_group_id": "exact-name-18527c31b7340394",
-  "physical_repository_id": "physical-course-atomic-496e744c544c2462",
-  "repo_id": "COURSES-2656A175B646",
-  "record_ids": [
-    "REC-00AA46DCB98E96DB"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/130_2022版_20_20053_信息对抗技术.toml#courses[55]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EI33327.json",
-  "attachment_repo_id": "COURSES-2656A175B646"
-}
+{"attachment_repo_id":"COURSES-2656A175B646","course_code":"22EI33327","course_name":"生产实习","descriptor_id":"course-code:22EI33327","metadata_path":"curriculum/descriptors/22EI33327.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-496e744c544c2462","record_ids":["REC-00AA46DCB98E96DB","REC-BBCE3BB84135D0CB1C1A","REC-4645E139074A94D24727","REC-3D35A28D3DF7E28D5638","REC-372EBA9D3A885FB6870E","REC-9A0DBACB3F82F543953B","REC-164134849D22B1F5E490"],"repo_id":"COURSES-2656A175B646","resource_group_id":"exact-name-18527c31b7340394","source_paths":["curriculum://hit-data/plans/130_2022版_20_20053_信息对抗技术.toml#courses[55]"],"status":"mapped-current"}

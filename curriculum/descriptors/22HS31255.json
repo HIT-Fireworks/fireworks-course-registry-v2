@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22HS31255",
-  "course_code": "22HS31255",
-  "course_name": "货币银行学B",
-  "resource_group_id": "name-family-5c0e6aa6eb9a2807",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-96194B65DFA555C4"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/169_2022版_35_35E233_经济学.toml#courses[3]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22HS31255.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22HS31255","course_name":"货币银行学B","descriptor_id":"course-code:22HS31255","metadata_path":"curriculum/descriptors/22HS31255.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-96194B65DFA555C4","REC-7F067CFC38A53FE0F5A4","REC-BED84BC2D26A70ABF306"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"name-family-5c0e6aa6eb9a2807","source_paths":["curriculum://hit-data/plans/169_2022版_35_35E233_经济学.toml#courses[3]"],"status":"mapped-current"}

@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EE22046",
-  "course_code": "22EE22046",
-  "course_name": "电路E",
-  "resource_group_id": "circuits-and-electronics",
-  "physical_repository_id": "physical-course-ra-86e9f7b22f5161fe",
-  "repo_id": "22EE21002",
-  "record_ids": [
-    "REC-C198F9BFD403B3B4"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/096_2022版_12_12325_交通设备与控制工程.toml#courses[28]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EE22046.json",
-  "attachment_repo_id": "22EE21002"
-}
+{"attachment_repo_id":"22EE21002","course_code":"22EE22046","course_name":"电路E","descriptor_id":"course-code:22EE22046","metadata_path":"curriculum/descriptors/22EE22046.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-ra-86e9f7b22f5161fe","record_ids":["REC-C198F9BFD403B3B4","REC-3AE943AA2F6694AA2655","REC-1BFDD5A0BE8C78AFE538","REC-6BBD127D5084BAF7029C","REC-01D19706C01F759A6E61"],"repo_id":"22EE21002","resource_group_id":"circuits-and-electronics","source_paths":["curriculum://hit-data/plans/096_2022版_12_12325_交通设备与控制工程.toml#courses[28]"],"status":"mapped-current"}

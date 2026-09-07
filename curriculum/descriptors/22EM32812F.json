@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EM32812F",
-  "course_code": "22EM32812F",
-  "course_name": "Python金融大数据分析",
-  "resource_group_id": "exact-name-4ed657403fd77a9c",
-  "physical_repository_id": "physical-course-atomic-bf03a328b2629a0c",
-  "repo_id": "COURSES-RA-1DE27CC2E974",
-  "record_ids": [
-    "REC-2DB6921B754D52DE"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/045_2022版_07_07F104_计算金融.toml#courses[8]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EM32812F.json",
-  "attachment_repo_id": "COURSES-RA-1DE27CC2E974"
-}
+{"attachment_repo_id":"COURSES-RA-1DE27CC2E974","course_code":"22EM32812F","course_name":"Python金融大数据分析","descriptor_id":"course-code:22EM32812F","metadata_path":"curriculum/descriptors/22EM32812F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-bf03a328b2629a0c","record_ids":["REC-2DB6921B754D52DE","REC-EF70B078C50F3D37DC50"],"repo_id":"COURSES-RA-1DE27CC2E974","resource_group_id":"exact-name-4ed657403fd77a9c","source_paths":["curriculum://hit-data/plans/045_2022版_07_07F104_计算金融.toml#courses[8]"],"status":"mapped-current"}

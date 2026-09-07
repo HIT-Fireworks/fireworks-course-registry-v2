@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22MS31403",
-  "course_code": "22MS31403",
-  "course_name": "金属材料增材制造",
-  "resource_group_id": "exact-name-e9960e4b5ccaf253",
-  "physical_repository_id": "physical-course-atomic-8a45d0fa46165dbc",
-  "repo_id": "COURSES-RA-6217E115199B",
-  "record_ids": [
-    "REC-9105C2C4FEF846CD"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/025_2022版_03_03092_增材制造工程.toml#courses[45]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22MS31403.json",
-  "attachment_repo_id": "COURSES-RA-6217E115199B"
-}
+{"attachment_repo_id":"COURSES-RA-6217E115199B","course_code":"22MS31403","course_name":"金属材料增材制造","descriptor_id":"course-code:22MS31403","metadata_path":"curriculum/descriptors/22MS31403.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-8a45d0fa46165dbc","record_ids":["REC-9105C2C4FEF846CD","REC-CB4767745C699584C17E","REC-38CBF7421B9A84B46C86","REC-C733AB31C38ABEAB1253","REC-4BA53745A1BF26245669","REC-150F090747A298D7FAA7"],"repo_id":"COURSES-RA-6217E115199B","resource_group_id":"exact-name-e9960e4b5ccaf253","source_paths":["curriculum://hit-data/plans/025_2022版_03_03092_增材制造工程.toml#courses[45]"],"status":"mapped-current"}

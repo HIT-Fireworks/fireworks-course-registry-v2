@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22FL31702F",
-  "course_code": "22FL31702F",
-  "course_name": "日语翻译基础",
-  "resource_group_id": "exact-name-e6e29b5d02f4b666",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-0E6820223D6E1A26"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/172_2022版_35_35F153_日语.toml#courses[7]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22FL31702F.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22FL31702F","course_name":"日语翻译基础","descriptor_id":"course-code:22FL31702F","metadata_path":"curriculum/descriptors/22FL31702F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-0E6820223D6E1A26","REC-E84F499599934A1B4A76","REC-C52122DAF382AB930EF1"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"exact-name-e6e29b5d02f4b666","source_paths":["curriculum://hit-data/plans/172_2022版_35_35F153_日语.toml#courses[7]"],"status":"mapped-current"}

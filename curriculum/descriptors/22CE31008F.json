@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22CE31008F",
-  "course_code": "22CE31008F",
-  "course_name": "荷载与结构设计方法",
-  "resource_group_id": "exact-name-0dac515481e9a9ad",
-  "physical_repository_id": "physical-course-atomic-e31cb6e867db505e",
-  "repo_id": "COURSES-RA-6C06DD652E32",
-  "record_ids": [
-    "REC-3FA6446C1801E84B"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/062_2022版_09_09F332_理论与应用力学.toml#courses[3]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22CE31008F.json",
-  "attachment_repo_id": "COURSES-RA-6C06DD652E32"
-}
+{"attachment_repo_id":"COURSES-RA-6C06DD652E32","course_code":"22CE31008F","course_name":"荷载与结构设计方法","descriptor_id":"course-code:22CE31008F","metadata_path":"curriculum/descriptors/22CE31008F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-e31cb6e867db505e","record_ids":["REC-3FA6446C1801E84B"],"repo_id":"COURSES-RA-6C06DD652E32","resource_group_id":"exact-name-0dac515481e9a9ad","source_paths":["curriculum://hit-data/plans/062_2022版_09_09F332_理论与应用力学.toml#courses[3]"],"status":"mapped-current"}

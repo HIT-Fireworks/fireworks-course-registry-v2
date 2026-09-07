@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22CS33250",
-  "course_code": "22CS33250",
-  "course_name": "物联网程序设计实践",
-  "resource_group_id": "exact-name-4b082a0eaa436deb",
-  "physical_repository_id": "physical-course-atomic-bd43faff1cb1a2ec",
-  "repo_id": "COURSES-RA-17E77210FDA8",
-  "record_ids": [
-    "REC-AD249094F8BC14D8"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/088_2022版_13B_13B373_物联网工程.toml#courses[26]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22CS33250.json",
-  "attachment_repo_id": "COURSES-RA-17E77210FDA8"
-}
+{"attachment_repo_id":"COURSES-RA-17E77210FDA8","course_code":"22CS33250","course_name":"物联网程序设计实践","descriptor_id":"course-code:22CS33250","metadata_path":"curriculum/descriptors/22CS33250.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-bd43faff1cb1a2ec","record_ids":["REC-AD249094F8BC14D8","REC-BF1E43DD7F401B332623","REC-213D93912E42AC8319AA"],"repo_id":"COURSES-RA-17E77210FDA8","resource_group_id":"exact-name-4b082a0eaa436deb","source_paths":["curriculum://hit-data/plans/088_2022版_13B_13B373_物联网工程.toml#courses[26]"],"status":"mapped-current"}

@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22AS33903",
-  "course_code": "22AS33903",
-  "course_name": "生产实习",
-  "resource_group_id": "exact-name-18527c31b7340394",
-  "physical_repository_id": "physical-course-atomic-d21079c35223ce1d",
-  "repo_id": "COURSES-RA-460A910D00CC",
-  "record_ids": [
-    "REC-D9E2DC7A910F0167"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/109_2022版_01_01213_光电信息科学与工程(光学工程方向).toml#courses[60]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22AS33903.json",
-  "attachment_repo_id": "COURSES-RA-460A910D00CC"
-}
+{"attachment_repo_id":"COURSES-RA-460A910D00CC","course_code":"22AS33903","course_name":"生产实习","descriptor_id":"course-code:22AS33903","metadata_path":"curriculum/descriptors/22AS33903.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-d21079c35223ce1d","record_ids":["REC-D9E2DC7A910F0167","REC-9A03D873903111A1D11C","REC-78CDB7EF2E8C5271C499","REC-907B99CAD96C2030150E"],"repo_id":"COURSES-RA-460A910D00CC","resource_group_id":"exact-name-18527c31b7340394","source_paths":["curriculum://hit-data/plans/109_2022版_01_01213_光电信息科学与工程(光学工程方向).toml#courses[60]"],"status":"mapped-current"}

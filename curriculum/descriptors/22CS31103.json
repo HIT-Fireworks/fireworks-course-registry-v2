@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22CS31103",
-  "course_code": "22CS31103",
-  "course_name": "大数据软件开发与实践",
-  "resource_group_id": "exact-name-59c89709392ba9f8",
-  "physical_repository_id": "physical-course-atomic-bd43faff1cb1a2ec",
-  "repo_id": "COURSES-RA-17E77210FDA8",
-  "record_ids": [
-    "REC-DF7598D42AA9D6C2"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/084_2022版_13B_13B035_数据科学与大数据技术.toml#courses[45]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22CS31103.json",
-  "attachment_repo_id": "COURSES-RA-17E77210FDA8"
-}
+{"attachment_repo_id":"COURSES-RA-17E77210FDA8","course_code":"22CS31103","course_name":"大数据软件开发与实践","descriptor_id":"course-code:22CS31103","metadata_path":"curriculum/descriptors/22CS31103.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-bd43faff1cb1a2ec","record_ids":["REC-DF7598D42AA9D6C2","REC-78CB9449CBEC51B06815","REC-789780B99169DC7C7063","REC-70017A1FCF7EB2DFEB27","REC-5AD039F999BB397CF8FB","REC-8CABE569A4E55A67EB69","REC-DB42395CB93724CE661B"],"repo_id":"COURSES-RA-17E77210FDA8","resource_group_id":"exact-name-59c89709392ba9f8","source_paths":["curriculum://hit-data/plans/084_2022版_13B_13B035_数据科学与大数据技术.toml#courses[45]"],"status":"mapped-current"}

@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22CS31053",
-  "course_code": "22CS31053",
-  "course_name": "人工智能软件开发与实践",
-  "resource_group_id": "exact-name-3fe3871df3a46ab0",
-  "physical_repository_id": "physical-course-atomic-bd43faff1cb1a2ec",
-  "repo_id": "COURSES-RA-17E77210FDA8",
-  "record_ids": [
-    "REC-77F390305FD453BB"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/085_2022版_13B_13B036_人工智能.toml#courses[45]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22CS31053.json",
-  "attachment_repo_id": "COURSES-RA-17E77210FDA8"
-}
+{"attachment_repo_id":"COURSES-RA-17E77210FDA8","course_code":"22CS31053","course_name":"人工智能软件开发与实践","descriptor_id":"course-code:22CS31053","metadata_path":"curriculum/descriptors/22CS31053.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-bd43faff1cb1a2ec","record_ids":["REC-77F390305FD453BB","REC-AEA7F2676F5C36627661","REC-988B0E5CA78E37416468","REC-754CFEC56645B7A962FF","REC-D117C434D025DF8F03E5","REC-CEB1E5C882362E2F684E","REC-AAD847F18A1E48670D4B","REC-B4C381B681DCFDE720A3","REC-C6487CA8B33AA3126286","REC-2C31B208F4345764853B","REC-6AE0F267B5750DAC4E73"],"repo_id":"COURSES-RA-17E77210FDA8","resource_group_id":"exact-name-3fe3871df3a46ab0","source_paths":["curriculum://hit-data/plans/085_2022版_13B_13B036_人工智能.toml#courses[45]"],"status":"mapped-current"}

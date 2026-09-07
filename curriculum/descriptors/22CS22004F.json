@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22CS22004F",
-  "course_code": "22CS22004F",
-  "course_name": "数据结构与算法",
-  "resource_group_id": "name-family-46a793ce01d7a83f",
-  "physical_repository_id": "physical-course-atomic-bd43faff1cb1a2ec",
-  "repo_id": "COURSES-RA-17E77210FDA8",
-  "record_ids": [
-    "REC-F49DDBCF25831337"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/093_2022版_13B_13BF036_人工智能.toml#courses[0]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22CS22004F.json",
-  "attachment_repo_id": "COURSES-RA-17E77210FDA8"
-}
+{"attachment_repo_id":"COURSES-RA-17E77210FDA8","course_code":"22CS22004F","course_name":"数据结构与算法","descriptor_id":"course-code:22CS22004F","metadata_path":"curriculum/descriptors/22CS22004F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-bd43faff1cb1a2ec","record_ids":["REC-F49DDBCF25831337","REC-17AF2D90518399D78311","REC-C432B41B4B8E54BBADD9","REC-4C3D577881010621C96E","REC-2C4CAC09471ACBAC942C","REC-C2A67B6E91126DCBF242","REC-AEA9B1C18CB01D31A5F4"],"repo_id":"COURSES-RA-17E77210FDA8","resource_group_id":"name-family-46a793ce01d7a83f","source_paths":["curriculum://hit-data/plans/093_2022版_13B_13BF036_人工智能.toml#courses[0]"],"status":"mapped-current"}

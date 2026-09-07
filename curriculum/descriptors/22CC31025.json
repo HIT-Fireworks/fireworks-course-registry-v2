@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22CC31025",
-  "course_code": "22CC31025",
-  "course_name": "固体化学",
-  "resource_group_id": "exact-name-918459af8cdd93d1",
-  "physical_repository_id": "physical-course-atomic-542b2fc253a5a5d7",
-  "repo_id": "COURSES-5AF3514CBD50",
-  "record_ids": [
-    "REC-67A21A0E8CBC7C92"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/117_2022版_25_25078_应用化学.toml#courses[56]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22CC31025.json",
-  "attachment_repo_id": "COURSES-5AF3514CBD50"
-}
+{"attachment_repo_id":"COURSES-5AF3514CBD50","course_code":"22CC31025","course_name":"固体化学","descriptor_id":"course-code:22CC31025","metadata_path":"curriculum/descriptors/22CC31025.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-542b2fc253a5a5d7","record_ids":["REC-67A21A0E8CBC7C92","REC-90BEB817E207357CDB93","REC-8F6E3B18AE65CEA264A3","REC-2154DDCA14633AD45F56"],"repo_id":"COURSES-5AF3514CBD50","resource_group_id":"exact-name-918459af8cdd93d1","source_paths":["curriculum://hit-data/plans/117_2022版_25_25078_应用化学.toml#courses[56]"],"status":"mapped-current"}

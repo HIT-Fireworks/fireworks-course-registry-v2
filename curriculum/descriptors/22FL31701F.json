@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22FL31701F",
-  "course_code": "22FL31701F",
-  "course_name": "日本概况",
-  "resource_group_id": "exact-name-d388ea5da2a7c9d0",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-38E5AD04B944041F"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/172_2022版_35_35F153_日语.toml#courses[6]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22FL31701F.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22FL31701F","course_name":"日本概况","descriptor_id":"course-code:22FL31701F","metadata_path":"curriculum/descriptors/22FL31701F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-38E5AD04B944041F","REC-2C4CD77250B42C9D80B4","REC-E85EFD98EFBA878DE81A"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"exact-name-d388ea5da2a7c9d0","source_paths":["curriculum://hit-data/plans/172_2022版_35_35F153_日语.toml#courses[6]"],"status":"mapped-current"}

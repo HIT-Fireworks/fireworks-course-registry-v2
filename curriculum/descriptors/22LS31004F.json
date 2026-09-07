@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22LS31004F",
-  "course_code": "22LS31004F",
-  "course_name": "蛋白质工程与细胞工程",
-  "resource_group_id": "exact-name-0d93183ac3cbe65f",
-  "physical_repository_id": "physical-course-atomic-8fdee15683baa619",
-  "repo_id": "COURSES-CE4133CBE869",
-  "record_ids": [
-    "REC-D6E0CC14FBF9EDE3"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/185_2022版_37_37F282_生物工程.toml#courses[11]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22LS31004F.json",
-  "attachment_repo_id": "COURSES-CE4133CBE869"
-}
+{"attachment_repo_id":"COURSES-CE4133CBE869","course_code":"22LS31004F","course_name":"蛋白质工程与细胞工程","descriptor_id":"course-code:22LS31004F","metadata_path":"curriculum/descriptors/22LS31004F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-8fdee15683baa619","record_ids":["REC-D6E0CC14FBF9EDE3","REC-4EBF9DF631B49D25FD66","REC-A8A351EF48B418CEF59A"],"repo_id":"COURSES-CE4133CBE869","resource_group_id":"exact-name-0d93183ac3cbe65f","source_paths":["curriculum://hit-data/plans/185_2022版_37_37F282_生物工程.toml#courses[11]"],"status":"mapped-current"}

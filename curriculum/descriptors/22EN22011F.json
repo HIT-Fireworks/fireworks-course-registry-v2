@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EN22011F",
-  "course_code": "22EN22011F",
-  "course_name": "生态学原理及应用",
-  "resource_group_id": "exact-name-17f8d98516936a7e",
-  "physical_repository_id": "physical-course-atomic-7109ade39c57c305",
-  "repo_id": "COURSES-RA-FBDE6370AF65",
-  "record_ids": [
-    "REC-B62E3AE5713486E8"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/146_2022版_27_27F273_环境生态工程.toml#courses[0]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EN22011F.json",
-  "attachment_repo_id": "COURSES-RA-FBDE6370AF65"
-}
+{"attachment_repo_id":"COURSES-RA-FBDE6370AF65","course_code":"22EN22011F","course_name":"生态学原理及应用","descriptor_id":"course-code:22EN22011F","metadata_path":"curriculum/descriptors/22EN22011F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-7109ade39c57c305","record_ids":["REC-B62E3AE5713486E8"],"repo_id":"COURSES-RA-FBDE6370AF65","resource_group_id":"exact-name-17f8d98516936a7e","source_paths":["curriculum://hit-data/plans/146_2022版_27_27F273_环境生态工程.toml#courses[0]"],"status":"mapped-current"}

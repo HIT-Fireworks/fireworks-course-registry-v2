@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22MA15040C",
-  "course_code": "22MA15040C",
-  "course_name": "微积分E(1)",
-  "resource_group_id": "engineering-calculus",
-  "physical_repository_id": "physical-course-ra-08667fa435b017b0",
-  "repo_id": "22MA15001",
-  "record_ids": [
-    "REC-BC439090A0DB3676"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/118_2022版_25_25079_化学（中外合作）.toml#courses[7]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22MA15040C.json",
-  "attachment_repo_id": "22MA15001"
-}
+{"attachment_repo_id":"22MA15001","course_code":"22MA15040C","course_name":"微积分E(1)","descriptor_id":"course-code:22MA15040C","metadata_path":"curriculum/descriptors/22MA15040C.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-ra-08667fa435b017b0","record_ids":["REC-BC439090A0DB3676","REC-D0B24B7433F440E0A920","REC-5DCD665A49768BA4E15F","REC-A380D183B77068DE6BBD","REC-A06BFE86A087D9E52C8D","REC-4A520417F4468F83A1D6"],"repo_id":"22MA15001","resource_group_id":"engineering-calculus","source_paths":["curriculum://hit-data/plans/118_2022版_25_25079_化学（中外合作）.toml#courses[7]"],"status":"mapped-current"}

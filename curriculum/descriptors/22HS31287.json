@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22HS31287",
-  "course_code": "22HS31287",
-  "course_name": "中国当代经济A",
-  "resource_group_id": "name-family-67f940bc16911a21",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-687006F6BC0CFB5F"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/168_2022版_35_35E232_经济学.toml#courses[11]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22HS31287.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22HS31287","course_name":"中国当代经济A","descriptor_id":"course-code:22HS31287","metadata_path":"curriculum/descriptors/22HS31287.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-687006F6BC0CFB5F","REC-B31FCC4843CB76615265","REC-0D58C3C8ED700D4504E2","REC-5D7D54A77A085DA1FEA3"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"name-family-67f940bc16911a21","source_paths":["curriculum://hit-data/plans/168_2022版_35_35E232_经济学.toml#courses[11]"],"status":"mapped-current"}

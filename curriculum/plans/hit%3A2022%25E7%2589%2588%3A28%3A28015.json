@@ -1,13 +1,1 @@
-{
-  "plan_id": "hit:2022%E7%89%88:28:28015",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/plans/hit%3A2022%25E7%2589%2588%3A28%3A28015.json",
-  "source_plan_file": "192_2022版_28_28015_智能感知工程.toml",
-  "campus": "hit",
-  "plan_version": "2022版",
-  "department_code": "28",
-  "school_name": "仪器科学与工程学院",
-  "major_code": "28015",
-  "major_name": "智能感知工程",
-  "year": "2022"
-}
+{"campus":"hit","department_code":"28","major_code":"28015","major_full_name":"智能感知工程【本】","major_name":"智能感知工程","metadata_path":"curriculum/plans/hit%3A2022%25E7%2589%2588%3A28%3A28015.json","metadata_repo_id":"fireworks-course-registry-v2","plan_id":"hit:2022%E7%89%88:28:28015","plan_version":"2022版","program_type":"本","school_name":"仪器科学与工程学院","source_capture":{"checks":{"authenticated":true,"confirmed_empty":false,"expected_headers":true,"pagination_consistent":true},"complete":true,"endpoint":"/pyfa/queryPykc","pages":[20,20,20,2],"rows":80,"scope":{"pageBbh":"2022版","pageKcmc":"","pageKkxn":"","pageKkxq":"","pageYxdm":"28","pageZydm":"28015"},"unpaged_rows":18},"source_kind":"curriculum","source_plan_file":"hit%3A2022%25E7%2589%2588%3A28%3A28015_智能感知工程.json"}

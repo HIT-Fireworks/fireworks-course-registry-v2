@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22AS31101F",
-  "course_code": "22AS31101F",
-  "course_name": "智能系统控制理论(1)",
-  "resource_group_id": "intelligent-control-theory",
-  "physical_repository_id": "physical-course-ra-4a200afa4ecda155",
-  "repo_id": "COURSES-RA-4A200AFA4ECD",
-  "record_ids": [
-    "REC-E9BEB128F32C31B0"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/113_2022版_01_01F043_智能装备与系统.toml#courses[2]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22AS31101F.json",
-  "attachment_repo_id": "COURSES-RA-4A200AFA4ECD"
-}
+{"attachment_repo_id":"COURSES-RA-4A200AFA4ECD","course_code":"22AS31101F","course_name":"智能系统控制理论(1)","descriptor_id":"course-code:22AS31101F","metadata_path":"curriculum/descriptors/22AS31101F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-ra-4a200afa4ecda155","record_ids":["REC-E9BEB128F32C31B0","REC-A024DF9D5C5343D14FCB","REC-99C4D59D56B34A775C2E","REC-AD6BF521078A6D42438C"],"repo_id":"COURSES-RA-4A200AFA4ECD","resource_group_id":"intelligent-control-theory","source_paths":["curriculum://hit-data/plans/113_2022版_01_01F043_智能装备与系统.toml#courses[2]"],"status":"mapped-current"}

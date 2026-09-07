@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22CE31013",
-  "course_code": "22CE31013",
-  "course_name": "实验力学",
-  "resource_group_id": "exact-name-48b7311394b090af",
-  "physical_repository_id": "physical-course-atomic-e31cb6e867db505e",
-  "repo_id": "COURSES-RA-6C06DD652E32",
-  "record_ids": [
-    "REC-185B31CD14FB8406"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[162]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22CE31013.json",
-  "attachment_repo_id": "COURSES-RA-6C06DD652E32"
-}
+{"attachment_repo_id":"COURSES-RA-6C06DD652E32","course_code":"22CE31013","course_name":"实验力学","descriptor_id":"course-code:22CE31013","metadata_path":"curriculum/descriptors/22CE31013.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-e31cb6e867db505e","record_ids":["REC-185B31CD14FB8406","REC-189DBFBC4C2383A4FFF8","REC-EDDE2B87845C3D34F7C9","REC-0875BBF9B86B8C877186"],"repo_id":"COURSES-RA-6C06DD652E32","resource_group_id":"exact-name-48b7311394b090af","source_paths":["curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[162]"],"status":"mapped-current"}

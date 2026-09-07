@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22MS31804F",
-  "course_code": "22MS31804F",
-  "course_name": "半导体器件物理",
-  "resource_group_id": "name-family-1067119e15b0e346",
-  "physical_repository_id": "physical-course-ra-531f0b625e8ad320",
-  "repo_id": "COURSES-RA-531F0B625E8A",
-  "record_ids": [
-    "REC-970BE28AFE6BA60F"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/038_2022版_03_03F443_光电信息材料与器件.toml#courses[6]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22MS31804F.json",
-  "attachment_repo_id": "COURSES-RA-531F0B625E8A"
-}
+{"attachment_repo_id":"COURSES-RA-531F0B625E8A","course_code":"22MS31804F","course_name":"半导体器件物理","descriptor_id":"course-code:22MS31804F","metadata_path":"curriculum/descriptors/22MS31804F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-ra-531f0b625e8ad320","record_ids":["REC-970BE28AFE6BA60F","REC-EEF49537247765B72B65","REC-1E15468DA974A2A12E54"],"repo_id":"COURSES-RA-531F0B625E8A","resource_group_id":"name-family-1067119e15b0e346","source_paths":["curriculum://hit-data/plans/038_2022版_03_03F443_光电信息材料与器件.toml#courses[6]"],"status":"mapped-current"}

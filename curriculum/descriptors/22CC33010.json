@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22CC33010",
-  "course_code": "22CC33010",
-  "course_name": "生产实习",
-  "resource_group_id": "exact-name-18527c31b7340394",
-  "physical_repository_id": "physical-course-atomic-542b2fc253a5a5d7",
-  "repo_id": "COURSES-5AF3514CBD50",
-  "record_ids": [
-    "REC-1866DD6F2EAB312D"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/116_2022版_25_25073_材料化学.toml#courses[55]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22CC33010.json",
-  "attachment_repo_id": "COURSES-5AF3514CBD50"
-}
+{"attachment_repo_id":"COURSES-5AF3514CBD50","course_code":"22CC33010","course_name":"生产实习","descriptor_id":"course-code:22CC33010","metadata_path":"curriculum/descriptors/22CC33010.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-542b2fc253a5a5d7","record_ids":["REC-1866DD6F2EAB312D","REC-294B0AEE730FDBFBD22A","REC-F3780627AD6116EB1FB6"],"repo_id":"COURSES-5AF3514CBD50","resource_group_id":"exact-name-18527c31b7340394","source_paths":["curriculum://hit-data/plans/116_2022版_25_25073_材料化学.toml#courses[55]"],"status":"mapped-current"}

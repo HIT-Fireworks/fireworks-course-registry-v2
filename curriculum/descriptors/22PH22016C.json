@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22PH22016C",
-  "course_code": "22PH22016C",
-  "course_name": "原子物理(2)",
-  "resource_group_id": "name-family-7f4fce80b0cf35a5",
-  "physical_repository_id": "physical-course-ra-f19b0b12d12c26dd",
-  "repo_id": "22AS22701",
-  "record_ids": [
-    "REC-911BEC8933F528F5"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/198_2022版_32_32115_应用物理学（中外合作）.toml#courses[48]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22PH22016C.json",
-  "attachment_repo_id": "22AS22701"
-}
+{"attachment_repo_id":"22AS22701","course_code":"22PH22016C","course_name":"原子物理(2)","descriptor_id":"course-code:22PH22016C","metadata_path":"curriculum/descriptors/22PH22016C.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-ra-f19b0b12d12c26dd","record_ids":["REC-911BEC8933F528F5","REC-B5BA03599A9C8BB47B81","REC-89D4CB7EB909A5B6F9AC","REC-56EDFB93244E52C0E954"],"repo_id":"22AS22701","resource_group_id":"name-family-7f4fce80b0cf35a5","source_paths":["curriculum://hit-data/plans/198_2022版_32_32115_应用物理学（中外合作）.toml#courses[48]"],"status":"mapped-current"}

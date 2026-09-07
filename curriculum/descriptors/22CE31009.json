@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22CE31009",
-  "course_code": "22CE31009",
-  "course_name": "混凝土结构",
-  "resource_group_id": "exact-name-9d9392b4211922aa",
-  "physical_repository_id": "physical-course-atomic-e31cb6e867db505e",
-  "repo_id": "COURSES-RA-6C06DD652E32",
-  "record_ids": [
-    "REC-CE1B3270CC5B1D2D"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[132]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22CE31009.json",
-  "attachment_repo_id": "COURSES-RA-6C06DD652E32"
-}
+{"attachment_repo_id":"COURSES-RA-6C06DD652E32","course_code":"22CE31009","course_name":"混凝土结构","descriptor_id":"course-code:22CE31009","metadata_path":"curriculum/descriptors/22CE31009.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-e31cb6e867db505e","record_ids":["REC-CE1B3270CC5B1D2D","REC-56E491B843F4C2E37312","REC-0768EB9F0D5A39EB9D80","REC-DDDEA93E84CB5A4F7BBF","REC-83F85A6C2D92AB853873"],"repo_id":"COURSES-RA-6C06DD652E32","resource_group_id":"exact-name-9d9392b4211922aa","source_paths":["curriculum://hit-data/plans/057_2022版_09_09331_土木工程.toml#courses[132]"],"status":"mapped-current"}

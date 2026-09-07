@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22AR31204",
-  "course_code": "22AR31204",
-  "course_name": "热质交换原理与设备",
-  "resource_group_id": "exact-name-ffe1dc5d9a4b29ca",
-  "physical_repository_id": "physical-course-atomic-3d09c28bf35c5f42",
-  "repo_id": "COURSES-AF51708C5BBA",
-  "record_ids": [
-    "REC-66BE82D003B6BFF3"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/065_2022版_11B_11B262_建筑环境与能源应用工程.toml#courses[42]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22AR31204.json",
-  "attachment_repo_id": "COURSES-AF51708C5BBA"
-}
+{"attachment_repo_id":"COURSES-AF51708C5BBA","course_code":"22AR31204","course_name":"热质交换原理与设备","descriptor_id":"course-code:22AR31204","metadata_path":"curriculum/descriptors/22AR31204.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3d09c28bf35c5f42","record_ids":["REC-66BE82D003B6BFF3","REC-2C8E7BCE4136D7EA28BE","REC-058C45477F9E849D0D6A","REC-94C295F2FB4B1574D2F8"],"repo_id":"COURSES-AF51708C5BBA","resource_group_id":"exact-name-ffe1dc5d9a4b29ca","source_paths":["curriculum://hit-data/plans/065_2022版_11B_11B262_建筑环境与能源应用工程.toml#courses[42]"],"status":"mapped-current"}

@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22IS31101F",
-  "course_code": "22IS31101F",
-  "course_name": "测试与检测技术基础",
-  "resource_group_id": "exact-name-b427cf2f8cdcb201",
-  "physical_repository_id": "physical-course-atomic-4db498a4e9dbde3a",
-  "repo_id": "COURSES-RA-AE0EC9DD0D5A",
-  "record_ids": [
-    "REC-43ED1FDDD24A11EF"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/193_2022版_28_28F011_测控技术与仪器.toml#courses[1]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22IS31101F.json",
-  "attachment_repo_id": "COURSES-RA-AE0EC9DD0D5A"
-}
+{"attachment_repo_id":"COURSES-RA-AE0EC9DD0D5A","course_code":"22IS31101F","course_name":"测试与检测技术基础","descriptor_id":"course-code:22IS31101F","metadata_path":"curriculum/descriptors/22IS31101F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-4db498a4e9dbde3a","record_ids":["REC-43ED1FDDD24A11EF","REC-EC9267179699B9B86655"],"repo_id":"COURSES-RA-AE0EC9DD0D5A","resource_group_id":"exact-name-b427cf2f8cdcb201","source_paths":["curriculum://hit-data/plans/193_2022版_28_28F011_测控技术与仪器.toml#courses[1]"],"status":"mapped-current"}

@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EM31906F",
-  "course_code": "22EM31906F",
-  "course_name": "数字技术和产业分析",
-  "resource_group_id": "exact-name-493f2df4a9028812",
-  "physical_repository_id": "physical-course-atomic-bf03a328b2629a0c",
-  "repo_id": "COURSES-RA-1DE27CC2E974",
-  "record_ids": [
-    "REC-580590484262AA4F"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/043_2022版_07_07F223_数字经济.toml#courses[4]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EM31906F.json",
-  "attachment_repo_id": "COURSES-RA-1DE27CC2E974"
-}
+{"attachment_repo_id":"COURSES-RA-1DE27CC2E974","course_code":"22EM31906F","course_name":"数字技术和产业分析","descriptor_id":"course-code:22EM31906F","metadata_path":"curriculum/descriptors/22EM31906F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-bf03a328b2629a0c","record_ids":["REC-580590484262AA4F","REC-0EFCBA9DF38E6655AA81","REC-30CE2A584C069BEEEB73","REC-5B8EB0B703B3DA7516F6"],"repo_id":"COURSES-RA-1DE27CC2E974","resource_group_id":"exact-name-493f2df4a9028812","source_paths":["curriculum://hit-data/plans/043_2022版_07_07F223_数字经济.toml#courses[4]"],"status":"mapped-current"}

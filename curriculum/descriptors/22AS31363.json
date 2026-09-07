@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22AS31363",
-  "course_code": "22AS31363",
-  "course_name": "科学与工程计算基础",
-  "resource_group_id": "exact-name-cad27e02f6286f6c",
-  "physical_repository_id": "physical-course-atomic-d21079c35223ce1d",
-  "repo_id": "COURSES-RA-460A910D00CC",
-  "record_ids": [
-    "REC-96018A23F243246C"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/104_2022版_01_011841_复合材料与工程（强基计划）.toml#courses[41]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22AS31363.json",
-  "attachment_repo_id": "COURSES-RA-460A910D00CC"
-}
+{"attachment_repo_id":"COURSES-RA-460A910D00CC","course_code":"22AS31363","course_name":"科学与工程计算基础","descriptor_id":"course-code:22AS31363","metadata_path":"curriculum/descriptors/22AS31363.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-d21079c35223ce1d","record_ids":["REC-96018A23F243246C","REC-A92CFDDD80F8AD6CA111","REC-B03DB9F89464109E110C","REC-BFD3635C74182AEEC227","REC-81FC489F5453DFD65057","REC-A39F0E8AEBDF0C163482"],"repo_id":"COURSES-RA-460A910D00CC","resource_group_id":"exact-name-cad27e02f6286f6c","source_paths":["curriculum://hit-data/plans/104_2022版_01_011841_复合材料与工程（强基计划）.toml#courses[41]"],"status":"mapped-current"}

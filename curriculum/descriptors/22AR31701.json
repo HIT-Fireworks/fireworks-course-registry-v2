@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22AR31701",
-  "course_code": "22AR31701",
-  "course_name": "设计美学",
-  "resource_group_id": "exact-name-86332662e3e97eb1",
-  "physical_repository_id": "physical-course-atomic-3d09c28bf35c5f42",
-  "repo_id": "COURSES-AF51708C5BBA",
-  "record_ids": [
-    "REC-E7FB70F39017DED9"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/066_2022版_11B_11B304_数字媒体艺术.toml#courses[46]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22AR31701.json",
-  "attachment_repo_id": "COURSES-AF51708C5BBA"
-}
+{"attachment_repo_id":"COURSES-AF51708C5BBA","course_code":"22AR31701","course_name":"设计美学","descriptor_id":"course-code:22AR31701","metadata_path":"curriculum/descriptors/22AR31701.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3d09c28bf35c5f42","record_ids":["REC-E7FB70F39017DED9","REC-418F044E4706FB1962E8","REC-15DD67BDAA983BE4CD8D","REC-E64A16F7F986E95982FF"],"repo_id":"COURSES-AF51708C5BBA","resource_group_id":"exact-name-86332662e3e97eb1","source_paths":["curriculum://hit-data/plans/066_2022版_11B_11B304_数字媒体艺术.toml#courses[46]"],"status":"mapped-current"}

@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22AS31702",
-  "course_code": "22AS31702",
-  "course_name": "光电子器件",
-  "resource_group_id": "exact-name-dc38aab0fa033b14",
-  "physical_repository_id": "physical-course-atomic-d21079c35223ce1d",
-  "repo_id": "COURSES-RA-460A910D00CC",
-  "record_ids": [
-    "REC-F58B5F014822007F"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/108_2022版_01_01211_电子科学与技术.toml#courses[44]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22AS31702.json",
-  "attachment_repo_id": "COURSES-RA-460A910D00CC"
-}
+{"attachment_repo_id":"COURSES-RA-460A910D00CC","course_code":"22AS31702","course_name":"光电子器件","descriptor_id":"course-code:22AS31702","metadata_path":"curriculum/descriptors/22AS31702.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-d21079c35223ce1d","record_ids":["REC-F58B5F014822007F","REC-94CA258B160D098A750C","REC-B1DDC933B8D955B4C98E","REC-108BB7764E7FE41A4856","REC-3C599071652D09FEBE55","REC-1219138180D373633240","REC-11CC84AE810050C5BC6B"],"repo_id":"COURSES-RA-460A910D00CC","resource_group_id":"exact-name-dc38aab0fa033b14","source_paths":["curriculum://hit-data/plans/108_2022版_01_01211_电子科学与技术.toml#courses[44]"],"status":"mapped-current"}

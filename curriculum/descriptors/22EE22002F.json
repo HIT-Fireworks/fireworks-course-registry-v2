@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EE22002F",
-  "course_code": "22EE22002F",
-  "course_name": "自动控制理论",
-  "resource_group_id": "name-family-9b4558b47c01c11d",
-  "physical_repository_id": "physical-course-atomic-e2c42fb749f2642e",
-  "repo_id": "COURSES-RA-1B72ED8C2EF9",
-  "record_ids": [
-    "REC-22E3F49ABA9B318F"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/055_2022版_05_05F064_能源互联网工程.toml#courses[1]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EE22002F.json",
-  "attachment_repo_id": "COURSES-RA-1B72ED8C2EF9"
-}
+{"attachment_repo_id":"COURSES-RA-1B72ED8C2EF9","course_code":"22EE22002F","course_name":"自动控制理论","descriptor_id":"course-code:22EE22002F","metadata_path":"curriculum/descriptors/22EE22002F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-e2c42fb749f2642e","record_ids":["REC-22E3F49ABA9B318F","REC-7E3A24E29A9E3850B1DC","REC-A410407DFF3919070A6B"],"repo_id":"COURSES-RA-1B72ED8C2EF9","resource_group_id":"name-family-9b4558b47c01c11d","source_paths":["curriculum://hit-data/plans/055_2022版_05_05F064_能源互联网工程.toml#courses[1]"],"status":"mapped-current"}

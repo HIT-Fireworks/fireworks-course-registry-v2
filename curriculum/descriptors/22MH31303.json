@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22MH31303",
-  "course_code": "22MH31303",
-  "course_name": "系统生物学",
-  "resource_group_id": "exact-name-19979c6cdb349116",
-  "physical_repository_id": "physical-course-atomic-8fdee15683baa619",
-  "repo_id": "COURSES-CE4133CBE869",
-  "record_ids": [
-    "REC-64981CD1117260BE"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/183_2022版_37_37522_生物医学科学.toml#courses[46]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22MH31303.json",
-  "attachment_repo_id": "COURSES-CE4133CBE869"
-}
+{"attachment_repo_id":"COURSES-CE4133CBE869","course_code":"22MH31303","course_name":"系统生物学","descriptor_id":"course-code:22MH31303","metadata_path":"curriculum/descriptors/22MH31303.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-8fdee15683baa619","record_ids":["REC-64981CD1117260BE","REC-AF64E6AB5D02F0F32CB8","REC-F17DF330897A900226A0","REC-0AC6A4A7ABA7693A74AD","REC-BF8D04B79F85A56B3E03"],"repo_id":"COURSES-CE4133CBE869","resource_group_id":"exact-name-19979c6cdb349116","source_paths":["curriculum://hit-data/plans/183_2022版_37_37522_生物医学科学.toml#courses[46]"],"status":"mapped-current"}

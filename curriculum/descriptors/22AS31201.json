@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22AS31201",
-  "course_code": "22AS31201",
-  "course_name": "鲁棒与自适应控制",
-  "resource_group_id": "exact-name-e2a77cd873ad6249",
-  "physical_repository_id": "physical-course-ra-4a200afa4ecda155",
-  "repo_id": "COURSES-RA-4A200AFA4ECD",
-  "record_ids": [
-    "REC-3DCD7AA5BD4503D2"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/098_2022版_01_01041_自动化.toml#courses[50]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22AS31201.json",
-  "attachment_repo_id": "COURSES-RA-4A200AFA4ECD"
-}
+{"attachment_repo_id":"COURSES-RA-4A200AFA4ECD","course_code":"22AS31201","course_name":"鲁棒与自适应控制","descriptor_id":"course-code:22AS31201","metadata_path":"curriculum/descriptors/22AS31201.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-ra-4a200afa4ecda155","record_ids":["REC-3DCD7AA5BD4503D2","REC-70BB91D717629369675D","REC-38A9A5B966D1545E8735","REC-12CA3A1286FDC079ED21","REC-852863284B5D7B8BA6DC","REC-6EB1108D2ABFFA882139","REC-E7AF25AA47051845EFE3","REC-3AD1234C84EECE0AB7D7","REC-FAAA5137FEB77AD15DAE","REC-85F998D2C4009F800DDA","REC-CD33A12271EA83D12761","REC-D8859DD7C796D9B15E4C","REC-5BCCD9A8F5A08992CDFD","REC-143580760C36A37BE091","REC-281C4FE2B33BD71CC9FB","REC-53C000E43BCA17522E4C","REC-66325C7AA46CACCCEF0E","REC-51F39FCF622E7A3478CD","REC-55850A0509901EF551A7","REC-A1F43465FB8FA68FDFA0","REC-C751081AB841DE489145","REC-F825027507B7D0FF460D","REC-74E3CABC59D1FAC4AB4E","REC-4870AD39DA9C43977E08","REC-A3786682BA19494E0910","REC-B09D98B033E7501BBEA3","REC-A59ECEC6D3F77E7F8F32","REC-6F140BBEF2C5A2C2BA5F","REC-DD377769B729ECE8D7A4"],"repo_id":"COURSES-RA-4A200AFA4ECD","resource_group_id":"exact-name-e2a77cd873ad6249","source_paths":["curriculum://hit-data/plans/098_2022版_01_01041_自动化.toml#courses[50]"],"status":"mapped-current"}

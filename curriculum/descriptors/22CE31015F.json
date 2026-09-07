@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22CE31015F",
-  "course_code": "22CE31015F",
-  "course_name": "工程项目管理",
-  "resource_group_id": "exact-name-3dec828b26dd33ab",
-  "physical_repository_id": "physical-course-atomic-e31cb6e867db505e",
-  "repo_id": "COURSES-RA-6C06DD652E32",
-  "record_ids": [
-    "REC-6FA12E33D34B1464"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/063_2022版_09_09F335_工程管理.toml#courses[7]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22CE31015F.json",
-  "attachment_repo_id": "COURSES-RA-6C06DD652E32"
-}
+{"attachment_repo_id":"COURSES-RA-6C06DD652E32","course_code":"22CE31015F","course_name":"工程项目管理","descriptor_id":"course-code:22CE31015F","metadata_path":"curriculum/descriptors/22CE31015F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-e31cb6e867db505e","record_ids":["REC-6FA12E33D34B1464","REC-000B02078E97109337F6","REC-44EFEF9152BCC67216C1"],"repo_id":"COURSES-RA-6C06DD652E32","resource_group_id":"exact-name-3dec828b26dd33ab","source_paths":["curriculum://hit-data/plans/063_2022版_09_09F335_工程管理.toml#courses[7]"],"status":"mapped-current"}

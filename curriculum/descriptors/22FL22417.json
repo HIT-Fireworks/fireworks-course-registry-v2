@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22FL22417",
-  "course_code": "22FL22417",
-  "course_name": "国际组织与全球治理专业导论",
-  "resource_group_id": "exact-name-1207b736554d9382",
-  "physical_repository_id": "physical-course-atomic-3ab11e389fd3ea07",
-  "repo_id": "COURSES-RA-542E272AFADC",
-  "record_ids": [
-    "REC-EAA00F1C2D18BF82"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/160_2022版_35_35154_国际组织与全球治理.toml#courses[6]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22FL22417.json",
-  "attachment_repo_id": "COURSES-RA-542E272AFADC"
-}
+{"attachment_repo_id":"COURSES-RA-542E272AFADC","course_code":"22FL22417","course_name":"国际组织与全球治理专业导论","descriptor_id":"course-code:22FL22417","metadata_path":"curriculum/descriptors/22FL22417.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3ab11e389fd3ea07","record_ids":["REC-EAA00F1C2D18BF82","REC-D7187292FAB75AB41BB0","REC-9F572C4C7F59CB283C78","REC-C42218CA1E9A22202BEA","REC-95E1AFE29900706D6417"],"repo_id":"COURSES-RA-542E272AFADC","resource_group_id":"exact-name-1207b736554d9382","source_paths":["curriculum://hit-data/plans/160_2022版_35_35154_国际组织与全球治理.toml#courses[6]"],"status":"mapped-current"}

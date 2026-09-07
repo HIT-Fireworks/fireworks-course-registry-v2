@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EM31102F",
-  "course_code": "22EM31102F",
-  "course_name": "数据仓库与数据挖掘",
-  "resource_group_id": "exact-name-a752f39f2bc5c792",
-  "physical_repository_id": "physical-course-atomic-bf03a328b2629a0c",
-  "repo_id": "COURSES-RA-1DE27CC2E974",
-  "record_ids": [
-    "REC-6EB470C4F1282C21"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/040_2022版_07_07F102_电子商务.toml#courses[5]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EM31102F.json",
-  "attachment_repo_id": "COURSES-RA-1DE27CC2E974"
-}
+{"attachment_repo_id":"COURSES-RA-1DE27CC2E974","course_code":"22EM31102F","course_name":"数据仓库与数据挖掘","descriptor_id":"course-code:22EM31102F","metadata_path":"curriculum/descriptors/22EM31102F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-bf03a328b2629a0c","record_ids":["REC-6EB470C4F1282C21","REC-8455F55CA67D1B4B4AF5"],"repo_id":"COURSES-RA-1DE27CC2E974","resource_group_id":"exact-name-a752f39f2bc5c792","source_paths":["curriculum://hit-data/plans/040_2022版_07_07F102_电子商务.toml#courses[5]"],"status":"mapped-current"}

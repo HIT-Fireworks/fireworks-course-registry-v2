@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22MS31706",
-  "course_code": "22MS31706",
-  "course_name": "功能材料学B",
-  "resource_group_id": "name-family-d31d6d8511d1aa2a",
-  "physical_repository_id": "physical-course-ra-37938861096dffed",
-  "repo_id": "COURSES-RA-37938861096D",
-  "record_ids": [
-    "REC-6913EBCF945D7057"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/030_2022版_03_03351_材料物理.toml#courses[46]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22MS31706.json",
-  "attachment_repo_id": "COURSES-RA-37938861096D"
-}
+{"attachment_repo_id":"COURSES-RA-37938861096D","course_code":"22MS31706","course_name":"功能材料学B","descriptor_id":"course-code:22MS31706","metadata_path":"curriculum/descriptors/22MS31706.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-ra-37938861096dffed","record_ids":["REC-6913EBCF945D7057","REC-71EBB12ADAC6EE523050","REC-A4B116FD025E07DCC493","REC-03CC117E66A925C4C36E"],"repo_id":"COURSES-RA-37938861096D","resource_group_id":"name-family-d31d6d8511d1aa2a","source_paths":["curriculum://hit-data/plans/030_2022版_03_03351_材料物理.toml#courses[46]"],"status":"mapped-current"}

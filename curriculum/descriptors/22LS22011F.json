@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22LS22011F",
-  "course_code": "22LS22011F",
-  "course_name": "生物学基础实验",
-  "resource_group_id": "exact-name-87198c27c3830e9d",
-  "physical_repository_id": "physical-course-atomic-8fdee15683baa619",
-  "repo_id": "COURSES-CE4133CBE869",
-  "record_ids": [
-    "REC-F9B7AB4BF0E18AD5"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/184_2022版_37_37F281_生物技术.toml#courses[6]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22LS22011F.json",
-  "attachment_repo_id": "COURSES-CE4133CBE869"
-}
+{"attachment_repo_id":"COURSES-CE4133CBE869","course_code":"22LS22011F","course_name":"生物学基础实验","descriptor_id":"course-code:22LS22011F","metadata_path":"curriculum/descriptors/22LS22011F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-8fdee15683baa619","record_ids":["REC-F9B7AB4BF0E18AD5","REC-252C7DFD5CA96EDD35ED","REC-1C9D7383DE15AFBD66B9","REC-8FA2BC861EC2EADE23A4"],"repo_id":"COURSES-CE4133CBE869","resource_group_id":"exact-name-87198c27c3830e9d","source_paths":["curriculum://hit-data/plans/184_2022版_37_37F281_生物技术.toml#courses[6]"],"status":"mapped-current"}

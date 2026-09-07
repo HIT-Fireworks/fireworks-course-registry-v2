@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22AR31002F",
-  "course_code": "22AR31002F",
-  "course_name": "智慧区域供热供冷",
-  "resource_group_id": "exact-name-ee0db73e3e72c339",
-  "physical_repository_id": "physical-course-atomic-3d09c28bf35c5f42",
-  "repo_id": "COURSES-AF51708C5BBA",
-  "record_ids": [
-    "REC-0198F1A333202D92"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/074_2022版_11B_11BF263S_城市智慧能源网.toml#courses[4]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22AR31002F.json",
-  "attachment_repo_id": "COURSES-AF51708C5BBA"
-}
+{"attachment_repo_id":"COURSES-AF51708C5BBA","course_code":"22AR31002F","course_name":"智慧区域供热供冷","descriptor_id":"course-code:22AR31002F","metadata_path":"curriculum/descriptors/22AR31002F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3d09c28bf35c5f42","record_ids":["REC-0198F1A333202D92","REC-3DB7C48ED11EDB9DC080","REC-F9E2BE6A51479FEC3176"],"repo_id":"COURSES-AF51708C5BBA","resource_group_id":"exact-name-ee0db73e3e72c339","source_paths":["curriculum://hit-data/plans/074_2022版_11B_11BF263S_城市智慧能源网.toml#courses[4]"],"status":"mapped-current"}

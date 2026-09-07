@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22CC31005",
-  "course_code": "22CC31005",
-  "course_name": "高分子流变学",
-  "resource_group_id": "exact-name-9c1628f39292beee",
-  "physical_repository_id": "physical-course-atomic-542b2fc253a5a5d7",
-  "repo_id": "COURSES-5AF3514CBD50",
-  "record_ids": [
-    "REC-665A1BFB63308123"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/119_2022版_25_25141_高分子材料与工程.toml#courses[51]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22CC31005.json",
-  "attachment_repo_id": "COURSES-5AF3514CBD50"
-}
+{"attachment_repo_id":"COURSES-5AF3514CBD50","course_code":"22CC31005","course_name":"高分子流变学","descriptor_id":"course-code:22CC31005","metadata_path":"curriculum/descriptors/22CC31005.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-542b2fc253a5a5d7","record_ids":["REC-665A1BFB63308123","REC-E0169A5A829B3C6CFAED","REC-0E6C5EDDC1A6729C232B","REC-24DCBBFE17A7DA4A6F98","REC-410CDB012BCE2556CE01"],"repo_id":"COURSES-5AF3514CBD50","resource_group_id":"exact-name-9c1628f39292beee","source_paths":["curriculum://hit-data/plans/119_2022版_25_25141_高分子材料与工程.toml#courses[51]"],"status":"mapped-current"}

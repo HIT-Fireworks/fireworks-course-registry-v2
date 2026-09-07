@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22MH31301",
-  "course_code": "22MH31301",
-  "course_name": "医学微生物学与免疫学",
-  "resource_group_id": "exact-name-e5a897c99bb8765a",
-  "physical_repository_id": "physical-course-atomic-8fdee15683baa619",
-  "repo_id": "COURSES-CE4133CBE869",
-  "record_ids": [
-    "REC-70E9FC89E85C06CC"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/183_2022版_37_37522_生物医学科学.toml#courses[41]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22MH31301.json",
-  "attachment_repo_id": "COURSES-CE4133CBE869"
-}
+{"attachment_repo_id":"COURSES-CE4133CBE869","course_code":"22MH31301","course_name":"医学微生物学与免疫学","descriptor_id":"course-code:22MH31301","metadata_path":"curriculum/descriptors/22MH31301.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-8fdee15683baa619","record_ids":["REC-70E9FC89E85C06CC","REC-8D70CA09680DBACC7E1E","REC-53D9675E20C39000364B","REC-F34CD393AD3B778ADEA2","REC-D305E79AE29E482A65E6"],"repo_id":"COURSES-CE4133CBE869","resource_group_id":"exact-name-e5a897c99bb8765a","source_paths":["curriculum://hit-data/plans/183_2022版_37_37522_生物医学科学.toml#courses[41]"],"status":"mapped-current"}

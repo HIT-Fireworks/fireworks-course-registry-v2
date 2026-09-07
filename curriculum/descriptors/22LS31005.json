@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22LS31005",
-  "course_code": "22LS31005",
-  "course_name": "生物工程单元操作原理",
-  "resource_group_id": "exact-name-2b14bf66f0c8ad81",
-  "physical_repository_id": "physical-course-atomic-8fdee15683baa619",
-  "repo_id": "COURSES-CE4133CBE869",
-  "record_ids": [
-    "REC-07D09BFD5BEDA157"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/180_2022版_37_37282_生物工程.toml#courses[51]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22LS31005.json",
-  "attachment_repo_id": "COURSES-CE4133CBE869"
-}
+{"attachment_repo_id":"COURSES-CE4133CBE869","course_code":"22LS31005","course_name":"生物工程单元操作原理","descriptor_id":"course-code:22LS31005","metadata_path":"curriculum/descriptors/22LS31005.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-8fdee15683baa619","record_ids":["REC-07D09BFD5BEDA157","REC-A1A20930B85D896867F2","REC-277A89F7FCE01F706E4A","REC-DC175FF54A83E639F099","REC-89959CA1EE1C12D4B67B","REC-D6F6E26BF731894D7C3B","REC-870A0CC2DAEE0F90D2F2","REC-BB2538C40F05D1A051E5","REC-00D14633C34088349C3F","REC-2DA5CDC728760BFE5508","REC-759E0FD334ABF67E8340","REC-900E95BA8A25106A4CC0","REC-0CE37FF83C0ECD45AB70","REC-4DF3D2A89C2B33B934FA","REC-0F93A818E4D0CD937156","REC-F7E18250D02AF693799C","REC-2CBF8693F8E4D683D6BD","REC-0B0E65C64B749AE74A6E","REC-047BB605B8779E1FADE7","REC-F3024BAFE3F9EF0F8134","REC-C96C53E9E74297BBD7D1","REC-26750300700E4D5F293D"],"repo_id":"COURSES-CE4133CBE869","resource_group_id":"exact-name-2b14bf66f0c8ad81","source_paths":["curriculum://hit-data/plans/180_2022版_37_37282_生物工程.toml#courses[51]"],"status":"mapped-current"}

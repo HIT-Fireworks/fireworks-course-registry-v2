@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22AR31403F",
-  "course_code": "22AR31403F",
-  "course_name": "景观规划设计-2",
-  "resource_group_id": "exact-name-298332a7b9a83e9b",
-  "physical_repository_id": "physical-course-atomic-3d09c28bf35c5f42",
-  "repo_id": "COURSES-AF51708C5BBA",
-  "record_ids": [
-    "REC-57085CE740AA28F1"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/080_2022版_11B_11BF347_风景园林.toml#courses[5]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22AR31403F.json",
-  "attachment_repo_id": "COURSES-AF51708C5BBA"
-}
+{"attachment_repo_id":"COURSES-AF51708C5BBA","course_code":"22AR31403F","course_name":"景观规划设计-2","descriptor_id":"course-code:22AR31403F","metadata_path":"curriculum/descriptors/22AR31403F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3d09c28bf35c5f42","record_ids":["REC-57085CE740AA28F1","REC-78695D607293A3AA9D50","REC-B54E0C290ED87EB86F99"],"repo_id":"COURSES-AF51708C5BBA","resource_group_id":"exact-name-298332a7b9a83e9b","source_paths":["curriculum://hit-data/plans/080_2022版_11B_11BF347_风景园林.toml#courses[5]"],"status":"mapped-current"}

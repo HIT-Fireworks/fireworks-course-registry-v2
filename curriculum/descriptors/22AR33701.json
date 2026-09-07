@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22AR33701",
-  "course_code": "22AR33701",
-  "course_name": "动画课程设计",
-  "resource_group_id": "exact-name-36a856755c9a6571",
-  "physical_repository_id": "physical-course-atomic-3d09c28bf35c5f42",
-  "repo_id": "COURSES-AF51708C5BBA",
-  "record_ids": [
-    "REC-4B99F8B89469F672"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/066_2022版_11B_11B304_数字媒体艺术.toml#courses[43]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22AR33701.json",
-  "attachment_repo_id": "COURSES-AF51708C5BBA"
-}
+{"attachment_repo_id":"COURSES-AF51708C5BBA","course_code":"22AR33701","course_name":"动画课程设计","descriptor_id":"course-code:22AR33701","metadata_path":"curriculum/descriptors/22AR33701.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3d09c28bf35c5f42","record_ids":["REC-4B99F8B89469F672","REC-74BB47D6D33A6B1C220B","REC-4C36785CFF358D491567","REC-2ECFE3FC7CE1564C441F"],"repo_id":"COURSES-AF51708C5BBA","resource_group_id":"exact-name-36a856755c9a6571","source_paths":["curriculum://hit-data/plans/066_2022版_11B_11B304_数字媒体艺术.toml#courses[43]"],"status":"mapped-current"}

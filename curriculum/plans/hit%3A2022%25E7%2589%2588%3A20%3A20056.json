@@ -1,13 +1,1 @@
-{
-  "plan_id": "hit:2022%E7%89%88:20:20056",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/plans/hit%3A2022%25E7%2589%2588%3A20%3A20056.json",
-  "source_plan_file": "133_2022版_20_20056_智能测控工程.toml",
-  "campus": "hit",
-  "plan_version": "2022版",
-  "department_code": "20",
-  "school_name": "电子与信息工程学院",
-  "major_code": "20056",
-  "major_name": "智能测控工程",
-  "year": "2022"
-}
+{"campus":"hit","department_code":"20","major_code":"20056","major_full_name":"智能测控工程【本】","major_name":"智能测控工程","metadata_path":"curriculum/plans/hit%3A2022%25E7%2589%2588%3A20%3A20056.json","metadata_repo_id":"fireworks-course-registry-v2","plan_id":"hit:2022%E7%89%88:20:20056","plan_version":"2022版","program_type":"本","school_name":"电子与信息工程学院","source_capture":{"checks":{"authenticated":true,"confirmed_empty":false,"expected_headers":true,"pagination_consistent":true},"complete":true,"endpoint":"/pyfa/queryPykc","pages":[20,20,16],"rows":72,"scope":{"pageBbh":"2022版","pageKcmc":"","pageKkxn":"","pageKkxq":"","pageYxdm":"20","pageZydm":"20056"},"unpaged_rows":16},"source_kind":"curriculum","source_plan_file":"hit%3A2022%25E7%2589%2588%3A20%3A20056_智能测控工程.json"}

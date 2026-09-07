@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22AR31203F",
-  "course_code": "22AR31203F",
-  "course_name": "通风空调",
-  "resource_group_id": "exact-name-b071af6d1717b7e4",
-  "physical_repository_id": "physical-course-atomic-3d09c28bf35c5f42",
-  "repo_id": "COURSES-AF51708C5BBA",
-  "record_ids": [
-    "REC-56EF4DE7A1D3AC64"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/073_2022版_11B_11BF262_建筑环境与能源应用工程.toml#courses[5]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22AR31203F.json",
-  "attachment_repo_id": "COURSES-AF51708C5BBA"
-}
+{"attachment_repo_id":"COURSES-AF51708C5BBA","course_code":"22AR31203F","course_name":"通风空调","descriptor_id":"course-code:22AR31203F","metadata_path":"curriculum/descriptors/22AR31203F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-3d09c28bf35c5f42","record_ids":["REC-56EF4DE7A1D3AC64","REC-93BE183F0BCAE73CFE33"],"repo_id":"COURSES-AF51708C5BBA","resource_group_id":"exact-name-b071af6d1717b7e4","source_paths":["curriculum://hit-data/plans/073_2022版_11B_11BF262_建筑环境与能源应用工程.toml#courses[5]"],"status":"mapped-current"}

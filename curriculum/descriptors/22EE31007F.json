@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EE31007F",
-  "course_code": "22EE31007F",
-  "course_name": "智能车辆环境感知技术",
-  "resource_group_id": "exact-name-82d89d605a665365",
-  "physical_repository_id": "physical-course-atomic-e2c42fb749f2642e",
-  "repo_id": "COURSES-RA-1B72ED8C2EF9",
-  "record_ids": [
-    "REC-28A39B8A2F4255DD"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/056_2022版_05_05F065S_智能网联车辆工程.toml#courses[7]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EE31007F.json",
-  "attachment_repo_id": "COURSES-RA-1B72ED8C2EF9"
-}
+{"attachment_repo_id":"COURSES-RA-1B72ED8C2EF9","course_code":"22EE31007F","course_name":"智能车辆环境感知技术","descriptor_id":"course-code:22EE31007F","metadata_path":"curriculum/descriptors/22EE31007F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-e2c42fb749f2642e","record_ids":["REC-28A39B8A2F4255DD","REC-00FD2F89F08CE48334B3","REC-C05F7276149BEF100702"],"repo_id":"COURSES-RA-1B72ED8C2EF9","resource_group_id":"exact-name-82d89d605a665365","source_paths":["curriculum://hit-data/plans/056_2022版_05_05F065S_智能网联车辆工程.toml#courses[7]"],"status":"mapped-current"}

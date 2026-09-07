@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EI33189F",
-  "course_code": "22EI33189F",
-  "course_name": "毕业论文(设计)",
-  "resource_group_id": "exact-name-8db41f88b0b6c77e",
-  "physical_repository_id": "physical-course-atomic-496e744c544c2462",
-  "repo_id": "COURSES-2656A175B646",
-  "record_ids": [
-    "REC-EAB82E173A822405"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/136_2022版_20_20F0501S_智能信息工程.toml#courses[4]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EI33189F.json",
-  "attachment_repo_id": "COURSES-2656A175B646"
-}
+{"attachment_repo_id":"COURSES-2656A175B646","course_code":"22EI33189F","course_name":"毕业论文(设计)","descriptor_id":"course-code:22EI33189F","metadata_path":"curriculum/descriptors/22EI33189F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-496e744c544c2462","record_ids":["REC-EAB82E173A822405","REC-727999318BC18D0D59FB","REC-92D12D05B97B0DFE78B0"],"repo_id":"COURSES-2656A175B646","resource_group_id":"exact-name-8db41f88b0b6c77e","source_paths":["curriculum://hit-data/plans/136_2022版_20_20F0501S_智能信息工程.toml#courses[4]"],"status":"mapped-current"}

@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22IS22005F",
-  "course_code": "22IS22005F",
-  "course_name": "工程光学(1)",
-  "resource_group_id": "engineering-optics",
-  "physical_repository_id": "physical-course-ra-f7ff65fd449b81d9",
-  "repo_id": "COURSES-RA-F7FF65FD449B",
-  "record_ids": [
-    "REC-D9FB4B7ABCFD9B5E"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/194_2022版_28_28F014_精密仪器.toml#courses[0]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22IS22005F.json",
-  "attachment_repo_id": "COURSES-RA-F7FF65FD449B"
-}
+{"attachment_repo_id":"COURSES-RA-F7FF65FD449B","course_code":"22IS22005F","course_name":"工程光学(1)","descriptor_id":"course-code:22IS22005F","metadata_path":"curriculum/descriptors/22IS22005F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-ra-f7ff65fd449b81d9","record_ids":["REC-D9FB4B7ABCFD9B5E","REC-495981BC04FC1A7DDDF6","REC-2ACC4782A0C207BE01EB","REC-D9603E2C27BF7016EEE6"],"repo_id":"COURSES-RA-F7FF65FD449B","resource_group_id":"engineering-optics","source_paths":["curriculum://hit-data/plans/194_2022版_28_28F014_精密仪器.toml#courses[0]"],"status":"mapped-current"}

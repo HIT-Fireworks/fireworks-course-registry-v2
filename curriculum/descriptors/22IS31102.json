@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22IS31102",
-  "course_code": "22IS31102",
-  "course_name": "自动控制元件",
-  "resource_group_id": "exact-name-3df4ce2a321c8036",
-  "physical_repository_id": "physical-course-atomic-4db498a4e9dbde3a",
-  "repo_id": "COURSES-RA-AE0EC9DD0D5A",
-  "record_ids": [
-    "REC-55B9AC55788C8FF2"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/190_2022版_28_28011_测控技术与仪器.toml#courses[49]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22IS31102.json",
-  "attachment_repo_id": "COURSES-RA-AE0EC9DD0D5A"
-}
+{"attachment_repo_id":"COURSES-RA-AE0EC9DD0D5A","course_code":"22IS31102","course_name":"自动控制元件","descriptor_id":"course-code:22IS31102","metadata_path":"curriculum/descriptors/22IS31102.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-4db498a4e9dbde3a","record_ids":["REC-55B9AC55788C8FF2","REC-30A5C670D24935F641DC","REC-7B30B982E33E71B7074F","REC-69FAB15B41B7ACBDD6FC","REC-D4BEA73885DE09CEC59A","REC-D0DA9F2AD93BB1AA155D","REC-D11D046C18BD5F86BA71","REC-4AC5B3CAA465A4CF3F10","REC-D661A929425508B6D93B","REC-353DF4EBB9AA502128C8","REC-74277923CC6B7164354A","REC-965E4A4233C59FD9A748","REC-CD03CF38F8D5267D72C2","REC-711DE42244BA7161DE12","REC-AE6E066DCACFE29B7EC8","REC-D0A54859AC4762B67E63","REC-2BCBF7C2DC6F067DA28B"],"repo_id":"COURSES-RA-AE0EC9DD0D5A","resource_group_id":"exact-name-3df4ce2a321c8036","source_paths":["curriculum://hit-data/plans/190_2022版_28_28011_测控技术与仪器.toml#courses[49]"],"status":"mapped-current"}

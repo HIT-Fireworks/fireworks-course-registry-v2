@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22PH31005F",
-  "course_code": "22PH31005F",
-  "course_name": "信息光学",
-  "resource_group_id": "exact-name-9c0723e695254904",
-  "physical_repository_id": "physical-course-ra-32060093741d40fd",
-  "repo_id": "COURSES-RA-32060093741D",
-  "record_ids": [
-    "REC-8B64FC4597529C0C"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/200_2022版_32_32F114_光电信息科学与工程.toml#courses[6]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22PH31005F.json",
-  "attachment_repo_id": "COURSES-RA-32060093741D"
-}
+{"attachment_repo_id":"COURSES-RA-32060093741D","course_code":"22PH31005F","course_name":"信息光学","descriptor_id":"course-code:22PH31005F","metadata_path":"curriculum/descriptors/22PH31005F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-ra-32060093741d40fd","record_ids":["REC-8B64FC4597529C0C","REC-5DC6EC80FAE184DE5CB2","REC-526F304A57C9602AF261"],"repo_id":"COURSES-RA-32060093741D","resource_group_id":"exact-name-9c0723e695254904","source_paths":["curriculum://hit-data/plans/200_2022版_32_32F114_光电信息科学与工程.toml#courses[6]"],"status":"mapped-current"}

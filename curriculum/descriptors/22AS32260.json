@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22AS32260",
-  "course_code": "22AS32260",
-  "course_name": "计算方法",
-  "resource_group_id": "exact-name-cf2bbfa73d373e9f",
-  "physical_repository_id": "physical-course-atomic-d21079c35223ce1d",
-  "repo_id": "COURSES-RA-460A910D00CC",
-  "record_ids": [
-    "REC-5D5C93C058444133"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/107_2022版_01_01187_工程力学（强基计划）.toml#courses[39]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22AS32260.json",
-  "attachment_repo_id": "COURSES-RA-460A910D00CC"
-}
+{"attachment_repo_id":"COURSES-RA-460A910D00CC","course_code":"22AS32260","course_name":"计算方法","descriptor_id":"course-code:22AS32260","metadata_path":"curriculum/descriptors/22AS32260.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-d21079c35223ce1d","record_ids":["REC-5D5C93C058444133","REC-DB9E963939C6DC4F3704","REC-3C6466582A5CD68E3637","REC-6CD26699988111C7703C"],"repo_id":"COURSES-RA-460A910D00CC","resource_group_id":"exact-name-cf2bbfa73d373e9f","source_paths":["curriculum://hit-data/plans/107_2022版_01_01187_工程力学（强基计划）.toml#courses[39]"],"status":"mapped-current"}

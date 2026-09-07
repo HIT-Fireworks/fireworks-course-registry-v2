@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22TS33407",
-  "course_code": "22TS33407",
-  "course_name": "交通工程设计课程设计",
-  "resource_group_id": "exact-name-168aaf62f8e2481e",
-  "physical_repository_id": "physical-course-atomic-7d871d46904b9ccb",
-  "repo_id": "COURSES-RA-22604B84C175",
-  "record_ids": [
-    "REC-B065E05371C4B8E3"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/095_2022版_12_12322_交通工程.toml#courses[63]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22TS33407.json",
-  "attachment_repo_id": "COURSES-RA-22604B84C175"
-}
+{"attachment_repo_id":"COURSES-RA-22604B84C175","course_code":"22TS33407","course_name":"交通工程设计课程设计","descriptor_id":"course-code:22TS33407","metadata_path":"curriculum/descriptors/22TS33407.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-7d871d46904b9ccb","record_ids":["REC-B065E05371C4B8E3","REC-0CAFD870737B3DA2E719","REC-AC399766018F68BFD7C5"],"repo_id":"COURSES-RA-22604B84C175","resource_group_id":"exact-name-168aaf62f8e2481e","source_paths":["curriculum://hit-data/plans/095_2022版_12_12322_交通工程.toml#courses[63]"],"status":"mapped-current"}

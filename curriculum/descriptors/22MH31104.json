@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22MH31104",
-  "course_code": "22MH31104",
-  "course_name": "计算生物学",
-  "resource_group_id": "exact-name-ca2729c45486ec2b",
-  "physical_repository_id": "physical-course-atomic-8fdee15683baa619",
-  "repo_id": "COURSES-CE4133CBE869",
-  "record_ids": [
-    "REC-0712C03F90B42B9C"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/178_2022版_37_370341_生物信息学.toml#courses[46]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22MH31104.json",
-  "attachment_repo_id": "COURSES-CE4133CBE869"
-}
+{"attachment_repo_id":"COURSES-CE4133CBE869","course_code":"22MH31104","course_name":"计算生物学","descriptor_id":"course-code:22MH31104","metadata_path":"curriculum/descriptors/22MH31104.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-8fdee15683baa619","record_ids":["REC-0712C03F90B42B9C","REC-E3E60FF793CA916238C2","REC-0A959AC307888136CDE5","REC-67AE4BFD8173E57475B6"],"repo_id":"COURSES-CE4133CBE869","resource_group_id":"exact-name-ca2729c45486ec2b","source_paths":["curriculum://hit-data/plans/178_2022版_37_370341_生物信息学.toml#courses[46]"],"status":"mapped-current"}

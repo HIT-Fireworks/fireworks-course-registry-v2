@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22HS22301F",
-  "course_code": "22HS22301F",
-  "course_name": "法理学",
-  "resource_group_id": "name-family-9e69074a79bfc61a",
-  "physical_repository_id": "physical-course-ra-c1fbeaa0e488ff8a",
-  "repo_id": "COURSES-RA-C1FBEAA0E488",
-  "record_ids": [
-    "REC-598F4267CD98988B"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/175_2022版_35_35F242_法学.toml#courses[0]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22HS22301F.json",
-  "attachment_repo_id": "COURSES-RA-C1FBEAA0E488"
-}
+{"attachment_repo_id":"COURSES-RA-C1FBEAA0E488","course_code":"22HS22301F","course_name":"法理学","descriptor_id":"course-code:22HS22301F","metadata_path":"curriculum/descriptors/22HS22301F.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-ra-c1fbeaa0e488ff8a","record_ids":["REC-598F4267CD98988B","REC-40E0E8BB5212B1AA627A","REC-9855D3BAAA719C52E39D","REC-4E89B6EF0CF8807264D0","REC-77F722700F3806DB63B9"],"repo_id":"COURSES-RA-C1FBEAA0E488","resource_group_id":"name-family-9e69074a79bfc61a","source_paths":["curriculum://hit-data/plans/175_2022版_35_35F242_法学.toml#courses[0]"],"status":"mapped-current"}

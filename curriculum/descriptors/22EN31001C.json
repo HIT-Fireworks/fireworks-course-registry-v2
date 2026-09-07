@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22EN31001C",
-  "course_code": "22EN31001C",
-  "course_name": "医学生物技术安全",
-  "resource_group_id": "exact-name-7b2dff6618006990",
-  "physical_repository_id": "physical-course-atomic-7109ade39c57c305",
-  "repo_id": "COURSES-RA-FBDE6370AF65",
-  "record_ids": [
-    "REC-68F164CC7F96D308"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/142_2022版_27_27274_环境生态工程（鲍曼合作办学）.toml#courses[69]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22EN31001C.json",
-  "attachment_repo_id": "COURSES-RA-FBDE6370AF65"
-}
+{"attachment_repo_id":"COURSES-RA-FBDE6370AF65","course_code":"22EN31001C","course_name":"医学生物技术安全","descriptor_id":"course-code:22EN31001C","metadata_path":"curriculum/descriptors/22EN31001C.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-7109ade39c57c305","record_ids":["REC-68F164CC7F96D308"],"repo_id":"COURSES-RA-FBDE6370AF65","resource_group_id":"exact-name-7b2dff6618006990","source_paths":["curriculum://hit-data/plans/142_2022版_27_27274_环境生态工程（鲍曼合作办学）.toml#courses[69]"],"status":"mapped-current"}

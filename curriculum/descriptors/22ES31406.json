@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22ES31406",
-  "course_code": "22ES31406",
-  "course_name": "核动力系统与设备I",
-  "resource_group_id": "exact-name-8aa9750f00dbf272",
-  "physical_repository_id": "physical-course-atomic-74435dd3bcdd0243",
-  "repo_id": "COURSES-FABC2915B57C",
-  "record_ids": [
-    "REC-F7C903F99E5AEB4C"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/020_2022版_04_04025_核工程与核技术.toml#courses[49]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22ES31406.json",
-  "attachment_repo_id": "COURSES-FABC2915B57C"
-}
+{"attachment_repo_id":"COURSES-FABC2915B57C","course_code":"22ES31406","course_name":"核动力系统与设备I","descriptor_id":"course-code:22ES31406","metadata_path":"curriculum/descriptors/22ES31406.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-74435dd3bcdd0243","record_ids":["REC-F7C903F99E5AEB4C","REC-084A6511DA6484A3CCC6","REC-73CF95FB76AC435978FD","REC-F56F72482E8EA62FE2EA","REC-B6CA2B6CE97B8562F680"],"repo_id":"COURSES-FABC2915B57C","resource_group_id":"exact-name-8aa9750f00dbf272","source_paths":["curriculum://hit-data/plans/020_2022版_04_04025_核工程与核技术.toml#courses[49]"],"status":"mapped-current"}

@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22MS31807",
-  "course_code": "22MS31807",
-  "course_name": "光纤基础",
-  "resource_group_id": "exact-name-2734a6a282332078",
-  "physical_repository_id": "physical-course-atomic-8a45d0fa46165dbc",
-  "repo_id": "COURSES-RA-6217E115199B",
-  "record_ids": [
-    "REC-7A24DDB0C4E5CEC0"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/031_2022版_03_03443_光电信息材料与器件.toml#courses[42]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22MS31807.json",
-  "attachment_repo_id": "COURSES-RA-6217E115199B"
-}
+{"attachment_repo_id":"COURSES-RA-6217E115199B","course_code":"22MS31807","course_name":"光纤基础","descriptor_id":"course-code:22MS31807","metadata_path":"curriculum/descriptors/22MS31807.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-8a45d0fa46165dbc","record_ids":["REC-7A24DDB0C4E5CEC0","REC-B42A5C1CADA17FF3C3BD","REC-069333CE90BF6D1F5445","REC-108A3E89B30A41A142DD","REC-5DB23124C195CF5B7CEB"],"repo_id":"COURSES-RA-6217E115199B","resource_group_id":"exact-name-2734a6a282332078","source_paths":["curriculum://hit-data/plans/031_2022版_03_03443_光电信息材料与器件.toml#courses[42]"],"status":"mapped-current"}

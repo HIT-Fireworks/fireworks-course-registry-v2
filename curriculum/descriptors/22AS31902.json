@@ -1,18 +1,1 @@
-{
-  "descriptor_id": "course-code:22AS31902",
-  "course_code": "22AS31902",
-  "course_name": "红外辐射与计量",
-  "resource_group_id": "exact-name-7875eed58fd40f2b",
-  "physical_repository_id": "physical-course-atomic-d21079c35223ce1d",
-  "repo_id": "COURSES-RA-460A910D00CC",
-  "record_ids": [
-    "REC-FD0AD20B7D9C9E45"
-  ],
-  "source_paths": [
-    "curriculum://hit-data/plans/109_2022版_01_01213_光电信息科学与工程(光学工程方向).toml#courses[45]"
-  ],
-  "status": "mapped",
-  "metadata_repo_id": "fireworks-course-registry-v2",
-  "metadata_path": "curriculum/descriptors/22AS31902.json",
-  "attachment_repo_id": "COURSES-RA-460A910D00CC"
-}
+{"attachment_repo_id":"COURSES-RA-460A910D00CC","course_code":"22AS31902","course_name":"红外辐射与计量","descriptor_id":"course-code:22AS31902","metadata_path":"curriculum/descriptors/22AS31902.json","metadata_repo_id":"fireworks-course-registry-v2","physical_repository_id":"physical-course-atomic-d21079c35223ce1d","record_ids":["REC-FD0AD20B7D9C9E45","REC-5E91D14A85299BBF03EA","REC-292D0C72130F257BCEDE","REC-1F39EC312B409E519FE8","REC-ADBD95FDD5E38EBE0A29"],"repo_id":"COURSES-RA-460A910D00CC","resource_group_id":"exact-name-7875eed58fd40f2b","source_paths":["curriculum://hit-data/plans/109_2022版_01_01213_光电信息科学与工程(光学工程方向).toml#courses[45]"],"status":"mapped-current"}
