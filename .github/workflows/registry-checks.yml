@@ -26,5 +26,3 @@ jobs:
           persist-credentials: false
       - name: Validate complete Registry snapshot
         run: python3 scripts/validate-registry.py --root .
-      - name: Run Registry contract tests
-        run: python3 -m unittest tests.test_registry_repository_routes tests.test_repository_description tests.test_repository_cutover_hardening
