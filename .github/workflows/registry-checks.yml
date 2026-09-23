@@ -19,10 +19,12 @@ concurrency:
 jobs:
   integrity:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v6
         with:
           persist-credentials: false
       - name: Validate complete Registry snapshot
         run: python3 scripts/validate-registry.py --root .
+      - name: Run Registry contract tests
+        run: python3 -m unittest tests.test_registry_repository_routes tests.test_repository_description tests.test_repository_cutover_hardening
